@@ -1,0 +1,7 @@
+---
+layout: post
+title: Rose Kemp - Violence
+created: 1160586697
+---
+This is one of the best singles I've heard all year, from the quiet, delicate passages to the ear splittingly overdriven choruses of Violence, to the heartfelt orchestra backed Morning Music and the beautiful harmonies on Tiny Flower, an amazing single that shows the brilliant diverse talent of a promising artist.<p><a href='http://www.rosekemp.co.uk' target='_blank'>www.rosekemp.co.uk</a>
+<p>Published in Maps Magazine</p>

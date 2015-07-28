@@ -1,0 +1,6 @@
+---
+layout: post
+title: Talking at Web Directions Code
+created: 1366412354
+---
+<p>I am honoured, happy and excited to have been asked to speak at a Web Directions event, <a href="http://code13melb.webdirections.org/" target="_blank">Web Directions Code</a>, here in Melbourne on the 2nd and 3rd of May.</p><p>I am talking on how to debug and test your mobile web apps, somehow squeezing all I know into 15 minutes, it&#39;s going to be fun!</p>

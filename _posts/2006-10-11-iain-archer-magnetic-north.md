@@ -1,0 +1,7 @@
+---
+layout: post
+title: Iain Archer - Magnetic North
+created: 1160586357
+---
+A difficult album to review, it starts with a handful of beautifully crafted songs, resplendent in gentle guitar picking and breathy vocals. Then some rockier numbers with awesome jagged guitars, then it all gets a little dull and my attention is lost and distracted to other things. A great shame, it starts so well.<p><a href='http://www.iainarcher.co.uk' target='_blank'>www.iainarcher.co.uk</a>
+<p>Published in Unpublished</p>
