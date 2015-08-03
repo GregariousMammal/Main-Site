@@ -1,26 +1,27 @@
-#menu {
+  #menu {
   font-size: $tiny-font-size;
-  padding:0;
-
-  ul {
+  padding: 0;
+  padding-top: 120px;
+  width: 20%;
+  float: left;
+  position: fixed;
+  .menu,
+  .menu ul {
     margin: 0;
     padding: 0;
     list-style: none;
-    //TODO: This shouldn't be
-    max-width: 200px;
   }
 
-  ul {
-    margin-left: 1em; /* indentation */
+  .menu ul {
+    margin-left: 2.5em; /* indentation */
     position: relative;
   }
 
-  ul ul {
+  .menu ul ul {
     margin-left: .5em
   }
-  /* (indentation/2) */
 
-  ul:before {
+  .menu ul:before {
     content: "";
     display: block;
     width: 0;
@@ -31,16 +32,28 @@
     border-left: 1px solid;
   }
 
-  li {
+  .menu li {
     margin: 0;
     padding: 0; /* indentation */
-    line-height: 2em; /* default list item's `line-height` */
+    line-height: $base-line-height; /* default list item's `line-height` */
     color: #369;
     font-weight: bold;
     position: relative;
+
+    a {
+      display: block;
+      padding: 3px 20px;
+      line-height: $base-line-height;
+      color: #333333;
+    }
+    ul {
+      li {
+        font-weight: normal;
+      }
+    }
   }
 
-  ul li:before {
+  .menu ul li:before {
     content: "";
     display: block;
     width: 13px; /* same with indentation */
@@ -51,11 +64,10 @@
     top: 1em; /* (line-height/2) */
     left: 0;
   }
+}
 
-  ul li:last-child:before {
-    background: white; /* same with body background */
-    height: auto;
-    top: 1em; /* (line-height/2) */
-    bottom: 0;
-  }
+@include media-query($on-palm) {
+#menu {
+  display: none;
+}
 }
