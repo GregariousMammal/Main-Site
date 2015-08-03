@@ -3,20 +3,24 @@ layout: default
 ---
 
 <div class="home">
+  {% include index_intro.html %}
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Latest Updates</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
     <li>
       {% if post.image %}
-      {% picture smallscreen {{post.image}} alt="{{post.title}}" %}
+      {% picture listings {{post.image}} alt="{{post.title}}" %}
       {% endif %}
       <h2>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
       {{ post.excerpt }}
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+      {% if post.categories %}
+      {% include category_block.html %}
+      {% endif %}
     </li>
     {% endfor %}
   </ul>
