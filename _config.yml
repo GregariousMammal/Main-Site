@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gregariousmammal.com" # the base hostname & protocol for your site
 twitter_username: chrischinch
 github_username:  chrischinchilla
-
+permalink: none
 
 picture:
   source: /images
@@ -52,6 +52,17 @@ picture:
         # height: 200
       source_default:
         width: 100
+    listings:
+      ppi: [1, 1.5, 2]
+      attr:
+        class: listings
+        itemprop: image
+      source_medium:
+        media: "(min-width: 40em)"
+        width: 75
+        # height: 200
+      source_default:
+        width: 75
 
 # Build settings
 markdown: redcarpet
