@@ -2,7 +2,7 @@
 layout: post
 title: Lincolnshire
 created: 1312187610
-images: critcalmasslincoln.jpg 
+images: critcalmasslincoln.jpg lincoln.jpg lincolncheese.jpg lincolnbeer.jpg
 
 
 category: chrischinchilla writing travel
