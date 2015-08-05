@@ -2,7 +2,7 @@
 layout: post
 title: Skegness wind farm
 created: 1313092211
-image: skegness.jpg
+image: skegness.jpg skeg1.jpg skeg2.jpg
 category chrischinchilla writing travel 
 
 ---
