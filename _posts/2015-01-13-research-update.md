@@ -2,6 +2,8 @@
 layout: post
 title: Research Update
 created: 1421138317
+image: videogamesinthebeginning.jpg
+categories: writing chipshop
 ---
 I spent Christmas undertaking some more general board game theory and computer history research, this has been helped by a slew of book bundles over the last month covering the topic.
 
