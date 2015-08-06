@@ -3,4 +3,22 @@ layout: post
 title: Illustrating One Day the World Ended
 created: 1421250716
 ---
-<h1 id="illustrating-one-day-the-world-ended"><span style="font-size: 13.0080003738403px; font-weight: normal; line-height: 1.538em;">After visiting the Tate Modern over Christmas and seeing these two images (I&#39;ve forgotten the artist):</span></h1><p>[[{"type":"media","view_mode":"media_large","fid":"132","attributes":{"alt":"","class":"media-image","style":"width: 480px; height: 348px; margin: 4px;"}}]][[{"type":"media","view_mode":"media_large","fid":"133","attributes":{"alt":"","class":"media-image","style":"width: 480px; height: 362px; margin: 4px;"}}]]</p><p>I came up with the idea of having illustrations accompanying the text in ODTWE. I&#39;m not the best illustrator, but enjoy drawing and have been pondering on what form these illustrations could take and looking into inspiration for them.</p><p>So today I took a trip to the monthly free day at <a href="http://www.mdbk.de/">Leipzig&#39;s Museum of Modern Art</a> to get some ideas and inspiration.</p><p>Here are my notes and visual doodling:</p><p>[[{"type":"media","view_mode":"media_large","fid":"134","attributes":{"alt":"","class":"media-image","style":"width: 360px; height: 480px; margin: 4px;"}}]][[{"type":"media","view_mode":"media_large","fid":"135","attributes":{"alt":"","class":"media-image","height":"480","width":"360"}}]]</p><p>I doubt you can read or see much there, so here are some of my ideas summarised.</p><ul><li>Various images of recurring themes in images of Jesus such as Stigmata, a Crown of Thorns, a Beard, a Forlorn look, his robe and bare feet. Occasionally you see a halo, wounds in his side and blood.</li><li>Explorations on different styles I could experiment with such as Grotesque, Exaggeration, Over Simplification, Vague shapes, Rigidity, Collage and Abstraction.</li></ul><p>Overall I want images that not only match the themes and stories but have an element of me and the current era and culture in them. To me this currently means:</p><ul><li>Uncertainty</li><li>Distance</li><li>The Enemy Within</li></ul><p>But I&#39;m not sure if any of those concepts suit the style of the text.</p><p>These are just ideas right now and I have a few other paths to investigate.</p>
+<h1 id="illustrating-one-day-the-world-ended"><span style="font-size: 13.0080003738403px; font-weight: normal; line-height: 1.538em;">After visiting the Tate Modern over Christmas and seeing these two images (I&#39;ve forgotten the artist):</span></h1>
+
+[[{"type":"media","view_mode":"media_large","fid":"132","attributes":{"alt":"","class":"media-image","style":"width: 480px; height: 348px; margin: 4px;"}}]][[{"type":"media","view_mode":"media_large","fid":"133","attributes":{"alt":"","class":"media-image","style":"width: 480px; height: 362px; margin: 4px;"}}]]
+
+I came up with the idea of having illustrations accompanying the text in ODTWE. I&#39;m not the best illustrator, but enjoy drawing and have been pondering on what form these illustrations could take and looking into inspiration for them.
+
+So today I took a trip to the monthly free day at <a href="http://www.mdbk.de/">Leipzig&#39;s Museum of Modern Art</a> to get some ideas and inspiration.
+
+Here are my notes and visual doodling:
+
+[[{"type":"media","view_mode":"media_large","fid":"134","attributes":{"alt":"","class":"media-image","style":"width: 360px; height: 480px; margin: 4px;"}}]][[{"type":"media","view_mode":"media_large","fid":"135","attributes":{"alt":"","class":"media-image","height":"480","width":"360"}}]]
+
+I doubt you can read or see much there, so here are some of my ideas summarised.<ul><li>Various images of recurring themes in images of Jesus such as Stigmata, a Crown of Thorns, a Beard, a Forlorn look, his robe and bare feet. Occasionally you see a halo, wounds in his side and blood.</li><li>Explorations on different styles I could experiment with such as Grotesque, Exaggeration, Over Simplification, Vague shapes, Rigidity, Collage and Abstraction.</li></ul>
+
+Overall I want images that not only match the themes and stories but have an element of me and the current era and culture in them. To me this currently means:<ul><li>Uncertainty</li><li>Distance</li><li>The Enemy Within</li></ul>
+
+But I&#39;m not sure if any of those concepts suit the style of the text.
+
+These are just ideas right now and I have a few other paths to investigate.
