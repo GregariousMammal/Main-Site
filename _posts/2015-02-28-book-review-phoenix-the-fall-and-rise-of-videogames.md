@@ -2,12 +2,12 @@
 layout: post
 title: 'Book Review - Phoenix: The Fall & Rise of Videogames'
 created: 1425131639
+categories: games chipshop
 ---
 
+**Phoenix: The Fall & Rise of Videogames by Leonard Herman**
 
-<strong>Phoenix: The Fall &amp; Rise of Videogames by Leonard Herman</strong>
-
-I picked this book up as part of a book bundle somewhere, but escapes me with one right now. It&rsquo;s timing was perfect as research for the development of Chip Shop as it covers the history of video games from 1970 up to the year 2000.
+I picked this book up as part of a book bundle somewhere, but escapes me with one right now. It’s timing was perfect as research for the development of Chip Shop as it covers the history of video games from 1970 up to the year 2000.
 
 The writing quality is average, which is typical of this style of book written by an (obvious) enthusiast. Each year gets its own chapter and occasionally reads like a collection of essays as topics are sometimes repeated in different chapters.
 
@@ -15,4 +15,4 @@ In terms of content, the book is phenomenal. I think you would struggle to find 
 
 If you are a fan of video games from any era since their inception then consider picking up a copy and lose yourself in a wonderful history lesson.
 
-<a href="http://www.amazon.com/gp/product/0964384825/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=0964384825&amp;linkCode=as2&amp;tag=gregamamma-20&amp;linkId=LR4PZBSD5ERXULIE">Buy a copy here from Amazon</a><img alt="" border="0" height="1" src="http://ir-na.amazon-adsystem.com/e/ir?t=gregamamma-20&amp;l=as2&amp;o=1&amp;a=0964384825" style="border:none !important; margin:0px !important;" width="1" /> and earn me a few cents to!
+[Buy a copy here from Amazon](http://www.amazon.com/gp/product/0964384825/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0964384825&linkCode=as2&tag=gregamamma-20&linkId=LR4PZBSD5ERXULIE)<img alt="" border="0" height="1" src="http://ir-na.amazon-adsystem.com/e/ir?t=gregamamma-20&l=as2&o=1&a=0964384825" style="border:none !important; margin:0px !important;" width="1" /> and earn me a few cents to!

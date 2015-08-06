@@ -2,10 +2,10 @@
 layout: post
 title: Core game concepts introduced
 created: 1416486187
+categories: games chipshop
 ---
 
-
-Along side getting the Chip Shop website online (needing a lot&nbsp;more&nbsp;work of course!) I have started defining the core game concepts, i.e. what you are aiming to do in&nbsp;the&nbsp;the&nbsp;game and what components will help you&nbsp;achieve&nbsp;this. I have also spent some time trawling through 80s US computer history pulling out products, personalities and events that will form the game cards.
+Along side getting the Chip Shop website online (needing a lot more work of course!) I have started defining the core game concepts, i.e. what you are aiming to do in the the game and what components will help you achieve this. I have also spent some time trawling through 80s US computer history pulling out products, personalities and events that will form the game cards.
 
 Read more on the <a href="http://chipshopgame.com/" target="_blank">Chip Shop website</a>.
 

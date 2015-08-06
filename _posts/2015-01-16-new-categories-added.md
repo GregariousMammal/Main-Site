@@ -2,7 +2,9 @@
 layout: post
 title: New Categories added
 created: 1421395032
+categories: writing leantraveller
 ---
+
 I added a set of new categories and related resources to the Lean Traveller site yesterday including [Communication](http://theleantraveller.com/communication), [travel](http://theleantraveller.com/travel) and some resources under [archiving](http://theleantraveller.com/archiving).
 
 I reorganised the category structure somewhat and updated my Scrivener project set up to reflect these changes and better move forward with new topics and those in progress.

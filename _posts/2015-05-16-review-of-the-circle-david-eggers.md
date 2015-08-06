@@ -1,8 +1,7 @@
 ---
 layout: post
 title: Review of The Circle by David Eggers
-created: null
-categories: writing onedaytheworldended
+categories: writing odtwe
 image: the-circle-eggers.jpg
 ---
 
