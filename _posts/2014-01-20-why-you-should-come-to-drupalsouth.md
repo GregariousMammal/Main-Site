@@ -2,7 +2,7 @@
 layout: post
 title: Why you should come to DrupalSouth
 created: 1390198067
-categories: writing presentation
+categories: writing presentations
 ---
 
 A slightly silly presentation I gave at the last Drupal Melbourne...
