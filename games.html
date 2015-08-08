@@ -3,12 +3,11 @@ layout: default
 ---
 
 <div class="home">
-  {% include index_intro.html %}
 
   <h1 class="page-heading">Latest Updates</h1>
 
   <ul class="post-list">
-    {% for post in site.posts limit:15%}
+    {% for post in site.categories.games limit:15%}
     <li>
       {% if post.image %}
       {% picture listings {{post.image}} alt="{{post.title}}" %}

@@ -5,8 +5,6 @@ created: 1421070691
 categories: writing odtwe
 ---
 
-**What is "One Day the World Ended"? Or what does it aim to be?**
-
 I guess most of its stylistic inspiration comes from Kurt Vonnegut and to a lesser extent surreal dark British comedy such as Douglas Adams. It is about the end of the world, but that isn't the point, it's just a vehicle. The fact that the world is ending isn't relevant, it's merely a surreal vehicle to explore elements of the human condition. Wow, that last sentence sounded pretentious!
 
 Dismissing this major and significant event is intentional and draws inspiration from a strange book that I read some time ago (title forgotten) about a group of walking, talking dogs arriving in New York. Initially they were a novelty, but rapidly became 'yesterdays news' and I feel that this is sadly accurate for a lot of potentially major events in humanity. Most of us would have moved on to the next issue within a week and not really know what to do aside from what we normally do.

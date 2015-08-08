@@ -1,14 +1,15 @@
 ---
 layout: default
+permalink: games/chipshop.html
 ---
 
 <div class="home">
-  {% include index_intro.html %}
 
   <h1 class="page-heading">Latest Updates</h1>
-
   <ul class="post-list">
-    {% for post in site.posts limit:15%}
+    {% for post in site.categories.games limit:15%}
+    {% if post.categories[1] == 'chipshop' %}
+
     <li>
       {% if post.image %}
       {% picture listings {{post.image}} alt="{{post.title}}" %}
@@ -22,6 +23,8 @@ layout: default
       {% include category_block.html %}
       {% endif %}
     </li>
+    {% endif %}
+
     {% endfor %}
   </ul>
 
