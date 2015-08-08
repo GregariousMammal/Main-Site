@@ -2,6 +2,8 @@
 layout: post
 title: Review of The Iron Heel by Jack London
 created: 1422961033
+image: the-iron-heel.png
+categories: writing odtwe
 ---
 As part of my research in writing ODTWE I have been reading some classics of utopian and dystopian fiction. Most recently I completed Jack London’s The Iron Heel.
 
