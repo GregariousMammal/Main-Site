@@ -10,6 +10,7 @@ url: "http://gregariousmammal.com" # the base hostname & protocol for your site
 twitter_username: chrischinch
 github_username:  chrischinchilla
 permalink: none
+comments: true
 
 picture:
   source: /images
