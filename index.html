@@ -8,7 +8,7 @@ layout: default
   <h1 class="page-heading">Latest Updates</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit:15%}
     <li>
       {% if post.image %}
       {% picture listings {{post.image}} alt="{{post.title}}" %}

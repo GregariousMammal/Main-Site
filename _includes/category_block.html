@@ -1,10 +1,16 @@
 <span class="project_block">
 From the
 {% case post.categories[1] %}
-{% when 'onedaytheworldended' %}
-<a href="#">One Day the World Ended</a>
+{% when 'odtwe' %}
+<a href="writing/odtwe.html">One Day the World Ended</a>
 {% when 'chipshop' %}
-<a href="#">Chip Shop</a>
+<a href="games/chipshop.html">Chip Shop</a>
+{% when 'leantraveller' %}
+<a href="writing/leantraveller.html">Lean Traveller</a>
+{% when 'chrischinchilla' %}
+<a href="writing/chrischinchilla.html">Chris Chinchilla</a>
+{% when 'presentations' %}
+<a href="writing/presentations.html">Presentations</a>
 {% else %}
 Something Else
 {% endcase %}

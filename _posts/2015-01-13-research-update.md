@@ -5,6 +5,7 @@ created: 1421138317
 image: videogamesinthebeginning.jpg
 categories: writing chipshop
 ---
+
 I spent Christmas undertaking some more general board game theory and computer history research, this has been helped by a slew of book bundles over the last month covering the topic.
 
 First I read [this post on Tuts+ covering Board Game Design](http://gamedevelopment.tutsplus.com/articles/how-to-learn-board-game-design-and-development--gamedev-11607). It was a good introductory read and the main points I took note of were the following.

@@ -1,0 +1,33 @@
+---
+layout: default
+permalink: writing/leantraveller.html
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Latest Updates</h1>
+  <ul class="post-list">
+    {% for post in site.categories.writing limit:15%}
+    {% if post.categories[1] == 'leantraveller' %}
+
+    <li>
+      {% if post.image %}
+      {% picture listings {{post.image}} alt="{{post.title}}" %}
+      {% endif %}
+      <h2>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      {{ post.excerpt }}
+      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+      {% if post.categories %}
+      {% include category_block.html %}
+      {% endif %}
+    </li>
+    {% endif %}
+
+    {% endfor %}
+  </ul>
+
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

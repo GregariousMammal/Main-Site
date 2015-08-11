@@ -2,5 +2,29 @@
 layout: post
 title: Long Distance Call - Creative Writing (Sketch)
 created: 1211753475
+categories: writing chrischinchilla creative
 ---
-<p><em>Phone on table, centre stage. Phone rings. </em></p><p>X : <i>(Enters from Stage L, Answers phone)</i> Hello?<br /><span style="line-height: 1.538em;">Y : Hello.</span><br /><span style="line-height: 1.538em;">X : Who&#39;s this?</span><br /><span style="line-height: 1.538em;">Y : Oh yes, sorry, God here. How are you?</span><br /><span style="line-height: 1.538em;">X : Fine thanks.</span><br /><span style="line-height: 1.538em;">Y : Good. Is life alright?</span><br /><span style="line-height: 1.538em;">X : Yeah, no complaints.</span><br /><span style="line-height: 1.538em;">Y : No faults or problems, or complaints?</span><br /><span style="line-height: 1.538em;">X : No, not really, none that I can think of.</span><br /><span style="line-height: 1.538em;">Y : Good, marvellous. Ok, goodbye then.</span><br /><span style="line-height: 1.538em;">X : Bye.</span></p><p><i style="line-height: 1.538em;"><span lang="EN-GB">Phone down, X leaves the stage at Stage L.</span></i></p>
+
+_Phone on table, centre stage. Phone rings._
+
+X : <i>(Enters from Stage L, Answers phone)</i> Hello?<br />Y : Hello.
+
+X : Who's this?
+
+Y : Oh yes, sorry, God here. How are you?
+
+X : Fine thanks.
+
+Y : Good. Is life alright?
+
+X : Yeah, no complaints.
+
+Y : No faults or problems, or complaints?
+
+X : No, not really, none that I can think of.
+
+Y : Good, marvellous. Ok, goodbye then.
+
+X : Bye.
+
+<i>Phone down, X leaves the stage at Stage L.</i>
