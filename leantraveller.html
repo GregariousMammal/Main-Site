@@ -6,30 +6,32 @@ permalink: writing/leantraveller.html
 <div class="home">
 
   <h1 class="page-heading">Latest Updates</h1>
-  <ul class="post-list">
-    {% for post in site.categories.writing limit:15%}
-    {% if post.categories[1] == 'leantraveller' %}
 
-    <li>
-      {% if post.image %}
-      {% picture listings {{post.image}} alt="{{post.title}}" %}
-      {% endif %}
-      <h2>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      {{ post.excerpt }}
-      <div class="post-meta">
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-        {% if post.categories %}
-        {% include category_block.html %}
+  <section>
+    <ul class="post-list">
+      {% for post in site.categories.writing limit:15%}
+      {% if post.categories[1] == 'leantraveller' %}
+
+      <li>
+        {% if post.image %}
+        {% picture listings {{post.image}} alt="{{post.title}}" %}
         {% endif %}
-      </div>
-    </li>
-    {% endif %}
+        <h2>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {{ post.excerpt }}
+        <div class="post-meta">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+          {% if post.categories %}
+          {% include category_block.html %}
+          {% endif %}
+        </div>
+      </li>
+      {% endif %}
 
-    {% endfor %}
-  </ul>
-
+      {% endfor %}
+    </ul>
+  </section>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
