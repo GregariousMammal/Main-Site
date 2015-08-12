@@ -44,6 +44,17 @@ picture:
       source_default:
         #width: 300
         height: 200
+    article:
+      ppi: [1, 1.5, 2]
+      attr:
+        class: medium-screen
+        itemprop: image
+      source_medium:
+        media: "(min-width: 40em)"
+        width: 200
+        # height: 200
+      source_default:
+        width: 200
     mediumscreen:
       ppi: [1, 1.5, 2]
       attr:

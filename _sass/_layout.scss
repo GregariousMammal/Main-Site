@@ -271,6 +271,10 @@ h1 {
     font-size: $base-font-size * 1.15;
   }
 }
+aside.image {
+  float:left;
+  padding-right: $spacing-unit / 2;
+}
 
 .post-content {
   margin-bottom: $spacing-unit;
