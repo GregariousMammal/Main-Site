@@ -18,10 +18,12 @@ permalink: software/aah.html
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
       </h2>
       {{ post.excerpt }}
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-      {% if post.categories %}
-      {% include category_block.html %}
-      {% endif %}
+      <div class="post-meta">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+        {% if post.categories %}
+        {% include category_block.html %}
+        {% endif %}
+      </div>
     </li>
     {% endif %}
 

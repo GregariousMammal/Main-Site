@@ -202,56 +202,58 @@
   }
 }
 
-.page-heading {
-  font-size: 20px;
-}
-
-.post-list {
-  margin-left: 0;
-  list-style: none;
-  h2 {
-    @extend .headings;
-    text-align: left;
-    margin-left: 165px;
-    font-size: $base-font-size * 1.5;
-    a {
-      color: $text-color;
-    }
-  }
-  > li {
-    margin-bottom: $spacing-unit;
-    border-top: 1px solid #dddddd;
-    padding-top: $spacing-unit;
-    .project_block {
-      font-size: $base-font-size / 2;
-      display: inline-block;
-      font-style: italic;
-      margin-left: $spacing-unit * 2;
-    }
-    p {
+section {
+  clear: both;
+  padding-top: $spacing-unit;
+  .post-list {
+    margin-left: 0;
+    list-style: none;
+    h2 {
+      @extend .headings;
+      text-align: left;
       margin-left: 165px;
+      font-size: $base-font-size * 1.5;
+      a {
+        color: $text-color;
+      }
     }
-    picture {
-      float: left;
-      padding-right: $spacing-unit / 2;
-      padding-bottom: 0;
-    }
-    .post-link {
-      // margin-left: 165px;
-      display: inline-block;
-      font-size: $base-font-size / 2;
+    > li {
+      margin-bottom: $spacing-unit;
+      border-top: 1px solid #dddddd;
+      padding-top: $spacing-unit;
+      p {
+        margin-left: 165px;
+      }
+      picture {
+        float: left;
+        padding-right: $spacing-unit / 2;
+        padding-bottom: 0;
+      }
     }
   }
 }
 
 .post-meta {
-  font-size: $tiny-font-size;
-  color: $grey-color;
-}
+  margin-left: 165px;
+  // display: inline-block;
+  font-size: $base-font-size / 2;
 
-.post-link {
-  display: block;
+  a {
+    display: inline-block;
+
+  }
+
+  .project-block {
+    // font-size: $base-font-size / 2;
+    display: inline-block;
+    font-style: italic;
+    margin-left: $spacing-unit * 2;
+  }
 }
+//
+// .post-link {
+//   display: block;
+// }
 
 
 
@@ -262,16 +264,9 @@
   margin-bottom: $spacing-unit;
 }
 
-.post-title {
+h1 {
   @extend .headings;
-
-  font-size: $base-font-size * 1.25;
-  font-weight: 700;
-  //
-  // font-size: 42px;
-  // letter-spacing: -1px;
-  // line-height: 1;
-
+  font-size: $base-font-size * 2.25;
   @include media-query($on-laptop) {
     font-size: $base-font-size * 1.15;
   }
@@ -281,8 +276,7 @@
   margin-bottom: $spacing-unit;
 
   p:first-child:first-letter {
-    line-height: normal;
-    font-size: 1.5em;
+    @extend .first-letter;
   }
 
   h2 {

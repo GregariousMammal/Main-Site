@@ -43,10 +43,33 @@ $on-laptop:        800px;
   }
 }
 
+.pull-left {
+  float: left;
+}
+
+.first-letter {
+  line-height: normal;
+  font-size: 1.5em;
+}
+
+@mixin image-mask($image) {
+  // .center-block;
+  @include media-query($on-palm) {
+    //@extend .pull-left;
+  }
+  float: left;
+
+  shape-outside: url($image);
+  shape-margin: 20px;
+  //  shape-image-threshold: 0.5;
+  mask-image: url($image);
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 "base",
 "layout",
 "syntax-highlighting",
-"menus"
+"menus",
+"section-headings"
 ;

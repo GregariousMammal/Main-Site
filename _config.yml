@@ -31,6 +31,19 @@ picture:
       source_default:
         width: 350
         height: 200
+    categories:
+      ppi: [1, 1.5, 2]
+      attr:
+        class: medium-screen
+        itemprop: image
+      source_medium:
+        media: "(min-width: 40em)"
+        #width: 300
+        # height: 200
+        height: 200
+      source_default:
+        #width: 300
+        height: 200
     mediumscreen:
       ppi: [1, 1.5, 2]
       attr:
@@ -60,10 +73,10 @@ picture:
         itemprop: image
       source_medium:
         media: "(min-width: 40em)"
-        width: 75
+        width: 125
         # height: 200
       source_default:
-        width: 75
+        width: 125
 
 # Build settings
 markdown: redcarpet
