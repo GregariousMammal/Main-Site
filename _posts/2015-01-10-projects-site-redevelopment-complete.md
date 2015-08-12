@@ -12,10 +12,6 @@ The main reason behind this was that in the next couple of months I want to star
 
 Along the way I have attempted to improve my knowledge of many associated skills and techniques such as LESS, SASS, Headless Drupal, Swift, Java, Responsive Design, DevOps and much more.
 
-Let's start with a picture of how everything fits together.
-
-[[{"type":"media","view_mode":"media_large","fid":"127","attributes":{"alt":"","class":"media-image","height":"342","width":"480"}}]]
-
 The Gregarious Mammal CMS built in Drupal is the central repository for most projects content and some CRM data. The Lean Traveler, Chip Shop and centralised production blog all utilise Drupal's domain module to effectively serve different areas of the site under different domains from one installation. As they are all basically content driven sites, this seemed the most effective solution as apart from layout and some features, they are all fairly similar sites.
 
 Next up is my personal site. This could have been undertaken in the same method as above, but as it's a very simple site it seemed an ideal opportunity to try something new. Content is still housed and served from the Central CMS, but through a restful API into a JavaScript Application. For the JavaScript Application I settled on AngularJS, mainly because it had the most documentation and seemed most in demand in the jobs market. To build the initial application I used Yeoman and I will be experimenting much more with it in the future, it's very simple right now.
