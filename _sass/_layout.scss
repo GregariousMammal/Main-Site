@@ -250,12 +250,6 @@ section {
     margin-left: $spacing-unit * 2;
   }
 }
-//
-// .post-link {
-//   display: block;
-// }
-
-
 
 /**
 * Posts
@@ -274,6 +268,15 @@ h1 {
 aside.image {
   float:left;
   padding-right: $spacing-unit / 2;
+  picture {
+    img {
+      max-width: 200px;
+      vertical-align: middle;
+      max-height: 300px;
+      // min-height: 200px;
+      // min-width: 100px;
+    }
+  }
 }
 
 .post-content {
