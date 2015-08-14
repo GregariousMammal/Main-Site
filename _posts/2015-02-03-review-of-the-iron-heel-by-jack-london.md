@@ -3,10 +3,10 @@ layout: post
 title: Review of The Iron Heel by Jack London
 created: 1422961033
 image: the-iron-heel.png
-categories: writing odtwe
+categories: projects odtwe
 ---
 
-As part of my research in writing ODTWE I have been reading some classics of utopian and dystopian fiction. Most recently I completed Jack London's The Iron Heel.
+As part of my research in projects odtwe I have been reading some classics of utopian and dystopian fiction. Most recently I completed Jack London's The Iron Heel.
 
 Reading thorough the reviews on [GoodReads](https://www.goodreads.com/book/show/929783.The_Iron_Heel), you can likely see that this novel of capitalist dystopia surpassed by utopian ideals splits opinion.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Review of The Circle by David Eggers
-categories: writing odtwe
+categories: projects odtwe
 image: the-circle-eggers.jpg
 ---
 

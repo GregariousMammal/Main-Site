@@ -2,7 +2,7 @@
 layout: post
 title: "Regional Focus, 'Concepts' and opening up to you"
 created: 1425804787
-categories: games chipshop
+categories: projects chipshop
 ---
 
 A few small updates in this blog post, however, they have a large impact on the game.

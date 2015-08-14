@@ -2,7 +2,7 @@
 layout: post
 title: 'New Cards, The Benefits of Reading out Loud, Switching to Jekyll and more'
 created: 1424513866
-categories: null
+categories: projects
 ---
 
 This week has been a fervent flurry of activity as I prepare for <a href="/its-all-change-again" target="_blank">starting my new job next week</a>.

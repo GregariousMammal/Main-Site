@@ -63,6 +63,7 @@ $on-laptop:        800px;
   shape-margin: 20px;
   //  shape-image-threshold: 0.5;
   mask-image: url($image);
+  max-width: 300px;
 }
 
 // Import partials from `sass_dir` (defaults to `_sass`)

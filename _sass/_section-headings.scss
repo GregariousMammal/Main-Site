@@ -13,20 +13,7 @@
   }
 }
 
-.software {
-  .image {
-    img {
-      @include image-mask('/images/meerkat_image.gif')
-    }
-  }
-  .description {
-    p:first-child:first-letter {
-      @extend .first-letter;
-    }
-  }
-}
-
-.games {
+.projects {
   .image {
     img {
       @include image-mask('/images/cat_image.gif')
@@ -38,3 +25,16 @@
     }
   }
 }
+
+// .games {
+//   .image {
+//     img {
+//       @include image-mask('/images/cat_image.gif')
+//     }
+//   }
+//   .description {
+//     p:first-child:first-letter {
+//       @extend .first-letter;
+//     }
+//   }
+// }

@@ -2,7 +2,7 @@
 layout: post
 title: Projects Site Redevelopment Complete
 created: 1420905850
-categories: writing
+categories: projects
 image: gm_siteplan.png
 ---
 

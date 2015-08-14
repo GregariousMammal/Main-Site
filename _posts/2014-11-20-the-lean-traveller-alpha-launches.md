@@ -2,7 +2,7 @@
 layout: post
 title: The Lean Traveller alpha launches
 created: 1416478461
-categories: writing leantraveller
+categories: projects leantraveller
 ---
 
 I have just rolled it the first incarnation of <a href="http://theleantraveller.com/" target="_blank">The Lean Traveller</a>, with the first of the topics we will be covering, '<a href="http://theleantraveller.com/money" target="_blank">Money</a>'.

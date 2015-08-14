@@ -2,7 +2,7 @@
 layout: post
 title: Site Design Ideas
 created: 1421071223
-categories: writing odtwe
+categories: projects odtwe
 ---
 
 I have started building the site for the "One Day the World Ended" project in Ruby on Rails and thus needed some designs. Here are my rough ones so far.

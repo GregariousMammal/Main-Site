@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'New Cards, the Berlin Computer Spiele Museum and representing Failure'
-categories: games chipshop
+categories: projects chipshop
 ---
 
 Over the weekend thanks to [Berlin Games Week](http://www.gamesweekberlin.com/) I attended the <a href="http://www.computerspielemuseum.de/" target="_blank">Berlin Computer Spiele Museum</a> for free. It was a small exhibition but great research for Chip Shop and the visit combined with several other events during the week inspired me to work on some of the product cards on Sunday.

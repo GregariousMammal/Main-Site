@@ -1,24 +1,25 @@
 ---
 layout: default
-permalink: software/index.html
+permalink: projects/index.html
 
 ---
 
 <div class="home">
-  <div class="projects software">
+  <div class="projects">
     <div class="image">
-      {% picture categories meerkat_image.gif alt="Meerkat Image" %}
+      {% picture categories cat_image.gif alt="Cat Image" %}
     </div>
-    <h1 class="post-title">Software</h1>
+    <h1 class="post-title">Projects</h1>
     <div class="description">
-      <p>For most of my technical life I have undertaken work for others in an agency context. Recently I have been working on products instead and here are a few of my own, beginning with a rather dumb mobile app that is for your 'enjoyment'.
+      <p>
+      I'm full of ideas. Currently I am working on a board game based on the 1980s American computer industry, a crowd-sourced work of fiction about the end of the world and several other smaller projects.
       </p>
     </div>
   </div>
 
   <section>
     <ul class="post-list">
-      {% for post in site.categories.software limit:15%}
+      {% for post in site.categories.projects limit:15%}
       <li>
         {% if post.image %}
         {% picture listings {{post.image}} alt="{{post.title}}" %}

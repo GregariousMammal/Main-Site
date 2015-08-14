@@ -2,7 +2,7 @@
 layout: post
 title: 'Running out of Resources, Defining the Factory and Accessories'
 created: 1428828379
-categories: games chipshop
+categories: projects chipshop
 ---
 
 This week I have added rules to the '[Playing the Game](/manual/playing-game)' section of the manual to cover the following:
