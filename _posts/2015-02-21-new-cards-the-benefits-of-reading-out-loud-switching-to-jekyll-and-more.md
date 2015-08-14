@@ -5,7 +5,7 @@ created: 1424513866
 categories: null
 ---
 
-This week has been a fervent flurry of activity as I prepare for <a href="/article/its-all-change-again" target="_blank">starting my new job next week</a>.
+This week has been a fervent flurry of activity as I prepare for <a href="/its-all-change-again" target="_blank">starting my new job next week</a>.
 
 So, here's what I've been up to.<h3 id="chip-shop-new-design">Chip Shop new design</h3>
 
@@ -13,7 +13,7 @@ The <a href="http://chipshopgame.com/" target="_blank">Chip Shop website</a> has
 
 I have added a lot of <a href="http://chipshopgame.com/cards" target="_blank">new event cards</a> this week, all of which are based upon relevant occurrences to the industry in the 80s. Again, these cards are very bare bones at the moment, but hopefully you will see where they are going.<h3 id="one-day-the-world-ends-switches-to-jekyll">One Day the World Ends switches to Jekyll</h3>
 
-As outlined in <a href="/article/creating-perfect-tech-and-writing-stack" target="_blank">this post</a> I had initially started developing the <a href="http://onedaytheworldended.com/introduction/" target="_blank">website for the ODTWE project</a> in Ruby on Rails as I wanted to learn the language. However, with my time now being more precious I want to keep things simple for now and develop that site full in the future. So, I have switched the site to <a href="http://jekyllrb.com" target="_blank">Jekyll</a> for now, the infamous static site generator. This fits very well with my writing workflow from Scrivener, exported to Markdown and then straight into a site deployment. As I start adding new features and media content, the project may out grow Jekyll, but it works well for now. I was able to migrate the site in less than two hours, which shows how simple it is.<h3 id="the-benefits-of-reading-out-loud">The benefits of reading out loud</h3>
+As outlined in <a href="/creating-perfect-tech-and-writing-stack" target="_blank">this post</a> I had initially started developing the <a href="http://onedaytheworldended.com/introduction/" target="_blank">website for the ODTWE project</a> in Ruby on Rails as I wanted to learn the language. However, with my time now being more precious I want to keep things simple for now and develop that site full in the future. So, I have switched the site to <a href="http://jekyllrb.com" target="_blank">Jekyll</a> for now, the infamous static site generator. This fits very well with my writing workflow from Scrivener, exported to Markdown and then straight into a site deployment. As I start adding new features and media content, the project may out grow Jekyll, but it works well for now. I was able to migrate the site in less than two hours, which shows how simple it is.<h3 id="the-benefits-of-reading-out-loud">The benefits of reading out loud</h3>
 
 On Sunday I read a draft of a new chapter from <a href="http://onedaytheworldended.com/" target="_blank">One Day the World Ended</a> at a spoken word night in Leipzig. I have always found reading out loud an effective (if nerve racking) method for getting a reaction and the feeling of a piece. As a result of this reading I noticed a few errors, areas that needed expansion, areas that needed reducing and areas that didn't make sense to anyone but me. Expect this chapter, that covers the story of Alf online soon.<h3 id="merging-in-the-chris-chinchilla-blog">Merging in the Chris Chinchilla blog</h3>
 
