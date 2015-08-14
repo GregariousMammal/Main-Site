@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gregariousmammal.com" # the base hostname & protocol for your site
 twitter_username: chrischinch
 github_username:  chrischinchilla
-permalink: none
+permalink: /:title
 comments: true
 
 picture:
