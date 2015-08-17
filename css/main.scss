@@ -66,11 +66,19 @@ $on-laptop:        800px;
   max-width: 300px;
 }
 
+.mobile-images {
+  @include media-query($on-laptop) {
+    float:none;
+    margin-bottom: $spacing-unit;
+  }
+}
+
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
 "base",
 "layout",
 "syntax-highlighting",
 "menus",
-"section-headings"
+"section-headings",
+"connectbar"
 ;

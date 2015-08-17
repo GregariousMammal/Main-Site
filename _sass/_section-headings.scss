@@ -1,8 +1,8 @@
 // TODO: Consolidate
-
 .writing {
   .image {
     img {
+      @extend .mobile-images;
       @include image-mask('/images/rabbit_image.gif')
     }
   }
@@ -16,6 +16,7 @@
 .projects {
   .image {
     img {
+      @extend .mobile-images;
       @include image-mask('/images/cat_image.gif')
     }
   }
