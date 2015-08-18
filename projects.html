@@ -19,6 +19,8 @@ permalink: projects/index.html
 
   <section>
     <ul class="post-list">
+      {{ paginator.posts }}
+
       {% for post in site.categories.projects limit:15%}
       <li>
         {% if post.image %}
@@ -38,7 +40,4 @@ permalink: projects/index.html
       {% endfor %}
     </ul>
   </section>
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
