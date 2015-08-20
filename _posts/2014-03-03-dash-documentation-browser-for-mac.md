@@ -3,6 +3,7 @@ layout: post
 title: Dash - documentation browser for Mac
 created: 1393878049
 categories: writing chrischinchilla
+image: dash.png
 ---
 
 Every now and then along comes a piece of software that just does pretty much everything right, one of these is Dash.

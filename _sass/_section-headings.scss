@@ -1,9 +1,24 @@
-// TODO: Consolidate
+// TODO: Consolidate and function-ise
+
 .writing {
   .image {
     img {
       @extend .mobile-images;
       @include image-mask('/images/rabbit_image.gif')
+    }
+  }
+  .description {
+    p:first-child:first-letter {
+      @extend .first-letter;
+    }
+  }
+}
+
+.chrischinchilla {
+  .image {
+    img {
+      @extend .mobile-images;
+      @include image-mask('/images/chris_chinchilla.gif')
     }
   }
   .description {
@@ -26,16 +41,3 @@
     }
   }
 }
-
-// .games {
-//   .image {
-//     img {
-//       @include image-mask('/images/cat_image.gif')
-//     }
-//   }
-//   .description {
-//     p:first-child:first-letter {
-//       @extend .first-letter;
-//     }
-//   }
-// }
