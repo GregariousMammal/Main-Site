@@ -2,71 +2,86 @@
 layout: post
 title: Avoiding problems with your Drupal project
 created: 1375516463
+image: druplicon_sad.png
+categories: writing chrischinchilla
 ---
 
+Over the past year I've been slowly building a list of gotchas, mistaken assumptions and potential slip ups that have hit projects I've been involved with several times, or seemed so blindingly obvious after the moment that they just had to be documented. This is one of the many articles I have that may grow over time as I discover more useful tidbits.
 
-Over the past year I&rsquo;ve been slowly building a list of gotchas, mistaken assumptions and potential slip ups that have hit projects I&rsquo;ve been involved with several times, or seemed so blindingly obvious after the moment that they just had to be documented. This is one of the many articles I have that may grow over time as I discover more useful tidbits.
+Some of these are more generic to suit any website development project whilst others are very specific to Drupal based projects, which is the main platform projects I'm involved with utilise, I'll try to mark those as we go.
 
-<span style="line-height: 1.538em;">Some of these are more generic to suit any website development project whilst others are very specific to Drupal based projects, which is the main platform projects I&rsquo;m involved with utilise, I&rsquo;ll try to mark those as we go.</span>
+## Assumptions
+### Get to know industry more
+As web developers we are often called to work on projects in industries that we know absolutely nothing about and whilst we may make lengthy business analyses about our clients, often some really obvious assumptions can be overlooked. For example we recently worked on a site for an engineering supplier, treating it like a standard ecommerce site, but of course, who would drop by a site and on a whim depart with several thousand for a complex, custom and site specific piece of machinery.
 
-<strong style="line-height: 1.538em;">Assumptions</strong>
+Get to know not only a clients business, but also their world, the terminology they use, the slang, common practises that seem extremely obvious to them and perhaps even more crucially for what we do... The browsers they use.
 
-<em style="line-height: 1.538em;">Get to know industry more</em><br /><span style="line-height: 1.538em;">As web developers we are often called to work on projects in industries that we know absolutely nothing about and whilst we may make lengthy business analyses about our clients, often some really obvious assumptions can be overlooked. For example we recently worked on a site for an engineering supplier, treating it like a standard ecommerce site, but of course, who would drop by a site and on a whim depart with several thousand for a complex, custom and site specific piece of machinery.</span>
+## Servers
+Is the setup for the web servers being used throughout the project for local development, testing and production the same? If not, what are the differences, will these affect anything you're doing? Who is responsible for maintaining and backing up these servers?
 
-Get to know not only a clients business, but also their world, the terminology they use, the slang, common practises that seem extremely obvious to them and perhaps even more crucially for what we do&hellip; The browsers they use.
+## Design
+Here's a great post on designing for Drupal, learning to better understand it's structure so it doesn't obstruct what you do.
 
-<em style="line-height: 1.538em;">Servers</em><br /><span style="line-height: 1.538em;">Is the setup for the web servers being used throughout the project for local development, testing and production the same? If not, what are the differences, will these affect anything you&rsquo;re doing? Who is responsible for maintaining and backing up these servers?</span>
+[www.chapterthree.com/blog/nica_lorber/design_drupal_template_approach](http://www.chapterthree.com/blog/nica_lorber/design_drupal_template_approach)
 
-&nbsp;
+## Development
+These aren't necessarily in any particular order, but are various pointers picked up along the way.
 
-<strong style="line-height: 1.538em;">Design</strong><br /><span style="line-height: 1.538em;">Here&rsquo;s a great post on designing for Drupal, learning to better understand it&rsquo;s structure so it doesn&rsquo;t obstruct what you do.</span><br /><a href="http://www.chapterthree.com/blog/nica_lorber/design_drupal_template_approach" style="line-height: 1.538em;">www.chapterthree.com/blog/nica_lorber/design_drupal_template_approach</a>
+### Listings of events
+If creating listings of events, the default sort order of most content listings will be the date created, but of course, events have their own date component and the chances are that a site will need to order events in a particular way such as the order they are occurring in or vice versa.
 
-&nbsp;
+### Views list sorting
+Often listings created in Drupal views will default to alphabetical or date created order, however, quite often clients will have a very particular order they are expecting or anticipating listings to be in, such as importance or department. So before building listings, ensure you ask a client what ordering they are expecting, or even better, give them the ability to order them themselves, through access to views or something like the draggable views module.
 
-<strong style="line-height: 1.538em;">Development</strong><br /><span style="line-height: 1.538em;">These aren&rsquo;t necessarily in any particular order, but are various pointers picked up along the way.</span>
+### Views listings will probably need editable introductions
+Views is a great way to create listings of content, but generally a client will require that these listings have some kind of explanation or context for site visitors. You could give content administrators access to the view and allow them to amend header text or instead, create pages with context or panels to display the view as a block and the introductory text a normal node and this easily part of the editorial workflow.
 
-<em style="line-height: 1.538em;">Listings of events</em><br /><span style="line-height: 1.538em;">If creating listings of events, the default sort order of most content listings will be the date created, but of course, events have their own date component and the chances are that a site will need to order events in a particular way such as the order they are occurring in or vice versa.</span>
+### Typekit problems with Internet Explorer 8 and lower
+We've noticed this on several sites that utilise TypeKit, when Internet Explorer 8 and below renders many fonts all in italics. I wont bother explaining it all here, but take a look at the link below.
 
-<em style="line-height: 1.538em;">Views list sorting</em><br /><span style="line-height: 1.538em;">Often listings created in Drupal views will default to alphabetical or date created order, however, quite often clients will have a very particular order they are expecting or anticipating listings to be in, such as importance or department. So before building listings, ensure you ask a client what ordering they are expecting, or even better, give them the ability to order them themselves, through access to views or something like the draggable views module.</span>
+<a href="http://drupal.org/node/1936340" style="line-height: 1.538em;">drupal.org/node/1936340</a>
 
-<em style="line-height: 1.538em;">Views listings will probably need editable introductions</em><br /><span style="line-height: 1.538em;">Views is a great way to create listings of content, but generally a client will require that these listings have some kind of explanation or context for site visitors. You could give content administrators access to the view and allow them to amend header text or instead, create pages with context or panels to display the view as a block and the introductory text a normal node and this easily part of the editorial workflow.</span>
+### WYSIWYGs
+'What You See Is What You Get' editors are a popular and convenient way of editing content but are prone to many configuration issues and assumptions from all sides, with developers wanting to limit what clients can do and clients wanting to do as much as possible. The real nitty gritty of this may vary from project to project, but here's a few features we've found clients always want and expect, so save yourself some hassle by just setting them up in the first place, unless you have a very good reason not to (with all of these there are several ways to achieve them, I shall leave the preferred implementation up to you).<ul><li>The ability to upload files inline into a WYSIWYG, not upload separately and enter a file's path, but directly uploading a file, adding a link and everything to work.</li><li>Much like above, the ability to upload images directly into a WYSIWYG. When allowing this functionality you will need to think about file sizes, image sizes, image layouts and many other factors. This may all seem like a lot of work, but content editors will want to be able to edit content the way they want to and it's up to you to find a way that can be accommodated stably, once you've got it right once, it can generally be rolled out across all projects.</li><li>Content editors expect to be able to create links to external content content internal to the site, so when setting up links within a WYSIWYG, try adding the facility to be able to link easily to internal site content, preferably though some sort of picker or autocomplete widget.</li><li>Don't allow <div> tags in your WYSIWYG fields.</li></ul>
 
-<em style="line-height: 1.538em;">Typekit problems with Internet Explorer 8 and lower</em><br /><span style="line-height: 1.538em;">We&rsquo;ve noticed this on several sites that utilise TypeKit, when Internet Explorer 8 and below renders many fonts all in italics. I wont bother explaining it all here, but take a look at the link below.&nbsp;</span><br /><a href="http://drupal.org/node/1936340" style="line-height: 1.538em;">drupal.org/node/1936340</a>
+### Forms
+Do forms have email recipients? Who should they be?
 
-<em style="line-height: 1.538em;">WYSIWYGs</em><br /><span style="line-height: 1.538em;">&lsquo;What You See Is What You Get&rsquo; editors are a popular and convenient way of editing content but are prone to many configuration issues and assumptions from all sides, with developers wanting to limit what clients can do and clients wanting to do as much as possible. The real nitty gritty of this may vary from project to project, but here&rsquo;s a few features we&rsquo;ve found clients always want and expect, so save yourself some hassle by just setting them up in the first place, unless you have a very good reason not to (with all of these there are several ways to achieve them, I shall leave the preferred implementation up to you).</span><ul><li style="margin-left: 36pt;">The ability to upload files inline into a WYSIWYG, not upload separately and enter a file&rsquo;s path, but directly uploading a file, adding a link and everything to work.</li><li style="margin-left: 36pt;">Much like above, the ability to upload images directly into a WYSIWYG. When allowing this functionality you will need to think about file sizes, image sizes, image layouts and many other factors. This may all seem like a lot of work, but content editors will want to be able to edit content the way they want to and it&rsquo;s up to you to find a way that can be accommodated stably, once you&rsquo;ve got it right once, it can generally be rolled out across all projects.</li><li style="margin-left: 36pt;">Content editors expect to be able to create links to external content content internal to the site, so when setting up links within a WYSIWYG, try adding the facility to be able to link easily to internal site content, preferably though some sort of picker or autocomplete widget.</li><li style="margin-left: 36pt;">Don&rsquo;t allow &lt;div&gt; tags in your WYSIWYG fields.</li></ul>
+### Spam protection
+All forms will probably need some form of spam protection, probably best for your future sanity to just enable it on all forms in some way.
 
-<em style="line-height: 1.538em;">Forms</em><br /><span style="line-height: 1.538em;">Do forms have email recipients? Who should they be?</span>
+### Email templates
+User registrations, store orders, password changes etc. all send emails, the contents and look of those emails may not suit a client, make sure they've all been gone through and changed accordingly.
 
-<em style="line-height: 1.538em;">Spam protection</em><br /><span style="line-height: 1.538em;">All forms will probably need some form of spam protection, probably best for your future sanity to just enable it on all forms in some way.</span>
+### Some other useful resources_<ul><li>www.webdevchecklist.com</li></ul>
+## Going Live
+### SSL / Certificates
+If your site requires any secure areas, don't forget to set up SSL certificates, enable secure urls where needed and test that everything still works once it's all in place.
 
-<em style="line-height: 1.538em;">Email templates</em><br /><span style="line-height: 1.538em;">User registrations, store orders, password changes etc. all send emails, the contents and look of those emails may not suit a client, make sure they&rsquo;ve all been gone through and changed accordingly.</span>
+### DNS Changes
+When sites go live they will generally need some DNS changes to happen at some point, so make sure you allow enough time for these to propagate through the web. Equally, make sure that all versions of the website address work as expected, 'www.', non www and any subdomains.
 
-<em style="line-height: 1.538em;">Some other useful resources</em><ul><li style="margin-left: 36pt;">www.webdevchecklist.com</li></ul>
+### Caching
+Most would know that caching should be enabled once a site goes into production, but not wanting to go into masses of details on caching techniques, there are a few pitfalls. Firstly, tell clients what caching is, how it works and why it's used. Frequently (using default caching options in Drupal) clients will be confused when adding new content or making small layout changes and wondering why it isn't showing immediately. Perhaps consider custom hooks to clear content caches when adding new content or simply providing a button for content editors to do it themselves, again, making them aware of the implications of doing so.
 
-&nbsp;
+### Cron
+Don't forget to turn cron on. Also, test what happens when cron does run, do expected things happen and do unexpected things not happen?
 
-<strong style="line-height: 1.538em;">Going Live</strong>
+### Turn off environment indicator
+Were you using the Drupal environment indicator module during development? I would recommend you turn it off on production sites as clients constantly wonder what the coloured bar is doing there.
 
-<em>SSL / Certificates</em><br /><span style="line-height: 1.538em;">If your site requires any secure areas, don&rsquo;t forget to set up SSL certificates, enable secure urls where needed and test that everything still works once it&rsquo;s all in place.</span>
+### Using external services?
+Things like newsletters, logging services etc. You may have been using test email addresses and settings, don't forget to switch them to the real account details.
 
-<em style="line-height: 1.538em;">DNS Changes</em><br /><span style="line-height: 1.538em;">When sites go live they will generally need some DNS changes to happen at some point, so make sure you allow enough time for these to propagate through the web. Equally, make sure that all versions of the website address work as expected, &lsquo;www.&rsquo;, non www and any subdomains.</span>
+### Time Zones
+Are your timezones set correctly for the main site, subsites, user accounts etc?
 
-<em style="line-height: 1.538em;">Caching</em><br /><span style="line-height: 1.538em;">Most would know that caching should be enabled once a site goes into production, but not wanting to go into masses of details on caching techniques, there are a few pitfalls. Firstly, tell clients what caching is, how it works and why it&rsquo;s used. Frequently (using default caching options in Drupal) clients will be confused when adding new content or making small layout changes and wondering why it isn&rsquo;t showing immediately. Perhaps consider custom hooks to clear content caches when adding new content or simply providing a button for content editors to do it themselves, again, making them aware of the implications of doing so.</span>
+## Security
+### Change your administrator usernames
+Usernames like 'admin', 'administrator' etc are not secure usernames for powerful admin accounts and will be easily guessed by automated hacking systems. Change them as soon as you can.
 
-<em style="line-height: 1.538em;">Cron</em><br /><span style="line-height: 1.538em;">Don&rsquo;t forget to turn cron on. Also, test what happens when cron does run, do expected things happen and do unexpected things not happen?</span>
+### Be careful of hostnames in MYSQL grant statements
+Generally it's too easy to just create MySQL users who can access your database server from anywhere, if you want to be extremely cautious, these can be locked to only access from specificic places, domains or IP addresses, <a href="http://dev.mysql.com/doc/refman/5.5/en/account-names.html" target="_blank">see more details here</a>.
 
-<em style="line-height: 1.538em;">Turn off environment indicator</em><br /><span style="line-height: 1.538em;">Were you using the Drupal environment indicator module during development? I would recommend you turn it off on production sites as clients constantly wonder what the coloured bar is doing there.</span>
-
-<em style="line-height: 1.538em;">Using external services?</em><br /><span style="line-height: 1.538em;">Things like newsletters, logging services etc. You may have been using test email addresses and settings, don&rsquo;t forget to switch them to the real account details.</span>
-
-<em style="line-height: 1.538em;">Time Zones</em><br /><span style="line-height: 1.538em;">Are your timezones set correctly for the main site, subsites, user accounts etc?</span>
-
-&nbsp;
-
-<strong style="line-height: 1.538em;"><span style="line-height: 1.538em;">Security</span></strong>
-
-<span style="line-height: 1.538em;"><em>Change your administrator usernames</em><br />Usernames like &#39;admin&#39;, &#39;administrator&#39; etc are not secure usernames for powerful admin accounts and will be easily guessed by automated hacking systems. Change them as soon as you can.</span>
-
-<span style="line-height: 1.538em;"><em>Be careful of hostnames in MYSQL grant statements</em><br />Generally it&#39;s too easy to just create MySQL users who can access your database server from anywhere, if you want to be extremely cautious, these can be locked to only access from specificic places, domains or IP addresses, <a href="http://dev.mysql.com/doc/refman/5.5/en/account-names.html" target="_blank">see more details here</a>.</span><br />&nbsp;
-
-<strong><em style="line-height: 1.538em;">Some other useful resources</em></strong><ul><li style="margin-left: 36pt;"><a href="http://www.zivtech.com/blog/impending-drupal-site-launch-use-list">www.zivtech.com/blog/impending-drupal-site-launch-use-list</a></li></ul>
+## Some other useful resources
+<ul><li>[www.zivtech.com/blog/impending-drupal-site-launch-use-list](http://www.zivtech.com/blog/impending-drupal-site-launch-use-list)</li></ul>

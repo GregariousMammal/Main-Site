@@ -2,7 +2,7 @@
 layout: post
 title: Mapping and why your view of the world is wrong
 created: 1357764550
-image: 'https://www.dropbox.com/s/xtts3015y1xb9c1/Screenshot%202015-08-18%2015.37.56.png?dl=0'
+image: petersmap.jpg
 categories: presentations
 ---
 
