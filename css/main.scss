@@ -29,14 +29,6 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 
-
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
@@ -53,23 +45,20 @@ $on-laptop:        800px;
 }
 
 @mixin image-mask($image) {
-  // .center-block;
-  @include media-query($on-palm) {
-    //@extend .pull-left;
-  }
-  float: left;
-
   shape-outside: url($image);
   shape-margin: 20px;
-  //  shape-image-threshold: 0.5;
   mask-image: url($image);
   max-width: 300px;
 }
 
 .mobile-images {
+  float: right;
   @include media-query($on-laptop) {
     float:none;
     margin-bottom: $spacing-unit;
+    margin-right: auto;
+    display: block;
+    margin-left: auto;
   }
 }
 

@@ -190,8 +190,12 @@
 * Page content
 */
 .page-content {
-  width: 70%;
-  float: right;
+  // width: 70%;
+  // float: right;
+  margin-left: 15%;
+  @include media-query($on-laptop) {
+    margin-left:0;
+  }
   padding-top: $spacing-unit * 4;
   padding-left: $spacing-unit;
   padding-right: $spacing-unit;
