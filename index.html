@@ -14,7 +14,8 @@ layout: default
 
   <section>
     <ul class="post-list">
-      {% for post in site.posts limit:15%}
+      {% for post in paginator.posts %}
+
       <li>
         {% if post.image %}
         {% picture listings {{post.image}} alt="{{post.title}}" %}
@@ -33,6 +34,5 @@ layout: default
       {% endfor %}
     </ul>
   </section>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+{% include pagination.html %}
 </div>

@@ -11,6 +11,7 @@ twitter_username: chrischinch
 github_username:  chrischinchilla
 permalink: /:title
 comments: true
+paginate: 15
 
 picture:
   source: /images
