@@ -20,6 +20,12 @@
     }
   }
 
+  /* TODO: Why is this here? */
+  .trigger {
+    clear: both;
+    display: none;
+  }
+
   @include media-query($on-palm) {
     position: absolute;
     top: 9px;
@@ -68,11 +74,12 @@
 .menu {
     margin: 0;
     padding: 0;
-    list-style: none;
     font-size: $tiny-font-size;
 }
 
-
+ul {
+  list-style: none;
+}
 
 #menu {
   padding: 0;

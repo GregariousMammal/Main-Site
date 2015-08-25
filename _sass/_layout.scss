@@ -26,10 +26,8 @@
   @extend .fixed;
   border-top: none;
   border-bottom: none;
-  @include media-query($on-palm) {
-    min-height: 100px;
-    height:100px;
-  }
+  min-height: 100px;
+  height:100px;
 
   @include media-query($on-laptop) {
     min-height: 50px;
