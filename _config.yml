@@ -13,6 +13,17 @@ permalink: /:title
 comments: true
 paginate: 15
 
+collections:
+  presentations:
+    output: true
+
+defaults:
+  -
+    scope:
+      type: presentations
+    values:
+      url: http://presentations.gregariousmammal.com
+
 picture:
   source: /images
   output: generated

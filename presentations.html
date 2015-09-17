@@ -1,0 +1,40 @@
+---
+layout: default
+permalink: presentations/index.html
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Presentations</h1>
+
+  {% assign presentations = site.presentations %}
+
+  <section>
+    <ul class="post-list">
+      {% for presentation in presentations %}
+
+      <li>
+        {% if presentation.image %}
+        {% picture listings {{presentation.image}} alt="{{presentation.title}}" %}
+        {% endif %}
+        <h2>
+          <a href="{{ presentation.pres_url }}" target="_blank">{{ presentation.title }}</a>
+        </h2>
+        {{ presentation.excerpt }}
+        <div class="post-meta">
+          <p>
+            <b>Presented at:</b>
+
+            {% if presentation.presented %}
+            {{ presentation.presented }}
+            {% endif %}
+          </p>
+          <a class="post-link" href="{{ presentation.pres_url }}" target="_blank">Read More</a>
+
+        </div>
+      </li>
+
+      {% endfor %}
+    </ul>
+  </section>
+</div>
