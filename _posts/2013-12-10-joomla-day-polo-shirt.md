@@ -1,12 +1,10 @@
 ---
 layout: post
-title: Joomla! Day Polo shirt
+title: 'Joomla! Day Polo shirt'
 created: 1386633580
-image: joomla-logo-vert-color.png
-joomlapolo.jpg
-categories: chrischinchilla 
+image: joomlapolo.jpg
+categories: chrischinchilla merchandise
 ---
-
 
 Joomla! Day Melbourne 2013 polo shirt, very nice but a little large for me.
 
