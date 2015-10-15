@@ -41,3 +41,17 @@
     }
   }
 }
+
+.services {
+  .image {
+    img {
+      @extend .mobile-images;
+      @include image-mask('/images/koala_image.gif')
+    }
+  }
+  .description {
+    p:first-child:first-letter {
+      @extend .first-letter;
+    }
+  }
+}
