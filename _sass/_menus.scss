@@ -115,11 +115,11 @@
     color: #369;
     font-weight: bold;
     position: relative;
-
+    display: block;
+    padding: 3px 20px;
+    line-height: $base-line-height;
+    color: #333333;
     a {
-      display: block;
-      padding: 3px 20px;
-      line-height: $base-line-height;
       color: #333333;
     }
     ul {
