@@ -1,0 +1,39 @@
+---
+layout: default
+permalink: projects/index.html
+
+---
+
+<div class="home">
+  <div class="projects games">
+    <div class="image">
+      {% picture categories cat_image.gif alt="Cat Image" %}
+    </div>
+    <h1 class="post-title">Games</h1>
+    <div class="description">
+      <p>In the past 18 months I have really enjoyed playing board and role playing games. Then I had a few great ideas of my own, the first is 'Chip Shop', a game where you play a computer company. I have more ideas up my sleeve that will appear soon.</p>
+    </div>
+  </div>
+
+<section>
+  <ul class="post-list">
+    {% for post in site.categories.games limit:15%}
+    <li>
+      {% if post.image %}
+      {% picture listings {{post.image}} alt="{{post.title}}" %}
+      {% endif %}
+      <h2>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </h2>
+      {{ post.excerpt }}
+      <div class="post-meta">
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+        {% if post.categories %}
+        {% include category_block.html %}
+        {% endif %}
+      </div>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+</div>

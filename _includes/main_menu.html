@@ -1,38 +1,41 @@
-<div id="menu" class="trigger">
   <ul class="menu nav">
     <li class="first expanded dropdown">
-      <a href="/games" title="Games">Games </a>
-      <ul>
-        <li ><a href="/games/chip-shop" title="Chip Shop">Chip Shop</a></li>
-      </ul>
-    </li>
-    <li >
-      <a href="/software" title="Software">Software </a>
+      <a href="/projects" title="Projects">Projects </a>
+      {% if page.categories[0] == 'projects' or page.url == '/projects/index.html' or page.path == 'aah.html' or page.path == 'odtwe.html' or page.path == 'chipshop.html' %}
       <ul>
         <li >
-          <a href="/software/answers-against-humanity" title="Answers Against Humanity">Answers Against Humanity</a>
+          <a href="/projects/aah" title="Answers Against Humanity">Answers Against Humanity</a>
         </li>
+        <li>
+          <a href="/projects/not-profit-handbook" title="The Not-for-Profit Handbook">The Not-for-Profit Handbook</a>
+        </li>
+        <li class="first leaf">
+          <a href="/projects/odtwe" title="One Day the World Ended">One Day the World Ended</a>
+        </li>
+        <li ><a href="/projects/chipshop" title="Chip Shop">Chip Shop</a></li>
       </ul>
+      {% endif %}
     </li>
     <li >
       <a href="/writing" title="Writing">Writing </a>
+      {% if page.categories[0] == 'writing' or page.url == '/writing/index.html' or page.path == 'chrischinchilla.html' or page.path == 'leantraveller.html' %}
       <ul>
-        <li class="first leaf">
-          <a href="/writing/one-day-world-ended" title="One Day the World Ended">One Day the World Ended</a>
+        <li>
+          <a href="/writing/chrischinchilla" title="Personal Blog">Personal Blog</a>
         </li>
         <li>
-          <a href="/writing/personal-blog" title="Personal Blog">Personal Blog</a>
-        </li>
-        <li>
-          <a href="/writing/not-profit-handbook" title="The Not-for-Profit Handbook">The Not-for-Profit Handbook</a>
-        </li>
-        <li>
-          <a href="/writing/lean-traveller" title="The Lean Traveller">The Lean Traveller</a>
+          <a href="/writing/leantraveller" title="The Lean Traveller">The Lean Traveller</a>
         </li>
       </ul>
+      {% endif %}
     </li>
     <li>
-      <a href="/connect">Connect</a>
+      <a href="/events">Events</a>
+    </li>
+    <li>
+      <a href="/services">Services</a>
+    </li>
+    <li>
+      <a href="/presentations">Presentations</a>
     </li>
   </ul>
-</div>

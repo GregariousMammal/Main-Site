@@ -3,28 +3,36 @@ layout: default
 ---
 
 <div class="home">
-  {% include index_intro.html %}
 
-  <h1 class="page-heading">Latest Updates</h1>
+  <div class="projects index">
+    <!-- <div class="image"></div> -->
+    <h1 class="post-title">Welcome</h1>
+    <div class="description">
+      <p>{% include index_intro.html %}</p>
+    </div>
+  </div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-    <li>
-      {% if post.image %}
-      {% picture listings {{post.image}} alt="{{post.title}}" %}
-      {% endif %}
-      <h2>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </h2>
-      {{ post.excerpt }}
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-      {% if post.categories %}
-      {% include category_block.html %}
-      {% endif %}
-    </li>
-    {% endfor %}
-  </ul>
+  <section>
+    <ul class="post-list">
+      {% for post in paginator.posts %}
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
+      <li>
+        {% if post.image %}
+        {% picture listings {{post.image}} alt="{{post.title}}" %}
+        {% endif %}
+        <h2>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {{ post.excerpt }}
+        <div class="post-meta">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+          {% if post.categories %}
+          {% include category_block.html %}
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+{% include pagination.html %}
 </div>

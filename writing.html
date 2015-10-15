@@ -1,0 +1,39 @@
+---
+layout: default
+permalink: writing/index.html
+
+---
+
+<div class="home">
+  <div class="writing">
+    <div class="image">
+      {% picture categories rabbit_image.gif alt="Rabbit Image" %}
+    </div>
+    <h1 class="post-title">Writing</h1>
+    <div class="description">
+      <p>I have been a professional and semi-professional writer for over ten years. Here you can find posts from across all the projects I work on as well as several creative writing projects in progress. I am also Editor of the <a href="http://www.sitepoint.com/mobile/" target="_blank">SitePoint Mobile channel</a>.</p>
+    </div>
+  </div>
+
+  <section>
+    <ul class="post-list">
+      {% for post in site.categories.writing limit:15%}
+      <li>
+        {% if post.image %}
+        {% picture listings {{post.image}} alt="{{post.title}}" %}
+        {% endif %}
+        <h2>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {{ post.excerpt }}
+        <div class="post-meta">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+          {% if post.categories %}
+          {% include category_block.html %}
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+</div>

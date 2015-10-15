@@ -1,0 +1,35 @@
+---
+layout: default
+permalink: projects/aah/index.html
+---
+
+<div class="home">
+
+  <h1 class="page-heading">Answers Against Humanity</h1>
+
+  <section>
+    <ul class="post-list">
+      {% for post in site.categories.projects limit:100%}
+      {% if post.categories[1] == 'aah' %}
+
+      <li>
+        {% if post.image %}
+        {% picture listings {{post.image}} alt="{{post.title}}" %}
+        {% endif %}
+        <h2>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {{ post.excerpt }}
+        <div class="post-meta">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+          {% if post.categories %}
+          {% include category_block.html %}
+          {% endif %}
+        </div>
+      </li>
+      {% endif %}
+
+      {% endfor %}
+    </ul>
+  </section>
+</div>

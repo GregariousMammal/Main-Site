@@ -1,15 +1,25 @@
 # Site settings
 title: Gregarious Mammal
 email: info@gregariousmammal.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description:  Technology and Education.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://gregariousmammal.com" # the base hostname & protocol for your site
 twitter_username: chrischinch
 github_username:  chrischinchilla
-permalink: none
+permalink: /:title
+comments: true
+paginate: 15
+
+collections:
+  presentations:
+    output: true
+
+defaults:
+  -
+    scope:
+      type: presentations
+    values:
+      url: http://presentations.gregariousmammal.com
 
 picture:
   source: /images
@@ -30,7 +40,17 @@ picture:
       source_default:
         width: 350
         height: 200
-    mediumscreen:
+    categories:
+      ppi: [1, 1.5, 2]
+      attr:
+        class: medium-screen
+        itemprop: image
+      source_medium:
+        media: "(min-width: 40em)"
+        height: 200
+      source_default:
+        height: 200
+    article:
       ppi: [1, 1.5, 2]
       attr:
         class: medium-screen
@@ -39,6 +59,16 @@ picture:
         media: "(min-width: 40em)"
         width: 200
         # height: 200
+      source_default:
+        width: 200
+    mediumscreen:
+      ppi: [1, 1.5, 2]
+      attr:
+        class: medium-screen
+        itemprop: image
+      source_medium:
+        media: "(min-width: 40em)"
+        width: 200
       source_default:
         width: 200
     smallscreen:
@@ -59,10 +89,9 @@ picture:
         itemprop: image
       source_medium:
         media: "(min-width: 40em)"
-        width: 75
-        # height: 200
+        width: 125
       source_default:
-        width: 75
+        width: 125
 
 # Build settings
 markdown: redcarpet

@@ -1,0 +1,43 @@
+---
+layout: default
+permalink: projects/index.html
+
+---
+
+<div class="home">
+  <div class="projects">
+    <div class="image">
+      {% picture categories cat_image.gif alt="Cat Image" %}
+    </div>
+    <h1 class="post-title">Projects</h1>
+    <div class="description">
+      <p>
+      I'm full of ideas. Currently I am working on a board game based on the 1980s American computer industry, a crowd-sourced work of fiction about the end of the world and several other smaller projects.
+      </p>
+    </div>
+  </div>
+
+  <section>
+    <ul class="post-list">
+      {{ paginator.posts }}
+
+      {% for post in site.categories.projects limit:15%}
+      <li>
+        {% if post.image %}
+        {% picture listings {{post.image}} alt="{{post.title}}" %}
+        {% endif %}
+        <h2>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {{ post.excerpt }}
+        <div class="post-meta">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+          {% if post.categories %}
+          {% include category_block.html %}
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+</div>

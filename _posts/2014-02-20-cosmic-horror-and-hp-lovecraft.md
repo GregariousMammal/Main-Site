@@ -2,7 +2,7 @@
 layout: post
 title: 'Cosmic Horror & HP Lovecraft'
 created: 1392934334
-categories: writing presentation
+categories: writing presentations
 ---
 
 I love the worlds of HP Lovecraft, here's a talk I have done occasionally, it's usually followed by a reading.

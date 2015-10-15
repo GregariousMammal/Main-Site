@@ -2,7 +2,7 @@
 layout: post
 title: 'Dec 5th updates: Manual, concepts, design and more!'
 created: 1417791939
-categories: games chipshop
+categories: projects chipshop
 ---
 
 Chip Shop has had quite a busy week and I have a few updates to tell you about.

@@ -2,7 +2,7 @@
 layout: post
 title: Projects Site Redevelopment Complete
 created: 1420905850
-categories: writing
+categories: projects
 image: gm_siteplan.png
 ---
 
@@ -11,10 +11,6 @@ I have just finished getting in place the basic structures behind the sites for 
 The main reason behind this was that in the next couple of months I want to start looking for work again and was conscious of topping up my programming and tech skills with a real project. However each project also had it's own requirements in a site and I wanted to investigate more ideal solutions for each one instead of just doing everything in Drupal like I usually do.
 
 Along the way I have attempted to improve my knowledge of many associated skills and techniques such as LESS, SASS, Headless Drupal, Swift, Java, Responsive Design, DevOps and much more.
-
-Let's start with a picture of how everything fits together.
-
-[[{"type":"media","view_mode":"media_large","fid":"127","attributes":{"alt":"","class":"media-image","height":"342","width":"480"}}]]
 
 The Gregarious Mammal CMS built in Drupal is the central repository for most projects content and some CRM data. The Lean Traveler, Chip Shop and centralised production blog all utilise Drupal's domain module to effectively serve different areas of the site under different domains from one installation. As they are all basically content driven sites, this seemed the most effective solution as apart from layout and some features, they are all fairly similar sites.
 
