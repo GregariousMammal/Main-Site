@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="event">
+
+  <header class="post-header">
+    <aside class="image">
+      {% if page.image %}
+      {% picture article {{post.image}} alt="{{post.title}}" %}
+      {% endif %}
+    </aside>
+    <h1 class="post-title">{{ page.title }} @ {{ page.event }}</h1>
+    <b class="event-details">{{ page.date | date: '%B %d' }}</b><br/>
+    <b class="event-details">{{ page.venue }}</b>
+  </header>
+
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  {{ % if page.comments % }}
+{% include comments.html %}
+  {{ % endif % }}
+</div>
