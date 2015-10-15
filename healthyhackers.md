@@ -1,18 +1,14 @@
 ---
 layout: service
-permalink: services/catering/index.html
+permalink: services/healthyhackers/index.html
 image: services/healthy_hackers.jpg
 ---
 
 # Catering for Tech Events
-
-
 ## Are you tired of pizza?
-
 We get it. You're running an event and want something more interesting than pizza. You might have a function room or be using a backroom at a co-working space. You want something enjoyable by everyone that's healthy, tasty and convenient.
 
 Attendees want to network, they don't want their hands occupied with food. We make it easy with one handed healthy snacks that are easy to enjoy.
-
 
 ## Menu Choices
 _Suitable for morning tea, afternoon tea or evening event_
