@@ -9,6 +9,9 @@ We are fortunate to use a large room in our flat as our office. It's too big for
 
 We are located in Prenzlauer Berg, Berlin.
 
-The rates will be cheap and flexible and include an option for lunch.
+## Rates
+€6 for an 8 hour day<br/> €4 for a 4 hour half day <br/> €2 for lunch<br/>
 
-For now, we invite you to [submit an expression of interest](https://de.surveymonkey.com/r/XVTT9PJ) and we will be in touch soon.
+(Tea, Coffee, Water included)
+
+These may change over time, but we're keeping it simple for now. [Request your dates and times at this simple form](http://goo.gl/forms/PQOBUz4oFb) on we'll get back to you to confirm the place, we can fit 4 extra people at any one time.
