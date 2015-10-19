@@ -41,8 +41,8 @@ From 500+ pieces: €1.00 per share
 
 Free delivery for orders of €200+, or pick up available in Prenzlauer Berg.
 
-##Book your catering now
-Click [here](https://docs.google.com/forms/d/1_7zsPeJYc5RAquFzKGK570a6zjc05_pP57O_S2p4kpg/viewform?usp=send_form) to make a booking. We will then confirm with you in writing.
+## Book your catering now
+We currently have a basic enquiry form [here](https://docs.google.com/forms/d/1_7zsPeJYc5RAquFzKGK570a6zjc05_pP57O_S2p4kpg/viewform?usp=send_form). Please fill it in and we'll be in touch asap.
 
 ## Who are We?
 We are keen on healthy, tasty cooking and tech innovation. We come from long backgrounds in tech and cooking teaching, bringing our skills and interest to you!
