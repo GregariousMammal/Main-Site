@@ -1,38 +1,56 @@
----
-layout: service
-permalink: services/healthyhackers/index.html
-image: services/healthy_hackers.jpg
----
 
-# Foodie gift boxes 
-## Looking for a gift with a difference?
+##Jams
+![Jams](http://atravellingcook.com/wp-content/uploads/2015/10/jam.jpg)
 
-We get it. You're running an event and want something more interesting than pizza. You might have a function room or be using a backroom at a co-working space. You want something enjoyable by everyone that's healthy, tasty and convenient.
+*Pear and vanilla bean
+*Berry and rosewater
+*Strawberry balsamic black pepper
+*Lemon butter (curd)
+* Pumpkin butter
+* Spiced plum jam
+* Caramel apple jam
 
-Attendees want to network, they don't want their hands occupied with food. We make it easy with one handed healthy snacks that are easy to enjoy.
+##Cordials
+![Cordials](http://atravellingcook.com/wp-content/uploads/2015/10/cordials.jpg)
 
-## Sweet
-_Price: $50 per box + 3.30€ delivery Options:Vegan Cheese lovers box:•	Brie •	Cashew pesto cheese•	Almond feta cheese•	Gouda cheese•	1 190ml jar onion relish•	1 jar chilli pepper jelly•	Crackers _____________________________________________________________________________________________	Vegan sweet tooth box:•	Pear and ginger cordial concentrate•	Berry and rosewater jam
-* Spiced plum jam•	Caramel sauce •	Chocolate salami 
-_v: vegetarian, V: vegan, gf: gluten free_
-
-_Food can be 100% dairy free, egg free, gluten free, vegan by request._
-
-## Price List
+*Lemon and ginger cordial
+*Plum cordial
+*Mixed berry and rosewater cordial
+*Pear and ginger cordial
+*Mixed citrus cordial
 
 
-(Minimum order $50)
+##Relishes and sauces
+![Relishes and sauces](http://atravellingcook.com/wp-content/uploads/2015/10/chutneys.jpg)
 
-Free delivery for orders of €200+, or pick up available in Prenzlauer Berg.
+*Apple chutney
+*Onion relish
+* Apple and beetroot relish
+* Chilli and paprika jelly
+* Tomato ketchup
+* Srircha and bourbon sauce
+* Tomato kasundi
 
-##Book your catering now
-Click [here](https://docs.google.com/forms/d/1_7zsPeJYc5RAquFzKGK570a6zjc05_pP57O_S2p4kpg/viewform?usp=send_form) to make a booking. We will then confirm with you in writing.
+##Pickles
 
-## Who are We?
-We are keen on healthy, tasty cooking and tech innovation. We come from long backgrounds in tech and cooking teaching, bringing our skills and interest to you!
+![Pickles](http://atravellingcook.com/wp-content/uploads/2015/10/pickles.jpg)
+*Pickled beetroot
+*Spicy pickled cucumbers
+*Asian pickles
+*Pickled red onion
 
-## What else can we Provide?
 
-- On site healthy cooking demonstrations including preserving, pickling, raw desserts, cordials, smoothies and vegan cooking.
-- On site cooking classes which are great for team building.
-- Lunch catering that's either ready made (like cold salads) or needs to be heated (chillies, curries and gumbo).
+##Vegan Cheese
+![Vegan Cheese](http://atravellingcook.com/wp-content/uploads/2015/10/cheese.jpg)
+*Cashew pesto cheese
+*Almond fetta
+*Cashew gouda
+*Black beer cheese
+*Coconut brie
+
+##Sweets
+![Sweets](http://atravellingcook.com/wp-content/uploads/2015/10/sweet.jpg)
+*Pantone
+*Chocolate salami
+
+
