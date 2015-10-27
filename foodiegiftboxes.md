@@ -1,5 +1,6 @@
 
 ##Jams
+
 ![Jams](http://atravellingcook.com/wp-content/uploads/2015/10/jam.jpg)
 
 *Pear and vanilla bean

@@ -1,14 +1,18 @@
 #Frequently asked questions
 
 ##How do I make an order?
+Fill in the survey form and email to cate@atravellingcook.com You will then receive an invoice (including postage/delivery fee). Once paid via paypal, your order will be prepared. 
 
-##what is the minimum order?
+##How do I pay?
+Please pay via paypal. You will receive the details after sending through your order request. 
+
+##What is the minimum order?
 The minimum order for a gift box is $22 (plus delivery/postage). 
 
 ##I want to send the box as a gift
 No problem, just specify the name and address of the recipient. We can even add a printed message from you in a gift card, no charge. 
 
-##How will I recieve my order
+##How will I recieve my order?
 You order will be posted or hand delivered (in Berlin) for a fee. You also have the alternative of picking up your box from Prenzlauer berg. 
 
 ##Why don't you post vegan cheese?
@@ -19,10 +23,10 @@ Where absolutely possible, we will hand deliver on the same day (if you book bef
 
 For postal deliveries, we will post on the same day and arrival will depend on the timing of Deutsch post. We will let you know when your box is posted! 
 
-If you request something that we are need to make more of, we will let you know and give you the option to order an alternative product.
+If you request something that we are need to make more of (some cheeses take a while to cure), we will let you know and give you the option to order an alternative product.
 
 ##What will the box look like?
-We focus on providing quality products for foodies and ensuring that the box gets to you securely. We've done careful budgeting. We'd honestly rather spend your money on both of these factors rather than an expensive box or basket and gift wrap and cellophane. You can of course gift wrap the items yourself! 
+We focus on providing quality products for foodies and ensuring that the box gets to you securely. We've done careful budgeting. We'd honestly rather spend your money on both of these factors rather than an expensive box or basket and gift wrap and cellophane. You will receive a box (possibly recycled from an Amazon or Zalando order) and carefully packaged goods to avoid breakage. You can of course gift wrap the items yourself! 
 
 ##Is everything really vegan?
 Yes it is all vegan. Really. 
