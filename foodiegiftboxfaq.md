@@ -1,7 +1,7 @@
 #Frequently asked questions
 
 ##How do I make an order?
-Fill in the survey form and email to cate@atravellingcook.com You will then receive an invoice (including postage/delivery fee). Once paid via paypal, your order will be prepared. 
+Fill in the survey form [here](  You will then receive an invoice (including postage/delivery fee). Once paid via paypal, your order will be prepared. 
 
 ##How do I pay?
 Please pay via paypal. You will receive the details after sending through your order request. 
@@ -30,6 +30,9 @@ We focus on providing quality products for foodies and ensuring that the box get
 
 ##Is everything really vegan?
 Yes it is all vegan. Really. 
+
+##Why are you doing this?
+We have been making homemade goods and teaching cooking in Australia and Germany for 8 years. This is a chance to *trial* the idea of retailing some of our homemade goods. Everything is very much in beta mode, if there is enough interest, we may take it further! 
 
 
 

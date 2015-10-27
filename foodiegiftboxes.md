@@ -1,5 +1,15 @@
+#Foodie gift boxes
+
+Looking for a gift for someone? It's easy to buy a voucher or a bottle of wine but how about something a bit more special? Search no further to find tasty, unique producs that are made locally in Berlin. We bring personalised gifts back by creating delicious handmade productssing a wonderful variety of interesting ingredients. 
+
+These are perfect for festive occasions, birthdays or just because you fancy a treat.
+
+You can place your order [here](https://docs.google.com/forms/d/1FhpefEhbsJrLObpX4wvk-PI2TlxwhjzPK1OStJnjr8o/viewform)
+
 
 ##Jams
+###Jam 230ml 4.00€ each
+Who doesn't love jam on fresh bread, a hot scone fresh from the oven or sandwiched between two pieces of cake?
 
 ![Jams](http://atravellingcook.com/wp-content/uploads/2015/10/jam.jpg)
 
@@ -10,8 +20,12 @@
 * Pumpkin butter
 * Spiced plum jam
 * Caramel apple jam
+* Grape jelly
 
 ##Cordials
+###Cordials (concentrated) 250mls 4.00€ each
+Our cordials are handmade and come to you undilluted. Add to sparkling water or use to make a delicious coctail. 
+
 ![Cordials](http://atravellingcook.com/wp-content/uploads/2015/10/cordials.jpg)
 
 *Lemon and ginger cordial
@@ -22,6 +36,9 @@
 
 
 ##Relishes and sauces
+###Relishes 230ml 4.00€ each
+Lift any meal to practically gourmet with our delicious relishes and sauces. They all work wonderfully with bread, main meals, stirred through pasta or as part of a cheese and vegetable platter.
+
 ![Relishes and sauces](http://atravellingcook.com/wp-content/uploads/2015/10/chutneys.jpg)
 
 *Apple chutney
@@ -33,6 +50,9 @@
 * Tomato kasundi
 
 ##Pickles
+###Pickles 230ml 4.00€ each
+
+Who doesn't love pickles? Enjoy from the jar, or in sandwiches or salads (if they last that long!)
 
 ![Pickles](http://atravellingcook.com/wp-content/uploads/2015/10/pickles.jpg)
 *Pickled beetroot
@@ -42,6 +62,8 @@
 
 
 ##Vegan Cheese
+###Vegan cheese 4.50€ each 150-200 grams
+Cheese is often the most difficult food to give up for many vegans. These delicious cheese are made over a period of months from plant based ingredients and work wonderfully in sandwiches, on pizza, melted through pasta or as part of a gourmet cheese board. Try them all! 
 ![Vegan Cheese](http://atravellingcook.com/wp-content/uploads/2015/10/cheese.jpg)
 *Cashew pesto cheese
 *Almond fetta
@@ -50,8 +72,15 @@
 *Coconut brie
 
 ##Sweets
+###Sweet things 5.00€ approx 350 grams
+
+These are a couple of bespoke goodies that I have been making for a number of years. Absolutely delectable! 
 ![Sweets](http://atravellingcook.com/wp-content/uploads/2015/10/sweet.jpg)
 *Pantone
 *Chocolate salami
+
+
+You can place your order [here](https://docs.google.com/forms/d/1FhpefEhbsJrLObpX4wvk-PI2TlxwhjzPK1OStJnjr8o/viewform)
+
 
 
