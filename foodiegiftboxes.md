@@ -6,6 +6,8 @@ These are perfect for festive occasions, birthdays or just because you fancy a t
 
 You can place your order [here](https://docs.google.com/forms/d/1FhpefEhbsJrLObpX4wvk-PI2TlxwhjzPK1OStJnjr8o/viewform)
 
+Want more information? Read our FAQ's [here] ()
+
 
 ##Jams
 ###Jam 230ml 4.00€ each
@@ -81,6 +83,9 @@ These are a couple of bespoke goodies that I have been making for a number of ye
 
 
 You can place your order [here](https://docs.google.com/forms/d/1FhpefEhbsJrLObpX4wvk-PI2TlxwhjzPK1OStJnjr8o/viewform)
+
+Want more information? Read our FAQ's [here] ()
+
 
 
 
