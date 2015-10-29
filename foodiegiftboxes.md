@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Foodie gift boxes
 
 Looking for a gift for someone? It's easy to buy a voucher or a bottle of wine but how about something a bit more special? Search no further to find tasty, unique producs that are made locally in Berlin. We bring personalised gifts back by creating delicious handmade productssing a wonderful variety of interesting ingredients. 
@@ -89,3 +90,56 @@ Want more information? Read our FAQ's [here] ()
 
 
 
+=======
+---
+layout: service
+permalink: services/giftboxes/index.html
+image: services/healthy_hackers.jpg
+---
+
+# Foodie Gift Boxes
+## Jams
+![Jams](http://atravellingcook.com/wp-content/uploads/2015/10/jam.jpg)
+- Pear and vanilla bean
+- Berry and rosewater
+- Strawberry balsamic black pepper  
+- Lemon butter (curd)
+- Pumpkin butter
+- Spiced plum jam
+- Caramel apple jam
+
+## Cordials ![Cordials](http://atravellingcook.com/wp-content/uploads/2015/10/cordials.jpg)
+- Lemon and ginger cordial
+- Plum cordial
+- Mixed berry and rosewater cordial  
+- Pear and ginger cordial
+- Mixed citrus cordial
+
+## Relishes and sauces
+![Relishes and sauces](http://atravellingcook.com/wp-content/uploads/2015/10/chutneys.jpg)
+- Apple chutney
+- Onion relish
+- Apple and beetroot relish
+- Chilli and paprika jelly
+- Tomato ketchup
+- Srircha and bourbon sauce
+- Tomato kasundi
+
+## Pickles
+![Pickles](http://atravellingcook.com/wp-content/uploads/2015/10/pickles.jpg) - Pickled beetroot
+- Spicy pickled cucumbers
+- Asian pickles
+- Pickled red onion
+
+## Vegan Cheese
+![Vegan Cheese](http://atravellingcook.com/wp-content/uploads/2015/10/cheese.jpg)
+- Cashew pesto cheese
+- Almond fetta
+- Cashew gouda
+- Black beer cheese
+- Coconut brie
+
+## Sweets ![Sweets](http://atravellingcook.com/wp-content/uploads/2015/10/sweet.jpg)
+- Pantone
+- Chocolate salami
+>>>>>>> 0be21277a952135a719c2c60b6fee203c535a554
