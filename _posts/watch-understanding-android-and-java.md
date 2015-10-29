@@ -1,9 +1,9 @@
 ---
 
-title:watch-understanding-android-and-java
-created: 2015-23-10
-publication-url:http://www.sitepoint.com/watch-understanding-android-and-java/
-categories: writing chris chinchilla
+title: watch-understanding-android-and-java
+created: 20151023
+publication_url: http://www.sitepoint.com/watch-understanding-android-and-java/
+categories: writing chrischinchilla
 
 ---
 
