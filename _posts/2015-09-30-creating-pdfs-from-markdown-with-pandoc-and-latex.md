@@ -1,7 +1,7 @@
 ---
 
 title:creating-pdfs-from-markdown-with-pandoc-and-latex
-created: 20153009
+created: 20150930
 publication_url:http://www.sitepoint.com/creating-pdfs-from-markdown-with-pandoc-and-latex/
 categories: writing chrischinchilla
 
