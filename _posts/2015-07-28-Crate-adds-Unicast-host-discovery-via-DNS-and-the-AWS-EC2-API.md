@@ -11,3 +11,4 @@ A well functioning Crate cluster relies on its nodes being able to utilize servi
 Until now the options available have been multicast, and when this is unavailable, specifying unicast hosts.
 
 To help with Unicast host discovery we are pleased to announce support for discovery via DNS and the AWS EC2 API.
+[Read more](ttps://crate.io/blog/crate-unicast-host-discovery-dns-aws/)
