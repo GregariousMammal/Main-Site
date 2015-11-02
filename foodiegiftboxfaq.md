@@ -1,14 +1,15 @@
 # Frequently asked questions
+## Why are you doing this?
+We have been making homemade goods and teaching cooking in Australia and Germany for 8 years. This is a chance to _trial_ the idea of retailing some of our homemade goods. Everything is very much in beta mode, if there is enough interest, we may take it further!
+
 ## How do I make an order?
 Fill in the survey form and email to cate@atravellingcook.com You will then receive an invoice (including postage/delivery fee). Once paid via paypal, your order will be prepared.
 
-<<<<<<< HEAD
-##How do I make an order?
-Fill in the survey form [here](  You will then receive an invoice (including postage/delivery fee). Once paid via paypal, your order will be prepared. 
-=======
+## How do I make an order?
+Fill in the survey form [here](You will then receive an invoice (including postage/delivery fee). Once paid via paypal, your order will be prepared.
+
 ## How do I pay?
 Please pay via paypal. You will receive the details after sending through your order request.
->>>>>>> 0be21277a952135a719c2c60b6fee203c535a554
 
 ## What is the minimum order?
 The minimum order for a gift box is €22 (plus delivery/postage).
@@ -29,23 +30,8 @@ For postal deliveries, we will post on the same day and arrival will depend on t
 
 If you request something that we are need to make more of (some cheeses take a while to cure), we will let you know and give you the option to order an alternative product.
 
-<<<<<<< HEAD
-##What will the box look like?
-We focus on providing quality products for foodies and ensuring that the box gets to you securely. We've done careful budgeting. We'd honestly rather spend your money on both of these factors rather than an expensive box or basket and gift wrap and cellophane. You will receive a box (possibly recycled from an Amazon or Zalando order) and carefully packaged goods to avoid breakage. You can of course gift wrap the items yourself! 
-
-##Is everything really vegan?
-Yes it is all vegan. Really. 
-
-##Why are you doing this?
-We have been making homemade goods and teaching cooking in Australia and Germany for 8 years. This is a chance to *trial* the idea of retailing some of our homemade goods. Everything is very much in beta mode, if there is enough interest, we may take it further! 
-
-
-
-
-=======
 ## What will the box look like?
 We focus on providing quality products for foodies and ensuring that the box gets to you securely. We've done careful budgeting. We'd honestly rather spend your money on both of these factors rather than an expensive box or basket and gift wrap and cellophane. You will receive a box (possibly recycled from an Amazon or Zalando order) and carefully packaged goods to avoid breakage. You can of course gift wrap the items yourself!
->>>>>>> 0be21277a952135a719c2c60b6fee203c535a554
 
 ## Is everything really vegan?
 Yes it is all vegan. Really.
