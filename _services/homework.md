@@ -1,10 +1,11 @@
 ---
+title: 'Co-Work with Us!'
 layout: service
 permalink: services/homework/index.html
 image: null
+excerpt: "We are fortunate to use a large room in our flat as our office. It's too big for us, so we welcome you to come and share it with us!"
 ---
 
-# Co-Work with Us!
 We are fortunate to use a large room in our flat as our office. It's too big for us, so we welcome you to come and share it with us!
 
 We are located in Prenzlauer Berg, Berlin.

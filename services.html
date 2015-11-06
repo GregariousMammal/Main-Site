@@ -11,37 +11,31 @@ permalink: services/index.html
     <h1 class="post-title">Services</h1>
     <div class="description">
       <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Polemoni et iam ante Aristoteli ea prima visa sunt, quae paulo ante dixi. Cur iustitia laudatur?
+        Combining our backgrounds in development, community development and education we are offering technical writing and developer relations services. We have one of our services ready to go, with more details to follow soon!
       </p>
     </div>
   </div>
-  {% assign services = site.services %}
 
   <section>
     <ul class="post-list">
-      {% for service in services %}
-
+      {% for post in site.services limit:15%}
       <li>
-        {% if service.image %}
-        {% picture listings {{service.image}} alt="{{service.title}}" %}
+        {% if post.image %}
+        {% picture listings {{post.image}} alt="{{post.title}}" %}
         {% endif %}
         <h2>
-          <a href="{{ service.pres_url }}" target="_blank">{{ service.title }}</a>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
-        {{ service.excerpt }}
+        <p>
+          {{ post.excerpt }}
+        </p>
         <div class="post-meta">
-          <p>
-            <b>Presented at:</b>
-
-            {% if service.presented %}
-            {{ service.presented }}
-            {% endif %}
-          </p>
-          <a class="post-link" href="{{ service.pres_url }}" target="_blank">Read More</a>
-
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+          {% if post.categories %}
+          {% include category_block.html %}
+          {% endif %}
         </div>
       </li>
-
       {% endfor %}
     </ul>
   </section>
