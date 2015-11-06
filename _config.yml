@@ -16,6 +16,9 @@ collections:
   events:
     output: true
     layout: event
+  services:
+    output: true
+    layout: service
 
 defaults:
   -

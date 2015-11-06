@@ -1,4 +1,8 @@
-# Foodie gift boxes
+---
+layout: service
+title: Foodie gift boxes
+---
+
 Looking for a gift for a person or workplace that's a bit more special? Look no further to find tasty, unique products made locally in Berlin. We bring personalized gifts back by creating delicious handmade products using a variety of interesting ingredients.
 
 These are perfect for festive occasions, birthdays, corporate gifts or just because you fancy a treat.

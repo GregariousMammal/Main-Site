@@ -1,0 +1,48 @@
+---
+layout: default
+permalink: services/index.html
+---
+
+<div class="home">
+  <div class="services">
+    <div class="image">
+      {% picture categories cat_image.gif alt="Cat Image" %}
+    </div>
+    <h1 class="post-title">Services</h1>
+    <div class="description">
+      <p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dolor ergo, id est summum malum, metuetur semper, etiamsi non aderit; Polemoni et iam ante Aristoteli ea prima visa sunt, quae paulo ante dixi. Cur iustitia laudatur?
+      </p>
+    </div>
+  </div>
+  {% assign services = site.services %}
+
+  <section>
+    <ul class="post-list">
+      {% for service in services %}
+
+      <li>
+        {% if service.image %}
+        {% picture listings {{service.image}} alt="{{service.title}}" %}
+        {% endif %}
+        <h2>
+          <a href="{{ service.pres_url }}" target="_blank">{{ service.title }}</a>
+        </h2>
+        {{ service.excerpt }}
+        <div class="post-meta">
+          <p>
+            <b>Presented at:</b>
+
+            {% if service.presented %}
+            {{ service.presented }}
+            {% endif %}
+          </p>
+          <a class="post-link" href="{{ service.pres_url }}" target="_blank">Read More</a>
+
+        </div>
+      </li>
+
+      {% endfor %}
+    </ul>
+  </section>
+</div>
