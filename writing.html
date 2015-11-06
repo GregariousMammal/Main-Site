@@ -26,8 +26,13 @@ permalink: writing/index.html
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         {{ post.excerpt }}
+        <!-- TODO: Let's consolidate -->
         <div class="post-meta">
+          {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' %}
+          <a class="post-link" href="{{ post.publication_url }}">Read More</a>
+          {% else %}
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+          {% endif %}
           {% if post.categories %}
           {% include category_block.html %}
           {% endif %}
