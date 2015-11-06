@@ -13,6 +13,12 @@ paginate: 15
 collections:
   presentations:
     output: true
+  events:
+    output: true
+    layout: event
+  services:
+    output: true
+    layout: service
 
 defaults:
   -
@@ -61,6 +67,17 @@ picture:
         # height: 200
       source_default:
         width: 200
+    service:
+      ppi: [1, 1.5, 2]
+      attr:
+        class: service
+        itemprop: image
+      source_medium:
+        media: "(min-width: 40em)"
+        width: 300
+        # height: 200
+      source_default:
+        width: 300
     mediumscreen:
       ppi: [1, 1.5, 2]
       attr:

@@ -207,7 +207,9 @@ section {
     }
   }
 }
-
+.event-details {
+  margin-left: 165px;
+}
 .post-meta {
   margin-left: 165px;
   // display: inline-block;
@@ -254,9 +256,9 @@ aside.image {
 
   picture {
     img {
-      max-width: 200px;
+      // max-width: 200px;
       vertical-align: middle;
-      max-height: 300px;
+      // max-height: 300px;
       // min-height: 200px;
       // min-width: 100px;
       @include media-query($on-laptop) {
@@ -277,6 +279,7 @@ aside.image {
 
   h2 {
     @extend .headings;
+    text-align: left;
     font-size: $base-font-size * 1.05;
     @include media-query($on-laptop) {
       font-size: $base-font-size;
