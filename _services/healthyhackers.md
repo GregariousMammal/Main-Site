@@ -13,6 +13,7 @@ Attendees want to network, they don't want their hands occupied with food. We ma
 
 ## Menu Choices
 _Suitable for morning tea, afternoon tea or evening event_
+
 - Rice paper spring rolls with ginger miso dipping sauce (V, gf)
 - Satay tofu skewers with coriander and spring onion peanut butter (V, gf)
 - Falafels and homemade hummus (V, gf)
