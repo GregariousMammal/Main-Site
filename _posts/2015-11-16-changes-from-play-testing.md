@@ -18,3 +18,4 @@ In reality businesses go bankrupt all the time and this doesn't stop their found
 I was always a little unclear on how to track how much money and for how long a card brings income to a player. One play tester by chance hit upon the great idea of adding piles of money split into the quantity and number of turns that can be removed each turn. Another simple but effective solution.
 
 ## Introducing Income Cards / Concept
+## Accessory Tweaks
