@@ -274,6 +274,10 @@ aside.image {
     @extend .headings;
     text-align: left;
     font-size: $base-font-size * 1.05;
+    margin-top: $spacing-unit;
+    margin-bottom: $spacing-unit;
+    clear: both;
+
     @include media-query($on-laptop) {
       font-size: $base-font-size;
     }

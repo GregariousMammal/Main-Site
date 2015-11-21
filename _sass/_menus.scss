@@ -148,7 +148,7 @@
   }
 }
 
-@include media-query($on-palm) {
+@include media-query($on-palm + 200px) {
   #menu {
     display: none;
   }

@@ -2,8 +2,8 @@
 layout: service
 title: Foodie gift boxes
 permalink: services/giftboxes/index.html
-image: null
-excerpt: ''
+image: services/gift_boxes.jpg
+excerpt: "Looking for a gift for a person or workplace that's a bit more special? Look no further to find tasty, unique products made locally in Berlin."
 ---
 
 Looking for a gift for a person or workplace that's a bit more special? Look no further to find tasty, unique products made locally in Berlin. We bring personalized gifts back by creating delicious handmade products using a variety of interesting ingredients.
@@ -61,7 +61,7 @@ Lift any meal to practically gourmet with our delicious relishes and sauces. The
 
 Who doesn't love pickles? Enjoy from the jar, or in sandwiches or salads (if they last that long!)
 
-![Pickles](http://atravellingcook.com/wp-content/uploads/2015/10/pickles.jpg) 
+![Pickles](http://atravellingcook.com/wp-content/uploads/2015/10/pickles.jpg)
 
 - Pickled beetroot
 - Spicy pickled cucumbers
