@@ -3,7 +3,7 @@
 layout: post
 title: Geek and Hacker health
 presented: RejectJS
-pres_url: 'http://rejectjs.org/speakers/#chris-ward'
+pres_url: 'https://www.youtube.com/watch?v=-AlmhhnfJ-E'
 date_presented: 2015/09/24
 pres_source:
 
