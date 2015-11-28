@@ -1,12 +1,10 @@
 ---
-
 layout: post
 title: Customising CiviCRM
 presented: CiviCRM Melbourne
 pres_url: 'http://www.slideshare.net/chrischinchilla/customising-civicrm'
-date_presented: 2012/10/29
-pres_source:
-
+date_presented: 2012-10-29T00:00:00.000Z
+pres_source: 'https://www.dropbox.com/s/1tlem5pwxloeaae/Customising%20CiviCRM.pptx?dl=0'
 ---
 
-The various methods to customise your CiviCRM installation to meet your needs and requirements. [Read more](http://www.slideshare.net/chrischinchilla/customising-civicrm)
+The various methods to customise a CiviCRM installation to meet your needs and requirements.

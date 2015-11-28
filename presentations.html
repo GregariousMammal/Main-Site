@@ -11,7 +11,7 @@ permalink: presentations/index.html
 
   <section>
     <ul class="post-list">
-      {% for presentation in presentations %}
+      {% for presentation in presentations reversed %}
 
       <li>
         {% if presentation.image %}
@@ -20,17 +20,17 @@ permalink: presentations/index.html
         <h2>
           <a href="{{ presentation.pres_url }}" target="_blank">{{ presentation.title }}</a>
         </h2>
-        {{ presentation.excerpt }}
+        {{ presentation.content }}
         <div class="post-meta">
           <p>
             <b>Presented at:</b>
 
             {% if presentation.presented %}
-            {{ presentation.presented }}
+            {{ presentation.presented }}, {{presentation.date_presented | date: '%B %d %Y' }}
             {% endif %}
           </p>
-          <a class="post-link" href="{{ presentation.pres_url }}" target="_blank">Read More</a>
-
+          <a class="post-link" href="{{ presentation.pres_url }}" target="_blank">Presentation</a><br/>
+          <a class="post-link" href="{{ presentation.pres_source }}" target="_blank">Presentation File</a>
         </div>
       </li>
 
