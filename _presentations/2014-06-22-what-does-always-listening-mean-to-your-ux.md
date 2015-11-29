@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "What does 'always listening' mean to your CMS?"
+title: "What does 'always listening' mean to your UX?"
 presented: Internet of Things Meet up
 pres_url: 'http://www.slideshare.net/chrischinchilla/always-listening-user-experience'
-date_presented: 22-06-2014
+date_presented: 2014-06-22T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/sh/82ati79vv9h42gj/AABQ68-sbPhuwWJpFWKWznRja?dl=0'
 ---
 

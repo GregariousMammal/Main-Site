@@ -3,7 +3,7 @@ layout: post
 title: Managing Distributed Databases with Apache Mesos
 presented: Apache Big Data Europe
 pres_url: 'http://events.linuxfoundation.org/events/apache-big-data-europe/program/schedule'
-date_presented: 28-09-2015
+date_presented: 2015-09-28T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/js2j29krgrjf43s/Mesos%20Preso.key?dl=0'
 ---
 

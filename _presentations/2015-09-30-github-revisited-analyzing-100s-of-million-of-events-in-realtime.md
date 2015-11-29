@@ -3,7 +3,7 @@ layout: post
 title: GitHub revisited - Analyzing 100s of Million of events in realtime
 presented: Code.Talks Hamburg
 pres_url: 'https://www.codetalks.de/2015/programm/github-revisited-analyzing-100s-of-million-of-events-in-realtime'
-date_presented: 01-10-2015
+date_presented: 2015-09-30T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/363bds63f9ielg3/GitHub%20Presentation%20%28Draft%29.key?dl=0'
 ---
 

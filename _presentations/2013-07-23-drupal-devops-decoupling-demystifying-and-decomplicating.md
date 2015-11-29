@@ -3,7 +3,7 @@ layout: post
 title: 'Drupal DevOps-decoupling, demystifying and decomplicating'
 presented: Melbourne DevOps
 pres_url: 'http://www.slideshare.net/chrischinchilla/melbourne-devops?related=1'
-date_presented: 23-07-2013
+date_presented: 2013-07-23T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/31kqaxrmryinkm2/Melbourne%20Devops.pptx?dl=0'
 ---
 

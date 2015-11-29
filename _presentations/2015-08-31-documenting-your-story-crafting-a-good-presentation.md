@@ -3,7 +3,7 @@ layout: post
 title: Documenting your Story - Crafting a good presentation
 presented: 'Write the docs, Prague'
 pres_url: 'http://writethedocs-www.readthedocs.org/conf/eu/2015/speakers/#speaker-cward'
-date_presented: 31-08-2015
+date_presented: 2015-08-31T00:00:00.000Z
 pres_source: 'http://presentations.gregariousmammal.com/good_presentations/'
 ---
 
