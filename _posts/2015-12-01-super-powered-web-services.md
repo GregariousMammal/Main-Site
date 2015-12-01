@@ -1,6 +1,6 @@
 ---
 title: Super Powered Web Services
-created: 20150111
+created: 2015-11-01T00:00:00.000Z
 publication_url: 'https://www.sitepoint.com/premium/screencasts/super-powered-web-services '
 categories: 'writing, sitepoint, video'
 ---
