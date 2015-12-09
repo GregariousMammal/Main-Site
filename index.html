@@ -19,9 +19,16 @@ layout: default
         {% if post.image %}
         {% picture listings {{post.image}} alt="{{post.title}}" %}
         {% endif %}
-        <h2>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+                  {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' %}
+                  <h2>
+                    <a href="{{ post.publication_url }}">{{ post.title }}</a>
+                  </h2>
+                  {% else %}
+                  <h2>
+                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+                  </h2>
+                  {% endif %}
+
         {{ post.excerpt }}
         <!-- TODO: Let's consolidate -->
         <div class="post-meta">
