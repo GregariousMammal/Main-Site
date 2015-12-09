@@ -126,6 +126,12 @@
       li {
         font-weight: normal;
       }
+
+    }
+    ul.sub-menu {
+      margin-top: -1.1em;
+      margin-left: 1.1em;
+      padding-top: 1.1em;
     }
   }
 
@@ -142,7 +148,7 @@
   }
 }
 
-@include media-query($on-palm) {
+@include media-query($on-palm + 200px) {
   #menu {
     display: none;
   }
