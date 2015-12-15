@@ -2,6 +2,7 @@
 layout: post
 title: Further Changes From Play Testing
 date: '2015-12-06'
+categories: projects chipshop
 ---
 A few more changes from my first play testing session.
 

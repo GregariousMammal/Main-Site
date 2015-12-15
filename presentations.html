@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: presentations/index.html
+paginate:
+  collection: presentations
 ---
 
 <div class="home">
@@ -11,7 +13,7 @@ permalink: presentations/index.html
 
   <section>
     <ul class="post-list">
-      {% for presentation in presentations reversed %}
+      {% for presentation in paginator.presentations reversed %}
 
       <li>
         {% if presentation.image %}
@@ -37,4 +39,6 @@ permalink: presentations/index.html
       {% endfor %}
     </ul>
   </section>
+  {% include pagination.html %}
+
 </div>

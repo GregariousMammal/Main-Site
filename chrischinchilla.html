@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: writing/chrischinchilla/index.html
+paginate:
+  category: chrischinchilla
 ---
 
 <div class="home">
@@ -16,8 +18,7 @@ permalink: writing/chrischinchilla/index.html
   </div>
   <section>
     <ul class="post-list">
-      {% for post in site.categories.writing limit:15%}
-      {% if post.categories[1] == 'chrischinchilla' %}
+      {% for post in paginator.posts %}
 
       <li>
         {% if post.image %}
@@ -34,9 +35,10 @@ permalink: writing/chrischinchilla/index.html
           {% endif %}
         </div>
       </li>
-      {% endif %}
 
       {% endfor %}
     </ul>
   </section>
+          {% include pagination.html %}
+
 </div>

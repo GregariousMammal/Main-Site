@@ -1,7 +1,8 @@
 ---
 layout: default
 permalink: writing/index.html
-
+paginate:
+  category: writing
 ---
 
 <div class="home">
@@ -17,7 +18,8 @@ permalink: writing/index.html
 
   <section>
     <ul class="post-list">
-      {% for post in site.categories.writing limit:15%}
+      {% for post in paginator.posts %}
+
       <li>
         {% if post.image %}
         {% picture listings {{post.image}} alt="{{post.title}}" %}
@@ -41,4 +43,6 @@ permalink: writing/index.html
       {% endfor %}
     </ul>
   </section>
+  {% include pagination.html %}
+
 </div>
