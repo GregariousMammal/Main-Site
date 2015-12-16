@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Lincolnshire
-created: 1312187610
+created: 2011-08-01T00:00:00.000Z
 images: lincoln.jpg
-categories: writing chrischinchilla travel
+categories: writing chrischinchilla
+tags: travel uk
 ---
 
 It's amazing what you can find in the country with a little digging...

@@ -2,7 +2,8 @@
 layout: post
 title: Louis Elliot
 created: 1065274284
-categories: writing chrischinchilla music
+categories: writing chrischinchilla
+tags: music reviews
 ---
 
 Louis Eliot started his love affair with music at an early age, his influences spanning from the Wild Cornish countryside to the bohemia of Ladbroke grove with pretty much everything you could think of in-between. His career started in the early 90's with 'Kinky Machine', who's two albums achieved a reasonable degree of success before (Ironically) the band were overtaken by the likes of the very bands who'd supported them in the past, coupled with problems from their new label MCA, the core of the band re-invented themselves as 'Rialto'. Officially forming in 1997 the new line-up finally released their debut album in 1998, which, despite a constant string of bad luck with record labels, sold 250,000 copies and featured several hit singles. Although seemingly disappearing of the face of the planet since 2000 the band actually released a second album (Night on Earth - Eagle Records) last year. So with Rialto not officially having split and it looking likely that they may yet release another album within a few years what exactly has their front man been up to?

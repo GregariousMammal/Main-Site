@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Bill Bryson - A Short History of nearly everything
-created: 1205729086
-categories: writing chrischinchilla review
+created: 2008-03-17T00:00:00.000Z
+categories: writing chrischinchilla
+tags: reviews books history
 ---
 
 I have a recently rediscovered passion and interest for History, absorbing many tomes over the past few months, my favourite being brief surmises of 'all of History'.

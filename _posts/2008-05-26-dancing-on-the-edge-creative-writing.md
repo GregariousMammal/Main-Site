@@ -2,7 +2,8 @@
 layout: post
 title: Dancing on the Edge - Creative Writing
 created: 1211754290
-categories: writing chrischinchilla creative
+categories: writing chrischinchilla
+tags: creative
 ---
 
 I'm dancing on the edge of normality, waggling my arse at the people inside and loving every minute.

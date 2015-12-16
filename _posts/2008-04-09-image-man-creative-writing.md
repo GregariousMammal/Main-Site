@@ -2,7 +2,8 @@
 layout: post
 title: Image Man - Creative Writing
 created: 1207717422
-categories: writing chrischinchilla creative
+categories: writing chrischinchilla
+tags: creative
 ---
 
 An image man does what his image can

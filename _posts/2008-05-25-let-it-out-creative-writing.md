@@ -2,7 +2,8 @@
 layout: post
 title: Let it Out - Creative Writing
 created: 1211734800
-categories: writing chrischinchilla creative
+categories: writing chrischinchilla
+tags: creative
 ---
 
 Tell me what the matter is, I really want to know.
