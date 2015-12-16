@@ -2,7 +2,8 @@
 layout: post
 title: OOCON
 created: 1199978925
-categories: writing chrischinchilla creative
+categories: writing chrischinchilla
+tags: creative
 ---
 
 Isn't it funny how people's legs move in harmony with each other when they walk together,

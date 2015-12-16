@@ -2,7 +2,8 @@
 layout: post
 title: Chris TT - Interview
 created: 1199985386
-categories: writing chrischinchilla music
+categories: writing chrischinchilla
+tags: music reviews
 ---
 
 Hey Mr C, how you? Yes, it's been too long, I'm very well thank-you. I've Mainly been finishing Capital, releasing the 'This Gun' EP and trying to get my live gigging self shipshape for next year. Had a struggle with lineups and lack of rehearsal time but it's coming together now and it'll be an ace year.

@@ -2,7 +2,8 @@
 layout: post
 title: City Life - Creative Writing
 created: 1211754427
-categories: writing chrischinchilla creative
+categories: writing chrischinchilla
+tags: creative
 ---
 
 - Applecore

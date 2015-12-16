@@ -2,7 +2,8 @@
 layout: post
 title: 28 Costumes - Dublin Castle
 created: 1139674236
-categories: writing chrischinchilla music
+categories: writing chrischinchilla
+tags: music reviews
 ---
 
 Wow!
