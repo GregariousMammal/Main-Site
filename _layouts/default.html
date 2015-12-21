@@ -1,29 +1,25 @@
 <!DOCTYPE html>
 <html>
 
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
+<body>
 
-    {% include header.html %}
+  {% include header.html %}
 
-    <div id="menu">
+  <div id="menu">
     {% include main_menu.html %}
+    {% include tagCloud.html %}
+  </div>
 
-</div>
-
-    <div class="page-content">
-(default temp, sitewide)
-Category list - {% include categoryList.html %}
-Tags list - {% include tagCloud.html %}
-
-      <div class="wrapper">
-        {{ content }}
-      </div>
+  <div class="page-content">
+    <div class="wrapper">
+      {{ content }}
     </div>
+  </div>
 
-    {% include footer.html %}
+  {% include footer.html %}
 
-  </body>
+</body>
 
 </html>
