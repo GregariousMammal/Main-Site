@@ -1,9 +1,10 @@
 .tagsList {
   font-size: $tiny-font-size;
-  width: 15%;
+  width: 12%;
   margin: 0;
   padding: 0;
   display: inline;
+  line-height: 1;
 
   h2 {
     margin-bottom: 0;
@@ -11,6 +12,9 @@
 
   a {
     text-transform: capitalize;
+  }
+  p {
+    margin-top: $spacing-unit/2;
   }
 }
 

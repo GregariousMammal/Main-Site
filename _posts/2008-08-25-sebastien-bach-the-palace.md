@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sebastien Bach - The Palace
-created: 1219690449
+created: 2008-08-25T00:00:00.000Z
 categories: writing chrischinchilla
 tags: music reviews
 ---

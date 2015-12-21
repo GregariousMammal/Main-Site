@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Nexus 4 – The Android iPhone and that's ok"
-created: 1367108778
+created: 2013-04-28T00:00:00.000Z
+categories: writing chrischinchilla
+tags: android nexus phones
 image: nexus-4.jpg
 ---
 
