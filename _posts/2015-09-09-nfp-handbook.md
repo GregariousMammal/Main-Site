@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Sustaining and Maintaining your Not-for-Profit
+created: 2015-09-09T00:00:00.000Z
 categories: projects not-profit-handbook
+tags: not-for-profit
 ---
 
 You've had and developed an idea, got it started and hit the ground running with people involved, projects happening and hopefully some outcomes.
@@ -114,6 +116,7 @@ For example, in Chris' work establishing Green Renters, the organisation had qua
 However a long-term measure of the organisation's success was that in the time since the organisation started, renters were being spoken about and included more and more in mainstream media and government discussions. Whilst Green Renters couldn't claim complete responsibility for this, it was an indication that the organisation's aims were being realised.
 
 ### Tools for Reporting
+
 - Website analytic tools such as: Google Analytics, Crazy Egg and Parsely
 - Social Media statistics including: Facebook insights, Twitter Analytics (currently not available in Australia at time of printing), Sprout Social and Hoot suite.
 - Mailing list statistics: Depends on your provider but you are interested in knowing subscriber rates, unsubscribe rates, open rates, interaction rates (did anyone click anything) and 'churn' (new subscribers vs unsubscribes).

@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Organise your Browser Tabs with OneTab
-created: 1428752349
+created: 2015-04-11T00:00:00.000Z
 categories: writing chrischinchilla
+tags: browser productivity
 ---
 
 One of the main perils of the modern world is there is far too much to distract us. So many interesting blog posts to read, events to attend, crap-we-don't-need to buy and other assorted diamonds from the internet. I'm sure several days into the working week we look at our browser and find 20+ tabs open, all eating up memory and so cluttered you can't even remember what is what anymore.
@@ -11,4 +12,4 @@ So we dutifully bookmark them and close them all, resolute in the knowledge that
 
 This is one of the reasons I like OneTab so much, the browser tabs stay as a visual reminder without cluttering your screen or memory real estate. I can even compartment my life into work tabs, personal tabs, to-do tabs etc.
 
-Download from <a target+"_blank" href="http://www.one-tab.com/">www.one-tab.com</a>
+Download from <a target="_blank" href="http://www.one-tab.com/">www.one-tab.com</a>
