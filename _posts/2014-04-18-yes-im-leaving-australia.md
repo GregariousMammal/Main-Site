@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Yes, I'm leaving Australia"
-created: 1397775035
-categories: writing chris
+created: 2014-04-18T00:00:00.000Z
+categories: writing chrischinchilla
+tags: personal life travel
 ---
 
 It's official, after 7 years in Melbourne I'm leaving.

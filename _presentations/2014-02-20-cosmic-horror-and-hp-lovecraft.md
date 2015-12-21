@@ -1,0 +1,10 @@
+---
+layout: post
+title: 'Cosmic Horror & HP Lovecraft'
+presented: Laneway Learning
+pres_url: 'http://melbourne.lanewaylearning.com/classes/cosmic-horror-and-hp-lovecraft/'
+date_presented: 2014-03-05T00:00:00.000Z
+pres_source: 'https://www.dropbox.com/s/q9ttt0ljseb1ck2/HP%20Lovecraft%2C%20Laneway%20Learning%20v2.pptx?dl=0'
+---
+
+I love the works and worlds of HP Lovecraft, here's a talk I have done occasionally, it's usually followed by a reading.

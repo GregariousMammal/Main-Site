@@ -1,0 +1,16 @@
+---
+layout: page
+title: Topics
+---
+<!-- categories -->
+{% for tag in site.tags %}
+<div class="box topics">
+	<h2>{{ tag | first }}<a name="{{ tag | first | cgi_escape }}"></a></h2>
+	<ul class="postList">
+	{% for posts in tag %}
+      {% for post in posts %}
+		<li class="nested"><a href="{{ post.url }}" title="{{ post.excerpt }}">{{ post.title }} <span>{{ post.date | date: '%d.%m.%y' }}</span></a></li>
+	{% endfor %}{% endfor %}
+	</ul>
+</div>
+{% endfor %}

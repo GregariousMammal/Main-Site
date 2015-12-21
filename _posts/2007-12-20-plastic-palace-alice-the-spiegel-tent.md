@@ -2,7 +2,8 @@
 layout: post
 title: Plastic Palace Alice - The Spiegel Tent
 created: 1198178175
-categories: writing chrischinchilla music
+categories: writing chrischinchilla
+tags: music reviews
 ---
 
 It's very disorientating to enter a venue previously visited on the other side of the world in a completely different place, but that's the wonder of the Speigel Tent.
