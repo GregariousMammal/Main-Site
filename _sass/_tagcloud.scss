@@ -1,0 +1,21 @@
+.tagsList {
+  font-size: $tiny-font-size;
+  width: 15%;
+  margin: 0;
+  padding: 0;
+  display: inline;
+
+  h2 {
+    margin-bottom: 0;
+  }
+
+  a {
+    text-transform: capitalize;
+  }
+}
+
+.topics {
+  h2 {
+    text-transform: capitalize;
+  }
+}
