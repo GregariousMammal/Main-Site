@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Apple Expo 2002 - Paris
-created: 1033692645
+created: 2002-10-04
 categories: writing chrischinchilla
+tags: apple review conference
 ---
 
 European Apple fans have been eagerly awaiting this year's Apple Expo. As last year's event was cancelled, and most could not really warrant the cost of travelling to America, this year's Expo was the first major Apple-related date for Europeans in two years. There were of course a lot of product releases and newsworthy events at the Expo this year but attempting to document them all would be nigh on impossible, so I will now try to present my own personal highlights.

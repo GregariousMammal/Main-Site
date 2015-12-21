@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Creating a Game with Markdown, Pandoc, Latex and PDFJam'
-date: '2015-08-11'
+date: 2015-08-11T00:00:00.000Z
 categories: projects chipshop
 image: 9up-cards.png
+tags: markdown pandoc latex pdf
 ---
 
 The main reason for a lack of small posts on the progress of Chip Shop is that behind the scenes we have been working on some large stumbling blocks to push the game towards play testing. We wanted to focus on getting those completed over all else.
@@ -58,7 +59,7 @@ for filename in _cards/*.md; do
 done
 ```
 
-Then the script processes every markdown file in the __cards_ directory ensuring that the markdown [front matter](http://jekyllrb.com/docs/frontmatter/) fields are observed (used for the game scores, costs and other meta data), using the _cards.latex_ template (we'll look at that later) and outputs a PDF with an appropriate name.
+Then the script processes every markdown file in the *_cards* directory ensuring that the markdown [front matter](http://jekyllrb.com/docs/frontmatter/) fields are observed (used for the game scores, costs and other meta data), using the _cards.latex_ template (we'll look at that later) and outputs a PDF with an appropriate name.
 
 Finally:
 
