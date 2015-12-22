@@ -9,7 +9,7 @@ title: Topics
 	<ul class="postList">
 	{% for posts in tag %}
       {% for post in posts %}
-		<li class="nested"><a href="{{ post.url }}" title="{{ post.excerpt }}">{{ post.title }} <span>{{ post.date | date: '%d.%m.%y' }}</span></a></li>
+		<li class="nested"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}, <span>{{ post.date | date: '%d.%m.%y' }}</span></a></li>
 	{% endfor %}{% endfor %}
 	</ul>
 </div>
