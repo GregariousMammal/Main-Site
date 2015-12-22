@@ -4,6 +4,7 @@ title: TedxUniMelb 28th Aug 2013
 created: 1377726816
 image: tedxunimelb.jpg
 categories: writing chrischinchilla
+tags: events
 ---
 
 The <a href="http://www.ted.com/tedx" target="_blank">tedx</a> model is a slightly strange one, fraught with as many positives as negatives for organisers, however it does create a fascinating ecosystem around the world. Tonight had a packed room, but was unfortunately fraught with technical issues and joins several other local tedx events around Melbourne.
