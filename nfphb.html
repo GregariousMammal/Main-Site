@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: projects/not-profit-handbook/index.html
+paginate:
+  category: not-profit-handbook
 ---
 
 <div class="home">
@@ -13,8 +15,7 @@ permalink: projects/not-profit-handbook/index.html
   </div>
   <section>
     <ul class="post-list">
-      {% for post in site.categories.projects limit:100%}
-      {% if post.categories[1] == 'not-profit-handbook' %}
+      {% for post in paginator.posts %}
 
       <li>
         {% if post.image %}
@@ -31,9 +32,10 @@ permalink: projects/not-profit-handbook/index.html
           {% endif %}
         </div>
       </li>
-      {% endif %}
 
       {% endfor %}
     </ul>
   </section>
+          {% include pagination.html %}
+
 </div>

@@ -1,9 +1,10 @@
 ---
 layout: post
 title: KendoUI T-Shirt
-created: 1386633887
+created: 2013-12-10T00:00:00.000Z
 image: kentshirt.jpg
 categories: writing chrischinchilla
+tags: merchandise conferences
 ---
 
 Pretty cool logo :)

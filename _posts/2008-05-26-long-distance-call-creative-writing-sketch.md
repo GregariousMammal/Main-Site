@@ -2,7 +2,8 @@
 layout: post
 title: Long Distance Call - Creative Writing (Sketch)
 created: 1211753475
-categories: writing chrischinchilla creative
+categories: writing chrischinchilla
+tags: creative
 ---
 
 _Phone on table, centre stage. Phone rings._

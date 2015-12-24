@@ -1,8 +1,9 @@
 ---
 layout: post
 title: The Specials
-created: 1105713672
-categories: writing chrischinchilla music
+created: 2005-01-14T00:00:00.000Z
+categories: writing chrischinchilla
+tags: music biography
 ---
 
 Despite only existing as a band (defacto line up) for 3 years The Specials remain one of the most important and influential acts of their period.Forming in 1977 as the 'Coventry Automatics' it took until late 1978 for the band to finally settle on a name, a musical direction, a line up (consisting : Roddy Byers - guitar, John Bradbury - drums, Terry Hall - vocals, Lynval Golding - guitar, Horace Panter - bass, Jerry Dammers - keyboards, Neville Staples - vocals) and most importantly an attitude and an image.

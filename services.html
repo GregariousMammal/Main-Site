@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: services/index.html
+paginate:
+  collection: services
 ---
 
 <div class="home">
@@ -18,7 +20,8 @@ permalink: services/index.html
 
   <section>
     <ul class="post-list">
-      {% for post in site.services limit:15%}
+            {% for post in paginator.services reversed %}
+
       <li>
         {% if post.image %}
         {% picture listings {{post.image}} alt="{{post.title}}" %}
@@ -39,4 +42,6 @@ permalink: services/index.html
       {% endfor %}
     </ul>
   </section>
+      {% include pagination.html %}
+
 </div>

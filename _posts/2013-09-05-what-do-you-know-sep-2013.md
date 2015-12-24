@@ -1,30 +1,31 @@
 ---
 layout: post
 title: What do you know Sep 2013
-created: 1378416765
+created: 2013-09-05T00:00:00.000Z
+categories: writing chrischinchilla
+tags: events startups programming design
 ---
 
+The Web Directions - <a href="https://wdyk-melb-sept13.eventbrite.com/" target="_blank">What do you know events</a> are always a fun night and tonight was no exception with many running 'jokes' about some of the appalling policy decisions just announced by the coalition that will affect our industry, one which has been a boom area for Australia, but largely unrecognised on the larger national scale. Anyway, enough of Politics, what were the talks? Bear in mind there were 10, so this will be very brief...
 
-The Web Directions - <a href="https://wdyk-melb-sept13.eventbrite.com/" target="_blank">What do you know events</a> are always a fun night and tonight was no exception with many running &#39;jokes&#39; about some of the appalling policy decisions just announced by the coalition that will affect our industry, one which has been a boom area for Australia, but largely unrecognised on the larger national scale. Anyway, enough of Politics, what were the talks? Bear in mind there were 10, so this will be very brief&hellip;
+**"How to make a mobile app in 5 minutes"**<br />This was an Apache Cordova talk, which is what I did at the last what do you know event, <a href="http://au.linkedin.com/in/bbirch" target="_blank">Ben Birch</a> did an admirable job despite the lack of Internet connection, but is it me, or does the initial set-up for Cordova get more complex with each version?.<br /><a href="http://cordova.apache.org/" target="_blank">cordova.apache.org</a>
 
-<strong>&quot;How to make a mobile app in 5 minutes&quot;</strong><br />This was an Apache Cordova talk, which is what I did at the last what do you know event, <a href="http://au.linkedin.com/in/bbirch" target="_blank">Ben Birch</a> did an admirable job despite the lack of Internet connection, but is it me, or does the initial set-up for Cordova get more complex with each version?.<br /><a href="http://cordova.apache.org/" target="_blank">cordova.apache.org</a>
+**"Decoding data"**<br />What you can and can't learn from analytics. Asking the right questions, context and numbers aren't everything. Ask users and test again and again.
 
-<strong>&quot;Decoding data&quot;</strong><br />What you can and can&#39;t learn from analytics. Asking the right questions, context and numbers aren&#39;t everything. Ask users and test again and again.
+**"Projects vs products"**<br />A very funny presentation full of 90s images and references. It made the comparison of one night stands vs relationships and the short term verses long term lifecycle between projects and products.
 
-<strong><span style="line-height: 1.538em;">&quot;Projects vs products&quot;</span></strong><br /><span style="line-height: 1.538em;">A very funny presentation full of 90s images and references. It made the comparison of one night stands vs relationships and the short term verses long term lifecycle between projects and products.</span>
+**"Backbone.js"**<br />An overview of how complex single page apps can be, covering memory, organising,  rendering views and the learning curve of Backbone.<br /><a href="http://backbonejs.org/" target="_blank">backbonejs.org</a>
 
-<strong><span style="line-height: 1.538em;">&quot;Backbone.js&quot;</span></strong><br /><span style="line-height: 1.538em;">An overview of how complex single page apps can be, covering memory, organising,&nbsp; rendering views and the learning curve of Backbone.</span><br /><a href="http://backbonejs.org/" target="_blank">backbonejs.org</a>
+**"It's not all about me"**<br />How to make sure it's not all about you when designing UX experiences. This includes peer review, changing the paradigm that the client is always right with justifications. Immerse yourself in the project and step outside into the environment it will be used in.
 
-<strong><span style="line-height: 1.538em;">&quot;It&#39;s not all about me&quot;</span></strong><br /><span style="line-height: 1.538em;">How to make sure it&#39;s not all about you when designing UX experiences. This includes peer review, changing the paradigm that the client is always right with justifications. Immerse yourself in the project and step outside into the environment it will be used in.</span>
+**"Web rtc"**<br />An "Iceberg like topic" that is about real time communication between devices directly. There is money to be made from handling the hard stuff in the process for someone willing to give it a go. Imparted the benefits of the BlackBerry browser especially for Cordova wrapped apps.<br /><a href="http://www.webrtc.org/" target="_blank">webrtc.org</a>
 
-<span style="line-height: 1.538em;"><strong>&quot;Web rtc&quot;</strong></span><br /><span style="line-height: 1.538em;">An &quot;Iceberg like topic&quot; that is about real time communication between devices directly. There is money to be made from handling the hard stuff in the process for someone willing to give it a go. Imparted the benefits of the BlackBerry browser especially for Cordova wrapped apps.</span><br /><a href="http://www.webrtc.org/" target="_blank">webrtc.org</a>
+**"Digest cycles in single page apps"**<br />For complex and expensive application coding (this was a little over my head).
 
-<span style="line-height: 1.538em;"><strong>&quot;Digest cycles in single page apps&quot;</strong></span><br /><span style="line-height: 1.538em;">For complex and expensive application coding (this was a little over my head).</span>
+**"Lo there shall be no slides"**<br />Talking about presenting and where acting and interaction design cross over. How dull conference presentations can be and this is the original interactive experience. People like to see humans and how you are like them. Test your presentations and it's OK to fuck up...
 
-<span style="line-height: 1.538em;"><strong>&quot;Lo there shall be no slides&quot;</strong></span><br /><span style="line-height: 1.538em;">Talking about presenting and where acting and interaction design cross over. How dull conference presentations can be and this is the original interactive experience. People like to see humans and how you are like them. Test your presentations and it&#39;s OK to fuck up&hellip;</span>
+**"Go"**<br />Fast and familiar. Compared to JavaScript and Ruby.<br /><a href="http://golang.org" target="_blank">golang.org</a>
 
-<span style="line-height: 1.538em;"><strong>&quot;Go&quot;</strong></span><br /><span style="line-height: 1.538em;">Fast and familiar. Compared to JavaScript and Ruby.</span><br /><a href="http://golang.org" target="_blank">golang.org</a>
+**"Community"**<br />A talk I've seen <a href="https://twitter.com/pat" target="_blank">Pat</a> do before about the fundamentals of community. Participate. How to participate. Leadership without being in charge and dumping all on them. Be welcome, value people and make that them feel like they belong and equal and welcome.
 
-<span style="line-height: 1.538em;"><strong>&quot;Community&quot;</strong></span><br /><span style="line-height: 1.538em;">A talk I&#39;ve seen <a href="https://twitter.com/pat" target="_blank">Pat</a> do before about the fundamentals of community. Participate. How to participate. Leadership without being in charge and dumping all on them. Be welcome, value people and make that them feel like they belong and equal and welcome.</span>
-
-<span style="line-height: 1.538em;">Phew!</span>
+Phew!

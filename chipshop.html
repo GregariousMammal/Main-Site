@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: projects/chipshop/index.html
+paginate:
+  category: chipshop
 ---
 
 <div class="home">
@@ -9,8 +11,7 @@ permalink: projects/chipshop/index.html
 
   <section>
     <ul class="post-list">
-      {% for post in site.categories.projects limit:15%}
-      {% if post.categories[1] == 'chipshop' %}
+      {% for post in paginator.posts %}
 
       <li>
         {% if post.image %}
@@ -24,7 +25,6 @@ permalink: projects/chipshop/index.html
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
           {% if post.categories %}
           {% include category_block.html %}
-          {% endif %}
         </div>
       </li>
       {% endif %}
@@ -32,4 +32,6 @@ permalink: projects/chipshop/index.html
       {% endfor %}
     </ul>
   </section>
+        {% include pagination.html %}
+
 </div>

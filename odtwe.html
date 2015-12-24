@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: projects/odtwe/index.html
+paginate:
+  category: odtwe
 ---
 
 <div class="home">
@@ -9,8 +11,7 @@ permalink: projects/odtwe/index.html
 
   <section>
     <ul class="post-list">
-      {% for post in site.categories.projects limit:15%}
-      {% if post.categories[1] == 'odtwe' %}
+      {% for post in paginator.posts %}
 
       <li>
         {% if post.image %}
@@ -27,9 +28,10 @@ permalink: projects/odtwe/index.html
           {% endif %}
         </div>
       </li>
-      {% endif %}
 
       {% endfor %}
     </ul>
   </section>
+            {% include pagination.html %}
+
 </div>

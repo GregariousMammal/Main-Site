@@ -2,7 +2,6 @@
 layout: default
 ---
 <div class="post">
-
   <header class="post-header">
     <aside class="image">
       {% if page.image %}
@@ -18,7 +17,9 @@ layout: default
     {{ content }}
   </article>
 
+  {% include postTagList.html %}
+
   {{ % if page.comments % }}
-{% include comments.html %}
+  {% include comments.html %}
   {{ % endif % }}
 </div>

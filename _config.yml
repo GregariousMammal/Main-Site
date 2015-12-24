@@ -8,7 +8,13 @@ twitter_username: chrischinch
 github_username:  chrischinchilla
 permalink: /:title
 comments: true
-paginate: 15
+
+pagination:
+  per_page: 25
+  limit: false
+
+gems:
+  - octopress-paginate
 
 collections:
   presentations:

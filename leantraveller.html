@@ -1,6 +1,8 @@
 ---
 layout: default
 permalink: writing/leantraveller/index.html
+paginate:
+  category: leantraveller
 ---
 
 <div class="home">
@@ -9,8 +11,7 @@ permalink: writing/leantraveller/index.html
 
   <section>
     <ul class="post-list">
-      {% for post in site.categories.writing limit:15%}
-      {% if post.categories[1] == 'leantraveller' %}
+      {% for post in paginator.posts %}
 
       <li>
         {% if post.image %}
@@ -27,9 +28,10 @@ permalink: writing/leantraveller/index.html
           {% endif %}
         </div>
       </li>
-      {% endif %}
 
       {% endfor %}
     </ul>
   </section>
+        {% include pagination.html %}
+
 </div>

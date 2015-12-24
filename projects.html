@@ -1,7 +1,8 @@
 ---
 layout: default
 permalink: projects/index.html
-
+paginate:
+  category: projects
 ---
 
 <div class="home">
@@ -19,9 +20,7 @@ permalink: projects/index.html
 
   <section>
     <ul class="post-list">
-      {{ paginator.posts }}
-
-      {% for post in site.categories.projects limit:15%}
+      {% for post in paginator.posts %}
       <li>
         {% if post.image %}
         {% picture listings {{post.image}} alt="{{post.title}}" %}
@@ -40,4 +39,6 @@ permalink: projects/index.html
       {% endfor %}
     </ul>
   </section>
+    {% include pagination.html %}
+
 </div>

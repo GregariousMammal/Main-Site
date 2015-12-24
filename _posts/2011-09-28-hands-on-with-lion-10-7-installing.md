@@ -1,9 +1,10 @@
 ---
 layout: post
 title: 'Hands on with Lion, 10.7 - Installing'
-created: 1317167672
+created: 2011-09-28T00:00:00.000Z
 image: lion.png
 categories: writing chrischinchilla
+tags: apple reviews
 ---
 
 I love living on the cutting edge, many times to my detriment, but it never ceases to dissuade me. So after a brief delay due to being away from home and nowhere near a backup drive (which, of course, is essential before a major system upgrade!) it was time to get my hands dirty.

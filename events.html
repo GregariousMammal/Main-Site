@@ -1,7 +1,8 @@
 ---
 layout: default
 permalink: events/index.html
-
+paginate:
+  collection: events
 ---
 
 <div class="home">
@@ -19,7 +20,8 @@ permalink: events/index.html
 
   <section>
     <ul class="post-list">
-      {% for post in site.events limit:15%}
+            {% for post in paginator.events reversed %}
+
       <li>
         {% if post.image %}
         {% picture listings {{post.image}} alt="{{post.title}}" %}
@@ -40,4 +42,6 @@ permalink: events/index.html
       {% endfor %}
     </ul>
   </section>
+    {% include pagination.html %}
+
 </div>

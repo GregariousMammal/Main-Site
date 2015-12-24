@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 'Goodbye Drupal, Hello Jekyll'
-date: '2015-07-09'
+date: 2015-07-09T00:00:00.000Z
 categories: projects chipshop
+tags: jekyll drupal
 ---
 
 Sorry for the lack of updates in a while. There have been two main reasons for this, other commitments kept me busy and I've been reworking a lot of the technology stack that powers Chip Shop. I'd like to tell you more about updates to the later.
