@@ -13,6 +13,7 @@ Attendees want to network, they don't want their hands occupied with food. We ma
 
 ## Menu Choices
 _Suitable for morning tea, afternoon tea or evening event_
+
 - Rice paper spring rolls with ginger miso dipping sauce (V, gf)
 - Satay tofu skewers with coriander and spring onion peanut butter (V, gf)
 - Falafels and homemade hummus (V, gf)
@@ -40,65 +41,16 @@ From 20-200 pieces: €1.40 per share From 201-500 pieces: €1.20 per share Fro
 Free delivery for orders of €200+, or pick up available in Prenzlauer Berg.
 
 ## Book your catering now
-<div id="bookingjs">
-  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
-  <script type="text/javascript" src="http://cdn.timekit.io/booking-js/v1/booking.min.js" defer></script>
-  <script type="text/javascript">
-    window.timekitBookingConfig = {
-      name: 'Healthy Hackers',
-      email: 'ms.cate@gmail.com',
-      apiToken: 'Quw2uQlDphFO9laRTAhuBvViw9iYf2Ok',
-      calendar: '66ba7f83-0ee1-4a86-8132-2c1cc4055b01',
-      avatar: 'https://dl.dropboxusercontent.com/u/431865/atclogos.png',
-      timekitFindTime: {
-        length: '2 hours',
-        ignore_all_day_events: true
-      },
-      localization: {
-        timeDateFormat: '24h-dmy-mon'
-      },
-      bookingFields: {
-        name: {
-          placeholder: 'Your full name',
-          prefilled: false
-        },
-        email: {
-          placeholder: 'Your e-mail',
-          prefilled: false
-        },
-        comment: {
-          enabled: true,
-          placeholder: 'Write a comment (optional)',
-          prefilled: false,
-          required: false
-        },
-        phone: {
-          enabled: false,
-          placeholder: 'Your phone number',
-          prefilled: false,
-          required: false
-        },
-        voip: {
-          enabled: false,
-          placeholder: 'Your Skype username',
-          prefilled: false,
-          required: false
-        },
-        location: {
-          enabled: false,
-          placeholder: 'Location',
-          prefilled: false,
-          required: false
-        }
-      }
-    }
-  </script>
-</div>
+<!-- Change the width and height values to suit you best -->
+<div class="typeform-widget" data-url="https://gregariousmammal.typeform.com/to/yNaGAP" data-text="Healthy Hackers Bookings" style="width:100%;height:500px;"></div>
+
+<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'widget.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script>
 
 ## Who are We?
 We are keen on healthy, tasty cooking and tech innovation. We come from long backgrounds in tech and cooking teaching, bringing our skills and interest to you!
 
 ## What else can we Provide?
+
 - On site healthy cooking demonstrations including preserving, pickling, raw desserts, cordials, smoothies and vegan cooking.
 - On site cooking classes which are great for team building.
 - Lunch catering that's either ready made (like cold salads) or needs to be heated (chillies, curries and gumbo).
