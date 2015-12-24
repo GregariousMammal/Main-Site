@@ -4,16 +4,16 @@ permalink: presentations/index.html
 paginate:
   collection: presentations
 ---
-
+      
 <div class="home">
 
   <h1 class="page-heading">Presentations</h1>
 
-  {% assign presentations = site.presentations %}
+  {% assign presentations = site.presentations | reverse %}
 
   <section>
     <ul class="post-list">
-      {% for presentation in paginator.presentations reversed %}
+      {% for presentation in presentations | sort:'date_presented' %}
 
       <li>
         {% if presentation.image %}
