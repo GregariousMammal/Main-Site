@@ -2,7 +2,7 @@
 layout: event
 title: Creating a plugin for Jekyll
 event: Art Game meetup
-date: '2016-01-019T19:30:00.000Z'
+date: '2016-01-19T19:30:00.000Z'
 venue: 'Saftladen, Waldemarstr. 37, 10999, Berlin'
 ---
 
