@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Adding Accessories
-categories: games chipshop
+categories: projects chipshop
 ---
 
 Sorry for the lack of updates, I have been traveling with work the past few weeks.

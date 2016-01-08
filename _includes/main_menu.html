@@ -1,38 +1,69 @@
-<div id="menu" class="trigger">
-  <ul class="menu nav">
-    <li class="first expanded dropdown">
-      <a href="/games" title="Games">Games </a>
-      <ul>
-        <li ><a href="/games/chip-shop" title="Chip Shop">Chip Shop</a></li>
-      </ul>
-    </li>
-    <li >
-      <a href="/software" title="Software">Software </a>
-      <ul>
-        <li >
-          <a href="/software/answers-against-humanity" title="Answers Against Humanity">Answers Against Humanity</a>
-        </li>
-      </ul>
-    </li>
-    <li >
-      <a href="/writing" title="Writing">Writing </a>
-      <ul>
-        <li class="first leaf">
-          <a href="/writing/one-day-world-ended" title="One Day the World Ended">One Day the World Ended</a>
-        </li>
+<ul class="menu nav">
+  <li class="first expanded dropdown">
+    <a href="/projects" title="Projects">Projects
+    </a>
+    {% if page.categories[0] == 'projects' or page.url == '/projects/index.html' or page.url == '/projects/software/index.html' or page.path == 'odtwe.html' or page.path == 'chipshop.html' or page.path == 'greenrenters.md' %}
+    <ul>
+      <li >
+        <a href="/projects/chipshop" title="Chip Shop">Chip Shop</a>
+      </li>
+      <li>
+        <a href="/projects/odtwe" title="One Day the World Ended">One Day the World Ended</a>
+      </li>
+      <li >
+        <a href="/projects/software" title="Software">Software</a>
+      </li>
+      <li>
+        <a href="/projects/not-profit-handbook" title="The Not-for-Profit Handbook">The Not-for-Profit Handbook</a>
+      </li>
+      <li >
+        <a href="/projects/greenrenters" title="Green Renters">Green Renters</a>
+      </li>
+    </ul>
+    {% endif %}
+  </li>
+  <li >
+    <a href="/writing" title="Writing">Writing
+    </a>
+    {% if page.categories[0] == 'writing' or page.url == '/writing/index.html' or page.path == 'chrischinchilla.html' or page.path == 'leantraveller.html' %}
+    <ul>
+      <li>
+        <a href="/writing/chrischinchilla" title="Personal Blog">Personal Blog</a>
+      </li>
+      <li>
+        <a href="/writing/leantraveller" title="The Lean Traveller">The Lean Traveller</a>
+      </li>
+    </ul>
+    {% endif %}
+  </li>
+  <li>
+    <a href="/events">Events</a>
+  </li>
+  <li>
+    <a href="/presentations">Presentations</a>
+  </li>
+  <li>
+    <a href="/services">Services</a>
+    <ul>
+      <li>
+        <a href="/services/write-edit" title="Technical Writing and Editing">Technical Writing and Editing</a>
+      </li>
+      <li>
+        <a href="/services/devrel" title="Developer Relations">Developer Relations</a>
+      </li>
+      <li>
+        <a href="/services/healthyhackers" title="Healthy Hackers">Catering</a>
+      </li>
+      {% if page.url == '/services/healthyhackers/index.html' or page.url == '/services/giftboxes/index.html' %}
+      <ul class="sub-menu">
         <li>
-          <a href="/writing/personal-blog" title="Personal Blog">Personal Blog</a>
-        </li>
-        <li>
-          <a href="/writing/not-profit-handbook" title="The Not-for-Profit Handbook">The Not-for-Profit Handbook</a>
-        </li>
-        <li>
-          <a href="/writing/lean-traveller" title="The Lean Traveller">The Lean Traveller</a>
+          <a href="/services/giftboxes/" title="Gift Boxes" >Gift Boxes</a>
         </li>
       </ul>
-    </li>
-    <li>
-      <a href="/connect">Connect</a>
-    </li>
-  </ul>
-</div>
+      {% endif %}
+      <li>
+        <a href="/services/homework" title="Home Work">Co-Working</a>
+      </li>
+    </ul>
+  </li>
+</ul>

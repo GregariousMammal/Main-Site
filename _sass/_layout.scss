@@ -27,13 +27,17 @@
   border-top: none;
   border-bottom: none;
   min-height: 100px;
+  height:100px;
 
+  @include media-query($on-laptop) {
+    min-height: 50px;
+    height:50px;
+  }
   // Positioning context for the mobile navigation icon
   // position: relative;
   background-image:url(/images/gm-logo.png);
   background-repeat: no-repeat;
   background-position: center;
-  height:100px;
   background-size: contain;
   background-color: rgba(255,255,255,0.8);
 }
@@ -50,71 +54,6 @@
     color: $grey-color-dark;
   }
 }
-
-.site-nav {
-  float: right;
-  line-height: 56px;
-
-  .menu-icon {
-    display: none;
-  }
-
-  .page-link {
-    color: $text-color;
-    line-height: $base-line-height;
-
-    // Gaps between nav items, but not on the first one
-    &:not(:first-child) {
-      margin-left: 20px;
-    }
-  }
-
-  @include media-query($on-palm) {
-    position: absolute;
-    top: 9px;
-    right: 30px;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: right;
-
-    .menu-icon {
-      display: block;
-      float: right;
-      width: 36px;
-      height: 26px;
-      line-height: 0;
-      padding-top: 10px;
-      text-align: center;
-
-      > svg {
-        width: 18px;
-        height: 15px;
-
-        path {
-          fill: $grey-color-dark;
-        }
-      }
-    }
-
-    .trigger {
-      clear: both;
-      display: none;
-    }
-
-    &:hover .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
-
-    .page-link {
-      display: block;
-      padding: 5px 10px;
-    }
-  }
-}
-
-
 
 /**
 * Site footer
@@ -136,7 +75,7 @@
 }
 
 .footer-col-wrapper {
-  font-size: 15px;
+  font-size: $base-font-size / 3;
   color: $grey-color;
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
@@ -145,7 +84,8 @@
 .footer-col {
   float: left;
   margin-bottom: $spacing-unit / 2;
-  padding-left: $spacing-unit / 2;
+  margin-top: $spacing-unit / 2;
+  // padding-left: $spacing-unit / 2;
 }
 
 .footer-col-1 {
@@ -156,6 +96,17 @@
 .footer-col-2 {
   width: -webkit-calc(65% - (#{$spacing-unit} / 2));
   width:         calc(65% - (#{$spacing-unit} / 2));
+
+  img {
+    float: left;
+    margin-right: $spacing-unit / 3;
+  }
+
+  span {
+    width: -webkit-calc(45% - (#{$spacing-unit} / 2));
+    width:         calc(45% - (#{$spacing-unit} / 2));
+    display: block;
+  }
 }
 
 // .footer-col-3 {
@@ -190,8 +141,13 @@
 * Page content
 */
 .page-content {
-  width: 70%;
-  float: right;
+  // width: 70%;
+  // float: right;
+  margin-left: 15%;
+  @include media-query($on-laptop) {
+    margin-left:0;
+    padding-top: $spacing-unit * 2;
+  }
   padding-top: $spacing-unit * 4;
   padding-left: $spacing-unit;
   padding-right: $spacing-unit;
@@ -202,58 +158,74 @@
   }
 }
 
-.page-heading {
-  font-size: 20px;
-}
-
-.post-list {
-  margin-left: 0;
-  list-style: none;
-  h2 {
-    @extend .headings;
-    text-align: left;
-    margin-left: 165px;
-    font-size: $base-font-size * 1.5;
-    a {
-      color: $text-color;
-    }
-  }
-  > li {
-    margin-bottom: $spacing-unit;
-    border-top: 1px solid #dddddd;
-    padding-top: $spacing-unit;
-    .project_block {
-      font-size: $base-font-size / 2;
-      display: inline-block;
-      font-style: italic;
-      margin-left: $spacing-unit * 2;
-    }
-    p {
+section {
+  clear: both;
+  padding-top: $spacing-unit;
+  .post-list {
+    margin-left: 0;
+    list-style: none;
+    h2 {
+      @extend .headings;
+      text-align: left;
       margin-left: 165px;
+      font-size: $base-font-size * 1.5;
+      @include media-query($on-laptop) {
+        font-size: $base-font-size * 1.15;
+        margin-left: 0;
+
+      }
+      a {
+        color: $text-color;
+      }
     }
-    picture {
-      float: left;
-      padding-right: $spacing-unit / 2;
-      padding-bottom: 0;
-    }
-    .post-link {
-      // margin-left: 165px;
-      display: inline-block;
-      font-size: $base-font-size / 2;
+    > li {
+      margin-bottom: $spacing-unit;
+      border-top: 1px solid #dddddd;
+      padding-top: $spacing-unit;
+      min-height: 180px;
+      p {
+        margin-left: 165px;
+        @include media-query($on-laptop) {
+          margin-left: 0;
+        }
+      }
+      picture {
+        float: left;
+        padding-right: $spacing-unit / 2;
+        padding-bottom: 0;
+        img {
+          max-height: 175px;
+        }
+      }
     }
   }
 }
-
+.event-details {
+  margin-left: 165px;
+}
 .post-meta {
-  font-size: $tiny-font-size;
-  color: $grey-color;
+  margin-left: 165px;
+  // display: inline-block;
+  font-size: $base-font-size / 2;
+  @include media-query($on-laptop) {
+    margin-left: 0;
+  }
+  a {
+    display: inline-block;
+
+  }
+
+  .project-block {
+    // font-size: $base-font-size / 2;
+    display: inline-block;
+    font-style: italic;
+    margin-left: $spacing-unit * 2;
+    @include media-query($on-laptop) {
+      margin-left: 0;
+      display: block;
+    }
+  }
 }
-
-.post-link {
-  display: block;
-}
-
-
 
 /**
 * Posts
@@ -262,18 +234,32 @@
   margin-bottom: $spacing-unit;
 }
 
-.post-title {
+h1 {
   @extend .headings;
-
-  font-size: $base-font-size * 1.25;
-  font-weight: 700;
-  //
-  // font-size: 42px;
-  // letter-spacing: -1px;
-  // line-height: 1;
-
+  font-size: $base-font-size * 2.25;
   @include media-query($on-laptop) {
     font-size: $base-font-size * 1.15;
+  }
+}
+aside.image {
+  @extend .mobile-images;
+
+  float: left;
+  padding-right: $spacing-unit / 2;
+
+  picture {
+    img {
+      // max-width: 200px;
+      vertical-align: middle;
+      // max-height: 300px;
+      // min-height: 200px;
+      // min-width: 100px;
+      @include media-query($on-laptop) {
+        margin-left: auto;
+        margin-right: auto;
+        display: block;
+      }
+    }
   }
 }
 
@@ -281,13 +267,17 @@
   margin-bottom: $spacing-unit;
 
   p:first-child:first-letter {
-    line-height: normal;
-    font-size: 1.5em;
+    @extend .first-letter;
   }
 
   h2 {
     @extend .headings;
+    text-align: left;
     font-size: $base-font-size * 1.05;
+    margin-top: $spacing-unit;
+    margin-bottom: $spacing-unit;
+    clear: both;
+
     @include media-query($on-laptop) {
       font-size: $base-font-size;
     }

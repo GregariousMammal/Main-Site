@@ -2,7 +2,7 @@
 layout: post
 title: Illustrating One Day the World Ended
 created: 1421250716
-categories: writing odtwe
+categories: projects odtwe
 ---
 
 After visiting the Tate Modern over Christmas and seeing these two images (I've forgotten the artist):

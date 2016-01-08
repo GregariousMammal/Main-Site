@@ -1,0 +1,10 @@
+---
+layout: post
+title: JQuery Mobile
+presented: Mobile Melbourne
+pres_url: 'http://www.slideshare.net/chrischinchilla/jquery-mobile-13649045'
+date_presented: 2012-07-09T00:00:00.000Z
+pres_source: 'https://www.dropbox.com/s/pgsrda4jp1h205y/Jquery%20mobile.pptx?dl=0'
+---
+
+A basic intro to JQuery Mobile for Cross Platform developers.

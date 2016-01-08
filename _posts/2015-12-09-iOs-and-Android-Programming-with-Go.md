@@ -1,0 +1,8 @@
+---
+title: 'iOS and Android Programming with Go'
+created: 20151209
+publication_url: 'http://www.sitepoint.com/ios-and-android-programming-with-go/'
+categories: writing sitepoint
+---
+
+Whilst not a new language, Go has gained a lot of interest over the past two years and the number of bigger name projects utilizing the language is growing rapidly. I wrote an introductory article on the language for SitePoint and came across mentions of mobile support, so thought I’d take a look at the possibilities.

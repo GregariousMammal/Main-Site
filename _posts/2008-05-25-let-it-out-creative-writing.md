@@ -1,9 +1,19 @@
 ---
 layout: post
 title: Let it Out - Creative Writing
-created: 1211734800
+created: 2008-05-25T00:00:00.000Z
+categories: writing chrischinchilla
+tags: creative
 ---
-Tell me what the matter is, I really want to know.<br>Don't keep it to yourself; you've got to let it go.<br>Don't tell me it's not important, I really do care.<br>Don't tell me another time, lay your burden bare.<br>Don't sit there feeling sorry with your head against the wall.<br>Talk to me, relate, and forget about it all.<br>
 
+Tell me what the matter is, I really want to know.
 
-Published in NULL
+Don't keep it to yourself; you've got to let it go.
+
+Don't tell me it's not important, I really do care.
+
+Don't tell me another time, lay your burden bare.
+
+Don't sit there feeling sorry with your head against the wall.
+
+Talk to me, relate, and forget about it all.

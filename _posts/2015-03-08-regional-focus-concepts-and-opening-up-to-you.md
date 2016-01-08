@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Regional Focus, 'Concepts' and opening up to you"
-created: 1425804787
-categories: games chipshop
+created: 2015-03-08T00:00:00.000Z
+categories: projects chipshop
+tags: boardgames playtesting gamedesign
 ---
 
 A few small updates in this blog post, however, they have a large impact on the game.

@@ -3,7 +3,7 @@ layout: post
 title: Costs and Card concepts Refined
 created: 1417019095
 image: card_piles_0.gif card_piles.gif
-categories: games chipshop
+categories: projects chipshop
 ---
 
 Just a small update, with a much larger one coming next week.

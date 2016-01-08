@@ -1,9 +1,47 @@
 ---
 layout: post
 title: City Life - Creative Writing
-created: 1211754427
+created: 2008-05-26T00:00:00.000Z
+categories: writing chrischinchilla
+tags: creative
 ---
-<span lang=EN-GB>Applecore</span>  <br>  <span lang=EN-GB>Broken Door</span>  <br><span lang=EN-GB>Commercial crap</span>  <br><span lang=EN-GB>Cat flap</span>  <br><span lang=EN-GB>High crime</span>  <br><span lang=EN-GB>Sign of the times</span>  <br><span lang=EN-GB>Night clubs</span>  <br><span lang=EN-GB>Seedy pubs</span>  <br><span lang=EN-GB>Rubbish bin</span>  <br><span lang=EN-GB>Collecting tin</span>  <br><span lang=EN-GB>Bus stop</span>  <br><span lang=EN-GB>Bent cop</span>  <br><span lang=EN-GB>Run down school</span>  <br><span lang=EN-GB>Drunken fool</span>  <br><span lang=EN-GB>Paedophile</span>  <br><span lang=EN-GB>Give us a smile</span>  <br><span lang=EN-GB>Traffic jam</span>  <br><span lang=EN-GB>Bang bang</span>  <br><span lang=EN-GB>Road work</span>  <br><span lang=EN-GB>Office jerk</span>  <br><span lang=EN-GB>Broken homes</span>  <br><span lang=EN-GB>Millennium dome</span>  <br><span lang=EN-GB>Drug dealer</span>  <br><span lang=EN-GB>Office cleaner</span>  <br><span lang=EN-GB>Broken bottle</span>  <br><span lang=EN-GB>Full throttle</span>  <br><span lang=EN-GB>Boarded up shops</span>  <br><span lang=EN-GB>Office blocks</span>  <br><span lang=EN-GB>Social life</span>  <br><span lang=EN-GB>Beaten up wife</span>  <br><span lang=EN-GB>Dodgy bloke</span>  <br><span lang=EN-GB>Being broke</span>  <br><span lang=EN-GB>Sick on the ground</span>  <br><span lang=EN-GB>Too much sound</span>  <br><span lang=EN-GB>Political shit</span>  <br><span lang=EN-GB>Hypocrite</span>  <br>  <br><span lang=EN-GB>City life, don't you just love it</span>
 
+- Applecore
+- Broken Door
+- Commercial crap
+- Cat flap
+- High crime
+- Sign of the times
+- Night clubs
+- Seedy pubs
+- Rubbish bin
+- Collecting tin
+- Bus stop
+- Bent cop
+- Run down school
+- Drunken fool
+- Paedophile
+- Give us a smile
+- Traffic jam
+- Bang bang
+- Road work
+- Office jerk
+- Broken homes
+- Millennium dome
+- Drug dealer
+- Office cleaner
+- Broken bottle
+- Full throttle
+- Boarded up shops
+- Office blocks
+- Social life
+- Beaten up wife
+- Dodgy bloke
+- Being broke
+- Sick on the ground
+- Too much sound
+- Political shit
+- Hypocrite
+- City life, don't you just love it
 
 Published in Fly Magazine

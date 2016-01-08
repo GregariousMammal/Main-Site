@@ -1,0 +1,47 @@
+---
+layout: default
+permalink: events/index.html
+paginate:
+  collection: events
+---
+
+<div class="home">
+  <div class="events">
+    <div class="image">
+      {% picture categories koala_image.gif alt="Koala Image" %}
+    </div>
+    <h1 class="post-title">Events</h1>
+    <div class="description">
+<p>
+  We love getting out and talking and are always happy to attend an event or conference to discuss projects we are working on or wider technical and conceptual subjects. Here's our next events.
+</p>
+    </div>
+  </div>
+
+  <section>
+    <ul class="post-list">
+            {% for post in paginator.events reversed %}
+
+      <li>
+        {% if post.image %}
+        {% picture listings {{post.image}} alt="{{post.title}}" %}
+        {% endif %}
+        <h2>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a> @ {{ post.event }}
+        </h2>
+        <b class="event-details">{{ post.date | date: '%B %d' }}</b><br/>
+        <b class="event-details">{{ post.venue }}</b>
+        {{ post.content }}
+        <div class="post-meta">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+          {% if post.categories %}
+          {% include category_block.html %}
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+    {% include pagination.html %}
+
+</div>

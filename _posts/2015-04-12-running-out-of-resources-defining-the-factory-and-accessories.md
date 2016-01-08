@@ -2,10 +2,13 @@
 layout: post
 title: 'Running out of Resources, Defining the Factory and Accessories'
 created: 1428828379
-categories: games chipshop
+categories: projects chipshop
 ---
 
-This week I have added rules to the '[Playing the Game](/manual/playing-game)' section of the manual to cover the following:<ul><li>How and when products pass from being private in a player's factory to being public in the general playing area.</li><li>What happens when players run out of certain resources.</li></ul>
+This week I have added rules to the '[Playing the Game](/manual/playing-game)' section of the manual to cover the following:
+
+- How and when products pass from being private in a player's factory to being public in the general playing area.
+- What happens when players run out of certain resources.
 
 I added a [game concept to cover accessories](/content/accessory) (keyboards, mice etc).
 

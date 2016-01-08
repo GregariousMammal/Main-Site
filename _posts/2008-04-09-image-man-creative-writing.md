@@ -2,8 +2,16 @@
 layout: post
 title: Image Man - Creative Writing
 created: 1207717422
+categories: writing chrischinchilla
+tags: creative
 ---
-An image man does what his image can<br>When he's on his own he'll be himself<br>But while you're waiting he'll tell of all the girls he's known<br>And tales of things he's done<br>You'll be his mate forever as long as you're impressed<br>
 
+An image man does what his image can
 
-Published in Unpublished
+When he's on his own he'll be himself
+
+But while you're waiting he'll tell of all the girls he's known
+
+And tales of things he's done
+
+You'll be his mate forever as long as you're impressed
