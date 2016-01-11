@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: post
 title: Organise your Browser Tabs with OneTab
 created: 1428752349
 categories: writing chrischinchilla
