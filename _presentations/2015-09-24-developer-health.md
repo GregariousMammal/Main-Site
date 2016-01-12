@@ -3,7 +3,7 @@ layout: post
 title: Developer Health
 presented: Reject.JS - Berlin
 pres_url: 'https://www.youtube.com/watch?v=-AlmhhnfJ-E'
-pres_source: 'http://presentations.gregariousmammal.com/geek_health'
+pres_source: 'http://chrischinchilla.github.io/Presentations/geek_health'
 date_presented: 2015-09-24T00:00:00.000Z
 ---
 

@@ -1,0 +1,12 @@
+---
+layout: event
+title: Creating a plugin for Jekyll
+presented: Ruby User Group Berlin
+date_presented: 2016-01-07T19:30:00.000Z
+pres_url: 'http://www.rug-b.de/events/january-meetup-2016'
+pres_source: 'http://chrischinchilla.github.io/Presentations/jekyll_plugins/rub_jan.html'
+---
+
+Jekyll is an awesome static site generator written in Ruby. It's designed with simplicity in mind, but can be made more extensive and powerful by creating plugins and leveraging existing ruby gems.
+
+In this presentation I'd like to give a quick overview of how...
