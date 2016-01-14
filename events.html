@@ -17,10 +17,11 @@ paginate:
 </p>
     </div>
   </div>
+  {% assign events = site.events | reverse %}
 
   <section>
     <ul class="post-list">
-            {% for post in paginator.events reversed %}
+      {% for post in paginator.events | sort:'date' %}
 
       <li>
         {% if post.image %}
@@ -31,7 +32,6 @@ paginate:
         </h2>
         <b class="event-details">{{ post.date | date: '%B %d' }}</b><br/>
         <b class="event-details">{{ post.venue }}</b>
-        {{ post.content }}
         <div class="post-meta">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
           {% if post.categories %}
