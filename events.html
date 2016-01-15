@@ -12,17 +12,17 @@ paginate:
     </div>
     <h1 class="post-title">Events</h1>
     <div class="description">
-<p>
-  We love getting out and talking and are always happy to attend an event or conference to discuss projects we are working on or wider technical and conceptual subjects. Here's our next events.
-</p>
+      <p>
+        We love getting out and talking and are always happy to attend an event or conference to discuss projects we are working on or wider technical and conceptual subjects. Here's our next events.
+      </p>
     </div>
   </div>
-  {% assign events = site.events | reverse %}
-
+  {% assign events = site.events %}
   <section>
     <ul class="post-list">
-      {% for post in paginator.events | sort:'date' %}
-
+      {% for post in paginator.events reverse %}
+      {% assign currentDate = site.time %}
+      {% if post.date > currentDate %}
       <li>
         {% if post.image %}
         {% picture listings {{post.image}} alt="{{post.title}}" %}
@@ -39,9 +39,10 @@ paginate:
           {% endif %}
         </div>
       </li>
+      {% endif %}
       {% endfor %}
     </ul>
   </section>
-    {% include pagination.html %}
+  {% include pagination.html %}
 
 </div>
