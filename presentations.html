@@ -4,41 +4,40 @@ permalink: presentations/index.html
 paginate:
   collection: presentations
 ---
-      
+
 <div class="home">
 
   <h1 class="page-heading">Presentations</h1>
 
-  {% assign presentations = site.presentations | reverse %}
+  {% assign presentations = site.presentations %}
 
   <section>
     <ul class="post-list">
-      {% for presentation in presentations | sort:'date_presented' %}
+      {% for post in paginator.presentations %}
+      {% assign currentDate = site.time %}
+      {% if post.date < currentDate %}
+      <li class="past-event">
+        {% else %}
+        <li>
+          {% endif %}
+          {% if post.image %}
+          {% picture listings {{post.image}} alt="{{post.title}}" %}
+          {% endif %}
+          <h2>
+            <a href="{{ post.url }}" target="_blank">{{ post.event }}</a> - {{ post.date | date: '%B %d %Y' }}
+          </h2>
+          <h3>{{ post.title }}</h3>
+          {{ post.content }}
+          <div class="post-meta">
+            {{ post.venue }}
+            <a class="post-link" href="{{ post.pres_url }}" target="_blank">Presentation</a><br/>
+            <a class="post-link" href="{{ post.pres_source }}" target="_blank">Presentation File</a>
+          </div>
+        </li>
 
-      <li>
-        {% if presentation.image %}
-        {% picture listings {{presentation.image}} alt="{{presentation.title}}" %}
-        {% endif %}
-        <h2>
-          <a href="{{ presentation.pres_url }}" target="_blank">{{ presentation.title }}</a>
-        </h2>
-        {{ presentation.content }}
-        <div class="post-meta">
-          <p>
-            <b>Presented at:</b>
+        {% endfor %}
+      </ul>
+    </section>
+    {% include pagination.html %}
 
-            {% if presentation.presented %}
-            {{ presentation.presented }}, {{presentation.date_presented | date: '%B %d %Y' }}
-            {% endif %}
-          </p>
-          <a class="post-link" href="{{ presentation.pres_url }}" target="_blank">Presentation</a><br/>
-          <a class="post-link" href="{{ presentation.pres_source }}" target="_blank">Presentation File</a>
-        </div>
-      </li>
-
-      {% endfor %}
-    </ul>
-  </section>
-  {% include pagination.html %}
-
-</div>
+  </div>

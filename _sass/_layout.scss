@@ -172,11 +172,13 @@ section {
       @include media-query($on-laptop) {
         font-size: $base-font-size * 1.15;
         margin-left: 0;
-
       }
       a {
         color: $text-color;
       }
+    }
+    h3 {
+      margin-left: 165px;
     }
     > li {
       margin-bottom: $spacing-unit;

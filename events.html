@@ -22,7 +22,6 @@ paginate:
     <ul class="post-list">
       {% for post in paginator.events reverse %}
       {% assign currentDate = site.time %}
-      {% if post.date > currentDate %}
       <li>
         {% if post.image %}
         {% picture listings {{post.image}} alt="{{post.title}}" %}
@@ -39,7 +38,6 @@ paginate:
           {% endif %}
         </div>
       </li>
-      {% endif %}
       {% endfor %}
     </ul>
   </section>
