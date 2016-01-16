@@ -10,17 +10,22 @@ layout: default
       {% picture article {{post.image}} alt="{{post.title}}" %}
       {% endif %}
     </aside>
-    <h1 class="post-title">{{ page.title }} @ {{ page.event }}</h1>
-    <b class="event-details">{{ page.date | date: '%B %d' }}</b><br/>
-    <b class="event-details">{{ page.venue }}</b>
+    <h1 class="post-title">{{ page.event }}</h1>
+    <h2>{{ page.title }}</h2>
+    <b class="event-details">{{ page.date | date: '%B %d %Y' }}</b>
   </header>
-
 
   <article class="post-content">
     {{ content }}
   </article>
 
+  <div class="post-meta">
+    {{ page.venue }}
+    <a class="post-link" href="{{ page.pres_url }}" target="_blank">Presentation</a><br/>
+    <a class="post-link" href="{{ page.pres_source }}" target="_blank">Presentation File</a>
+  </div>
+
   {{ % if page.comments % }}
-{% include comments.html %}
+  {% include comments.html %}
   {{ % endif % }}
 </div>
