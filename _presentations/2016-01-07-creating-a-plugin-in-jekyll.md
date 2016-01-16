@@ -1,8 +1,8 @@
 ---
 layout: event
 title: Creating a plugin for Jekyll
-presented: Ruby User Group Berlin
-date_presented: 2016-01-07T19:30:00.000Z
+event: Ruby User Group Berlin
+date: 2016-01-07T19:30:00.000Z
 pres_url: 'http://www.rug-b.de/events/january-meetup-2016'
 pres_source: 'http://chrischinchilla.github.io/Presentations/jekyll_plugins/rub_jan.html'
 ---

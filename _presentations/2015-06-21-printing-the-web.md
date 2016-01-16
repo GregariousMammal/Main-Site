@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: event
 title: Printing the web
-presented: Enthusiasticon
+event: Enthusiasticon
 pres_url: 'https://sourcecode.berlin/enthusiasticon/'
-date_presented: 2015-06-21T00:00:00.000Z
+date: 2015-06-21T00:00:00.000Z
 pres_source: null
 ---
 

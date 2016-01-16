@@ -19,9 +19,6 @@ gems:
 collections:
   presentations:
     output: true
-  events:
-    output: true
-    layout: event
   services:
     output: true
     layout: service

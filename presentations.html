@@ -6,14 +6,10 @@ paginate:
 ---
 
 <div class="home">
-
   <h1 class="page-heading">Presentations</h1>
-
-  {% assign presentations = site.presentations %}
-
   <section>
     <ul class="post-list">
-      {% for post in paginator.presentations %}
+      {% for post in paginator.presentations reversed %}
       {% assign currentDate = site.time %}
       {% if post.date < currentDate %}
       <li class="past-event">
@@ -24,7 +20,7 @@ paginate:
           {% picture listings {{post.image}} alt="{{post.title}}" %}
           {% endif %}
           <h2>
-            <a href="{{ post.url }}" target="_blank">{{ post.event }}</a> - {{ post.date | date: '%B %d %Y' }}
+            <a href="{{ post.url }}">{{ post.event }}</a> - {{ post.date | date: '%B %d %Y' }}
           </h2>
           <h3>{{ post.title }}</h3>
           {{ post.content }}
@@ -34,7 +30,6 @@ paginate:
             <a class="post-link" href="{{ post.pres_source }}" target="_blank">Presentation File</a>
           </div>
         </li>
-
         {% endfor %}
       </ul>
     </section>

@@ -2,7 +2,7 @@
 layout: event
 title: Developer Health
 event: Voxxed Days Vienna
-date: 2016-02-29
+date: 2016-02-29T00:00:00.000Z
 venue: 'Cineplex, Wienerbergstraße 11, 1100, Vienna, Austria'
 ---
 

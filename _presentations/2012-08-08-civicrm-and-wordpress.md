@@ -1,9 +1,9 @@
 ---
 layout: post
 title: CiviCRM and Wordpress
-presented: Melbourne Wordpress Meetup
+event: Melbourne Wordpress Meetup
 pres_url: 'http://www.slideshare.net/chrischinchilla/civicrm-and-wordpress'
-date_presented: 2012-08-08T00:00:00.000Z
+date: 2012-08-08T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/v9skjeitzn3ncd9/CiviCRM%20Wordpress.pptx?dl=0'
 ---
 

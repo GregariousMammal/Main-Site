@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: event
 title: Powering the Internet of Things with Distributed Databases
-presented: Internet of Things Meet up Helsinki
+event: Internet of Things Meet up Helsinki
 pres_url: 'http://www.meetup.com/Internet-of-Things-Helsinki/events/221317511/'
-date_presented: 2015-05-28T00:00:00.000Z
+date: 2015-05-28T00:00:00.000Z
 pres_source: null
 ---
 

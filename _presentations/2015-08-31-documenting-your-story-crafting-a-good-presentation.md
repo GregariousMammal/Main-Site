@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: event
 title: Documenting your Story - Crafting a good presentation
-presented: 'Write the docs, Prague'
+event: 'Write the docs, Prague'
 pres_url: 'http://writethedocs-www.readthedocs.org/conf/eu/2015/speakers/#speaker-cward'
-date_presented: 2015-08-31T00:00:00.000Z
+date: 2015-08-31T00:00:00.000Z
 pres_source: 'http://chrischinchilla.github.io/Presentations/good_presentations/'
 ---
 
