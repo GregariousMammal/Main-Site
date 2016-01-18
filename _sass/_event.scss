@@ -1,11 +1,15 @@
-.event {
+.event,
+.presentations {
   h2 {
     text-align: right;
   }
-  .event-details{
+  .event-details {
     margin-left:0;
   }
-  .post-meta{
+  .post-meta {
     margin-left:0;
+    p {
+      margin-left:165px;
+    }
   }
 }
