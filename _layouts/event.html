@@ -19,11 +19,11 @@ layout: default
     {{ content }}
   </article>
 
-          <div class="post-meta">
-            <p>{{ page.venue }}</p>
-            <p><a class="post-link" href="{{ post.pres_url }}" target="_blank">Presentation</a></p>
-            <p><a class="post-link" href="{{ post.pres_source }}" target="_blank">Presentation File</a></p>
-          </div>
+  <div class="post-meta">
+    <p>{{ page.venue }}</p>
+    <p><a class="post-link" href="{{ page.pres_url }}" target="_blank">Presentation</a></p>
+    <p><a class="post-link" href="{{ page.pres_source }}" target="_blank">Presentation File</a></p>
+  </div>
 
   {{ % if page.comments % }}
   {% include comments.html %}
