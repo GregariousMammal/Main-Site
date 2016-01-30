@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: event
 title: 'JS, CMS, untangle the mess'
-presented: Melbourne JS 2014
+event: Melbourne JS 2014
 pres_url: 'http://www.slideshare.net/chrischinchilla/js-cms-untangle-the-mess'
-date_presented: 2014-02-14T00:00:00.000Z
+date: 2014-02-14T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/sh/uf0vzc50sosn7oo/AADjPG5a1wxtufLKa3jh5UERa?dl=0'
 ---
 

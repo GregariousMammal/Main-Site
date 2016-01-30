@@ -1,8 +1,8 @@
 ---
 layout: event
 title: Why I decided to code a Boardgame
-presented: up.front Berlin
-date_presented: 2015-12-08T00:00:00.000Z
+event: up.front Berlin
+date: 2015-12-08T00:00:00.000Z
 pres_url: 'http://up.front.ug/2015/12/08/meetup/'
 pres_source: 'http://chrischinchilla.github.io/Presentations/chip_shop/upfront_dec.html'
 ---

@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: event
 title: Introducing Distributed Databases
-presented: Voxxed Days Belgrade
+event: Voxxed Days Belgrade
 pres_url: 'https://www.youtube.com/watch?v=mLuRDv7Ad0Y'
-date_presented: 2015-10-01T00:00:00.000Z
+date: 2015-10-01T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/vvrme35s872d1ez/Intro%20to%20DD.key?dl=0'
 ---
 
