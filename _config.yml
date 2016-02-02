@@ -1,4 +1,6 @@
 # Site settings
+# TODO: Test
+
 title: Gregarious Mammal
 email: info@gregariousmammal.com
 description:  Technology and Education.
@@ -12,9 +14,6 @@ comments: true
 pagination:
   per_page: 25
   limit: false
-
-gems:
-  - octopress-paginate
 
 collections:
   presentations:
