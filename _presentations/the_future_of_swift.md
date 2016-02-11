@@ -21,4 +21,4 @@ We will look at:
 - Will Swift on Android be possible
 - What’s next for Swift?”
 
-[MDevCon](http://mdevcon.com/)
+[Read more](http://mdevcon.com/)
