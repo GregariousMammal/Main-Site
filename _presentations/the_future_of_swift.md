@@ -3,7 +3,7 @@ layout: event
 title: The Future of Swift
 event: MDevCon
 date: '2016-03-17'
-venue: Tuschinski Theater (near Rembrandt Plein), Reguliersbreestraat 26, Amsterdam
+venue: Tuschinski Theater (near Rembrandt Plein), Reguliersbreestraat 26, Amsterdam.
 
 ---
 
