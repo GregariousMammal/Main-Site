@@ -22,13 +22,6 @@ collections:
     output: true
     layout: service
 
-defaults:
-  -
-    scope:
-      type: presentations
-    values:
-      url: http://presentations.gregariousmammal.com
-
 picture:
   source: /images
   output: generated

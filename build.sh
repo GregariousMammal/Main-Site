@@ -2,4 +2,4 @@
 
 rm -dfr _site
 
-jekyll build
+jekyll build --future
