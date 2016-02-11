@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: event
 title: Scale Your Database like Your Application
-presented: Docker Randstad
+event: Docker Randstad
 pres_url: 'https://www.youtube.com/watch?v=SdnpQAVI_cc&index=2&list=PLzSGDpUWtiotQ3QTnwA75ndJ3qpepp75V'
-date_presented: 2015-09-07T00:00:00.000Z
+date: 2015-09-07T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/41b60ydc97rr8pi/Docker%20presentation%20%28Chris%20W%29.key?dl=0'
 ---
 

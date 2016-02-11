@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: event
 title: 'Introducing Crate, the scalable SQL Database'
-presented: Dublin NoSQL with Crate.io
+event: Dublin NoSQL with Crate.io
 pres_url: 'https://ti.to/tcube/dublin-nosql-crate-io'
-date_presented: 2015-10-05T00:00:00.000Z
+date: 2015-10-05T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/363bds63f9ielg3/GitHub%20Presentation%20%28Draft%29.key?dl=0'
 ---
 

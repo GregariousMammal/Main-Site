@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: event
 title: Understanding databases for distributed Docker applications
-presented: Buzzwords Berlin
+event: Berlin Buzzwords
 pres_url: 'https://www.youtube.com/watch?v=gILCPu6lGZo'
-date_presented: 2015-06-01T00:00:00.000Z
+date: 2015-06-01T00:00:00.000Z
 pres_source: null
 ---
 
