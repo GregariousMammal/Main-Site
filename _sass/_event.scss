@@ -1,5 +1,25 @@
 .event,
 .presentations {
+  .date {
+    font-weight: bold;
+    width: 135px;
+    display: block;
+    float: left;
+    font-size: 1.55em;
+    text-align: center;
+    padding-right: $spacing-unit;
+    padding-bottom: $spacing-unit;
+  }
+  .future-event {
+    .date {
+
+    }
+  }
+  .past-event {
+    .date {
+      color: $grey-color-light;
+    }
+  }
   h2 {
     text-align: right;
   }
