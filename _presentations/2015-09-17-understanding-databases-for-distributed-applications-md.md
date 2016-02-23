@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: event
 title: Understanding databases for distributed applications
-presented: Berlin Expert Days 2015
+event: Berlin Expert Days 2015
 pres_url: 'http://bed-con.org/2015/talks/Understanding-databases-for-distributed-applications'
-date_presented: 2015-09-17T00:00:00.000Z
+date: 2015-09-17T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/vvrme35s872d1ez/Intro%20to%20DD.key?dl=0'
 ---
 

@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: event
 title: Understanding Distributed Databases
-presented: Coding Serbia
+event: Coding Serbia
 pres_url: 'http://codingserbia.com/'
-date_presented: 2015-10-07T00:00:00.000Z
+date: 2015-10-07T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/vvrme35s872d1ez/Intro%20to%20DD.key?dl=0'
 ---
 

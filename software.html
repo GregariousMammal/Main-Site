@@ -1,18 +1,20 @@
 ---
 layout: default
-permalink: projects/aah/index.html
+permalink: projects/software/index.html
 paginate:
-  category: aah
+  category: software
 ---
 
 <div class="home">
-
-  <h1 class="page-heading">Answers Against Humanity</h1>
-
+  <h1 class="page-heading">Software</h1>
+  <div class="description">
+    <p>
+      I have a history of creating and contributing small applications and lines of code to various open source projects, here are some.
+    </p>
+  </div>
   <section>
     <ul class="post-list">
       {% for post in paginator.posts %}
-
       <li>
         {% if post.image %}
         {% picture listings {{post.image}} alt="{{post.title}}" %}
@@ -28,10 +30,8 @@ paginate:
           {% endif %}
         </div>
       </li>
-
       {% endfor %}
     </ul>
   </section>
-      {% include pagination.html %}
-
+  {% include pagination.html %}
 </div>
