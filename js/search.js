@@ -4,6 +4,8 @@ jQuery(function() {
   window.idx = lunr(function () {
     this.field('id');
     this.field('title', { boost: 10 });
+    this.field('tags', { boost: 5 });
+    this.field('category', { boost: 5 });
   });
 
   // Download the data from the JSON file we generated
@@ -40,8 +42,23 @@ jQuery(function() {
         results.forEach(function(result) {
           var item = loaded_data[result.ref];
 
+          // {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' %}
+          // <a class="post-link" href="{{ post.publication_url }}">{{ post.title }}</a>
+          // {% else %}
+          // <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          // {% endif %}
+
+
+
           // Build a snippet of HTML for this result
-          var appendString = '<li><a href="' + item.url + '">' + item.title + '</a></li>';
+          console.log(item.categories);
+          if (item.categories == 'sitepoint' || item.categories == 'crate') {
+                      var appendString = '<li><a href="' + item.publication_url + '">' + item.title + '</a></li>';
+
+          } else {
+                      var appendString = '<li><a href="' + item.url + '">' + item.title + '</a></li>';
+
+          }
 
           // Add it to the results
           $search_results.append(appendString);
