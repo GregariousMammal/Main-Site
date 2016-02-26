@@ -1,12 +1,12 @@
 // TODO: Consolidate and function-ise
 
 .writing {
-  .image {
+  /*.image {
     img {
       @extend .mobile-images;
       @include image-mask('/images/rabbit_image.gif')
     }
-  }
+  }*/
   .description {
     p:first-child:first-letter {
       @extend .first-letter;
@@ -15,12 +15,12 @@
 }
 
 .chrischinchilla {
-  .image {
+  /*.image {
     img {
       @extend .mobile-images;
       @include image-mask('/images/chris_chinchilla.gif')
     }
-  }
+  }*/
   .description {
     p:first-child:first-letter {
       @extend .first-letter;
@@ -29,12 +29,12 @@
 }
 
 .projects, .services {
-  .image {
+  /*.image {
     img {
       @extend .mobile-images;
       @include image-mask('/images/cat_image.gif')
     }
-  }
+  }*/
   .description {
     p:first-child:first-letter {
       @extend .first-letter;
@@ -43,12 +43,12 @@
 }
 
 .events {
-  .image {
+  /*.image {
     img {
       @extend .mobile-images;
       @include image-mask('/images/koala_image.gif')
     }
-  }
+  }*/
   .description {
     p:first-child:first-letter {
       @extend .first-letter;

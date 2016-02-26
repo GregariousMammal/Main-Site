@@ -27,14 +27,17 @@
   border-top: none;
   border-bottom: none;
   min-height: 100px;
-  height:100px;
 
   @include media-query($on-laptop) {
     min-height: 50px;
     height:50px;
+    background-image:url(/images/solo-head.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-color: rgba(255,255,255,0.8);
   }
   // Positioning context for the mobile navigation icon
-  // position: relative;
   background-image:url(/images/gm-logo.png);
   background-repeat: no-repeat;
   background-position: center;
@@ -43,8 +46,6 @@
 }
 
 .site-title {
-  // font-size: 26px;
-  // line-height: 56px;
   letter-spacing: -1px;
   margin-bottom: 0;
   float: left;

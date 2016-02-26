@@ -8,7 +8,6 @@ paginate:
 <div class="home">
   <div class="writing">
     <div class="image">
-      {% picture categories rabbit_image.gif alt="Rabbit Image" %}
     </div>
     <h1 class="post-title">Writing</h1>
     <div class="description">
@@ -29,7 +28,7 @@ paginate:
           <a class="post-link" href="{{ post.publication_url }}">{{ post.title }}</a>
           {% else %}
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          {% endif %}          
+          {% endif %}
         </h2>
         {{ post.excerpt }}
         <!-- TODO: Let's consolidate -->
