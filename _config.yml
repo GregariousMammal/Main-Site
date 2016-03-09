@@ -48,9 +48,9 @@ picture:
         itemprop: image
       source_medium:
         media: "(min-width: 40em)"
-        height: 200
+        width: 450
       source_default:
-        height: 200
+        width: 200
     article:
       ppi: [1, 1.5, 2]
       attr:
