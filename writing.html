@@ -25,16 +25,16 @@ paginate:
         {% picture listings {{post.image}} alt="{{post.title}}" %}
         {% endif %}
         <h2>
-          {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' %}
+          {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' or post.categories[1] == 'theweeklysqueak' %}
           <a class="post-link" href="{{ post.publication_url }}">{{ post.title }}</a>
           {% else %}
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          {% endif %}          
+          {% endif %}
         </h2>
         {{ post.excerpt }}
         <!-- TODO: Let's consolidate -->
         <div class="post-meta">
-          {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' %}
+          {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' or post.categories[1] == 'theweeklysqueak' %}
           <a class="post-link" href="{{ post.publication_url }}">Read More</a>
           {% else %}
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
