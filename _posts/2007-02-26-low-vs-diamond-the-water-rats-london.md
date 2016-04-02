@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Low Vs Diamond - The Water Rats, London'
-created: 1172476124
+created: 2006-02-26T00:00:00.000Z
 categories: writing chrischinchilla
 tags: music reviews
 ---
