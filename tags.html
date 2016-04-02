@@ -7,10 +7,13 @@ title: Topics
 <div class="box topics">
 	<h2>{{ tag | first }}<a name="{{ tag | first | cgi_escape }}"></a></h2>
 	<ul class="postList">
-	{% for posts in tag %}
-      {% for post in posts %}
+		{% for posts in tag %}
+		{% for post in posts %}
+		{% if post.title %}
 		<li class="nested"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}, <span>{{ post.date | date: '%d.%m.%y' }}</span></a></li>
-	{% endfor %}{% endfor %}
+		{% endif %}
+		{% endfor %}
+		{% endfor %}
 	</ul>
 </div>
 {% endfor %}
