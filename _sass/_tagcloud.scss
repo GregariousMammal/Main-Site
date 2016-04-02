@@ -23,3 +23,12 @@
     text-transform: capitalize;
   }
 }
+
+.tags {
+  margin-top: $spacing-unit;
+  margin-bottom: $spacing-unit;
+  font-size: $tiny-font-size;
+  h3 {
+    margin-bottom: 0;
+  }
+}
