@@ -21,7 +21,7 @@ paginate:
         {% if post.image %}
         {% picture listings {{post.image}} alt="{{post.title}}" %}
         {% endif %}
-                  {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' or post.categories[1] == 'theweeklysqueak' %}
+                  {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' or post.categories[1] == 'theweeklysqueak' or post.categories[1] == 'codeship' %}
                   <h2>
                     <a href="{{ post.publication_url }}">{{ post.title }}</a>
                   </h2>
@@ -34,7 +34,7 @@ paginate:
         {{ post.excerpt }}
         <!-- TODO: Let's consolidate -->
         <div class="post-meta">
-          {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' or post.categories[1] == 'theweeklysqueak' %}
+          {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' or post.categories[1] == 'theweeklysqueak' or post.categories[1] == 'codeship' %}
           <a class="post-link" href="{{ post.publication_url }}">Read More</a>
           {% else %}
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
