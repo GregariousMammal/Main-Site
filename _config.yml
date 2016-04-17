@@ -5,7 +5,7 @@ title: Gregarious Mammal
 email: info@gregariousmammal.com
 description:  Technology and Education.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://gregariousmammal.com" # the base hostname & protocol for your site
+#url: "http://gregariousmammal.com" # the base hostname & protocol for your site
 twitter_username: chrischinch
 github_username:  chrischinchilla
 permalink: /:title
@@ -80,9 +80,9 @@ picture:
         itemprop: image
       source_medium:
         media: "(min-width: 40em)"
-        width: 200
+        width: 400
       source_default:
-        width: 200
+        width: 400
     smallscreen:
       ppi: [1, 1.5, 2]
       attr:
