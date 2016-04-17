@@ -2,6 +2,7 @@
 title: 'Berlin Winter, Art Exhibitions and Submarine Cables'
 created: 2016-01-10
 publication_url: 'https://medium.com/hacker-daily/berlin-winter-art-exhibitions-and-submarine-cables-ff46933cf5af#.d7uzfox4s'
+image: image-berlin-winter.jpg
 categories: writing 
 ---
 

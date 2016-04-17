@@ -2,6 +2,7 @@
 title: 'Tech Tribes and Being an Outsider Amongst Outsiders'
 created: 20160222
 publication_url: 'https://medium.com/hacker-daily/tech-tribes-and-being-an-outsider-amongst-outsiders-16acef958f7#.e3e6ad82m'
+image: image-tech-tribes.jpg
 categories: writing 
 ---
 

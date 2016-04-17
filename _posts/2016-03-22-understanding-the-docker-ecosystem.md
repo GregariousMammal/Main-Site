@@ -2,6 +2,7 @@
 title: 'Understanding the Docker Ecosystem'
 created: 20160322
 publication_url: 'http://blog.codeship.com/understanding-the-docker-ecosystem/?utm_content=buffer55cf5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer'
+image: image-managing-docker-ecoystem.jpg
 categories: writing 
 ---
 

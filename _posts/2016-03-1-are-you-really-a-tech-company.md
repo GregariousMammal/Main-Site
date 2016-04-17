@@ -2,6 +2,7 @@
 title: 'Are you really a tech company?'
 created: 20160301
 publication_url: 'https://medium.com/@ChrisChinchilla/are-you-really-a-tech-company-63e7b4ed54d4#.x547tw4zr'
+image: image-are-you-really-a-tech-company.jpg
 categories: writing 
 ---
 

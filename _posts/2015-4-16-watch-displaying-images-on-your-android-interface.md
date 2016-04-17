@@ -2,6 +2,7 @@
 title: Video - Loading and Displaying Images on your Android Interface
 created: 20160413
 publication_url: 'https://www.sitepoint.com/premium/tutorials/displaying-images-on-your-android-interface'
+image: android-interface.jpg
 categories: writing sitepoint
 ---
 

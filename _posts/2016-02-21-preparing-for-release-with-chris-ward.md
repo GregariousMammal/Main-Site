@@ -2,6 +2,7 @@
 title: Video - Preparing for release with Chris Ward
 created: 2016-02-21
 publication_url: 'https://www.sitepoint.com/premium/tutorials/preparing-your-release'
+image: image-preparing-your-android-app-for-release.jpeg
 categories: writing sitepoint
 tags: 
 ---

@@ -2,6 +2,7 @@
 title: 'Introducing the Weekly Squeak'
 created: 2015-12-15
 publication_url: 'https://medium.com/@ChrisChinchilla/introducing-the-weekly-squeak-a46de6f38841#.pb9z5vu0u'
+image: image-weeklysqueak.jpg
 categories: writing 
 ---
 

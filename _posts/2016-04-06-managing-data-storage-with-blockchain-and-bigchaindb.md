@@ -2,6 +2,7 @@
 title: 'Managing data storage with block chain and big chain DB'
 created: 20160406
 publication_url: 'managing-data-storage-with-blockchain-and-bigchaindb'
+image: image-managing-data-storage.jpg
 categories: writing sitepoint
 ---
 

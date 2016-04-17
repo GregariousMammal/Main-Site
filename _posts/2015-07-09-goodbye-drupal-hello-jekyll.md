@@ -2,6 +2,7 @@
 layout: post
 title: 'Goodbye Drupal, Hello Jekyll'
 date: 2015-07-09T00:00:00.000Z
+image: image-goodbye-drupal-hello-jekyll.jpg
 categories: projects chipshop
 tags: jekyll drupal
 ---

@@ -2,6 +2,7 @@
 title: Video - Understanding Java and Android
 created: 20151023
 publication_url: 'http://www.sitepoint.com/watch-understanding-android-and-java/'
+image: image-understanding-Java-Android.jpg
 categories: writing sitepoint
 ---
 

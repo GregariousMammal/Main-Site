@@ -2,6 +2,7 @@
 title: 'Meetup and Conference Etiquette Revisited'
 created: 2016-01-24
 publication_url: 'https://medium.com/@ChrisChinchilla/meetup-and-conference-etiquette-revisited-29de1686ec29#.yxd9a5t8s'
+image: image-meetup-etiquette.jpg
 categories: writing 
 ---
 

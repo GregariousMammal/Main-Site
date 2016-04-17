@@ -2,6 +2,7 @@
 title: Video - Interacting with Browser Content
 created: 20151210
 publication_url: 'https://www.sitepoint.com/premium/screencasts/interacting-with-browser-content'
+image: image-chrome.jpg
 categories: writing sitepoint
 ---
 
