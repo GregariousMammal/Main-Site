@@ -2,6 +2,7 @@
 title: Video - Preparing Your Android App for Release
 created: 2016-02-21T00:00:00.000Z
 publication_url: 'https://www.sitepoint.com/premium/tutorials/preparing-your-release'
+image: image-preparing-your-android-app-for-release.jpeg
 categories: writing sitepoint
 tags: android tutorial
 ---
