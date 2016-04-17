@@ -23,3 +23,9 @@
     text-transform: capitalize;
   }
 }
+
+.tags, .related-posts {
+  clear: both;
+  margin-top:$spacing-unit;
+  float:left;
+}
