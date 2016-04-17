@@ -4,6 +4,7 @@ created: 2016-03-22T00:00:00.000Z
 publication_url: 'http://blog.codeship.com/understanding-the-docker-ecosystem/?utm_content=buffer55cf5&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer'
 categories: writing codeship
 tags: docker devops
+image: image-managing-docker-ecoystem.jpg
 ---
 
 Attend any tech-related event or read any tech-related article over the past 18 months, and you will likely have heard of Docker and have an inkling of what it is and does.

@@ -2,6 +2,7 @@
 title: Video - The Evolution of Androids Ecosystem
 created: 20150921
 publication_url: 'http://www.sitepoint.com/watch-evolution-androids-ecosystem/'
+image: image-understanding-android-images.png
 categories: writing sitepoint
 ---
 
