@@ -1,7 +1,7 @@
 ---
 layout: default
 paginate:
-  collection: posts
+collection: posts
 ---
 
 <div class="home">
@@ -21,15 +21,15 @@ paginate:
         {% if post.image %}
         {% picture listings {{post.image}} alt="{{post.title}}" %}
         {% endif %}
-                  {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' or post.categories[1] == 'theweeklysqueak' or post.categories[1] == 'codeship' %}
-                  <h2>
-                    <a href="{{ post.publication_url }}">{{ post.title }}</a>
-                  </h2>
-                  {% else %}
-                  <h2>
-                    <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-                  </h2>
-                  {% endif %}
+        {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' or post.categories[1] == 'theweeklysqueak' or post.categories[1] == 'codeship' %}
+        <h2>
+          <a href="{{ post.publication_url }}">{{ post.title }}</a>
+        </h2>
+        {% else %}
+        <h2>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {% endif %}
 
         {{ post.excerpt }}
         <!-- TODO: Let's consolidate -->
@@ -47,5 +47,5 @@ paginate:
       {% endfor %}
     </ul>
   </section>
-{% include pagination.html %}
+  {% include pagination.html %}
 </div>
