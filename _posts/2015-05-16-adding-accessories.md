@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Adding Accessories
+image: image-adding-accessories.jpg
 categories: projects chipshop
 ---
 

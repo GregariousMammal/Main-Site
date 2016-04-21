@@ -2,6 +2,7 @@
 title: 'First Look at platform.sh, Development and Deployment SaaS'
 created: 20150320
 publication_url: 'http://www.sitepoint.com/first-look-platform-sh-development-deployment-saas/'
+image: image-first-look-at-platform-sh.jpg
 categories: writing sitepoint
 ---
 

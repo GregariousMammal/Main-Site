@@ -2,6 +2,7 @@
 title: Video - The Manifest to manage your metadata
 created: 20151110
 publication_url: ' https://www.sitepoint.com/premium/screencasts/the-manifest-to-manage-your-metadata'
+image: video-the-manifest-to-manage.gif
 categories: writing sitepoint
 ---
 
