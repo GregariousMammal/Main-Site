@@ -1,9 +1,8 @@
 # Site settings
-# TODO: Test
 
 title: Gregarious Mammal
 email: info@gregariousmammal.com
-description:  Technology and Education.
+description: Social Technology
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://gregariousmammal.com" # the base hostname & protocol for your site
 twitter_username: chrischinch
@@ -48,9 +47,9 @@ picture:
         itemprop: image
       source_medium:
         media: "(min-width: 40em)"
-        height: 200
+        width: 450
       source_default:
-        height: 200
+        width: 200
     article:
       ppi: [1, 1.5, 2]
       attr:

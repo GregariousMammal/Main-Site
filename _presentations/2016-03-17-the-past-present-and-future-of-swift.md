@@ -1,10 +1,10 @@
 ---
 layout: event
-title: The Future of Swift
+title: 'The Past, present and Future of Swift'
 event: MDevCon
-date: 2016-03-17T00:00:00.000Z
+date: 2016-03-18T12:00:00.000Z
 venue: 'Tuschinski Theater(near Rembrandt Plein), Reguliersbreestraat 26, Amsterdam.'
-pres_source: null
+pres_source: 'http://chrischinchilla.github.io/Presentations/future_swift/mdevcon.html'
 pres_url: 'http://mdevcon.com/posts/2016/02/01/chris-ward/'
 ---
 
