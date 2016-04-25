@@ -1,7 +1,7 @@
 ---
 title: 'Video - Activities and Intents, the lego blocks of Android'
 created: 20151112
-publication_url: 'https://www.sitepoint.com/premium/screencasts/activities-and-intents-the-lego-blocks-of-android'
+publication_url: 'https://www.sitepoint.com/premium/screencasts/managing-android-interfaces-with-activities-and-intents'
 categories: writing sitepoint
 ---
 
