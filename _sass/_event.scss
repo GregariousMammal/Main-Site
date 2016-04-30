@@ -3,19 +3,33 @@
   .date {
     font-weight: bold;
     width: 135px;
-    display: block;
-    float: left;
     font-size: 1.55em;
     text-align: center;
+    display: block;
+    float: left;
     padding-right: $spacing-unit;
     padding-bottom: $spacing-unit;
+    @include media-query($on-laptop) {
+      float: none;
+      display:initial;
+    }
   }
   .future-event {
+    h3 {
+      @include media-query($on-laptop) {
+        margin-left:0;
+      }
+    }
     .date {
 
     }
   }
   .past-event {
+    h3 {
+      @include media-query($on-laptop) {
+        margin-left:0;
+      }
+    }
     .date {
       color: $grey-color-light;
     }
