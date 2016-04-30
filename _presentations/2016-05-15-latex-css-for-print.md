@@ -8,4 +8,4 @@ pres_source: null
 pres_url: http://oscal.openlabs.cc/
 ---
 
-More details coming soon.
+In this presentation I'll be dragging LaTeX out of the past kicking and screaming and be showing that it's actually kinda cool.
