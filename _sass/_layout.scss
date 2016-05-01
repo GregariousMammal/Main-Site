@@ -192,7 +192,7 @@ section {
       @include media-query($on-laptop) {
         font-size: $base-font-size * 1.15;
         margin-left: 0;
-        clear: both;
+        /*clear: both;*/
       }
       a {
         color: $text-color;
@@ -305,7 +305,7 @@ section {
       font-size: $base-font-size * 1.05;
       margin-top: $spacing-unit;
       margin-bottom: $spacing-unit;
-      clear: both;
+      /*clear: both;*/
 
       @include media-query($on-laptop) {
         font-size: $base-font-size;

@@ -1,7 +1,5 @@
 .service {
-  img {
-
-  }
+  @extend .post;
   ul {
     clear: both;
     margin-top: 15px;
