@@ -9,6 +9,7 @@ twitter_username: chrischinch
 github_username:  chrischinchilla
 permalink: /:title
 comments: true
+exclude: [clean_build.sh, clean_deploy.sh, deploy.sh, Gemfile]
 
 gems: ['redcarpet']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
