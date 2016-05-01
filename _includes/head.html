@@ -11,15 +11,20 @@
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
   <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-59452354-1', 'auto', {'allowLinker': true});
-  ga('require', 'linker');
-  ga('linker:autoLink', ['gregariousmammal.com', 'greenrenters.org', 'theagileleannonprofit.com','theagilenonprofit.com', 'theleanagilenonprofit.com', 'theleannonprofit.com', 'toolsforchangemakers.com', 'theleantraveller.com', 'theleantraveler.com'] );
-  ga('send', 'pageview');
-
+  function init() {
+    window.addEventListener('scroll', function(e){
+      var distanceY = window.pageYOffset || document.documentElement.scrollTop,
+      shrinkOn = 200,
+      header = document.querySelector(".site-header");
+      if (distanceY > shrinkOn) {
+        header.classList.add("small-logo");
+      } else {
+        if (header.classList.contains("small-logo")) {
+          header.classList.remove("small-logo");
+        }
+      }
+    });
+  }
+  window.onload = init();
   </script>
 </head>
