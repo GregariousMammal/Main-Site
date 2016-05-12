@@ -1,9 +1,10 @@
 ---
-title: 'A 1001 Crate Cluster with Microsoft Azure'
-created: 20160417
+title: A 1001 Crate Cluster with Microsoft Azure
+created: 2016-04-17T00:00:00.000Z
 publication_url: 'https://crate.io/a/1001-node-crate-cluster-with-microsoft-azure/'
 image: Cloud-Azure.png
 categories: writing crate
+tags: azure cloud
 ---
 
 Crate.io focuses on database simplicity and horizontal scalability. We aim to make scaling your data from millions to billions of records and beyond as simple as possible.
