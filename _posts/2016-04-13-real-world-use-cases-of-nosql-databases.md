@@ -1,0 +1,11 @@
+---
+title: Video - Real World Use Cases of NoSQL Databases
+created: 20160413
+publication_url: 'https://www.sitepoint.com/premium/screencasts/real-world-use-cases-of-nosql-databases'
+image: nosql.png
+categories: writing sitepoint
+---
+
+A modern and flexible alternative to databases
+
+Have you ever been dissatisfied with SQL databases, or felt that the standard tables, rows, and columns of relational databases did not quite fit your application? NoSQL is a modern alternative that offers a flexible, dynamic style of data storage. This tutorial will provide you with a good overview of NoSQL and the benefits that it provides to users.
