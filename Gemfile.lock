@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/mshick/paginate
-  revision: eddea53248a94adf33ca560d0879549c10aca46c
+  revision: cbef3cdd4cc18b0029d0845f8f88b0fa8c56a6df
   branch: jekyll3
   specs:
     octopress-paginate (1.1.2)
@@ -14,7 +14,7 @@ GEM
     fastimage (1.6.8)
       addressable (~> 2.3, >= 2.3.5)
     ffi (1.9.10)
-    jekyll (3.0.3)
+    jekyll (3.1.6)
       colorator (~> 0.1)
       jekyll-sass-converter (~> 1.0)
       jekyll-watch (~> 1.1)
@@ -29,14 +29,14 @@ GEM
       mini_magick (~> 3.8.0)
     jekyll-sass-converter (1.4.0)
       sass (~> 3.4)
-    jekyll-watch (1.3.1)
-      listen (~> 3.0)
-    kramdown (1.10.0)
+    jekyll-watch (1.4.0)
+      listen (~> 3.0, < 3.1)
+    kramdown (1.11.1)
     liquid (3.0.6)
-    listen (3.0.6)
-      rb-fsevent (>= 0.9.3)
-      rb-inotify (>= 0.9.7)
-    mercenary (0.3.5)
+    listen (3.0.8)
+      rb-fsevent (~> 0.9, >= 0.9.4)
+      rb-inotify (~> 0.9, >= 0.9.7)
+    mercenary (0.3.6)
     mini_magick (3.8.1)
       subexec (~> 0.2.1)
     puma (3.4.0)
@@ -52,7 +52,7 @@ GEM
     redcarpet (3.3.4)
     rouge (1.10.1)
     safe_yaml (1.0.4)
-    sass (3.4.21)
+    sass (3.4.22)
     subexec (0.2.3)
 
 PLATFORMS
