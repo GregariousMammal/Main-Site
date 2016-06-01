@@ -10,6 +10,9 @@ github_username:  chrischinchilla
 permalink: /:title
 comments: true
 
+gems: ['redcarpet']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
+
 pagination:
   per_page: 25
   limit: false
