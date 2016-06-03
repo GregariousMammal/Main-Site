@@ -11,6 +11,9 @@ permalink: /:title
 comments: true
 exclude: [clean_build.sh, clean_deploy.sh, deploy.sh, Gemfile]
 
+gems: ['redcarpet']
+exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
+
 pagination:
   per_page: 25
   limit: false

@@ -1,10 +1,14 @@
 source 'https://rubygems.org'
 
-gem 'jekyll', '~> 3.0.5'
+gem 'jekyll'
 
 gem 'mini_magick'
 gem 'fastimage'
 gem 'redcarpet'
+
+gem 'rack-jekyll'
+gem 'rake'
+gem 'puma'
 
 group :jekyll_plugins do
 
