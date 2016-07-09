@@ -1,31 +1,37 @@
 ---
 layout: post
 title: Degrowth 2014 - Technological solutions for a degrowth society
-created: 1410042196
+created: 2014-09-07T00:00:00.000Z
+categories: writing chrischinchilla
+tags: politics degrowth activism
 ---
-<h2 id="theoaeproject:opendataandopensourcesoftwareforasustainableeconomy">The OAE Project: Open Data and Open Source software for a sustainable economy</h2>
 
-[[{"type":"media","view_mode":"media_large","fid":"159","attributes":{"class":"media-image","height":"100px","width":"100px"}}]]
+## The OAE Project: Open Data and Open Source software for a sustainable economy
 
-It&rsquo;s refreshing to hear someone (unsurprisingly an engineer) mention that the Degrowth movement could do with more practical projects and methodologies to run alongside the theoretical discussions.
+It's refreshing to hear someone (unsurprisingly an engineer) mention that the Degrowth movement could do with more practical projects and methodologies to run alongside the theoretical discussions.
 
-The <a href="http://www.openaltraeconomia.it/software.html#web" target="_blank">OAE</a> project aimed to intersect Ecological/Socio-Economic, Legal and Green Tech concepts and values. The project&rsquo;s expected outcomes were to provide up-to-date data in common and standard formats for the consortium that OAE is a part of. This would enable it&rsquo;s participants to keep up to date, access and find what they need and utilise the data in activities and projects.
+The [OAE](http://www.openaltraeconomia.it/software.html#web) project aimed to intersect Ecological/Socio-Economic, Legal and Green Tech concepts and values. The project's expected outcomes were to provide up-to-date data in common and standard formats for the consortium that OAE is a part of. This would enable it's participants to keep up to date, access and find what they need and utilise the data in activities and projects.
 
-There is an <a href="http://5stardata.info/" target="_blank">Open Data deployment scheme</a> proposed by Tim Berners-Lee that the team tried to follow.
+There is an [Open Data deployment scheme](http://5stardata.info/) proposed by Tim Berners-Lee that the team tried to follow.
 
-The data was linked to merge disparate sources into something more useful and relevant, matching source relationships. The data was then presented in an a method that developers would understand and could utilise. This enabled the team to create web and mobile apps that an end-user could utilise.<h2 id="technologyfromadegrowthperspective">Technology from a Degrowth perspective</h2>
+The data was linked to merge disparate sources into something more useful and relevant, matching source relationships. The data was then presented in an a method that developers would understand and could utilise. This enabled the team to create web and mobile apps that an end-user could utilise.
 
-[[{"type":"media","view_mode":"media_large","fid":"160","attributes":{"class":"media-image","height":"100px","width":"100px"}}]]
+## Technology from a Degrowth perspective
 
-Humans have always created tools to make our lives easier and work with our environment. Shifting our reliability from ourselves to powering tools with fossil fuels allowed us to do much more, but it of course has had repercussions that are parasitic. The crux of the debate is evaluation of the viability of technology, it&rsquo;s potential verses it&rsquo;s sustainability. <strong>Is it in balance?</strong>
+Humans have always created tools to make our lives easier and work with our environment. Shifting our reliability from ourselves to powering tools with fossil fuels allowed us to do much more, but it of course has had repercussions that are parasitic. The crux of the debate is evaluation of the viability of technology, it's potential verses it's sustainability. **Is it in balance?**
 
-From a Degrowth perspective, many are somewhat opposed to technology whilst others consider it an ally. &lsquo;<a href="https://www.google.com/search?q=convivial+technologies&amp;ie=utf-8&amp;oe=utf-8&amp;aq=t&amp;gws_rd=ssl#newwindow=1&amp;q=convivial+tools" target="_blank">Convivial Tools</a>&rsquo; are decentralised, reversible and democratically controllable. They should serve the community and meet its needs and ends.<h3 id="aspecificexample-climateengineering">A specific example - Climate engineering</h3>
+From a Degrowth perspective, many are somewhat opposed to technology whilst others consider it an ally. '[Convivial Tools](https://www.google.com/search?q=convivial+technologies&ie=utf-8&oe=utf-8&aq=t&gws_rd=ssl#newwindow=1&q=convivial+tools)' are decentralised, reversible and democratically controllable. They should serve the community and meet its needs and ends.
 
-<a href="http://en.wikipedia.org/wiki/Climate_engineering" target="_blank">Climate engineering</a> looks at methods for potentially counteracting (inevitable) climate change. These include concepts such as space mirrors, cloud seeding, radiation management, reflective aerosols, <a href="http://en.wikipedia.org/wiki/Stratospheric_sulfate_aerosols_(geoengineering)" target="_blank">Stratospheric aerosol injection</a> (SAI) and many other ideas that seem somewhat scary and far-fetched.<ul><li><strong>Is SAI viable?</strong> It&rsquo;s fossil fuel based, needs to be flown and is an unpredictable form of pollution. It doesn&rsquo;t address all affects of Climate Change, but does it tackle enough?</li><li><strong>Is SAI convivial?</strong> It&rsquo;s not decentralised and there are currently no institutions that regulate SAI. Broad agreement on values and ends are also not agreed and we potentially give the power to change the climate to people(s).</li></ul>
+### A specific example - Climate engineering
 
-So, SAI has to be discarded from Degrowth. Large-scale replanting of forests partially meets the criteria.<h2 id="towardsamethodologicalluddismforicts">Towards a Methodological Luddism for ICTs</h2>
+[Climate engineering](http://en.wikipedia.org/wiki/Climate_engineering) looks at methods for potentially counteracting (inevitable) climate change. These include concepts such as space mirrors, cloud seeding, radiation management, reflective aerosols, [Stratospheric aerosol injection](http://en.wikipedia.org/wiki/Stratospheric_sulfate_aerosols_(geoengineering)) (SAI) and many other ideas that seem somewhat scary and far-fetched.
 
-[[{"type":"media","view_mode":"media_large","fid":"161","attributes":{"class":"media-image","height":"100px","width":"100px"}}]]
+- **Is SAI viable?** It's fossil fuel based, needs to be flown and is an unpredictable form of pollution. It doesn't address all affects of Climate Change, but does it tackle enough?
+- **Is SAI convivial?** It's not decentralised and there are currently no institutions that regulate SAI. Broad agreement on values and ends are also not agreed and we potentially give the power to change the climate to people(s).
+
+So, SAI has to be discarded from Degrowth. Large-scale replanting of forests partially meets the criteria.
+
+## Towards a Methodological Luddism for ICTs
 
 Technology has always been a part of the problem of growth, so how can it be part of Degrowth? What do we want?
 

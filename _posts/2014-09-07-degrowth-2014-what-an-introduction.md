@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 'Degrowth 2014 - What?! An introduction'
-created: 1410041423
-image: null
+title: Degrowth 2014 - What?! An introduction
+created: 2014-09-07T00:00:00.000Z
 categories: writing chrischinchilla
+tags: politics degrowth activism
 ---
 
 Despite attending the conference, not everyone will fully understand what 'Degrowth' is, or the multitude of related terms that will be mentioned during the conference. Thankfully the first session on the schedule is ideally suited for getting your knowledge up to scratch.
@@ -18,9 +18,12 @@ Leipzig is 4th international conference on Degrowth, and now the term is being m
 
 Let's break apart the vocabulary apart a little...
 
-[[{"type":"media","view_mode":"media_large","fid":"153","attributes":{"class":"media-image","height":"100px","width":"100px"}}]]
+**The Limits of Growth**
 
-**The Limits of Growth**<ul><li>_Growth is uneconomic_ : Costs are increasing faster than wealth as is inequality and the distribution of wealth.</li><li>_Growth is unjust_: Commodification of the world and services, unequal access to resources, it is subsidised by unpaid and low cost labour and does not increase happiness.</li><li>_Growth is Ecologically unsustainable_: There is correlation between GDP and Co2 emissions, dematerialisation of economies is not happening and technology cannot solve all our problems.</li><li>_Growth is coming to an end_: There are diminishing marginal returns, an exhaustion of technological innovations, limits between demand and supply, limited natural resources and increasing debt in nations and institutions.</li></ul>
+- _Growth is uneconomic_ : Costs are increasing faster than wealth as is inequality and the distribution of wealth.
+- _Growth is unjust_: Commodification of the world and services, unequal access to resources, it is subsidised by unpaid and low cost labour and does not increase happiness.
+- _Growth is Ecologically unsustainable_: There is correlation between GDP and Co2 emissions, dematerialisation of economies is not happening and technology cannot solve all our problems.
+- _Growth is coming to an end_: There are diminishing marginal returns, an exhaustion of technological innovations, limits between demand and supply, limited natural resources and increasing debt in nations and institutions.
 
 **Degrowth as Autonomy**
 
@@ -34,6 +37,16 @@ Degrowth has come to be a word used by politics to give backing and consensus to
 
 Growth is an imperative for capitalism, for technical, economic and socio-political reasons. Frequently capitalists will say that there will be a trickle down to everyone eventually if we continue to grow. Degrowth tries to imagine a non-capitalist society.
 
-**Proposals for a Degrowth Transition**<ul><li>_Grassroots economies_</li><li>_Welfare institutions without growth_: Job guarantees, basic and ceiling income, work-sharing.</li><li>_Money and credit institutions_: Community and alternative currencies, public money, debt audits of spending.</li><li>_The politics of such a transition_: Uncivil and civil practises, a slow leak into parliamentary politics, taking part in social movements.</li><li>_[Nowtopias](https://www.google.com/search?q=nowtopia&ie=utf-8&oe=utf-8&aq=t&gws_rd=ssl)_ - Transition towns, Collaborative consumption, share schemes etc.</li></ul>
+**Proposals for a Degrowth Transition**
 
-**Future research proposals**<ul><li>The impossibility of dematerialisation</li><li>Entry of developed economies into systemic stagnation</li><li>Abandonment of growth will revive politics and democracy (no proof, but we think/hope!)</li></ul>
+- _Grassroots economies_
+- _Welfare institutions without growth_: Job guarantees, basic and ceiling income, work-sharing.
+- _Money and credit institutions_: Community and alternative currencies, public money, debt audits of spending.
+- _The politics of such a transition_: Uncivil and civil practises, a slow leak into parliamentary politics, taking part in social movements.
+- _[Nowtopias](https://www.google.com/search?q=nowtopia&ie=utf-8&oe=utf-8&aq=t&gws_rd=ssl)_ - Transition towns, Collaborative consumption, share schemes etc.
+
+**Future research proposals**
+
+- The impossibility of dematerialisation
+- Entry of developed economies into systemic stagnation
+- Abandonment of growth will revive politics and democracy (no proof, but we think/hope!)
