@@ -4,15 +4,15 @@ title: Gregarious Mammal
 email: info@gregariousmammal.com
 description: Social Technology
 #baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://gregariousmammal.com" # the base hostname & protocol for your site
+url: "http://gregariousmammal.com"
 twitter_username: chrischinch
 github_username:  chrischinchilla
 permalink: /:title
 comments: true
-exclude: [clean_build.sh, clean_deploy.sh, deploy.sh, Gemfile]
+exclude: [Gemfile]
 
 gems: ['redcarpet']
-exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
+exclude: ['Gemfile', 'Gemfile.lock', 'vendor']
 
 pagination:
   per_page: 25
