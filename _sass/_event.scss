@@ -25,13 +25,21 @@
     }
   }
   .past-event {
+    color: $grey-color-light;
     h3 {
       @include media-query($on-laptop) {
         margin-left:0;
       }
     }
+    h2 {
+      a {
+        color: $grey-color-light;
+      }
+    }
     .date {
-      color: $grey-color-light;
+    }
+    a {
+      
     }
   }
   h2 {
