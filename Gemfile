@@ -12,6 +12,6 @@ gem 'puma'
 
 group :jekyll_plugins do
 
-  gem 'jekyll-picture-tag'
+  gem 'jekyll-picture-tag', '~> 0.3.0'
   gem "octopress-paginate", :git => "git://github.com/mshick/paginate", :branch => "jekyll3"
 end
