@@ -19,7 +19,7 @@ pagination:
   limit: false
 
 collections:
-  presentations:
+  meetme:
     output: true
   services:
     output: true

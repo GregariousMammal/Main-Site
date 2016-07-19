@@ -1,15 +1,21 @@
 ---
 layout: default
-permalink: presentations/index.html
+permalink: meetme/index.html
 paginate:
-  collection: presentations
+  collection: meetme
 ---
 
-<div class="presentations">
-  <h1 class="page-heading">Presentations</h1>
+<div class="home">
+<div class="meetme">
+  <div class="image">
+  </div>
+  <h1 class="page-heading">Meet Me</h1>
+  <div class="description">
+    <p>You will frequently find me out and about, delivering a presentation, or attending an event to hear about your great ideas and projects. Here are my next confirmed events, though I am also to be found at many Berlin meetups that I wont always list here.</p>
+  </div>
   <section>
     <ul class="post-list">
-      {% for post in site.presentations reversed %}
+      {% for post in site.meetme reversed %}
       {% assign currentDate = site.time %}
       {% if post.date < currentDate %}
       <li class="past-event">
@@ -35,5 +41,5 @@ paginate:
       </ul>
     </section>
     {% include pagination.html %}
-
   </div>
+</div>
