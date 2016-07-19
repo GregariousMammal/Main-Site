@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Scalable Databases
 event: AWS User Group Meet up Berlin

@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: JQuery Mobile
 event: Mobile Melbourne

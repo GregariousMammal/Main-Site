@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Chip Shop Case Study
 event: Vienna.html

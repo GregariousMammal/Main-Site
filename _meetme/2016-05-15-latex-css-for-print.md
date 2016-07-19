@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: LaTeX, CSS for Print
 event: Oscal 16

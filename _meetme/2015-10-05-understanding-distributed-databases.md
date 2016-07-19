@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Understanding Distributed Databases
 event: CloudOpen Europe

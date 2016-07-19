@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: The Future of Cardboard
 event: Talk and Play no. 17

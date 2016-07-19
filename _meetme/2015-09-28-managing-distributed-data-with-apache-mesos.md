@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Managing Distributed Databases with Apache Mesos
 event: Apache Big Data Europe

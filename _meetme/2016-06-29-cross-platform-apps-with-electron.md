@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Building Cross Platform Apps with Electron
 event: Vienna.JS

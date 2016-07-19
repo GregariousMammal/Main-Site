@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: 'The Past, present and Future of Swift'
 event: MDevCon

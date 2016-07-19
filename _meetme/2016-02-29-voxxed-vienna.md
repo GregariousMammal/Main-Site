@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Developer Health
 event: Voxxed Days Vienna

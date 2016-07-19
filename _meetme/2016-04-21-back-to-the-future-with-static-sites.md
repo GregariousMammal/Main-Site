@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Back To The Future With Static Site Generators
 event: DevWeek London

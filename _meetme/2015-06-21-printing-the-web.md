@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Printing the web
 event: Enthusiasticon

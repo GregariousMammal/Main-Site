@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Crate and Docker - Scale Your Database like Your Application
 event: Docker meetup Hamburg

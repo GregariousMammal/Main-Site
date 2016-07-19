@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: 'Cosmic Horror & HP Lovecraft'
 event: Laneway Learning

@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Android Programming Without Java
 event: DroidCon Greece

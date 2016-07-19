@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Introducing Distributed Databases
 event: WebCamp Zagreb

@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Why you should come to Drupal South
 event: Drupal Melbourne 2014

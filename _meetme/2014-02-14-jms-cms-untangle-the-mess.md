@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: 'JS, CMS, untangle the mess'
 event: Melbourne JS 2014

@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: 'Introducing Crate, the scalable SQL Database'
 event: Dublin NoSQL with Crate.io

@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Advocate Bits
 event: Enthusiasticon

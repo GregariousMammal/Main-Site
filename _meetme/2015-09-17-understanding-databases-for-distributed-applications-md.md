@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Understanding databases for distributed applications
 event: Berlin Expert Days 2015

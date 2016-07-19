@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Scale Your Database like Your Application
 event: Docker Randstad

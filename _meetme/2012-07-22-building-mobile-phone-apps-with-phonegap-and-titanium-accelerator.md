@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Building mobile apps with PhoneGap and Titanium appcelerator
 event: Melbourne Geek Night

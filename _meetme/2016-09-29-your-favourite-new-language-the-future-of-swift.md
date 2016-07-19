@@ -1,7 +1,8 @@
 ---
+type: presentation
 layout: event
 title: Your Favourite New Language - The Future of Swift
-event: Voxxed Days Belgrade 2016
+event: Voxxed Days Belgrade
 date: 2016-09-29T00:00:00.000Z
 venue: Bel Expo Centar
 pres_source: null

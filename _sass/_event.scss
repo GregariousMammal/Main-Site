@@ -3,7 +3,7 @@
   .date {
     font-weight: bold;
     width: 135px;
-    font-size: 1.55em;
+    font-size: 1.25em;
     text-align: center;
     display: block;
     float: left;
@@ -39,7 +39,7 @@
     .date {
     }
     a {
-
+      color: $grey-color-light;
     }
   }
   h2 {

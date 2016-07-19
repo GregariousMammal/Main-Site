@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Understanding databases for distributed Docker applications
 event: Berlin Buzzwords

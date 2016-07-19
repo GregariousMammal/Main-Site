@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Why I decided to code a Boardgame
 event: up.front Berlin

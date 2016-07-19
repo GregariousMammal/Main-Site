@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Poor and Literate Short Stories
 event: Poor and Literate Short Stories

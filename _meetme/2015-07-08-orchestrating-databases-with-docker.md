@@ -1,4 +1,5 @@
 ---
+type: presentation
 layout: event
 title: Orchestrating databases with Docker
 event: null
