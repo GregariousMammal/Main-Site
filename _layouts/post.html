@@ -29,7 +29,7 @@ layout: default
     {% endfor %}
   </div>
 
-  {{ % if page.comments % }}
+  {% if page.comments %}
   {% include comments.html %}
-  {{ % endif % }}
+  {% endif %}
 </div>

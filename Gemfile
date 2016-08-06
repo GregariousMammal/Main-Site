@@ -6,10 +6,6 @@ gem 'mini_magick'
 gem 'fastimage'
 gem 'redcarpet'
 
-gem 'rack-jekyll'
-gem 'rake'
-gem 'puma'
-
 group :jekyll_plugins do
 
   gem 'jekyll-picture-tag', '~> 0.3.0'
