@@ -21,9 +21,9 @@ pagination:
 collections:
   meetme:
     output: true
-  services:
+  podcast:
     output: true
-    layout: service
+    layout: podcast
 
 picture:
   source: /images

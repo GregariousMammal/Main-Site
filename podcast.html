@@ -1,0 +1,36 @@
+---
+layout: default
+permalink: podcast/index.html
+paginate:
+  collection: podcast
+---
+
+<div class="home">
+  <div class="podcast">
+    <div class="image">
+    </div>
+    <h1 class="post-title">The Weekly Squeak Podcast</h1>
+    <div class="description">
+      <p>The increasingly innacurately titled Weekly Squeak is an irregular, irreverant tour of dicussion topics.</p>
+      <p><a href='http://feeds.soundcloud.com/users/soundcloud:users:128163767/sounds.rss'>Subscribe to the Podcast here.</a></p>
+    </div>
+  </div>
+
+  <section>
+    <ul class="post-list">
+      {% for post in site.podcast reversed %}
+      <li>
+        {% if post.image %}
+        {% picture listings {{post.image}} alt="{{post.title}}" %}
+        {% endif %}
+        <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.date | date: '%B %d' }} - {{ post.title }}</a></h2>
+        {{ post.excerpt }}
+        <div class="post-meta">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+  {% include pagination.html %}
+</div>

@@ -1,0 +1,23 @@
+---
+layout: default
+---
+
+<div class="podcast">
+
+  <header class="post-header">
+    <aside class="image">
+      {% if page.image %}
+      {% picture article {{page.image}} alt="{{post.title}}" %}
+      {% endif %}
+    </aside>
+    <h1 class="post-title">{{ page.date | date: '%B %d' }} - {{ page.title }}</h1>
+  </header>
+
+  <article class="post-content">
+    {{ content }}
+  </article>
+
+  <div class="post-meta">
+  {{ page.podcast_embed }}
+  </div>
+</div>
