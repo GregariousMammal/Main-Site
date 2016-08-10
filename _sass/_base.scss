@@ -8,17 +8,14 @@ dl, dd, ol, ul, figure {
   padding: 0;
 }
 
-
-
 /**
 * Basic styling
 */
 body {
-  padding-left: $spacing-unit * 5;
-  padding-right: $spacing-unit * 5;
+  word-wrap: break-word;
+  width: 80%;
   @include media-query($on-laptop) {
-    padding-left: $spacing-unit;
-    padding-right: $spacing-unit;
+    width: 90%;
   }
   font-family: $base-font-family;
   font-size: $base-font-size;
@@ -27,9 +24,8 @@ body {
   color: $text-color;
   background-color: $background-color;
   -webkit-text-size-adjust: 100%;
+  margin: 0 auto;
 }
-
-
 
 /**
 * Set `margin-bottom` to maintain vertical rhythm
@@ -41,8 +37,6 @@ ul, ol, dl, figure,
   margin-bottom: $spacing-unit / 2;
 }
 
-
-
 /**
 * Images
 */
@@ -50,8 +44,6 @@ img {
   max-width: 100%;
   vertical-align: middle;
 }
-
-
 
 /**
 * Figures
@@ -63,8 +55,6 @@ figure > img {
 figcaption {
   font-size: $small-font-size;
 }
-
-
 
 /**
 * Lists
@@ -80,16 +70,12 @@ li {
   }
 }
 
-
-
 /**
 * Headings
 */
 h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
 }
-
-
 
 /**
 * Links
@@ -108,8 +94,6 @@ a {
   }
 }
 
-
-
 /**
 * Blockquotes
 */
@@ -125,7 +109,6 @@ blockquote:before {
 
 blockquote {
   color: $grey-color;
-  // border-left: 4px solid $grey-color-light;
   padding-left: $spacing-unit / 2;
   font-size: $base-font-size * 0.75;
   letter-spacing: -1px;
@@ -149,7 +132,6 @@ blockquote:after {
   margin-right: 0.25em;
   vertical-align: -0.7em;
 }
-
 
 /**
 * Code formatting
@@ -177,21 +159,14 @@ pre {
   }
 }
 
-
-
 /**
 * Wrapper
 */
 .wrapper {
-  // max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  // max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-  // max-width: 95%;
   margin-right: auto;
-  // margin-left: auto;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
   @extend %clearfix;
-
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
@@ -199,8 +174,6 @@ pre {
     padding-left: $spacing-unit / 2;
   }
 }
-
-
 
 /**
 * Clearfix
@@ -217,7 +190,6 @@ pre {
 .smallText {
   font-size: $tiny-font-size;
 }
-
 
 /**
 * Icons
