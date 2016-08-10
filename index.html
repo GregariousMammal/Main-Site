@@ -18,7 +18,6 @@ paginate:
     <ul class="post-list">
       {% for post in paginator.posts %}
       <li>
-
         {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' or post.categories[1] == 'theweeklysqueak' or post.categories[1] == 'codeship' %}
         <h2>
           <a href="{{ post.publication_url }}">{{ post.title }}</a>

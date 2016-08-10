@@ -2,7 +2,7 @@
 layout: default
 permalink: projects/chipshop/index.html
 paginate:
-  category: chipshop
+category: chipshop
 ---
 
 <div class="home">
@@ -12,14 +12,13 @@ paginate:
   <section>
     <ul class="post-list">
       {% for post in paginator.posts %}
-
       <li>
-        {% if post.image %}
-        {% picture listings {{post.image}} alt="{{post.title}}" %}
-        {% endif %}
         <h2>
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
+        {% if post.image %}
+        {% picture listings {{post.image}} alt="{{post.title}}" %}
+        {% endif %}
         {{ post.excerpt }}
         <div class="post-meta">
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
@@ -32,6 +31,6 @@ paginate:
       {% endfor %}
     </ul>
   </section>
-        {% include pagination.html %}
+  {% include pagination.html %}
 
 </div>
