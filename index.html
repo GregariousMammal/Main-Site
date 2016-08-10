@@ -18,9 +18,7 @@ paginate:
     <ul class="post-list">
       {% for post in paginator.posts %}
       <li>
-        {% if post.image %}
-        {% picture listings {{post.image}} alt="{{post.title}}" %}
-        {% endif %}
+
         {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' or post.categories[1] == 'theweeklysqueak' or post.categories[1] == 'codeship' %}
         <h2>
           <a href="{{ post.publication_url }}">{{ post.title }}</a>
@@ -30,7 +28,9 @@ paginate:
           <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
         {% endif %}
-
+        {% if post.image %}
+        {% picture listings {{post.image}} alt="{{post.title}}" %}
+        {% endif %}
         {{ post.excerpt }}
         <!-- TODO: Let's consolidate -->
         <div class="post-meta">
