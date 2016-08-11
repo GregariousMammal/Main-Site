@@ -22,7 +22,18 @@
     </ul>
     {% endif %}
   </li>
-  <li><a href="/writing" title="Writing">Writing</a> </li>
+  <li><a href="/writing" title="Writing">Writing</a>
+    {% if page.url == '/books/index.html' or page.url == '/courses/index.html' or page.url == '/writing/index.html' or page.categories[0] == 'writing' %}
+    <ul>
+      <li>
+        <a href="/books" title="Books">Books</a>
+      </li>
+      <li>
+        <a href="/courses" title="Courses">Courses</a>
+      </li>
+    </ul>
+    {% endif %}
+  </li>
   <li><a href="/podcast" title="Podcast">Podcast</a> </li>
   <li>
     <a href="/meetme">Meet Me</a>
