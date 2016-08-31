@@ -9,7 +9,6 @@ twitter_username: chrischinch
 github_username:  chrischinchilla
 permalink: /:title
 comments: true
-exclude: [Gemfile]
 
 gems: ['redcarpet']
 exclude: ['Gemfile', 'Gemfile.lock', 'vendor']
