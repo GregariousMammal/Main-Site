@@ -1,5 +1,14 @@
 .event,
-.meetme {
+.connect {
+  .icon_bar {
+    margin-bottom: $spacing-unit;
+
+    div {
+      display: inline-block;
+      vertical-align: top;
+      max-height: 35px;
+    }
+  }
   .date {
     font-weight: bold;
     width: 135px;
@@ -53,5 +62,23 @@
     p {
       margin-left:165px;
     }
+  }
+}
+
+.icon_bar {
+  img {
+    width: 30px;
+    display: inline;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    @include media-query($on-palm) {
+      display: inline;
+      width: 40px;
+    }
+    @include media-query($on-laptop) {
+      width: 20px;
+      display: inline;
+    }
+    height: auto;
   }
 }

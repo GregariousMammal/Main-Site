@@ -9,7 +9,6 @@ twitter_username: chrischinch
 github_username:  chrischinchilla
 permalink: /:title
 comments: true
-exclude: [Gemfile]
 
 gems: ['redcarpet']
 exclude: ['Gemfile', 'Gemfile.lock', 'vendor']
@@ -19,11 +18,16 @@ pagination:
   limit: false
 
 collections:
-  meetme:
+  events:
+    output: true
+  connect:
     output: true
   podcast:
     output: true
     layout: podcast
+  merchandise:
+    output: true
+    layout: merchandise
 
 picture:
   source: /images
@@ -65,6 +69,17 @@ picture:
         # height: 200
       source_default:
         width: 350
+    icon:
+      ppi: [1, 1.5, 2]
+      attr:
+        class: small-screen
+        itemprop: image
+      source_medium:
+        # media: "(min-width: 40em)"
+        width: 45
+        # height: 200
+      source_default:
+        width: 45
     service:
       ppi: [1, 1.5, 2]
       attr:

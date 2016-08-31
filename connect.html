@@ -1,21 +1,37 @@
 ---
 layout: default
-permalink: meetme/index.html
+permalink: connect/index.html
 paginate:
-  collection: meetme
+collection: events
 ---
 
 <div class="home">
-  <div class="meetme">
+  <div class="connect">
     <div class="image">
     </div>
     <h1 class="page-heading">Meet Me</h1>
+    <div class="description">
+      <p>I'm a sociable (gregarious!) fellow, and you can find me on all these social networks. If it's not listed look for <em>ChrisChinchilla</em> or <em>ChrisChinch</em> and you'll probably find me.</p>
+    </div>
+
+    <div class="icon_bar">
+      {% for post in site.connect %}
+      <div>
+        {% if post.image %}
+        <a href="{{ post.network_link }}">{% picture icon {{ post.image }} alt={{ post.title }} %}</a>
+        {% else %}
+        {{ post.network_link }}
+        {% endif %}
+      </div>
+      {% endfor %}
+    </div>
+
     <div class="description">
       <p>You will frequently find me out and about, delivering a presentation, or attending an event to hear about your great ideas and projects. Here are my next confirmed events, though I am also to be found at many Berlin meetups that I wont always list here.</p>
     </div>
     <section>
       <ul class="post-list">
-        {% for post in site.meetme reversed %}
+        {% for post in site.events reversed %}
         {% assign currentDate = site.time %}
         {% if post.date < currentDate %}
         <li class="past-event">
