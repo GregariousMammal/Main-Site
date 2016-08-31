@@ -18,7 +18,9 @@ pagination:
   limit: false
 
 collections:
-  meetme:
+  events:
+    output: true
+  connect:
     output: true
   podcast:
     output: true
