@@ -23,6 +23,9 @@ collections:
   podcast:
     output: true
     layout: podcast
+  merchandise:
+    output: true
+    layout: merchandise
 
 picture:
   source: /images

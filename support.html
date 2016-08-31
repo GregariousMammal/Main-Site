@@ -21,28 +21,37 @@ permalink: support/index.html
 
     <div class="support_links">
       <div>
-      <a href="bitcoin:1F3xGP1rjZVPMqXAWG9dPSzoZMjQfRWko1">{% picture icon icons/payments/bitcoin.png alt="Donate with BitCoin" %}</a>
-      <p>1F3xGP1rjZVPMqXAWG9dPSzoZMjQfRWko1</p>
-  </div>
-    <div>
-      <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-        <input type="hidden" name="cmd" value="_s-xclick">
-        <input type="hidden" name="hosted_button_id" value="NK8D4W9XZZLE2">
-        <input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
-        <img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1">
-      </form><p>Donate with PayPal</p>
+        <a href="bitcoin:1F3xGP1rjZVPMqXAWG9dPSzoZMjQfRWko1">{% picture icon icons/payments/bitcoin.png alt="Donate with BitCoin" %}</a>
+        <p>1F3xGP1rjZVPMqXAWG9dPSzoZMjQfRWko1</p>
+      </div>
+      <div>
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+          <input type="hidden" name="cmd" value="_s-xclick">
+          <input type="hidden" name="hosted_button_id" value="NK8D4W9XZZLE2">
+          <input type="image" src="https://www.paypalobjects.com/en_AU/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal – The safer, easier way to pay online!">
+          <img alt="" border="0" src="https://www.paypalobjects.com/en_AU/i/scr/pixel.gif" width="1" height="1">
+        </form><p>Donate with PayPal</p>
+      </div>
+      <div>
+        <a href="https://m.do.co/c/bd395f13620e" target="_blank">{% picture icon icons/payments/digitalocean.png alt="Digital Ocean" %}</a><p>Looking for great hosting? I recommend Digital Ocean.</p>
+      </div>
     </div>
-    <div>
-      <a href="https://m.do.co/c/bd395f13620e" target="_blank">{% picture icon icons/payments/digitalocean.png alt="Digital Ocean" %}</a><p>Looking for great hosting? I recommend Digital Ocean.</p>
-    </div>
-  </div>
 
-  <section>
-    <h2 class="post-title">Merchandise</h2>
-    <div class="description">
+    <div class="support_links">
+      <h2 class="post-title">Merchandise</h2>
       <p>I'm pretty happy with my Chinchilla mascot(s) and hope that you like it too. The various designs across the site are available from Red Bubble as stickers, phone cases, note books and a whole lot more. Click through to see all that's on offer.</p>
+      {% for post in site.merchandise %}
+      <div>
+        <h3>{{ post.title }}</h3>
+        {% picture icon {{ post.image }} alt={{ post.title }} %}
+        {% if post.store_links %}
+        <p>
+          {% for link in post.store_links %}          
+          <a href="{{ link.link }}">Buy on {{ link.store }}</a>
+          {% endfor %}
+        </p>
+        {% endif %}
+      </div>
+      {% endfor %}
     </div>
-    <script type="text/javascript" src="https://www.redbubble.com/assets/external_portfolio.js"></script>
-    <script id="rb-xzfcxvzx" type="text/javascript">new RBExternalPortfolio('www.redbubble.com', 'chrischinchilla', 3, 3).renderIframe();</script>
-  </section>
-</div>
+  </div>
