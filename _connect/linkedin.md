@@ -2,5 +2,5 @@
 type: connect
 title: LinkedIn
 image: icons/social/linkedin.png
-network_link: 'www.linkedin.com/in/chrischinchilla'
+network_link: 'http://www.linkedin.com/in/chrischinchilla'
 ---
