@@ -32,7 +32,7 @@ In this episode Chris and Cate discuss their visits to IFA and long Night of Sta
 
 [Clyc](http://www.justclyc.com/)
 
-[**Lang Nacht der Start-Ups](http://www.startupnight.de/) Berlin**
+**[Lang Nacht der Start-Ups](http://www.startupnight.de/) Berlin**
 
 *Start ups/Products mentioned (from memory!)*
 
