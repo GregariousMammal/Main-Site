@@ -9,7 +9,8 @@ image: podcast/press-chinchilla.png
 
 In this episode Chris and Cate discuss their visits to IFA and long Night of Startups in Berlin
 
-*Articles mentioned:*
+**Articles mentioned:**
+
 [Finally, a contest to reward the world’s crappiest fighting robots](http://readwrite.com/2016/09/01/hebocon-contest-to-reward-the-worlds-crappiest-fighting-robots-pl4/)
 
 [Is the Cybathlon the future of the Paralympics?](http://readwrite.com/2016/08/28/cyborg-olympics-future-paralympics-hl1/)
