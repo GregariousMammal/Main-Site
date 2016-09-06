@@ -16,9 +16,9 @@ In this episode Chris and Cate discuss their visits to IFA and long Night of Sta
 
 [The Internet of Packing? Meet Magic Add](http://readwrite.com/2016/05/06/the-internet-of-packaging-meet-magic-add-pl1/)
 
-[*IFA] (http://www.ifa-berlin.de/*)
+[IFA] (http://www.ifa-berlin.de/*) Conference
 
-**Start ups/Products mentioned (from memory!)**
+*Start ups/Products mentioned (from memory!)*
 
 [Smarter FridgeCam](http://fridgecam.squarespace.com/#details-1)
 
@@ -32,9 +32,9 @@ In this episode Chris and Cate discuss their visits to IFA and long Night of Sta
 
 [Clyc](http://www.justclyc.com/)
 
-[*Lang Nacht der Start-Ups*](http://www.startupnight.de/)
+[*Lang Nacht der Start-Ups*](http://www.startupnight.de/) Berlin
 
-Start ups/Products mentioned (from memory!)
+*Start ups/Products mentioned (from memory!)*
 
 [Mellow boards](http://www.mellowboards.com/)
 
