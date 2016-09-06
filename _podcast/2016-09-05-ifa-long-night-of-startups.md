@@ -8,3 +8,33 @@ image: podcast/press-chinchilla.png
 ---
 
 In this episode Chris and Cate discuss their visits to IFA and long Night of Startups in Berlin
+
+*Articles mentioned:*
+[Finally, a contest to reward the world’s crappiest fighting robots](http://readwrite.com/2016/09/01/hebocon-contest-to-reward-the-worlds-crappiest-fighting-robots-pl4/)
+
+[Is the Cybathlon the future of the Paralympics?](http://readwrite.com/2016/08/28/cyborg-olympics-future-paralympics-hl1/)
+
+[The Internet of Packing? Meet Magic Add](http://readwrite.com/2016/05/06/the-internet-of-packaging-meet-magic-add-pl1/)
+
+*IFA http://www.ifa-berlin.de/*
+**Start ups/Products mentioned (from memory!)**
+
+[Smarter FridgeCam](http://fridgecam.squarespace.com/#details-1)
+
+[Beam Labs](http://beamlabsinc.com/)
+
+[Plume Labs]https://plumelabs.com/en/)
+
+[Sam Labs](https://www.samlabs.com/?exp1&utm_expid=91001785-16.rbwOEdgKR4KqBMV205AWSw.1&utm_referrer=https%3A%2F%2Fwww.google.de%2F)
+
+[SensorWake](https://sensorwake.com/)
+
+[Clyc](http://www.justclyc.com/)
+
+[*Lang Nacht der Start-Ups*](http://www.startupnight.de/)
+
+Start ups/Products mentioned (from memory!)
+
+[Mellow boards](http://www.mellowboards.com/)
+
+[Debitoor](https://debitoor.de/)
