@@ -16,14 +16,15 @@ In this episode Chris and Cate discuss their visits to IFA and long Night of Sta
 
 [The Internet of Packing? Meet Magic Add](http://readwrite.com/2016/05/06/the-internet-of-packaging-meet-magic-add-pl1/)
 
-*IFA http://www.ifa-berlin.de/*
+[*IFA] (http://www.ifa-berlin.de/*)
+
 **Start ups/Products mentioned (from memory!)**
 
 [Smarter FridgeCam](http://fridgecam.squarespace.com/#details-1)
 
 [Beam Labs](http://beamlabsinc.com/)
 
-[Plume Labs]https://plumelabs.com/en/)
+[Plume Labs](https://plumelabs.com/en/)
 
 [Sam Labs](https://www.samlabs.com/?exp1&utm_expid=91001785-16.rbwOEdgKR4KqBMV205AWSw.1&utm_referrer=https%3A%2F%2Fwww.google.de%2F)
 
