@@ -43,10 +43,10 @@ permalink: support/index.html
       {% for post in site.merchandise %}
       <div>
         <h3>{{ post.title }}</h3>
-        {% picture icon {{ post.image }} alt={{ post.title }} %}
+        {% picture merch {{ post.image }} alt={{ post.title }} %}
         {% if post.store_links %}
         <p>
-          {% for link in post.store_links %}          
+          {% for link in post.store_links %}
           <a href="{{ link.link }}">Buy on {{ link.store }}</a>
           {% endfor %}
         </p>
