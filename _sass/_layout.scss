@@ -7,9 +7,6 @@
   line-height: initial;
 }
 
-/**
-* Site header
-*/
 .fixed {
   position: fixed;
   right: 0;
@@ -264,7 +261,7 @@ section {
   picture {
     @extend .mobile-images;
     float: left;
-    max-width: 450px;
+    max-width: 50%;
     padding-right: $spacing-unit / 2;
     padding-bottom: $spacing-unit / 4;
 
@@ -311,6 +308,9 @@ section {
       @include media-query($on-laptop) {
         font-size: 18px;
       }
+    }
+    picture {
+      float: none;
     }
   }
 }
