@@ -5,7 +5,7 @@ title: Back To The Future With Static Site Generators
 event: DevWeek London
 date: 2016-04-21T14:00:00.000Z
 venue: 'Central Hall Westminster, London'
-pres_source: null
+pres_source: 'http://www.slideshare.net/chrischinchilla/back-to-the-future-with-static-site-generators'
 pres_url: 'http://devweek.com/agenda#back-to-the-future-with-static-site-generators'
 ---
 

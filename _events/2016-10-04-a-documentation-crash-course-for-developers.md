@@ -1,11 +1,11 @@
 ---
 type: presentation
 layout: event
-title: Explain Yourself! Documentation for Better Code
+title: A Documentation Crash Course for Developers
 event: LinuxCon Europe
 date: 2016-10-04T14:30:00.000Z
 venue: Potsdam I/II
-pres_source: null
+pres_source: 'http://www.slideshare.net/chrischinchilla/a-documentation-crash-course-linuxcon-2016'
 pres_url: 'http://sched.co/7o8w'
 ---
 
