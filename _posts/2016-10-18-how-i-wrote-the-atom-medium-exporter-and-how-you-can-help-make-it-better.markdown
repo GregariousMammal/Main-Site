@@ -5,7 +5,7 @@ date: '2016-10-18 16:20:32 +0200'
 categories: writing chrischinchilla
 tags: writing techwriting medium atom
 layout: post
-image: projects/yourname-medium-export.png
+image: projects/medium-export.png
 excerpt: I recently created a package for the Atom text editor that exports your markdown files to Medium. Find out how I wrote it and how you can help me improve it.
 ---
 
