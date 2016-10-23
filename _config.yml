@@ -17,6 +17,13 @@ pagination:
   per_page: 25
   limit: false
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: post
+
 collections:
   events:
     output: true
