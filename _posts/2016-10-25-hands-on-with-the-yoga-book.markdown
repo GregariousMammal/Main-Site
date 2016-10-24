@@ -1,16 +1,15 @@
 ---
 layout: post
-title: Hands on with the Yoga Book
-date: '2016-10-23 09:36:36 +0200'
-image: essen.jpg
+title: Hands on with the Lenovo Yoga Book
+date: '2016-10-25 09:36:36 +0200'
+image: yoga_book.jpg
 categories: writing theweeklysqueak
-tags:
+tags: android devices reviews
 ---
-# tbc
 
 When I saw the announcement of the Yoga Book at IFA I was fascinated. A tablet with a proper keyboard, and a graphics tablet that I could doodle and even write on. Sign me up!
 
-I placed an order with Lenovo, realising that their online store wasn't as advanced or friendly as others I am used to. I then waited with baited breath, not certain what I was going to receive, or when it would arrive.
+I placed an order with Lenovo, realising that their online store wasn't as advanced or friendly as others I am used to. I then waited with baited breath, uncertain what I was going to receive, or when it would arrive.
 
 About a month later it showed up and I was happy to see that the package did include a 'live pen' (More on that later), a notebook (More on that later), but unfortunately, a German keyboard layout, as I already mentioned, Lenovo's customer experience is not as great as others.
 
@@ -18,9 +17,9 @@ I've been using the device for a couple of weeks now, at home and on the road, s
 
 ## Physical dimensions
 
-The yoga book is wonderfully light and easy to carry, with a slightly peculiar sticky plastic feel to the casing. It has Lenovo's 'watch band' hinge that [has been seen on other Yoga models](http://blog.lenovo.com/en/blog/yoga-laptop-tough-hinge-test). Open the Yoga book at 'Laptop' angle and the keyboard lights up, open it more than 90° and the keyboard switches off, ,to become a 'normal' tablet.
+The yoga book is wonderfully light and easy to carry, with a slightly peculiar sticky plastic feel to the casing. It has Lenovo's 'watch band' hinge [seen on other Yoga models](http://blog.lenovo.com/en/blog/yoga-laptop-tough-hinge-test). Open the Yoga book at 'Laptop' angle and the keyboard lights up, open it more than 90° and the keyboard switches off, to become a 'normal' tablet.
 
-PHOTOS
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O3QSwB02ppE" frameborder="0" allowfullscreen></iframe>
 
 ## Tablet
 
@@ -30,29 +29,29 @@ Despite having a near second tablet (i.e. the keyboard) wrapped behind it, it do
 
 Most of the complaints levelled against the Yoga Book has been against the 'keyboard', and for not being 'real' or 'normal' enough. The keyboard is actually a flat tablet with the keys lightly etched onto it. This was a strange engineering decision and explains why I ended up with a German layout. People who have seen me using the device have wondered why this is the case and asked why the keyboard couldn't be a completely 'soft' layout.
 
-IMAGE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tU5aw3mfArY" frameborder="0" allowfullscreen></iframe>
 
 It does take getting used to, and Android isn't optimised for physical keyboards, so occasionally struggles to keep up with your typing speed. It does result in frequent small mistakes, but I'm still happy to offset the accuracy with convenience. Personally I ended up switching off the Haptic vibration feedback, and was happy with the fully 'soft' Keyboard. Granted it's an odd idea and despite Lenovo's best attempts, getting the software and hardware to interact takes tweaking, especially when you consider there are settings for the physical and on-screen keyboards. Balancing the custom and Android preferences to get the feeling you want takes effort.
 
 ## Graphics tablet
 
-The integrated Wacom tablet is the main unique selling point of the Yoga Book, and was what attracted me to the device. I love technology but still do find doodling and writing on paper often the most fluid way of expressing (initial) ideas. I was hoping that with the handwriting recognition of Evernote (and other tools) I would be able to doodle notes on the tablet and have them ready and searchable, ready for further expansion. Despite my poor handwriting, I was still able to get Evernote to recognise some of my handwriting, and if my handwriting was better, it would probably recognise more.
+The integrated Wacom tablet is the main unique selling point of the Yoga Book, and was what attracted me to the device. I love technology but still do find doodling and writing on paper often the most fluid way of expressing (initial) ideas. I was hoping that with the handwriting recognition of Evernote (and other tools) I would be able to doodle notes on the tablet and have them ready and searchable, ready for further expansion. Despite my poor handwriting, I was still able to get Evernote to recognise my handwriting, and if my handwriting was better, it would recognise more.
 
-IMAGE
+Drawing on the tablet has lag, more so than with a proper graphics tablet, again I think this is more to do with Android or the app you're using than anything inherently wrong the hardware. It's great for rough sketches, but you're unlikely to start and finish a work of art.
 
-Drawing on the tablet has some lag, more so than with a proper graphics tablet, again I think this is more to do with Android or the app you're using than anything inherently wrong the hardware. It's great for rough sketches, but you're unlikely to start and finish a work of art.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6Q2tgXBnQ80" frameborder="0" allowfullscreen></iframe>
 
-IMAGE
+You can also add a sheet of paper on top of the tablet, swap out the nib of the pen for a biro insert (3 supplied) and doodle on actual paper which the Yoga Book will detect.
 
-PAD
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gjofYtyqcf0" frameborder="0" allowfullscreen></iframe>
 
 ## Software
 
 One of the other criticisms of the Yoga book has been that whilst the hardware is fascinating, the choice of operating systems (Android and Windows) holds the device back. I have the Android version, mostly because pre-reviews of the device claimed that the CPU and memory would struggle with running Windows.
 
-I was looking for a way to have a small device I could take travelling for most of my work, excluding coding activities or hardcore image/media editing. I briefly had an iPad in my possession, and whilst I found it restricting, there were occasions where (less mainstream) iOS apps are far better than the Android equivalents. For example markdown editing, github usage, and the Adobe mobile apps. Unfortunately on many occasions the Yoga Book is let down by Android, and the app ecosystem.
+I was looking for a way to have a small device I could take travelling for most of my work, excluding coding activities or hardcore image/media editing. I briefly had an iPad in my possession, and whilst I found it restricting, there were occasions where (less mainstream) iOS apps are far better than the Android equivalents. For example markdown editing, GitHub usage, and the Adobe mobile apps. Unfortunately on occasion the Yoga Book is let down by Android, and the app ecosystem.
 
-IMAGE
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Z57RLfIF-M" frameborder="0" allowfullscreen></iframe>
 
 I have also found that several apps are unreliable, or don't work at all, most crucial / annoying being that LastPass keeps crashing, but I have also found Twitter inconsistent and that switching screens orientation confuses many apps. This could be due to Lenovo's customisations (e.g. it's multi-window features), or Android's still (sadly) inferior tablet experience.
 
