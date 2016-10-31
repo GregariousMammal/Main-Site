@@ -23,8 +23,8 @@
   }
 }
 
-.tags, .related-posts {
-  clear: both;
-  margin-top:$spacing-unit;
-  float:left;
+.tags {
+  text-align: right;
+  font-size: $tiny-font-size;
+  display: inherit;
 }
