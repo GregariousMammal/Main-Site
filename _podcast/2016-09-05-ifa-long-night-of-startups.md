@@ -3,13 +3,13 @@ type: podcast
 layout: podcast
 title: IFA and the Long Night of Startups
 date: 2016-09-05T00:00:00.000Z
-podcast_embed: <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/281384350&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
-image: podcast/press-chinchilla.png
+podcast_embed: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/281384350&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+image: podcast/berlin-chinchilla.png
 ---
 
 In this episode Chris and Cate discuss their visits to IFA and long Night of Startups in Berlin
 
-**Articles mentioned:**
+## Topics Mentioned
 
 [Finally, a contest to reward the world’s crappiest fighting robots](http://readwrite.com/2016/09/01/hebocon-contest-to-reward-the-worlds-crappiest-fighting-robots-pl4/)
 
@@ -17,9 +17,8 @@ In this episode Chris and Cate discuss their visits to IFA and long Night of Sta
 
 [The Internet of Packing? Meet Magic Add](http://readwrite.com/2016/05/06/the-internet-of-packaging-meet-magic-add-pl1/)
 
-**[IFA] (http://www.ifa-berlin.de/*) Conference**
-
-*Start ups/Products mentioned (from memory!)*
+## [IFA](http://www.ifa-berlin.de) Conference
+*Start ups/Products mentioned*
 
 [Smarter FridgeCam](http://fridgecam.squarespace.com/#details-1)
 
@@ -33,9 +32,9 @@ In this episode Chris and Cate discuss their visits to IFA and long Night of Sta
 
 [Clyc](http://www.justclyc.com/)
 
-**[Lang Nacht der Start-Ups](http://www.startupnight.de/) Berlin**
+## [Lang Nacht der Start-Ups](http://www.startupnight.de/) Berlin
 
-*Start ups/Products mentioned (from memory!)*
+*Start ups/Products mentioned*
 
 [Mellow boards](http://www.mellowboards.com/)
 

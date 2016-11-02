@@ -74,11 +74,11 @@
 .menu {
   margin: 0;
   padding: 0;
-  font-size: $tiny-font-size;
   margin-bottom: $spacing-unit;
 }
 
 #menu {
+  font-size: $tiny-font-size;
   padding: 120px $spacing-unit / 2 0 $spacing-unit / 2;
   width: 12%;
   position: fixed;

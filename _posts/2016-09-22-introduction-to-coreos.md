@@ -1,0 +1,10 @@
+---
+title: An Introduction to CoreOS
+created: 2016-09-22T00:00:00.000Z
+publication_url: 'https://blog.codeship.com/an-introduction-to-coreos/'
+image: coreos.png
+categories: writing codeship
+tags: docker devops
+---
+
+If you're reading this blog, then you have a rough idea of what containers are and why you want to use them. Docker has made it easy to experiment with containers, and is slowly making it easier to deploy and manage them in production environments. However, there are a still a lot of gaps in what Docker offers (for free), and others have stepped up to fill them. CoreOS is one such option; it's not just a container management system but an entire (Linux-based) operating system designed to run containers.

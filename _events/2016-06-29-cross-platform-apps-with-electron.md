@@ -5,7 +5,7 @@ title: Building Cross Platform Apps with Electron
 event: Vienna.JS
 date: 2016-06-29T18:30:00.000Z
 venue: 'sektor5 Coworking Café+Lobby, Siebenbrunnengasse 44, Wien 5'
-pres_source: null
+pres_source: 'http://www.slideshare.net/chrischinchilla/building-cross-platform-apps-with-electron'
 pres_url: 'http://www.meetup.com/viennajs/events/227800060'
 ---
 
