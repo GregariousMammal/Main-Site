@@ -1,5 +1,5 @@
 ---
-type: press
+type: presentation
 layout: event
 title: What Ikea and Game Manuals Taught Me About Technical Writing
 event: Software Freedom Kosovo
