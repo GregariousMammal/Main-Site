@@ -6,7 +6,7 @@ event: Voxxed Days Belgrade
 date: 2016-09-29T00:00:00.000Z
 venue: Bel Expo Centar
 pres_source: 'http://www.slideshare.net/chrischinchilla/the-past-present-and-future-of-swift-voxxed-belgrade-2016'
-pres_url: 'https://belgrade.voxxeddays.com/talk/205/'
+pres_url: 'https://www.youtube.com/watch?v=AEYdDOHVxK0'
 ---
 
 Whilst open sourcing a language is nothing new, Apple's unprecedented step has caused massive excitement and activity for this new language, with a flurry of development and contributions.
