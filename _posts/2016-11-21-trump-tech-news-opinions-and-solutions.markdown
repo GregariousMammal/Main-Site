@@ -8,8 +8,6 @@ tags: politics opinion
 excerpt: "The past two weeks have been so eventful and I have so much to say about them it's hard to know where to start. Consequently, this post may ramble and go off at tangents, hopefully there will be enough semblance of sense to grasp some concrete concepts. Let's take this chronologically and in order of magnitude, which in this case, are the same."
 ---
 
-# tbc
-
 _This post is also available as a [podcast](https://soundcloud.com/the-weekly-squeak/web-summit-trump-tech-news-opinions-and-solutions) and a [video](https://youtu.be/RqmLLwmxFPg)_.
 
 The past two weeks have been so eventful and I have so much to say about them it's hard to know where to start. Consequently, this post may ramble and go off at tangents, hopefully there will be enough semblance of sense to grasp some concrete concepts.
