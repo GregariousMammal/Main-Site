@@ -16,7 +16,7 @@ The past two weeks have been so eventful and I have so much to say about them it
 
 - [Web summit summary on SitePoint](https://www.sitepoint.com/web-summit-2016-iot-learning-chatbots-biohacking-more/).
 - [Web summit video interviews](https://www.youtube.com/playlist?list=PL1fnzsSshABw3IvKkbnM1EeQn2Fg2Q8e4).
-- - [Trump voters will not like what happens next](https://www.washingtonpost.com/opinions/trump-voters-will-not-like-what-happens-next/2016/11/09/e346ffc2-a67f-11e6-8fc0-7be8f848c492_story.html).
+- [Trump voters will not like what happens next](https://www.washingtonpost.com/opinions/trump-voters-will-not-like-what-happens-next/2016/11/09/e346ffc2-a67f-11e6-8fc0-7be8f848c492_story.html).
 - [Globalisation is dead](http://www.theguardian.com/commentisfree/2016/nov/09/globalisation-dead-white-supremacy-trump-neoliberal).
 - [White voters gave victory to Trump](http://www.theguardian.com/us-news/2016/nov/09/white-voters-victory-donald-trump-exit-polls).
 - [How the tech industry got Trump elected](http://thenextweb.com/politics/2016/11/10/how-the-tech-industry-got-donald-trump-elected/).
