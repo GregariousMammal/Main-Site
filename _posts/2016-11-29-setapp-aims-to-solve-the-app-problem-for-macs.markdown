@@ -9,13 +9,13 @@ tags: apple mac software
 
 There are currently two major issues and trends with application development. One is users finding your efforts, and the other is then making money when they do.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-VMSYuWRxSs" frameborder="0" allowfullscreen></iframe>
-
 Major software vendors like Microsoft, Adobe, and JetBrains have been able to make successful revenue models with recurring billing models for software, but this is a challenge for smaller developers. How can they maintain enough releases to justify a monthly fee? Services like [Humble Bundle](https://www.humblebundle.com) have helped in someway, but there are typically one-off marketing pushes than a regular sustained income.
 
 In addition to their own Mac utility apps, [MacPaw](http://macpaw.com/) released [Devmate](http://devmate.com/) in May 2015 as a platform for managing all aspects of application distribution, updates, subscriptions, licences, and reporting. Initially for Mac applications only, [there is now a Windows beta program](http://devmate.com/windows-beta).
 
 Building on the experiences gained from Devmate, [Setapp](https://setapp.com/) aims to offer another application distribution channel for users and developers, hopefully solving many of the issues that plague Apple's official App store. The service is a flat-fee subscription service for $9.99 per month (first month free), and launches soon. All applications are ad free, fully featured versions. Setapp is not the first attempt (and neither was the Mac App store) at a more centralized location for finding and updating Mac applications, and it takes it's place alongside solutions for more developer-focused software like [Homebrew](http://brew.sh/), and [Cask](https://caskroom.github.io/).
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-VMSYuWRxSs" frameborder="0" allowfullscreen></iframe>
 
 Setapp tries hard to learn from the earlier mistakes of other solutions by working with (and enhancing) the native Mac experience instead of replacing it, and the whole experience is a joy to use. On initial launch it felt like a cross between DropBox and Steam, with application aliases available in a _Setapp_ folder inside your _Applications_ folder.
 
