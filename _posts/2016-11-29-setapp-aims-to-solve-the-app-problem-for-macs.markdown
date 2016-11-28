@@ -1,13 +1,13 @@
 ---
 layout: post
-title: MacPaw aim to solve the App problem for Macs
-date: '2016-11-20 18:13:30 +0100'
+title: Setapp aims to solve the App problem for Macs
+date: '2016-11-29 18:13:30 +0100'
 image: setapp_get_started.png
 categories: writing theweeklysqueak
 tags: apple mac software
 ---
 
-# title
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-VMSYuWRxSs" frameborder="0" allowfullscreen></iframe>
 
 There are currently two major issues and trends with application development. One is users finding your efforts, and the other is then making money when they do.
 
@@ -21,7 +21,7 @@ Setapp tries hard to learn from the earlier mistakes of other solutions by worki
 
 ![The Setapp folder](../images/setapp_folder.png)
 
-Fron inside the folder, choose an app alias, and double-click it, this will show you an information screen from where you can click _open_ to start downloading the app.
+From inside the folder, choose an app alias, and double-click it, this will show you an information screen from where you can click _open_ to start downloading the app.
 
 ![Application information screen](../images/setapp_app_open_screen.png)
 
