@@ -7,9 +7,9 @@ categories: writing theweeklysqueak
 tags: apple mac software
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-VMSYuWRxSs" frameborder="0" allowfullscreen></iframe>
-
 There are currently two major issues and trends with application development. One is users finding your efforts, and the other is then making money when they do.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-VMSYuWRxSs" frameborder="0" allowfullscreen></iframe>
 
 Major software vendors like Microsoft, Adobe, and JetBrains have been able to make successful revenue models with recurring billing models for software, but this is a challenge for smaller developers. How can they maintain enough releases to justify a monthly fee? Services like [Humble Bundle](https://www.humblebundle.com) have helped in someway, but there are typically one-off marketing pushes than a regular sustained income.
 
