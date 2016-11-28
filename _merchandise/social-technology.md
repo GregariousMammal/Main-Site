@@ -9,4 +9,4 @@ store_links:
     link: http://www.redbubble.com/people/chrischinchilla/works/21385229-gregarious-mammal-social-technology
 ---
 
-I created this for a test run of promotional stickers.
+I created this for a test run of promotional stickers. A plain chinchilla face with the company logo.

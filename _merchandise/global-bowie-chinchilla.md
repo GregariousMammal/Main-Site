@@ -9,4 +9,4 @@ store_links:
    link: http://www.redbubble.com/people/chrischinchilla/works/21713715-globe-straddling-bowie-chinchilla?ref=work_carousel_work_portfolio_1
 ---
 
-Created as a tribute to Bowie and digital nomads.
+Created as a tribute to Bowie and digital nomads. Enjoy this globe straddling, glam rock Chinchilla.

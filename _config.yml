@@ -94,10 +94,10 @@ picture:
         itemprop: image
       source_medium:
         # media: "(min-width: 40em)"
-        width: 80
+        width: 120
         # height: 200
       source_default:
-        width: 80
+        width: 120
     service:
       ppi: [1, 1.5, 2]
       attr:
