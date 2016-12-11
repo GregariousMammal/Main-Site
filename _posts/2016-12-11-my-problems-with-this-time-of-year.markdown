@@ -8,7 +8,7 @@ tags: opinion life christmas holidays family
 excerpt: "That time of year is upon us, wether it be Christmas, 'The Holidays', Festivus, or whatever else you decide to call it. It's here, loud, everywhere and in your face. It felt like time to explain my point of view and problems with this time of the year."
 ---
 
-That time of year is upon us, wether it be Christmas, 'The Holidays', Festivus, or whatever else you decide to call it. It's here, loud, everywhere and in your face.
+That time of year is upon us, whether it be Christmas, 'The Holidays', Festivus, or whatever else you decide to call it. It's here, loud, everywhere and in your face.
 
 Over the past years and have liked this time of year less and less, with increasing passion, and sick of people calling me 'grumpy', 'a Grinch', 'Scrooge' and other sorted insults, it felt like time to explain my point of view and problems with this time of the year.
 
