@@ -58,3 +58,5 @@ I wonder how well this model will work for applications that people use irregula
 ## App, app, and away!
 
 I found the Setapp experience flawless, problem free, and so Mac-like I barely noticed the short delay getting hold of an application I needed. Hopefully MacPaw will convince enough developers to sign up their apps to justify the price, and help solve the problems of Mac developers and users alike.
+
+_Want to sign up for the service? [Use this invite link that is valid for 50 of you lovely people](https://setapp.com/?inviteRef=060480c1-ba5b-11e6-ae4b-080027c363c3)_.
