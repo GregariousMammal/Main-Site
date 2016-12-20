@@ -9,4 +9,4 @@ store_links:
     link: http://www.redbubble.com/people/chrischinchilla/works/21714001-im-not-lazy-im-self-employed?ref=work_carousel_work_portfolio_1
 ---
 
-Saying it how it is!
+Saying it how it is! For all my self-employed family, friends and associates. And those who support them 😝.

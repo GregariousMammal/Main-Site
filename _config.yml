@@ -4,7 +4,7 @@ title: Gregarious Mammal
 email: info@gregariousmammal.com
 description: Social Technology
 #baseurl: "" # the subpath of your site, e.g. /blog/
-#url: "http://gregariousmammal.com"
+url: "https://gregariousmammal.com"
 twitter_username: chrischinch
 github_username:  chrischinchilla
 permalink: /:title
@@ -94,10 +94,10 @@ picture:
         itemprop: image
       source_medium:
         # media: "(min-width: 40em)"
-        width: 80
+        width: 120
         # height: 200
       source_default:
-        width: 80
+        width: 120
     service:
       ppi: [1, 1.5, 2]
       attr:
