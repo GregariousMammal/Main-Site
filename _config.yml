@@ -29,9 +29,6 @@ collections:
     output: true
   connect:
     output: true
-  podcast:
-    output: true
-    layout: podcast
   merchandise:
     output: true
     layout: merchandise

@@ -13,7 +13,7 @@ layout: null
     <language>en-us</language>
     <lastBuildDate>{{ site.time | date: "%a, %d %b %Y %T %z" }}</lastBuildDate>
     <itunes:category text="Technology">
-        <itunes:category text="Software How-To" />
+      <itunes:category text="Software How-To" />
     </itunes:category>
     <itunes:explicit>No</itunes:explicit>
     <itunes:image href="{{site.url}}/assets/img/wtdpodcastlogo.png"/>
@@ -24,29 +24,28 @@ layout: null
       <itunes:name>{{site.podcast_title}}</itunes:name>
       <itunes:email>{{site.podcast_email}}</itunes:email>
     </itunes:owner>
+    {% for ep in site.categories[podcast] %}
+    <item>
+      <title><![CDATA[{{ ep.title | cdata_escape }}]]></title>
+      <link>{{ site.url }}{{ ep.url }}</link>
+      <comments>{{ site.url }}{{ ep.url }}#comments</comments>
+      <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
+      <itunes:category text="Technology">
+        <itunes:category text="Software How-To"/>
+      </itunes:category>
+      <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">{{ site.url }}{% if ep.podcast_guid %}/{{ ep.podcast_guid }}{% else %}{{ ep.url }}{% endif %}</guid>
+      <description>
+        <![CDATA[{{ ep.summary | cdata_escape }}]]>
+      </description>
 
-        {% for ep in site.categories.podcasts %}
-        <item>
-            <title><![CDATA[{{ ep.title | cdata_escape }}]]></title>
-            <link>{{ site.url }}{{ ep.url }}</link>
-            <comments>{{ site.url }}{{ ep.url }}#comments</comments>
-            <pubDate>{{ ep.date | date: "%a, %d %b %Y %T %z" }}</pubDate>
-            <itunes:category text="Technology">
-                <itunes:category text="Software How-To"/>
-             </itunes:category>
-            <guid isPermaLink="{% if ep.podcast_guid %}false{% else %}true{% endif %}">{{ site.url }}{% if ep.podcast_guid %}/{{ ep.podcast_guid }}{% else %}{{ ep.url }}{% endif %}</guid>
-            <description>
-                <![CDATA[{{ ep.summary | cdata_escape }}]]>
-            </description>
-
-            <enclosure url="{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg" />
-            <itunes:subtitle>{{ ep.summary | strip_html | expand_urls: site.url | cdata_escape }}</itunes:subtitle>
-            <itunes:summary>{{ ep.summary | expand_urls: site.url | cdata_escape }}</itunes:summary>
-            <itunes:author>Write the Docs community</itunes:author>
-            <itunes:image href="{{site.url}}/assets/img/wtdpodcastlogo.png" />
-            <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>{{ ep.podcast_duration }}</itunes:duration>
-        </item>
-        {% endfor %}
-    </channel>
+      <enclosure url="{{ ep.podcast_link }}" length="{{ ep.podcast_length }}" type="audio/mpeg" />
+      <itunes:subtitle>{{ ep.summary | strip_html | expand_urls: site.url | cdata_escape }}</itunes:subtitle>
+      <itunes:summary>{{ ep.summary | expand_urls: site.url | cdata_escape }}</itunes:summary>
+      <itunes:author>Write the Docs community</itunes:author>
+      <itunes:image href="{{site.url}}/assets/img/wtdpodcastlogo.png" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>{{ ep.podcast_duration }}</itunes:duration>
+    </item>
+    {% endfor %}
+  </channel>
 </rss>
