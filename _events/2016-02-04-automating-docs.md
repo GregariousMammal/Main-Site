@@ -1,0 +1,11 @@
+---
+type: presentation
+layout: event
+title: Automate your documentation
+event: Fosdem 2017
+date: 2017-02-04T10:00:00.000Z
+venue: 'ULB, Campus du Solbosch, Av. F. D. Roosevelt 50, 1050 Bruxelles, Belgium'
+pres_source: null
+pres_url: 'https://fosdem.org/2017/'
+---
+I'm back at the infamous FOSDEM, this time to talk about making your documentation polished by automating spelling, grammar, testing, screenshots and so much more.
