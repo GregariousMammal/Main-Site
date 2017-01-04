@@ -8,4 +8,5 @@ venue: 'h2213, ULB, Campus du Solbosch, Av. F. D. Roosevelt 50, 1050 Bruxelles, 
 pres_source: null
 pres_url: 'https://fosdem.org/2017/schedule/event/testing_docs/'
 ---
+
 I'm back at the infamous FOSDEM, this time to talk about making your documentation polished by automating spelling, grammar, testing, screenshots and so much more.
