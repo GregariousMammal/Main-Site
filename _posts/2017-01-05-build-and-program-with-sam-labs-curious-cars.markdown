@@ -40,10 +40,10 @@ The kit costs £149, which puts it out of the price range of a casual toy into a
 
 ## A child's opinion
 
-But what would I know, I am a 35 year old man. I am not Sam's intended audience. To get the opinion of the correct audinece, I lent the kit for a week to a friend who had 8 and 11 year old children, in my mind a perfect age range.
+But what would I know, I am a 35 year old man. I am not Sam's intended audience. To get the opinion of the correct audience, I lent the kit for a week to a friend who had 8 and 11 year old children, in my mind a perfect age range.
 
 He said that his children found the kit easy to understand and use but each child had a different approach to learning. One wanted to understand each step in detail before moving on, and the other wanted to complete everything quickly, and then understand it. This wasn't a problem itself, everyone's different, but a future idea for Sam labs might be to allow for different styles of learning. His second point was that neither of the children where sure what to do next after completing a couple of the cars. Sam labs offer further inspiration points on their website and a desktop application to create your own starting projects, but the connection points could be clearer.
 
 ## Does it teach programming?
 
-I wouldn't say that curious cars (I'm uncertain about other Sam products) teaches programming per se, but it teaches conceopts such as input/output, connecting logical blocks together, and creativity, so is a good starting point for parents who want to get their children coding in the future.
+I wouldn't say that curious cars (I'm uncertain about other Sam products) teaches programming per se, but it teaches concepts such as input/output, connecting logical blocks together, and creativity, so is a good starting point for parents who want to get their children coding in the future.
