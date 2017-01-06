@@ -22,7 +22,7 @@ CES, Blockchain music, and, err, Chicken salt.
 - [NVIDIA made a self-driving car with its Xavier supercomputer](https://www.engadget.com/2017/01/04/nvidia-self-driving-car-xavier-supercomputer/).
 - [LeEco's Android-powered smart road bike is for hardcore cyclists](https://www.engadget.com/2017/01/05/leeco-smart-road-bike-hands-on/).
 - [Google is bringing its clever Assistant to Android TV, smartwatches and cars](http://thenextweb.com/google/2017/01/05/google-is-bringing-its-clever-assistant-to-android-tv-smartwatches-and-cars/).
-- [Google is bringing its clever Assistant to Android TV, smartwatches and cars](http://mashable.com/2017/01/05/chicken-salt-history-australia/#q9dMAQyBOmqD).
+- [What the hell is chicken salt? How one condiment became a national obsession](http://mashable.com/2017/01/05/chicken-salt-history-australia/#q9dMAQyBOmqD).
 
 ## BigChainDB meetup
 
