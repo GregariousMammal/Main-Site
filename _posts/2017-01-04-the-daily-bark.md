@@ -14,11 +14,11 @@ Welcome to 2017, CES is around the corner, but in the meantime, here are some sm
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RckygbegGe0" frameborder="0" allowfullscreen="">
 </iframe>
 
-# My activities
+## My activities
 
 - [2016 in review](/2016-in-review)
 
-# Links mentioned
+## Links mentioned
 
 - [NIPS review at Berlin Machine Learning meetup](https://www.meetup.com/berlin-machine-learning/events/234989377/).
 - [Warm Takes on Microsoft's Surface Pro 4](https://medium.com/@searls/warm-takes-on-microsofts-surface-pro-4-580f77634d2c#.6orebrov1).
