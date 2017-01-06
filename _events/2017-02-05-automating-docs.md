@@ -3,7 +3,7 @@ type: presentation
 layout: event
 title: Automate your documentation
 event: Fosdem 2017
-date: 2017-02-05T16:02:00.000Z
+date: 2017-02-05T16:20:00.000Z
 venue: 'h2213, ULB, Campus du Solbosch, Av. F. D. Roosevelt 50, 1050 Bruxelles, Belgium'
 pres_source: null
 pres_url: 'https://fosdem.org/2017/schedule/event/testing_docs/'
