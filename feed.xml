@@ -15,7 +15,7 @@ layout: null
     <item>
       <title>{{ post.title | xml_escape }}</title>
       <description>
-        <![CDATA[<img align="left" hspace="5" src="{{ post.image }}"/>]]>{{ post.excerpt | xml_escape }}
+        <![CDATA[<img align="left" hspace="5" src="{{ post.image | prepend: site.baseurl | prepend: site.url }}"/>]]>{{ post.excerpt | xml_escape }}
       </description>
       <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
       <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
