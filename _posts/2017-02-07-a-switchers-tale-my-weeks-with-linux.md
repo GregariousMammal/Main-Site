@@ -26,6 +26,8 @@ The developers and designers behind elementary OS have done a commendable job cr
 
 I found a lot to love in the usability of [Unity](https://unity.ubuntu.com/) and [Gnome shell](https://wiki.gnome.org/Projects/GnomeShell) too visually intrusive (especially noting the scaling issues I mention later). I ended up sticking with Cinnamon as it handles scaling the best (I use that term loosely) and was most familiar to use, designed for switchers from Windows and macOS.
 
+I briefly tried KDE and Xfce but they didn't solve any of my major issues, so stuck with Fedora and Cinnamon.
+
 ## An explorers dream
 
 Linux on the desktop has come a long way in the past ten years but is still primarily aimed at (and more crucially, created by) the technical enthusiast, or those willing to fiddle a lot to get what they want. Thanks to a majority of production application servers running Linux, most development tools work well on desktop Linux, but you will frequently need to get familiar with the command line to be most effective. Interestingly I still found a lot of (more modern) development tools that had better support on macOS than Linux, mostly due to the increasing amount of developers using macs. For example, npm modules such as [fsevents](https://www.npmjs.com/package/fsevents) and commands like '[open](https://developer.apple.com/legacy/library/documentation/Darwin/Reference/ManPages/man1/open.1.html)' only work on macs. Whilst installing development tools from package managers is consistent and easy, not everything is always the most up to date version. Once you have everything installed and working, using and updating them is painless, and you can be surer that everything is likely to work in production.
