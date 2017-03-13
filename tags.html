@@ -10,7 +10,13 @@ title: Topics
 		{% for posts in tag %}
 		{% for post in posts %}
 		{% if post.title %}
-		<li class="nested"><a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}, <span>{{ post.date | date: '%d.%m.%y' }}</span></a></li>
+		<li class="nested">
+			{% if post.publication_url %}
+			<a class="post-link" href="{{ post.publication_url }}">{{ post.title }}</a>
+			{% else %}
+			<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+			{% endif %}
+		</li>
 		{% endif %}
 		{% endfor %}
 		{% endfor %}

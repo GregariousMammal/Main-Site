@@ -9,4 +9,4 @@ store_links:
     link: https://chrischinchilla.threadless.com/designs/happy-chinchilla
 ---
 
-Created as for my article on Meetup etiquette.
+Created for use in some of my presentations, this Chinchilla is smiling… Honestly!

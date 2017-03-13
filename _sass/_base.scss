@@ -13,7 +13,7 @@ dl, dd, ol, ul, figure {
 */
 body {
   word-wrap: break-word;
-  width: 80%;
+  width: 70%;
   @include media-query($on-laptop) {
     width: 90%;
   }

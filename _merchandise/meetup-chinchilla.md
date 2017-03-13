@@ -9,4 +9,4 @@ store_links:
     link: http://www.redbubble.com/people/chrischinchilla/works/21713842-meetup-chinchilla?ref=work_carousel_work_portfolio_1
 ---
 
-Created as for my article on Meetup etiquette.
+Created as for my article on Meetup etiquette, this Chinchilla is wearing a name badge, so please say hello.

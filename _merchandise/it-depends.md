@@ -9,4 +9,4 @@ store_links:
     link: https://chrischinchilla.threadless.com/designs/a-developers-answer-to-everything
 ---
 
-Got a question for a developer? You already know the answer!
+Got a question for a developer? You already know the answer! Now you just need to check this design instead of wasting your time asking.

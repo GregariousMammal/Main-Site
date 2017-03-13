@@ -1,9 +1,9 @@
 ---
 title: Physical and Mental Health for Developers
 created: 2016-03-21T00:00:00.000Z
-publication_url: 'https://medium.com/hacker-daily/physical-and-mental-health-for-developers-4706217c7839#.30fnrgdat'
+publication_url: https://hackernoon.com/physical-and-mental-health-for-developers-4706217c7839#.l0vus45n4
 image: health.jpg
-categories: writing theweeklysqueak
+categories: writing hackernoon
 tags: health
 ---
 

@@ -7,4 +7,4 @@ image: merchandise/vanilla-chinchilla.png
 store_links: null
 ---
 
-The original.
+The original. The best?
