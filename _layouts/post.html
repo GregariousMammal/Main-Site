@@ -19,7 +19,7 @@ layout: default
   <div class="related-posts">
     <h3>Related Posts</h3>
     {% for post in site.related_posts | limit:5 %}
-    {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' or post.categories[1] == 'theweeklysqueak' or post.categories[1] == 'codeship' %}
+    {% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' or post.categories[1] == 'theweeklysqueak' or post.categories[1] == 'codeship'  or post.categories[1] == 'dzone'  or post.categories[1] == 'hackernoon' %}
     <a href="{{ post.publication_url }}">{{ post.title }}</a><br/>
     {% else %}
     <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a><br/>
