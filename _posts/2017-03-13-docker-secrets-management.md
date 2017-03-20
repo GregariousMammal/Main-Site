@@ -2,9 +2,9 @@
 layout: post
 title: Docker Secrets Management
 date: 2017-03-13
-image: 
+image: '2017-03-13 18:13:30 +0100'
 categories: writing codeship
-tags: docker secrets 
+tags: docker secrets
 publication_url: https://blog.codeship.com/docker-secrets-management/
 ---
 
