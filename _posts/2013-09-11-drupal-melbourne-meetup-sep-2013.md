@@ -10,4 +10,4 @@ tags: events drupal
 
 <b>Twig: Drupal theming in the future - <a href="http://heydon.com.au/" target="_blank">Gordon Heydon</a></b><br />Twig is to be the third Drupal theming engine and it's largely taken from Symfony alongside a few other components. It strips a lot of extraneous php code from templates. Have a read about <a href="http://twig.sensiolabs.org/" target="_blank">Twig generally here</a> and <a href="https://drupal.org/node/2008464" target="_blank">Drupal's Twig implementation here</a>.
 
-<span >A subtext of all of this is about making Drupal less specialised and specific, is this needed? Does it take away the uniqueness, will it help bring more into the mainstream? That all remains to be seen…</span>
+A subtext of all of this is about making Drupal less specialised and specific, is this needed? Does it take away the uniqueness, will it help bring more into the mainstream? That all remains to be seen…</span>

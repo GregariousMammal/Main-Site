@@ -10,7 +10,7 @@ A great session tonight with two case studies from local Drupal shops...
 
 **ACCA and content hubs from Monkii**
 
-<a href="https://www.monkii.com.au" target="_blank">Monkii</a> work strongly with UX personas, building profiles of potential users before embarking on web projects, with the relaunch of the <a href="https://www.accaonline.org.au/" target="_blank">ACCA</a> site, content hubs were built to suit<span> explorers and first timers to sites,  they have a rough idea of what they are looking for, but only broadly.
+<a href="https://www.monkii.com.au" target="_blank">Monkii</a> work strongly with UX personas, building profiles of potential users before embarking on web projects, with the relaunch of the <a href="https://www.accaonline.org.au/" target="_blank">ACCA</a> site, content hubs were built to suit explorers and first timers to sites,  they have a rough idea of what they are looking for, but only broadly.
 
 Here's an example - <a href="http://www.accaonline.org.au/learn" target="_blank"> www.accaonline.org.au/learn</a>
 

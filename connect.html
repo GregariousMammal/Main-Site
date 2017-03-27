@@ -16,7 +16,7 @@ collection: events
 
     <div class="icon_bar">
       {% for post in site.connect %}
-      <div>
+      
         {% if post.image %}
         <a href="{{ post.network_link }}">{% picture icon {{ post.image }} alt={{ post.title }} %}</a>
         {% else %}

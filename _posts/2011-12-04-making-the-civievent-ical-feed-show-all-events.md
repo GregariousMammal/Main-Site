@@ -18,24 +18,24 @@ In the end, it was one of those stupidly simple solutions that takes advantage o
 Then around line 754, depending on your CiviCRM version, find
 
 ```html
-<div>
+
   <em>WHERE civicrm_event.is_active = 1</em>
 </div>
 
-<div>
+
   <em>AND civicrm_event.is_public = 1</em>
 </div>
 
-<div>
+
   <em>AND (is_template = 0 OR is_template IS NULL)</em>
 </div>
 
-<div>
+
 </div>
 
-<div>delete the lines</div>
+delete the lines</div>
 
-<div>
+
   <pre style="border-style: initial; border-color: initial; ">
 
 </pre>
@@ -52,7 +52,7 @@ Then around line 754, depending on your CiviCRM version, find
 </div>
 </div>
 
-<div>
+
 </div>
 ```
 
