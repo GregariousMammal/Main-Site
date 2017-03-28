@@ -52,7 +52,7 @@ categories:
 
 <blockquote style="background-color: white; color: #333333; font-size: 13px; line-height: 1.3em; margin: 1em 20px;">
   <p>
-    <span style="background-color: transparent;"><b> Instructions</b>
+    <b> Instructions</b>
   
 </blockquote>
 

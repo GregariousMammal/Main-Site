@@ -24,10 +24,10 @@ _Reading_
 
 
 
-<a href="http://www.theguardian.com/lifeandstyle/2014/feb/16/jack-monroe-cook-girl-called-jack-interview">Jack Monroe: &#8216;I&#8217;m a lefty, liberal, lezzer cook </a>by Tim Adams. <span style="background-color: transparent;">I&#8217;m a huge fan of <a style="background-color: transparent;" href="http://agirlcalledjack.com/">Jack Monroe</a><span style="background-color: transparent;"> and love her blog to bits. <br /> 
+<a href="http://www.theguardian.com/lifeandstyle/2014/feb/16/jack-monroe-cook-girl-called-jack-interview">Jack Monroe: &#8216;I&#8217;m a lefty, liberal, lezzer cook </a>by Tim Adams. I&#8217;m a huge fan of <a style="background-color: transparent;" href="http://agirlcalledjack.com/">Jack Monroe</a> and love her blog to bits. <br /> 
 
 
-  <span style="font-size: small;"><span style="background-color: transparent;"><br /> <a href="http://thecurvyfashionista.com/2014/02/rise-contemporary-plus-size-fashion/">The rise of contemporary plus size fashion</a> by Marie Denee
+  <span style="font-size: small;"><br /> <a href="http://thecurvyfashionista.com/2014/02/rise-contemporary-plus-size-fashion/">The rise of contemporary plus size fashion</a> by Marie Denee
 
 
 <br /> _Watching_
