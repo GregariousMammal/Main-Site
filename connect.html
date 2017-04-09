@@ -2,13 +2,12 @@
 layout: default
 permalink: connect/index.html
 paginate:
-collection: events
+  collection: events
 ---
 
-<div class="home">
+<div class="home events">
   <div class="connect">
-    <div class="image">
-    </div>
+    <div class="image"></div>
     <h1 class="page-heading">Meet Me</h1>
     <div class="description">
       <p>I'm a sociable (gregarious!) fellow, and you can find me on all these social networks. If it's not listed look for <em>ChrisChinchilla</em> or <em>ChrisChinch</em> and you'll probably find me.</p>
@@ -16,14 +15,15 @@ collection: events
 
     <div class="icon_bar">
       {% for post in site.connect %}
-      
+
         {% if post.image %}
         <a href="{{ post.network_link }}">{% picture icon {{ post.image }} alt={{ post.title }} %}</a>
         {% else %}
         {{ post.network_link }}
         {% endif %}
-      </div>
       {% endfor %}
+    </div>
+
     </div>
 
     <div class="description">
@@ -35,7 +35,6 @@ collection: events
         {% assign currentDate = site.time %}
         {% if post.date < currentDate %}
         <li class="past-event">
-          <span class="date">{{ post.date | date: '%B %d %Y' }}</span>
           {% else %}
           <li class="future-event">
             <span class="date">{{ post.date | date: '%B %d %Y' }}</span>
@@ -56,4 +55,3 @@ collection: events
       </section>
       {% include pagination.html %}
     </div>
-  </div>
