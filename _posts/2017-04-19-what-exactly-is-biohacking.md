@@ -10,7 +10,7 @@ image:
 excerpt:
 ---
 
-In this episode Cate and Chris speak with Paul Laeuner from BioMonkey about BioHacking to improve your physical and mental self and what (if anything) it has to do with embedding microchips in your body.
+In this episode Cate and Chris speak with Paul Lauener from BioMonkey about BioHacking to improve your physical and mental self and what (if anything) it has to do with embedding microchips in your body.
 
 ## Biohacking references
 
