@@ -3,7 +3,7 @@ title: Building Your First Blockchain App with Eris
 created: 2016-08-29T00:00:00.000Z
 publication_url: 'https://www.sitepoint.com/getting-into-blockchain-with-eris/'
 image: eris.png
-categories: writing sitepoint
+categories: Chris writing sitepoint
 tags: blockchain
 ---
 

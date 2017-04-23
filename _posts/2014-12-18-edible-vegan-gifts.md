@@ -2,7 +2,7 @@
 id: 48
 title: Edible vegan gifts
 date: 2014-12-18T18:50:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/12/edible-vegan-gifts.html
 permalink: /2014/12/edible-vegan-gifts.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/12/blog-post.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/1025639831058981747
-categories:
+tags:
   - baking
   - cooking
   - preserving
@@ -23,7 +23,7 @@ categories:
   - vegetarian
 ---
 
-  <a href="atc-migrate/2014/12/16050573212_897413fbdc_o.jpg"><img class="alignnone size-full wp-image-240" src="atc-migrate/2014/12/16050573212_897413fbdc_o.jpg" alt="16050573212_897413fbdc_o" width="600" height="600" /></a>
+  <a href="/images/atc-migrate/2014/12/16050573212_897413fbdc_o.jpg"><img class="alignnone size-full wp-image-240" src="/images/atc-migrate/2014/12/16050573212_897413fbdc_o.jpg" alt="16050573212_897413fbdc_o" width="600" height="600" /></a>
 
 
 

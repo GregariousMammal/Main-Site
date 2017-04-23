@@ -3,7 +3,7 @@ title: Display Data Sets in InDesign with Porky
 created: 2016-01-21T00:00:00.000Z
 publication_url: 'http://www.sitepoint.com/indesign-with-porky/'
 image: image-Porky.png
-categories: writing sitepoint
+categories: Chris writing sitepoint
 tags: indesign json xml
 ---
 

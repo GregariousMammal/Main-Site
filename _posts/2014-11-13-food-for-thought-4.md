@@ -2,7 +2,7 @@
 id: 64
 title: Food for thought
 date: 2014-11-13T18:35:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/11/food-for-thought-4.html
 permalink: /2014/11/food-for-thought-4.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/11/food-for-thought.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/3793369589736524951
-categories:
+tags:
   - germany
   - green renters
   - leipzig

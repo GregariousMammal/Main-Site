@@ -2,7 +2,7 @@
 id: 125
 title: Spicy pumpkin, spinach and fetta pasties
 date: 2014-03-11T06:11:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/03/spicy-pumpkin-spinach-and-fetta-pasties.html
 permalink: /2014/03/spicy-pumpkin-spinach-and-fetta-pasties.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/03/spicy-pumpkin-spinach-and-fetta-pasties.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/3255053146731285235
-categories:
+tags:
   - baking
   - cooking
   - recipe
@@ -87,7 +87,7 @@ categories:
 
 
 
-    <p>
+    
                                    <a  href="http://3.bp.blogspot.com/-LzLp5LGRazU/Ux6cOatd4qI/AAAAAAAAIXc/mt07yyY_QV0/s1600/12981609104_598ff626d1_c.jpg"><img src="http://3.bp.blogspot.com/-LzLp5LGRazU/Ux6cOatd4qI/AAAAAAAAIXc/mt07yyY_QV0/s1600/12981609104_598ff626d1_c.jpg" alt="" width="400" height="343" border="0" /></a>
 
 

@@ -1,8 +1,8 @@
 ---
 title: Courses
 layout: page
-categories: writing courses
-permalink: courses/index.html
+categories: Chris writing courses
+permalink: writing/courses
 ---
 
 As a passionate technology educator, I have contributed to writing programming courses. If you're interested in me working on a course for you, then please [connect](/connect) with me.

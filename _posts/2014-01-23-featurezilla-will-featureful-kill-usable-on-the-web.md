@@ -2,7 +2,7 @@
 title: 'Feature-zilla! Will Featureful Kill Usable on the Web?'
 created: 20140123
 publication_url: 'http://www.sitepoint.com/featureful-vs-usable/'
-categories: writing sitepoint
+categories: Chris writing sitepoint
 ---
 
 When did you last use the references feature in Microsoft Word?

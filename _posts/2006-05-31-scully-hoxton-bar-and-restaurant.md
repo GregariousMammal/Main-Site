@@ -2,7 +2,7 @@
 layout: post
 title: 'Scully - Hoxton Bar & Restaurant'
 created: 1149088236
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

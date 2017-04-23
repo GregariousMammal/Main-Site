@@ -2,7 +2,7 @@
 id: 42
 title: Chocolate panforte
 date: 2015-01-07T17:57:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2015/01/chocolate-panforte.html
 permalink: /2015/01/chocolate-panforte.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2015/01/chocolate-panforte.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2987470719322009199
-categories:
+tags:
   - baking
   - christmas
   - cooking
@@ -26,7 +26,7 @@ categories:
     <a  href="http://2.bp.blogspot.com/-P-KaLqIPlKc/VK1lXxMDLMI/AAAAAAAAKXY/vhBsK5Fi2zM/s1600/5278481598_5e85afc167_o.jpg"><img src="http://2.bp.blogspot.com/-P-KaLqIPlKc/VK1lXxMDLMI/AAAAAAAAKXY/vhBsK5Fi2zM/s1600/5278481598_5e85afc167_o.jpg" alt="" width="400" height="265" border="0" /></a>
   
   
-  <p>
+  
     I started making panforte a couple of years ago. It&#8217;s a delicious, chocolatey, nutty slice which is wonderfully spiced. When I bought some all spice in the UK this week, I knew this would be the first thing I&#8217;d make. It&#8217;s technically an Italian Christmas recipe but I think it can be eaten at any time, including after Christmas!
   
 

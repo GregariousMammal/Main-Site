@@ -2,7 +2,7 @@
 title: Migrating Your Android or iOS App from Parse
 created: 2016-02-24T00:00:00.000Z
 publication_url: 'http://www.sitepoint.com/migrating-your-android-or-ios-app-from-parse/'
-categories: writing sitepoint
+categories: Chris writing sitepoint
 tags: anroid ios parse
 ---
 

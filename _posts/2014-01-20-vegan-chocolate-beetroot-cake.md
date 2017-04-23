@@ -2,7 +2,7 @@
 id: 139
 title: Vegan chocolate beetroot cake
 date: 2014-01-20T07:06:00.000Z
-author: CateLawrence
+categories: Cate
 layout: post
 guid: 'http://atravellingcook.com/2014/01/vegan-chocolate-beetroot-cake.html'
 permalink: /2014/01/vegan-chocolate-beetroot-cake.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/01/vegan-chocolate-beetroot-cake.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2713371933894177614
-categories:
+tags:
   - baking
   - cooking
   - recipe
@@ -24,7 +24,7 @@ categories:
 
 _I totally forgot to take pictures so here's some pictures of beetroot cakes made by another [cook](http://faroutbrusselsprout.blogspot.co.uk/2011/05/chocolate-beetroot-cake.html)_<br>
 
-![](../images/atc-migrate/2014/01/110602_cfth_beetrootchoc_-2.jpg)
+![](../images//images/atc-migrate/2014/01/110602_cfth_beetrootchoc_-2.jpg)
 
 <br>
 _Ingredients_

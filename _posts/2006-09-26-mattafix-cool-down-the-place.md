@@ -2,7 +2,7 @@
 layout: post
 title: Mattafix - Cool Down the Place
 created: 1159276637
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: The Scare - The Buffalo Bar
 created: 1149952236
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Melbourne's 2am Lockout"
 created: 1219690635
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

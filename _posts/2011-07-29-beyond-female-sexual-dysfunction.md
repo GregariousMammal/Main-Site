@@ -2,7 +2,7 @@
 id: 153
 title: Beyond Female Sexual Dysfunction
 date: 2011-07-29T15:20:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2011/07/beyond-female-sexual-dysfunction.html
 permalink: /2011/07/beyond-female-sexual-dysfunction.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2011/07/beyond-female-sexual-dysfunction.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6698415037826515652
-categories:
+tags:
   - non-fiction
   - women
   - writing

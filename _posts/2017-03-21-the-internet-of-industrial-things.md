@@ -3,7 +3,7 @@ layout: post
 title: The Internet of Industrial Things
 date: '2017-03-21 18:13:30 +0100'
 image:
-categories: writing dzone
+categories: Chris writing dzone
 tags: IIoT, IoT, industrial, maitenance
 publication_url: https://dzone.com/articles/the-internet-of-industrial-things
 ---

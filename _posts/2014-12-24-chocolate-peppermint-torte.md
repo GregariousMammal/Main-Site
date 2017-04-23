@@ -2,7 +2,7 @@
 id: 46
 title: Chocolate peppermint torte
 date: 2014-12-24T10:34:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/12/chocolate-peppermint-torte.html
 permalink: /2014/12/chocolate-peppermint-torte.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/12/chocolate-peppermint-torte.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6054660767527095733
-categories:
+tags:
   - cooking
   - recipe
   - vegan
@@ -27,7 +27,7 @@ categories:
 
 
 
-  <a href="atc-migrate/2014/12/veganmasterclassdessert3.jpg"><img class="alignnone size-full wp-image-449" src="atc-migrate/2014/12/veganmasterclassdessert3.jpg" alt="veganmasterclassdessert3" width="800" height="600" /></a>
+  <a href="/images/atc-migrate/2014/12/veganmasterclassdessert3.jpg"><img class="alignnone size-full wp-image-449" src="/images/atc-migrate/2014/12/veganmasterclassdessert3.jpg" alt="veganmasterclassdessert3" width="800" height="600" /></a>
 
 
 <div style="line-height: 12.05pt; mso-layout-grid-align: none; mso-pagination: none; text-autospace: none;">

@@ -2,7 +2,7 @@
 id: 7
 title: Food for thought
 date: 2015-03-25T10:52:37+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=7
 permalink: /2015/03/food-for-thought-18.html
@@ -12,7 +12,7 @@ blogger_author:
   - Cate Lawrence
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2767069470942618421
-categories:
+tags:
   - berlin
   - blogging
   - cat
@@ -20,9 +20,9 @@ categories:
   - funny
   - moving
 ---
-[<img class="alignnone size-full wp-image-582" src="atc-migrate/2014/01/12005292596_f5164d421b_c.jpg" alt="12005292596_f5164d421b_c" width="598" height="800" />](atc-migrate/2014/01/12005292596_f5164d421b_c.jpg)
+[<img class="alignnone size-full wp-image-582" src="/images/atc-migrate/2014/01/12005292596_f5164d421b_c.jpg" alt="12005292596_f5164d421b_c" width="598" height="800" />](/images/atc-migrate/2014/01/12005292596_f5164d421b_c.jpg)
 
-<span style="line-height: 1.5;">I&#8217;ve been busy with house hunting so I am rather behind in finishing this post. I got some very good news yesterday, we&#8217;ve been accepted for a rental property in Prenzlauer berg in Berlin! Such a relief as we were starting to worry a bit. Here&#8217;s a few things I&#8217;ve been watching, reading and thinking about:
+I&#8217;ve been busy with house hunting so I am rather behind in finishing this post. I got some very good news yesterday, we&#8217;ve been accepted for a rental property in Prenzlauer berg in Berlin! Such a relief as we were starting to worry a bit. Here&#8217;s a few things I&#8217;ve been watching, reading and thinking about:
 
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: My New housemate
 created: 2013-05-04T00:00:00.000Z
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: creative
 ---
 

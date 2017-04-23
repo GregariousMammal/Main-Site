@@ -2,7 +2,7 @@
 layout: post
 title: 'Ludes - Barfly, London'
 created: 1142525436
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

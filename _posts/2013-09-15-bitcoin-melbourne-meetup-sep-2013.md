@@ -2,7 +2,7 @@
 layout: post
 title: BitCoin Melbourne meetup Sep 2013
 created: 1379237662
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: events bitcoin
 ---
 

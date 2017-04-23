@@ -2,7 +2,7 @@
 layout: post
 title: 'Films, TV and Warehouse Parties'
 date: '2007-11-06T18:32:10+00:00'
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: tv film music
 ---
 

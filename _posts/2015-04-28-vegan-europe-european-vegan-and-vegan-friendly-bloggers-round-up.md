@@ -2,11 +2,11 @@
 id: 823
 title: 'Vegan Europe: European vegan and vegan friendly bloggers round up'
 date: 2015-04-28T09:15:10+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=823
 permalink: /2015/04/vegan-europe-european-vegan-and-vegan-friendly-bloggers-round-up.html
-categories:
+tags:
   - blogging
   - food
   - travelling
@@ -15,7 +15,7 @@ categories:
 format: image
 ---
 
-  <a href="atc-migrate/2015/04/DSC0356.jpg"><br /> </a> <a href="atc-migrate/2015/04/Earth-Day-Cookie.png"><img class="aligncenter size-full wp-image-826" src="atc-migrate/2015/04/Earth-Day-Cookie.png" alt="Earth-Day-Cookie" width="595" height="898" /></a>
+  <a href="/images/atc-migrate/2015/04/DSC0356.jpg"><br /> </a> <a href="/images/atc-migrate/2015/04/Earth-Day-Cookie.png"><img class="aligncenter size-full wp-image-826" src="/images/atc-migrate/2015/04/Earth-Day-Cookie.png" alt="Earth-Day-Cookie" width="595" height="898" /></a>
 
 
 
@@ -48,7 +48,7 @@ format: image
 
 
 
-  <a href="atc-migrate/2015/04/vintage-europe-map-4_grande.jpg"><img class="aligncenter size-full wp-image-827" src="atc-migrate/2015/04/vintage-europe-map-4_grande.jpg" alt="vintage-europe-map-4_grande" width="550" height="450" /></a>
+  <a href="/images/atc-migrate/2015/04/vintage-europe-map-4_grande.jpg"><img class="aligncenter size-full wp-image-827" src="/images/atc-migrate/2015/04/vintage-europe-map-4_grande.jpg" alt="vintage-europe-map-4_grande" width="550" height="450" /></a>
 
 
 

@@ -2,11 +2,11 @@
 id: 1476
 title: 'Catching up&#8230;'
 date: 2016-05-04T14:52:41+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=1476
 permalink: /2016/05/catching-up-2.html
-categories:
+tags:
   - Uncategorized
 format: image
 ---
@@ -28,19 +28,19 @@ My health has been a bit odd. I’m facing another double fasciotomy due to [chr
 
 I had a bit of a odd experience recently. I developed a brain infection from viral encephalitis. In my case this was caused by the chicken pox virus. If you ever have had the chicken pox or cold sores, a version of the virus sits dormant in your body then can decide to show it&#8217;s head when you have a lowered immune system. Most people get [shingles](http://www.mayoclinic.org/diseases-conditions/shingles/basics/definition/con-20019574), I got [encephalitis](https://en.wikipedia.org/wiki/Encephalitis). Basically i spent two weeks in hospital on a drip- 4 bags of drugs at once every 3 hours (so exciting). I was quite comfortable pain wise etc except for the woeful Deutsch tv and the food that was rather challenging at times. It was quite stressful yet boring being in hospital especially with the language barrier-medical terms are not something you learn at german school.<figure id="attachment_1477" style="width: 720px;" class="wp-caption aligncenter">
 
-<img class="wp-image-1477 size-full" src="atc-migrate/2016/05/11139350_10153304664796249_2893840630615255119_n.jpg" alt="11139350_10153304664796249_2893840630615255119_n" width="720" height="960" /><figcaption class="wp-caption-text">Ahh the delights of hospital food</figcaption></figure> 
+<img class="wp-image-1477 size-full" src="/images/atc-migrate/2016/05/11139350_10153304664796249_2893840630615255119_n.jpg" alt="11139350_10153304664796249_2893840630615255119_n" width="720" height="960" /><figcaption class="wp-caption-text">Ahh the delights of hospital food</figcaption></figure> 
 
 &nbsp;
 
 **Have I been travelling?**
 
-<img class="wp-image-1478 size-full" src="atc-migrate/2016/05/12916329_10153327493491249_5690092172714995742_o.jpg" alt="12916329_10153327493491249_5690092172714995742_o" width="1536" height="2048" /><figure id="attachment_1479" style="width: 2048px;" class="wp-caption aligncenter">
+<img class="wp-image-1478 size-full" src="/images/atc-migrate/2016/05/12916329_10153327493491249_5690092172714995742_o.jpg" alt="12916329_10153327493491249_5690092172714995742_o" width="1536" height="2048" /><figure id="attachment_1479" style="width: 2048px;" class="wp-caption aligncenter">
 
-[<img class="wp-image-1479 size-full" src="atc-migrate/2016/05/13131367_10156761587250567_4905880362625852657_o.jpg" alt="13131367_10156761587250567_4905880362625852657_o" width="2048" height="1536" />](atc-migrate/2016/05/13131367_10156761587250567_4905880362625852657_o.jpg)<figcaption class="wp-caption-text">Chris and I in Nürnberg</figcaption></figure> 
+[<img class="wp-image-1479 size-full" src="/images/atc-migrate/2016/05/13131367_10156761587250567_4905880362625852657_o.jpg" alt="13131367_10156761587250567_4905880362625852657_o" width="2048" height="1536" />](/images/atc-migrate/2016/05/13131367_10156761587250567_4905880362625852657_o.jpg)<figcaption class="wp-caption-text">Chris and I in Nürnberg</figcaption></figure> 
 
 Yes! I’ve been to Lake Tahoe for Linux Open Source Summit. A trip to Barcelona. We spent the weekend in Nürnberg- a beautiful city! [
   
-](atc-migrate/2016/05/11139350_10153304664796249_2893840630615255119_n.jpg) 
+](/images/atc-migrate/2016/05/11139350_10153304664796249_2893840630615255119_n.jpg) 
 
 &nbsp;
 

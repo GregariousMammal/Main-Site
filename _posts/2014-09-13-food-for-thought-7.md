@@ -2,7 +2,7 @@
 id: 81
 title: Food for thought
 date: 2014-09-13T10:54:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/09/food-for-thought-7.html
 permalink: /2014/09/food-for-thought-7.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/09/food-for-thought.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/1526724358054741438
-categories:
+tags:
   - funny
   - vegan
   - vegmofo

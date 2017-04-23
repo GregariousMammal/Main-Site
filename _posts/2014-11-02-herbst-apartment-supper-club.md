@@ -2,7 +2,7 @@
 id: 68
 title: Herbst Apartment Supper Club
 date: 2014-11-02T12:05:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/11/herbst-apartment-supper-club.html
 permalink: /2014/11/herbst-apartment-supper-club.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/11/herbst-apartment-supper-club.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/85815538127051017
-categories:
+tags:
   - events
   - germany
   - leipzig
@@ -94,7 +94,7 @@ categories:
     <a style="line-height: 19.3199996948242px; margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/--6U3uUHegZU/VFYON-C0N3I/AAAAAAAAJwI/da_HxFdWg-s/s1600/Gourmet%2Bcheese-6626.jpg"><img src="http://4.bp.blogspot.com/--6U3uUHegZU/VFYON-C0N3I/AAAAAAAAJwI/da_HxFdWg-s/s1600/Gourmet%2Bcheese-6626.jpg" alt="" width="400" height="265" border="0" /></a>
   
   
-  <p>
+  
      
   
   
@@ -133,7 +133,7 @@ categories:
     <a style="line-height: 19.3199996948242px; margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-YSCv3GIet4g/VFYOm6cKfyI/AAAAAAAAJwc/uOO-SuDJK4o/s1600/acb3bfc72d3739265f8c54864324de51.jpg"><img src="http://1.bp.blogspot.com/-YSCv3GIet4g/VFYOm6cKfyI/AAAAAAAAJwc/uOO-SuDJK4o/s1600/acb3bfc72d3739265f8c54864324de51.jpg" alt="" width="400" height="300" border="0" /></a>
   
   
-  <p>
+  
      
   
   
@@ -156,7 +156,7 @@ categories:
     <a style="line-height: 19.3199996948242px; margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-e6fAjZaEKuU/VFYONo_Hz-I/AAAAAAAAJwE/K6Xg8yqwvVQ/s1600/main%2Bself%2Bsaucing%2Bchocolate%2Bpudding.jpg"><img src="http://1.bp.blogspot.com/-e6fAjZaEKuU/VFYONo_Hz-I/AAAAAAAAJwE/K6Xg8yqwvVQ/s1600/main%2Bself%2Bsaucing%2Bchocolate%2Bpudding.jpg" alt="" width="400" height="363" border="0" /></a>
   
   
-  <p>
+  
      
   
   

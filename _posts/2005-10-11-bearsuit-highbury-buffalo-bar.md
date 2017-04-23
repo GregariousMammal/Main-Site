@@ -2,7 +2,7 @@
 layout: post
 title: Bearsuit - Highbury Buffalo Bar
 created: 1129038318
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

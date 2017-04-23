@@ -2,7 +2,7 @@
 layout: post
 title: The Beauty Room - Holding on
 created: 1155726457
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

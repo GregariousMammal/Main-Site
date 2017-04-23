@@ -2,7 +2,7 @@
 id: 6
 title: Quick and easy vegan friendly meals to eat this week!
 date: 2015-03-08T18:22:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2015/03/quick-and-easy-vegan-friendly-meals-to-eat-this-week.html
 permalink: /2015/03/quick-and-easy-vegan-friendly-meals-to-eat-this-week.html
@@ -14,14 +14,14 @@ blogger_permalink:
   - /2015/03/quick-and-easy-vegan-friendly-meals-to.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/3656911577636998840
-categories:
+tags:
   - cooking
   - recipe
   - vegan
 format: image
 ---
 
-![30 Minute meals](../images/atc-migrate/2015/03/30min-meals1.jpg)
+![30 Minute meals](../images//images/atc-migrate/2015/03/30min-meals1.jpg)
 
 
 I&#8217;ve been doing a bit of an audit of my blog before I move hosting and I realised I don&#8217;t have that many main meals on my blog. Which is silly as I cook dinner (and often lunch as I work from home) every day! It&#8217;s easy to fall into the habit of eating toast or mashed potato or wine and cheese for dinner (especially during times when I am living alone) so to inspire me I&#8217;ve decided to do a weekly hosting of dinner recipes. The caveat is that they need to be vegan friendly (the vast majority of my cooking is vegan with dairy free milk and cheese, no meat, honey or animal products ), quick to make (say under 30 minutes) and not rely on any fancy equipment like a Thermomix or pizza oven. I&#8217;m listing a range of recipes that I cook fairly often. These can be made for lunch or dinner as part of a meal or a meal in themselves.

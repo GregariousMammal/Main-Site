@@ -2,7 +2,7 @@
 layout: post
 title: The Scare - Vacuum Irony
 created: 1148137836
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

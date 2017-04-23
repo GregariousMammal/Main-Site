@@ -2,7 +2,7 @@
 id: 151
 title: 'Craftivism, consumerism and spending money on recycled materials&#8230;'
 date: 2012-10-08T08:36:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2012/10/craftivism-consumerism-and-spending-money-on-recycled-materials.html
 permalink: /2012/10/craftivism-consumerism-and-spending-money-on-recycled-materials.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2012/10/craftivism-consumerism-and-spending.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6291006635387277569
-categories:
+tags:
   - activism
   - australia
   - craft

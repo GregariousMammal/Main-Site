@@ -2,7 +2,7 @@
 layout: post
 title: 'And What will be left of them? - The Dance, damn you, dance EP'
 created: 1145373036
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

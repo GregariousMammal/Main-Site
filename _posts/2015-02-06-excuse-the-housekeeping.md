@@ -2,7 +2,7 @@
 id: 21
 title: 'Excuse the housekeeping&#8230;'
 date: 2015-02-06T15:00:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2015/02/excuse-the-housekeeping.html
 permalink: /2015/02/excuse-the-housekeeping.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2015/02/excuse-housekeeping.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/1114868563474602875
-categories:
+tags:
   - Uncategorized
 ---
 My blog is a bit messy at the moment as I&#8217;m in the process of moving over the Squarespace. Will keep you all posted for the great reveal, apologies again for the mess!

@@ -2,7 +2,7 @@
 layout: post
 title: Operator Please - East Brunswick Club
 created: 1182014910
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

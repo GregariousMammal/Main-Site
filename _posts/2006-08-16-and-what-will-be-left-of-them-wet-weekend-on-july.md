@@ -2,7 +2,7 @@
 layout: post
 title: And what will be left of them? - Wet Weekend on July
 created: 1155726975
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

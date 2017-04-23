@@ -2,11 +2,11 @@
 id: 1104
 title: Sweet corn, cauliflower and quinoa soup
 date: 2015-07-15T12:57:34+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=1104
 permalink: /2015/07/sweet-corn-cauliflower-and-quinoa-soup.html
-categories:
+tags:
   - cooking
   - food
   - gluten free
@@ -15,7 +15,7 @@ categories:
   - vegan
 format: image
 ---
-<img class="aligncenter size-large wp-image-1106" src="atc-migrate/2015/07/DSC0544-1024x896.jpg" alt="_DSC0544" width="780" height="683" />
+<img class="aligncenter size-large wp-image-1106" src="/images/atc-migrate/2015/07/DSC0544-1024x896.jpg" alt="_DSC0544" width="780" height="683" />
 
 I have a lot of experience making soup from writing my second [recipe ebook](https://sellfy.com/p/AnEq) so I often whip up a quick soup without too much thought. This soup is sweet and creamy and definitely moreish!
 
@@ -48,6 +48,6 @@ _Instructions:_
   9. Add a dash of liquid smoke (optional) and stir well, checking flavours.
  10. Serve hot in bowls with a sprinkle of finely diced spring onions, sesame seeds and splash of soy sauce. Serve [pickles](http://atravellingcook.com/2014/09/spicy-pickled-cucumbers.html) on the side
 
-[<img class="aligncenter size-large wp-image-1108" src="atc-migrate/2015/07/DSC0538-1024x971.jpg" alt="_DSC0538" width="780" height="740" />](atc-migrate/2015/07/DSC0538.jpg)I&#8217;ve included this recipe in the wonderful [Meat free Mondays](http://www.tinnedtomatoes.com/2015/07/meat-free-mondays-7-recipes-for-week_20.html) collection curated by Jacqueline over at the fabulous _Tinned Tomatoes-_
+[<img class="aligncenter size-large wp-image-1108" src="/images/atc-migrate/2015/07/DSC0538-1024x971.jpg" alt="_DSC0538" width="780" height="740" />](/images/atc-migrate/2015/07/DSC0538.jpg)I&#8217;ve included this recipe in the wonderful [Meat free Mondays](http://www.tinnedtomatoes.com/2015/07/meat-free-mondays-7-recipes-for-week_20.html) collection curated by Jacqueline over at the fabulous _Tinned Tomatoes-_
 
-[<img class="aligncenter size-full wp-image-1122" src="atc-migrate/2015/07/meat-free-mondays-logo.png" alt="meat+free+mondays+logo" width="320" height="320" />](atc-migrate/2015/07/meat-free-mondays-logo.png)
+[<img class="aligncenter size-full wp-image-1122" src="/images/atc-migrate/2015/07/meat-free-mondays-logo.png" alt="meat+free+mondays+logo" width="320" height="320" />](/images/atc-migrate/2015/07/meat-free-mondays-logo.png)

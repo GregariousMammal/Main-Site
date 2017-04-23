@@ -2,7 +2,7 @@
 layout: post
 title: The Specials
 created: 2005-01-14T00:00:00.000Z
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music biography
 ---
 

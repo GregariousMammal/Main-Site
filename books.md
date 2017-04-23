@@ -1,8 +1,8 @@
 ---
 title: Books
 layout: page
-categories: writing books
-permalink: books/index.html
+categories: Chris writing books
+permalink: writing/books
 ---
 
 In 2016 I set out to write my first book, with more to follow. If you're interested in me writing a book for you, then please [connect](/connect) with me.

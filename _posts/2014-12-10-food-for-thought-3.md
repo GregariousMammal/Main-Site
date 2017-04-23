@@ -2,7 +2,7 @@
 id: 53
 title: Food for thought
 date: 2014-12-10T13:33:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/12/food-for-thought-3.html
 permalink: /2014/12/food-for-thought-3.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/12/food-for-thought.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/4657090212362903267
-categories:
+tags:
   - blogging
   - christmas
   - germany
@@ -122,7 +122,7 @@ We also have the big Leipzig <i>Weihnachsmarkt</i> (Christmas market). Think lot
 
 I&#8217;ve been a bit under the weather the last week with bad sinus that went to a runny nose and has now become a cough.Just coming good now. So annoying! The weather doesn&#8217;t help, although it&#8217;s definitely been warmer the last few days. 
   
-<br /> <span style="text-decoration: underline;">Things I&#8217;ve enjoyed reading:
+<br /> Things I&#8217;ve enjoyed reading:
   
 <br /> <a href="http://mobile.nytimes.com/2014/11/16/opinion/sunday/i-nearly-died-so-what.html?referrer&_r=0">I nearly died. So what</a>? Meaghan Daum,<i> The New York Times</i>
   
@@ -169,6 +169,6 @@ _<br /> _<a href="http://ohgodmywifeisgerman.com/2013/08/12/culture-shock-16-the
 
 
 <div style="background-color: white; color: #333333; font-family: Arial, Tahoma, Helvetica, FreeSans, sans-serif; font-size: 15px; line-height: 20.7900009155273px; text-align: center;">
-  <div style="text-align: left;">
+  
     I also wrote an article myself about my experiences of <a href="http://www.xojane.com/healthy/idiopathic-angioedema#comments">Idiopathic angioedema </a>for <a href="http://www.xojane.com/healthy/idiopathic-angioedema#comments">XO Jane</a>. I have been trying to get more freelance writing work but it is difficult if you do not have a suite of published work to present. I&#8217;m working on some other topics also, not just writing about me. Hope everyone is enjoying the lead up to Christmas. X
   

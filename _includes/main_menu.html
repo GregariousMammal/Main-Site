@@ -2,7 +2,7 @@
   <li class="first expanded dropdown">
     <a href="/projects" title="Projects">Projects
     </a>
-    {% if page.categories[0] == 'projects' or page.url == '/projects/index.html' or page.url == '/projects/software/index.html' or page.path == 'odtwe.html' or page.path == 'chipshop.html' or page.path == 'greenrenters.md' %}
+    {% if page.categories[0] == 'projects' or page.permalink == 'projects/' or page.permalink == 'projects/software/' or page.permalink == 'projects/odtwe/' or page.permalink == 'projects/chipshop/' or page.permalink == 'projects/greenrenters' or page.permalink == 'projects/not-profit-handbook/' %}
     <ul>
       <li >
         <a href="/projects/chipshop" title="Chip Shop">Chip Shop</a>
@@ -23,13 +23,13 @@
     {% endif %}
   </li>
   <li><a href="/writing" title="Writing">Writing</a>
-    {% if page.url == '/books/index.html' or page.url == '/courses/index.html' or page.url == '/writing/index.html' or page.categories[0] == 'writing' %}
+    {% if page.permalink == 'writing/cate/' or page.permalink == 'writing/chris/' or page.permalink == 'writing/books' or page.permalink == 'writing/courses' or page.permalink == 'writing/' or page.categories[0] == 'writing' or page.categories[0] == 'Cate' or page.categories[0] == 'Chris' %}
     <ul>
       <li>
-        <a href="/books" title="Books">Books</a>
+        <a href="/writing/cate" title="Cate">Cate</a>
       </li>
       <li>
-        <a href="/courses" title="Courses">Courses</a>
+        <a href="/writing/chris" title="Chris">Chris</a>
       </li>
     </ul>
     {% endif %}

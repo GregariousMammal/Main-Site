@@ -2,7 +2,7 @@
 id: 18
 title: Red beans, quinoa and jerk spice soup
 date: 2015-02-12T15:44:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2015/02/red-beans-quinoa-and-jerk-spice-soup.html
 permalink: /2015/02/red-beans-quinoa-and-jerk-spice-soup.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2015/02/red-beans-quinoa-and-jerk-spice-soup.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/1343045642762746902
-categories:
+tags:
   - cooking
   - recipe
   - vegan

@@ -2,7 +2,7 @@
 layout: post
 title: IV Thieves - The Day is a Downer
 created: 1159276540
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

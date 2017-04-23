@@ -2,7 +2,7 @@
 title: Mobile World Congress 2015
 created: 2015-03-06T00:00:00.000Z
 publication_url: 'http://www.sitepoint.com/mobile-world-congress-2015-roundup/'
-categories: writing sitepoint
+categories: Chris writing sitepoint
 tags: mobile analysis conference
 ---
 

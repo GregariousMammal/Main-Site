@@ -2,7 +2,7 @@
 layout: post
 title: 'Ernest Ranglin, The Trojan Horns - The Espy'
 created: 1198178126
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

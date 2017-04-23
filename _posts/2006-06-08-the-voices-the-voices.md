@@ -2,7 +2,7 @@
 layout: post
 title: The Voices - The Voices
 created: 1149779436
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

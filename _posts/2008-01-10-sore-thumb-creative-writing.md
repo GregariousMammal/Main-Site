@@ -2,7 +2,7 @@
 layout: post
 title: Sore Thumb
 created: 1199979061
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: creative
 ---
 

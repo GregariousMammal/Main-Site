@@ -2,7 +2,7 @@
 layout: post
 title: Plastic Palace Alice - The Spiegel Tent
 created: 1198178175
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

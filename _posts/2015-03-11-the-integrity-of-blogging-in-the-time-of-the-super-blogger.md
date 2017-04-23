@@ -2,11 +2,11 @@
 id: 166
 title: The integrity of blogging in the time of the super blogger.
 date: 2015-03-11T21:56:05+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=166
 permalink: /2015/03/the-integrity-of-blogging-in-the-time-of-the-super-blogger.html
-categories:
+tags:
   - australia
   - blogging
   - expat
@@ -14,7 +14,7 @@ categories:
   - writing
 format: image
 ---
-_[<img class="alignnone size-large wp-image-187" src="atc-migrate/2015/03/10841807_928212963889942_8731249480817064250_o-683x1024.jpg" alt="10841807_928212963889942_8731249480817064250_o" width="683" height="1024" />](atc-migrate/2015/03/10841807_928212963889942_8731249480817064250_o.jpg)_
+_[<img class="alignnone size-large wp-image-187" src="/images/atc-migrate/2015/03/10841807_928212963889942_8731249480817064250_o-683x1024.jpg" alt="10841807_928212963889942_8731249480817064250_o" width="683" height="1024" />](/images/atc-migrate/2015/03/10841807_928212963889942_8731249480817064250_o.jpg)_
 
 _I&#8217;d like to say I have a garden like this, but I do not. _
 

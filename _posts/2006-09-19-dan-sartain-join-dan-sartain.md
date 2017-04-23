@@ -2,7 +2,7 @@
 layout: post
 title: Dan Sartain - Join Dan Sartain
 created: 1158651780
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

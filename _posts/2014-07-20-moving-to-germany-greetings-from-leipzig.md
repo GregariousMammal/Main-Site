@@ -2,7 +2,7 @@
 id: 106
 title: 'Moving to Germany: Greetings from Leipzig'
 date: 2014-07-20T16:08:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/07/moving-to-germany-greetings-from-leipzig.html
 permalink: /2014/07/moving-to-germany-greetings-from-leipzig.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/07/greetings-from-leipzig.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/8569611673266746997
-categories:
+tags:
   - australia
   - baking
   - germany
@@ -61,7 +61,7 @@ How&#8217;s it all going? I&#8217;ll divide into good and bad in dot point form 
     </li>
   </ul>
   
-  <p>
+  
     <span style="color: #37404e; line-height: 20px;"><i>(these things)</i><a style="line-height: 20px; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/--7XxyMHTOeI/U8vVAtKbdfI/AAAAAAAAI8Q/8cQw_S_884g/s1600/Bath-Puffs-20901.jpg"><img src="http://2.bp.blogspot.com/--7XxyMHTOeI/U8vVAtKbdfI/AAAAAAAAI8Q/8cQw_S_884g/s1600/Bath-Puffs-20901.jpg" alt="" width="320" height="239" border="0" /></a><span style="color: #37404e; line-height: 20px;"> <br /> <span style="color: #37404e; font-family: Arial, Helvetica, sans-serif; line-height: 20px;">I am debating whether to wait until I go to the UK next or buy all of the above on ebay. 
   
   
@@ -77,7 +77,7 @@ How&#8217;s it all going? I&#8217;ll divide into good and bad in dot point form 
     </li>
   </ul>
   
-  <p>
+  
     <span style="color: #37404e;"><span style="font-family: Arial, Helvetica, sans-serif; line-height: 20px;"> 
   
 

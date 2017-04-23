@@ -2,7 +2,7 @@
 id: 123
 title: This song is now going to be in your head all day
 date: 2014-03-13T11:18:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/03/this-song-is-now-going-to-be-in-your-head-all-day.html
 permalink: /2014/03/this-song-is-now-going-to-be-in-your-head-all-day.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/03/this-song-is-now-going-to-be-in-your.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/8583816344232633406
-categories:
+tags:
   - activism
   - feminism
   - music

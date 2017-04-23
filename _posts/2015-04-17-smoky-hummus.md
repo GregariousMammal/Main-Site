@@ -2,18 +2,18 @@
 id: 766
 title: Smoky chickpea and sunflower hummus.
 date: 2015-04-17T17:06:53+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=766
 permalink: /2015/04/smoky-hummus.html
-categories:
+tags:
   - cooking
   - food
   - recipe
   - vegan
 format: image
 ---
-[<img class="alignnone size-full wp-image-767" src="atc-migrate/2015/04/DSC0343.jpg" alt="_DSC0343" width="4045" height="2848" />](atc-migrate/2015/04/DSC0343.jpg)
+[<img class="alignnone size-full wp-image-767" src="/images/atc-migrate/2015/04/DSC0343.jpg" alt="_DSC0343" width="4045" height="2848" />](/images/atc-migrate/2015/04/DSC0343.jpg)
 
 My husband loves hummus, hommous, hummous or chickpea dip depending on your spelling, so I decided to whip up a quick batch. I used cooked chickpeas rather than tinned which means they take longer to blend if you haven&#8217;t cooked them until they&#8217;re super soft.
 

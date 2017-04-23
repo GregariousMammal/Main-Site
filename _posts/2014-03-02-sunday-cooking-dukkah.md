@@ -2,7 +2,7 @@
 id: 129
 title: 'Sunday cooking: Dukkah'
 date: 2014-03-02T02:34:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/03/sunday-cooking-dukkah.html
 permalink: /2014/03/sunday-cooking-dukkah.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/03/sunday-cooking-dukkah.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2395612868115357273
-categories:
+tags:
   - cooking
   - recipe
   - vegan
@@ -51,7 +51,7 @@ categories:
 <!--EndFragment-->
 
 <blockquote style="background-color: white; color: #333333; font-size: 13px; line-height: 1.3em; margin: 1em 20px;">
-  <p>
+  
     <b> Instructions</b>
   
 </blockquote>

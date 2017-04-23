@@ -2,7 +2,7 @@
 id: 61
 title: Tomato kasundi
 date: 2014-11-20T18:50:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/11/tomato-kasundi.html
 permalink: /2014/11/tomato-kasundi.html
@@ -14,28 +14,28 @@ blogger_permalink:
   - /2014/11/tomato-kasundi.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/1699147730213968521
-categories:
+tags:
   - cooking
   - recipe
   - vegan
 ---
 
                               <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-oidkttZSc7E/VG4obEsAuhI/AAAAAAAAKC4/vJTFhKQ5z10/s1600/tomatokasund2.jpg"><img src="http://3.bp.blogspot.com/-oidkttZSc7E/VG4obEsAuhI/AAAAAAAAKC4/vJTFhKQ5z10/s1600/tomatokasund2.jpg" alt="" width="400" height="332" border="0" /></a><br /> <br />  
+
   
-  <div style="text-align: left;">
     Tomato Kasundi is one of my favourite condiments to make. It enlivens a sandwich, works wonderfully as a dip, can be used to make a curry or makes any kind of &#8216;meat ball&#8217; taste sublime. It&#8217;s one of the most popular recipes I have taught and I make it in batches each year.  Right now in Australia I would be watering my tomato plants which I&#8217;d have planted at the start of November. In Germany it is growing colder and tomatoes are hydroponic or imported for warmer climates but I wanted to share this recipe for my Australian readers, as this is a wonderful recipe to make it bulk for Christmas gifts.
+
+
   
+
+
   
-  <div style="text-align: left;">
-  
-  
-  <div style="text-align: left;">
      
+
+
   
-  
-  <p>
     <b>Tomato Kasundi Relish </b>
-  
+
 
 
 
@@ -126,8 +126,8 @@ categories:
 
 
 
-  <br /> In Deutsch<br /> <br /> <i>Zutaten</i> 
-  
+  <br /> In Deutsch<br /> <br /> <i>Zutaten</i>
+
   <ul>
     <li>
       2.5 Kilogramm reif Tomaten
@@ -166,31 +166,31 @@ categories:
       1 Milliliter salz oder nach Geschmack
     </li>
   </ul>
+
   
-  <p>
     If you want to store your kasundi out of the fridge, ensure you use clean, sterilised jars with new lids and water bath the kasundi for 30 minutes before storing in a cool dark space. 
-  
-  
-  
+
+
+
      
-  
-  
-  
+
+
+
     In Deutsch:
-  
-  
-  
+
+
+
     Ich bin am Transcribieren meine Rezepte in Deutsch arbeiten. Meine Deutsch ist nicht sehr gut. Ich gehen um Sprachshule funf Vormittagen in der Wocke. Es wird kein Zweifel daren bestehen, viele Fehler. Bitte zögern Sie nicht korrigieren!
-  
-  
-  
+
+
+
     <span style="background-color: white; color: #333333; font-size: 15px; line-height: 20.7900009155273px;"> 
+
+
   
-  
-  <p>
     <i>Anleitung</i>
-  
-  
+
+
   <ol>
     <li>
       Dice Tomaten

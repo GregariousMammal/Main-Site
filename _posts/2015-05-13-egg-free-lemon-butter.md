@@ -2,11 +2,11 @@
 id: 883
 title: Egg free lemon butter
 date: 2015-05-13T17:02:56+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=883
 permalink: /2015/05/egg-free-lemon-butter.html
-categories:
+tags:
   - preserving
   - produce
   - recipe
@@ -16,7 +16,7 @@ format: image
 ---
 &nbsp;
 
-[<img class="aligncenter size-full wp-image-884" src="atc-migrate/2015/05/DSC0429.jpg" alt="vegan egg free lemon butter" width="3232" height="2473" />](atc-migrate/2015/05/DSC0429.jpg)
+[<img class="aligncenter size-full wp-image-884" src="/images/atc-migrate/2015/05/DSC0429.jpg" alt="vegan egg free lemon butter" width="3232" height="2473" />](/images/atc-migrate/2015/05/DSC0429.jpg)
 
 Lemon butter is a sweet conserve which works wonderfully on toast, scones, sandwiched between sponge cake and dripped over desserts. I used to make it as one of the few &#8216;egg&#8217; dishes I liked (the only others being meringues and pavlovas). But now, thanks to a simple can of chickpeas, it can be made egg free but just as rich and delicious! Serve it with [chickpea meringues](http://atravellingcook.com/2015/05/egg-free-meringues.html) and coconut cream for a wonderful dessert!
 

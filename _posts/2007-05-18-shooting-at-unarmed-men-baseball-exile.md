@@ -2,7 +2,7 @@
 layout: post
 title: 'Shooting at Unarmed Men, Baseball - Exile'
 created: 1179518402
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

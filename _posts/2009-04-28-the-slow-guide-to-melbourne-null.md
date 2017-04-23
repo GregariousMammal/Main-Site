@@ -2,7 +2,7 @@
 layout: post
 title: The Slow Guide to Melbourne
 created: 1240941449
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: books reviews
 ---
 

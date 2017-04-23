@@ -2,7 +2,7 @@
 layout: post
 title: Ember Swift - The New project
 created: 1262530602
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

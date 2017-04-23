@@ -2,7 +2,7 @@
 id: 40
 title: '10 things to know when you move abroad  to  a new language*'
 date: 2015-01-09T21:20:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2015/01/10-things-to-know-when-you-move-abroad-with-a-new-language.html
 permalink: /2015/01/10-things-to-know-when-you-move-abroad-with-a-new-language.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2015/01/10-things-no-one-tells-you-when-you.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6967499582089157127
-categories:
+tags:
   - germany
   - leipzig
   - travelling
@@ -48,15 +48,15 @@ categories:
 <div style="margin-bottom: 13.5pt; text-align: left;">
 
 
-<div style="text-align: left;">
+
   3. That said, you will embarrass yourself often in public due to the language barrier. Going to the post office and bank are particularly challenging and embarrassing experience when you do not speak the language and the staff speak no English. A lot of people use Berlin as a yardstick for Deutschland, which is extremely inaccurate. Where we live in East Germany, older people are more likely to speak Russian and public service staff were often in the same role pre-reunification and then simply rehired with no option or cause to learn/speak English. Therefore some people at train stations, ticket inspectors on trams, people at information booths often do not speak English. Embarrassing yourself in front of others is a daily occurrence that you simply have to accept as you try harder. The only alternative is to never leave the house, live in a bubble of expats (I have met people who have lived here for several years and never learnt Deutsch) or go home. As my friend said, you will try and fail often. 
 
 
-<div style="text-align: left;">
+
    
 
 
-<div style="text-align: left;">
+
                             <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-MLNoK9Eoyy0/VB7ZoMuyM8I/AAAAAAAAJhE/oo2Z8LBe7Co/s1600/Der%2BDie%2BDas.%2BThe%2BThe%2BThe_e7fdb4_4697433.jpg"><img src="http://4.bp.blogspot.com/-MLNoK9Eoyy0/VB7ZoMuyM8I/AAAAAAAAJhE/oo2Z8LBe7Co/s1600/Der%2BDie%2BDas.%2BThe%2BThe%2BThe_e7fdb4_4697433.jpg" alt="" width="400" height="302" border="0" /></a>
 
 
@@ -100,7 +100,7 @@ categories:
   <i>Ultimately being an expat is full of challenges, but it&#8217;s also full of adventures, wonderful people and great times. I adore living in Leipzig and am very grateful to Leipzigers for making me feel so welcome.</i>
 
 
-<div style="text-align: left;">
+
   <!-- [if gte mso 9]><xml> <o:OfficeDocumentSettings>  <o:AllowPNG/> </o:OfficeDocumentSettings></xml><![endif]-->
   
   <!-- [if gte mso 9]><xml> <w:WordDocument>  <w:View>Normal</w:View>  <w:Zoom>0</w:Zoom>  <w:TrackMoves/>  <w:TrackFormatting/>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInval>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:DoNotPromoteQF/>  <w:LidThemeOther>EN-US</w:LidThemeOther>  <w:LidThemeAsian>JA</w:LidThemeAsian>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>   <w:SplitPgBreakAndParaMark/>   <w:EnableOpenTypeKerning/>   <w:DontFlipMirrorIndents/>   <w:OverrideTableStyleHps/>   <w:UseFELayout/>  </w:Compatibility>  <m:mathPr>   <m:mathFont m:val="Cambria Math"/>   <m:brkBin m:val="before"/>   <m:brkBinSub m:val="&#45;-"/>   <m:smallFrac m:val="off"/>   <m:dispDef/>   <m:lMargin m:val="0"/>   <m:rMargin m:val="0"/>   <m:defJc m:val="centerGroup"/>   <m:wrapIndent m:val="1440"/>   <m:intLim m:val="subSup"/>   <m:naryLim m:val="undOvr"/>  </m:mathPr></w:WordDocument></xml><![endif]-->
@@ -114,5 +114,5 @@ categories:
   <!--EndFragment-->
 
 
-<div style="text-align: left;">
+
    

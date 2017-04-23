@@ -2,11 +2,11 @@
 id: 894
 title: Vegan egg free meringues
 date: 2015-05-19T15:52:49+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=894
 permalink: /2015/05/egg-free-meringues.html
-categories:
+tags:
   - baking
   - cooking
   - gluten free
@@ -15,7 +15,7 @@ categories:
   - vegetarian
 format: image
 ---
-<img class="aligncenter size-large wp-image-896" src="atc-migrate/2015/05/DSC0427-1024x915.jpg" alt="_DSC0427" width="780" height="697" />
+<img class="aligncenter size-large wp-image-896" src="/images/atc-migrate/2015/05/DSC0427-1024x915.jpg" alt="_DSC0427" width="780" height="697" />
 
 I first heard about chickpea brine meringues about a year ago after watching a video on the internet where to cooks in france used chick pea brine in place of egg whites to make meringues. I kind of forgot about it, putting it at the back of a list of things to make once I had my own kitchen again. The suddenly the internet exploded with the world of vegan, egg free meringues!
 
@@ -42,7 +42,7 @@ _Directions_
   6. Add the salt, vanilla powder, corn flour and vinegar gradually.
   7. Slowly add the sugar, stirring all the while. The mix will go from foamy to white to shiny to stiff. You should be able to hold the bowl above your head without the meringue mixture moving in the bowl (or onto your head!). They need to be very firm or they will not set!
   
-    <img class="aligncenter size-full wp-image-895" src="atc-migrate/2015/05/17674183149_c01894de86_z.jpg" alt="chickpea brine" width="640" height="614" />
+    <img class="aligncenter size-full wp-image-895" src="/images/atc-migrate/2015/05/17674183149_c01894de86_z.jpg" alt="chickpea brine" width="640" height="614" />
   8. Spoon onto tray in generous blobs, leaving plenty of space in between each. Bear in mind they will flatten and spread somewhat during cooking so your spacing will need to accommodate this. You could also use a piping bag but I&#8217;m a bit crap at this method and tend to get the brine everywhere.
   9. Cook for 1.5-2.5 hours until crunchy. The first time I made these, the bottoms burnt but they were crunchy on top so I needed to adjust my tray and place them on the top shelf the next time I made them. The time variance is because it depends how big your meringues are!
  10. Turn off the oven and leave them in the oven for at least another two hours. Even better for longer. This will ensure that they are dry throughout the middle of each. If you don&#8217;t do this they will be chewy in the middle and unpleasant to eat.

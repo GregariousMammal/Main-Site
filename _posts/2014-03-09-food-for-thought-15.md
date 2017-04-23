@@ -2,7 +2,7 @@
 id: 126
 title: Food for thought
 date: 2014-03-09T00:41:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/03/food-for-thought-15.html
 permalink: /2014/03/food-for-thought-15.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/03/food-for-thought.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/7055881472332104592
-categories:
+tags:
   - cooking
   - events
   - workshops

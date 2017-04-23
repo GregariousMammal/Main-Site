@@ -2,7 +2,7 @@
 layout: post
 title: Derelict London - Paul Talling
 created: 1240942130
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: books reviews
 ---
 

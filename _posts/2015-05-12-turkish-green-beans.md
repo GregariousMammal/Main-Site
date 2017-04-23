@@ -2,11 +2,11 @@
 id: 878
 title: Turkish green beans
 date: 2015-05-12T11:32:21+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=878
 permalink: /2015/05/turkish-green-beans.html
-categories:
+tags:
   - cooking
   - food
   - gluten free
@@ -15,7 +15,7 @@ categories:
   - vegetarian
 format: image
 ---
-[<img class="aligncenter size-full wp-image-880" src="atc-migrate/2015/05/2015-05-11-19.54.33.jpg" alt="2015-05-11 19.54.33" width="2448" height="2204" />](atc-migrate/2015/05/2015-05-11-19.54.33.jpg)
+[<img class="aligncenter size-full wp-image-880" src="/images/atc-migrate/2015/05/2015-05-11-19.54.33.jpg" alt="2015-05-11 19.54.33" width="2448" height="2204" />](/images/atc-migrate/2015/05/2015-05-11-19.54.33.jpg)
 
 
 

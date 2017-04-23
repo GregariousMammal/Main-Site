@@ -2,7 +2,7 @@
 id: 113
 title: 'I&#8217;m still here!'
 date: 2014-05-02T04:10:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/05/im-still-here-2.html
 permalink: /2014/05/im-still-here-2.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/05/im-still-here.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/1506446968765262410
-categories:
+tags:
   - green renters
   - preserving
   - travelling

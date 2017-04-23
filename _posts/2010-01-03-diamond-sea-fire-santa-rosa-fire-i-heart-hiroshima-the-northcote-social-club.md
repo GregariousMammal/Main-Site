@@ -2,7 +2,7 @@
 layout: post
 title: 'Diamond Sea, Fire Santa Rosa Fire, I Heart Hiroshima - The Northcote Social Club'
 created: 1262530496
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

@@ -23,7 +23,7 @@ This is unfortunately where I came unstuck and (spoiler alert) had to give up th
 
 I did get a lot of unusual errors, most of which could be fixed through file and database cache clears, but they weren&rsquo;t always clear as to the reason.&nbsp;
 
-<span style="line-height: 1.538em;">If you move or rename the location of your site, you will find that Drupal 8&rsquo;s new Configuration Management features might cause your entire site to break as it can no longer find the locations for the configuration files it expects. So make sure you change the paths in the site&rsquo;s settings file.</span>
+<span style="line-height: 1.538em;">If you move or rename the location of your site, you will find that Drupal 8&rsquo;s new Configuration Management features might cause your entire site to break as it can no longer find the locations for the configuration files it expects. So make sure you change the paths in the site&rsquo;s settings file.
 
 There is also an error that may or may not occur if you update Drupal 8 core. Somewhere along the way, the &lsquo;classy&rsquo; theme became the base theme for many other themes and if it&rsquo;s not enabled before the upgrade, your site will break. I found by commenting out certain lines in core I could get things working sufficiently that I could enable it, uncomment the lines and get back to normality.<h2>&nbsp;</h2><h2 id="conclusion-notreadyforlivesites">Conclusion - Not Ready for Live Sites</h2>
 

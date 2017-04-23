@@ -2,7 +2,7 @@
 layout: post
 title: Various Artists - House of the Rising Rat vol 1
 created: 1158651495
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Text Talk one - Creative Writing
 created: 1211753643
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: creative
 ---
 

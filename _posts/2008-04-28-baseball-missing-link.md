@@ -2,7 +2,7 @@
 layout: post
 title: Baseball - Missing Link
 created: 1209399765
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

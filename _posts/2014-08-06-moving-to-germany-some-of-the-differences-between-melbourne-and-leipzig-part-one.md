@@ -2,7 +2,7 @@
 id: 98
 title: 'Moving to Germany: Some of the differences between Melbourne and Leipzig Part One'
 date: 2014-08-06T15:46:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/08/moving-to-germany-some-of-the-differences-between-melbourne-and-leipzig-part-one.html
 permalink: /2014/08/moving-to-germany-some-of-the-differences-between-melbourne-and-leipzig-part-one.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/08/some-of-differences-between-melbourne.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/3266466350367975384
-categories:
+tags:
   - australia
   - bicycle
   - germany

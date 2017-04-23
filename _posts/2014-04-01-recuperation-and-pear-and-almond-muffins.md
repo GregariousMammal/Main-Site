@@ -2,7 +2,7 @@
 id: 118
 title: Recuperation and Pear and almond muffins
 date: 2014-04-01T05:44:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/04/recuperation-and-pear-and-almond-muffins.html
 permalink: /2014/04/recuperation-and-pear-and-almond-muffins.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/04/recuperation-and-pear-and-almond-muffins.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/4765326162778114248
-categories:
+tags:
   - cat
   - cooking
   - recipe

@@ -2,7 +2,7 @@
 id: 51
 title: Vegan Fruit and nut Biscotti
 date: 2014-12-14T12:36:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/12/vegan-fruit-and-nut-biscotti.html
 permalink: /2014/12/vegan-fruit-and-nut-biscotti.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/12/vegan-fruit-and-nut-biscotti.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/7601489757423162725
-categories:
+tags:
   - baking
   - cooking
   - recipe
@@ -131,5 +131,5 @@ _Ingredients_
 <div style="margin-left: 22.0pt;">
   <span style="font-size: 11.0pt;"><span style="font-family: Arial, Helvetica, sans-serif; mso-spacerun: yes;"> <i style="mso-bidi-font-style: normal;">Store in an airtight container for 2-3 weeks. 
   
-  <p>
+  
     Variations:<br /> </i>You can vary the fruit, spices, add cacoa powder, dip or drizzle in chocolate, grate zest of orange or lemon&#8230;the possibilities are endless! 

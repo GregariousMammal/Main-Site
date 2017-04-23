@@ -2,7 +2,7 @@
 layout: post
 title: 'The Answer - The Evelyn Hotel, Melbourne'
 created: 1176506963
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

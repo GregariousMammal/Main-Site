@@ -2,7 +2,7 @@
 layout: post
 title: Being Busy and Engagement Party
 date: '2007-12-06T07:53:40+00:00'
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: work life personal
 ---
 

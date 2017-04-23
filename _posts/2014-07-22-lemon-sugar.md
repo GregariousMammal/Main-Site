@@ -2,7 +2,7 @@
 id: 105
 title: Lemon sugar
 date: 2014-07-22T21:04:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/07/lemon-sugar.html
 permalink: /2014/07/lemon-sugar.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/07/lemon-sugar.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/447601067756629342
-categories:
+tags:
   - baking
   - cooking
   - recipe

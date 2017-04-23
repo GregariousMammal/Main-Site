@@ -2,7 +2,7 @@
 id: 31
 title: Vegan ingredients resource list
 date: 2015-01-24T14:33:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2015/01/vegan-ingredients-resource-list.html
 permalink: /2015/01/vegan-ingredients-resource-list.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2015/01/vegan-ingredients-resource-list.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6889193552051384817
-categories:
+tags:
   - australia
   - baking
   - cooking
@@ -155,7 +155,7 @@ For convenience I use the terms cheese, butter and egg. There are loads of diffe
     <a  href="http://3.bp.blogspot.com/-CQbbYws-oos/VMO67sZQEgI/AAAAAAAAKgg/41oVosQzodg/s1600/10433777_10152993489760874_6809747427770154079_n.jpg"><img src="http://3.bp.blogspot.com/-CQbbYws-oos/VMO67sZQEgI/AAAAAAAAKgg/41oVosQzodg/s1600/10433777_10152993489760874_6809747427770154079_n.jpg" alt="" width="300" height="400" border="0" /></a>
   
   
-  <p>
+  
     <br /> <br /> This is the one you want:<br /> <br /> 
   
   
@@ -163,7 +163,7 @@ For convenience I use the terms cheese, butter and egg. There are loads of diffe
     <a  href="http://3.bp.blogspot.com/-1V9YpX-GYWs/VMO7PaJzO2I/AAAAAAAAKgo/VnoVNWMC2sI/s1600/71JCOpW5LbL._SX425_.jpg"><img src="http://3.bp.blogspot.com/-1V9YpX-GYWs/VMO7PaJzO2I/AAAAAAAAKgo/VnoVNWMC2sI/s1600/71JCOpW5LbL._SX425_.jpg" alt="" width="400" height="266" border="0" /></a>
   
   
-  <p>
+  
     <br />  It has a stringy texture that when cooked and shredded resembled shredded meat. Thus the fruit is a great option as an alternative to meat in vegan dishes. You could use it in tacos, pies, pasta, casseroles&#8230;many options! I like to use it to make j<a href="http://atravellingcook.com/2014/10/jackfruit-bournignon.html">ackfruit bournignon</a>. You can also of course use it in desserts once sweetened with other fruit or sugars.
   
 
@@ -185,7 +185,7 @@ For convenience I use the terms cheese, butter and egg. There are loads of diffe
 
 
 
-  <p>
+  
     Liquid smoke is a bottled product that tastes like smoke—it replicates the flavour produced by smoke-curing without actually requiring you to smoke anything. It is really is made from smoke. Chips or sawdust from hardwoods such as hickory or mesquite are burned at high temperatures, and particles of the smoke are collected in condensers. The resulting liquid is concentrated down for a stronger flavour. It is very strong and should be used sparingly.
   
 
@@ -202,7 +202,7 @@ For convenience I use the terms cheese, butter and egg. There are loads of diffe
 
 
 
-  <p>
+  
     <strong>Nutritional yeast</strong><br /> Nutritional yeast is a deactivated yeast, which is sold in the form of flakes or as a yellow powder and can be found in most natural food stores..While it contains trace amounts of several Vitamins and minerals, it is only a significant source of some B-comple xvitamins. Sometimes nutritional yeast is fortified with vitamin B12. Nutritional yeast has a strong flavor that is described as nutty, cheesy, or creamy, which makes it popular as an ingredient in cheese substitutes.
   
 

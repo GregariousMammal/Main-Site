@@ -2,7 +2,7 @@
 layout: post
 title: 'Televise - Songs to sing in A&E'
 created: 1149693036
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

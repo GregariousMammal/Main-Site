@@ -2,11 +2,11 @@
 id: 857
 title: Jams, pickles and preserves masterclass Berlin
 date: 2015-05-03T18:01:13+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=857
 permalink: /2015/05/jams-pickles-and-preserves-masterclass-berlin-2.html
-categories:
+tags:
   - berlin
   - cooking
   - food
@@ -29,7 +29,7 @@ format: image
   
 
 
-[<img class="aligncenter size-full wp-image-861" src="atc-migrate/2015/05/11675508616_ae324ac792_o.jpg" alt="11675508616_ae324ac792_o" width="1440" height="1440" />](atc-migrate/2015/05/11675508616_ae324ac792_o.jpg)
+[<img class="aligncenter size-full wp-image-861" src="/images/atc-migrate/2015/05/11675508616_ae324ac792_o.jpg" alt="11675508616_ae324ac792_o" width="1440" height="1440" />](/images/atc-migrate/2015/05/11675508616_ae324ac792_o.jpg)
 
 This fun, hands-on workshop  extends over a day  incorporating our most popular workshops and techiques. You will learn the basics of pickling and preserving, including preparation, jar sterilisation, setting points and bottling.
 
@@ -41,7 +41,7 @@ The day includes making a diverse range of recipes using different techniques (e
   * Onion jam
   * Kimchi<figure id="attachment_742" style="width: 1361px;" class="wp-caption aligncenter">
 
-[<img class="size-full wp-image-742" src="atc-migrate/2015/04/1900300_682615341777879_1540766793_o.jpg" alt="Jams, pickles and preserves masterclass Berlin" width="1361" height="2048" />](atc-migrate/2015/04/1900300_682615341777879_1540766793_o.jpg)<figcaption class="wp-caption-text">Jams, pickles and preserves masterclass Berlin</figcaption></figure> 
+[<img class="size-full wp-image-742" src="/images/atc-migrate/2015/04/1900300_682615341777879_1540766793_o.jpg" alt="Jams, pickles and preserves masterclass Berlin" width="1361" height="2048" />](/images/atc-migrate/2015/04/1900300_682615341777879_1540766793_o.jpg)<figcaption class="wp-caption-text">Jams, pickles and preserves masterclass Berlin</figcaption></figure> 
 
 You’ll be involved in the cooking and all participants will enjoy tastings and take home an instruction booklet plus several jars of delicious preserves or pickles. Price includes a deliclious lunch using delicatessan delights such as olives, locally produced cheeses, seasonal fruit,  freshly baked scones and breads,  charcuterie and of course all manner of preserves!
 

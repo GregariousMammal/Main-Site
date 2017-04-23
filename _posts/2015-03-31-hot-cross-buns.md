@@ -2,11 +2,11 @@
 id: 622
 title: Hot cross buns
 date: 2015-03-31T11:32:10+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=622
 permalink: /2015/03/hot-cross-buns.html
-categories:
+tags:
   - australia
   - baking
   - cooking
@@ -16,7 +16,7 @@ categories:
   - vegan
 format: image
 ---
-<img class="alignnone wp-image-650 size-full" src="atc-migrate/2015/03/800px-Hot_Cross_Buns_on_a_wire_rack_2_April_2010.jpg" alt="hotcrossbuns" width="800" height="600" />
+<img class="alignnone wp-image-650 size-full" src="/images/atc-migrate/2015/03/800px-Hot_Cross_Buns_on_a_wire_rack_2_April_2010.jpg" alt="hotcrossbuns" width="800" height="600" />
 
 
 
@@ -32,7 +32,7 @@ They are really easy to make, especially if you have the crosses and glaze good 
           <div class="field field-name-body field-type-text-with-summary field-label-hidden">
             <div class="field-items">
               <div class="field-item even">
-                <p>
+                
                   <strong>Ingredients</strong>
                 
                 
@@ -75,7 +75,7 @@ They are really easy to make, especially if you have the crosses and glaze good 
                   </li>
                 </ul>
                 
-                <p>
+                
                   <strong>Crosses</strong>
                 
                 
@@ -103,7 +103,7 @@ They are really easy to make, especially if you have the crosses and glaze good 
                   </li>
                 </ul>
                 
-                <p>
+                
                   <strong>Instructions</strong>
                 
                 
@@ -143,7 +143,7 @@ They are really easy to make, especially if you have the crosses and glaze good 
                   </li>
                 </ol>
                 
-                <p>
+                
                   <em>Makes abour 22 hot cross buns</em>
                 
               

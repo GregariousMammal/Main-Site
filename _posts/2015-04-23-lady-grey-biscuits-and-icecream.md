@@ -2,11 +2,11 @@
 id: 774
 title: Lady grey biscuits and icecream
 date: 2015-04-23T16:28:32+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=774
 permalink: /2015/04/lady-grey-biscuits-and-icecream.html
-categories:
+tags:
   - baking
   - cooking
   - food
@@ -15,7 +15,7 @@ categories:
   - vegan
 format: image
 ---
-[<img class="alignnone size-full wp-image-791" src="atc-migrate/2015/04/17057716608_d9bd1df5c8_k.jpg" alt="17057716608_d9bd1df5c8_k" width="1299" height="2048" />](atc-migrate/2015/04/17057716608_d9bd1df5c8_k.jpg)
+[<img class="alignnone size-full wp-image-791" src="/images/atc-migrate/2015/04/17057716608_d9bd1df5c8_k.jpg" alt="17057716608_d9bd1df5c8_k" width="1299" height="2048" />](/images/atc-migrate/2015/04/17057716608_d9bd1df5c8_k.jpg)
 
 I used to make tea loaf back in Australia, a rich fruity loaf which was full of fruit and nuts that had been soaked in tea. I&#8217;ve always enjoyed making tea biscuits also, especially with Earl grey tea, my favourite. Earl grey tea has a rather [strange history](http://en.wikipedia.org/wiki/Earl_Grey_tea), although it is hard to determine definite facts! I also am fond of Lady grey tea and as I had an orange going spare I put these two recipes together.
 
@@ -78,4 +78,4 @@ _Instructions_
   9. Once set remove from the freezer 10 minutes before serving to soften.
  10. Serve with biscuits or even iced tea!
 
-[<img class="alignnone size-full wp-image-795" src="atc-migrate/2015/04/16625313213_cab2f394d0_z.jpg" alt="16625313213_cab2f394d0_z" width="640" height="581" />](atc-migrate/2015/04/16625313213_cab2f394d0_z.jpg)
+[<img class="alignnone size-full wp-image-795" src="/images/atc-migrate/2015/04/16625313213_cab2f394d0_z.jpg" alt="16625313213_cab2f394d0_z" width="640" height="581" />](/images/atc-migrate/2015/04/16625313213_cab2f394d0_z.jpg)

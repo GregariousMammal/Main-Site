@@ -2,7 +2,7 @@
 id: 85
 title: 'I&#8217;m still here&#8230;.'
 date: 2014-09-05T15:27:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/09/im-still-here.html
 permalink: /2014/09/im-still-here.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/09/im-still-here.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/7969336499902755692
-categories:
+tags:
   - blogging
   - germany
   - leipzig

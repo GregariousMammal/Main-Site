@@ -2,11 +2,11 @@
 id: 835
 title: Food for thought
 date: 2015-05-27T19:22:33+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=835
 permalink: /2015/05/food-for-thought-19.html
-categories:
+tags:
   - Uncategorized
 format: image
 ---
@@ -20,7 +20,7 @@ Hopefully I will get enough [workshop bookings](http://atravellingcook.com/cooki
 
 Things I&#8217;ve been looking at and reading:
 
-[<img class="aligncenter size-full wp-image-965" src="atc-migrate/2015/05/09-Manfred-Paul_Kastanienallee.jpg" alt="Manfred Paul - Eingemauerte Kastanie, Kastanienallee, 1985" width="620" height="740" />](atc-migrate/2015/05/09-Manfred-Paul_Kastanienallee.jpg)
+[<img class="aligncenter size-full wp-image-965" src="/images/atc-migrate/2015/05/09-Manfred-Paul_Kastanienallee.jpg" alt="Manfred Paul - Eingemauerte Kastanie, Kastanienallee, 1985" width="620" height="740" />](/images/atc-migrate/2015/05/09-Manfred-Paul_Kastanienallee.jpg)
 
 Love [this](http://www.zeit.de/wissen/geschichte/2013-02/fs-manfred-paul/seite-11) old photo from a street near our apartment.
 
@@ -50,6 +50,6 @@ W[e went behind the scenes on the Play School set and all we got were a whole lo
 
 I[ learned to love America by forcing myself to eat the most revolting oatmeal](http://www.washingtonpost.com/posteverything/wp/2015/05/07/i-learned-to-love-america-by-forcing-myself-to-eat-the-most-revolting-oatmeal/), Joel L.A. Peterson, _Washington Post _
 
-[<img class="aligncenter size-full wp-image-966" src="atc-migrate/2015/05/newyorksixties-8-640x448.jpg" alt="newyorksixties-8-640x448" width="640" height="448" />](atc-migrate/2015/05/newyorksixties-8-640x448.jpg)
+[<img class="aligncenter size-full wp-image-966" src="/images/atc-migrate/2015/05/newyorksixties-8-640x448.jpg" alt="newyorksixties-8-640x448" width="640" height="448" />](/images/atc-migrate/2015/05/newyorksixties-8-640x448.jpg)
 
 [Street photos of 1960&#8217;s New York](http://www.fubiz.net/2015/05/11/street-photos-of-1960s-new-york/), Fubiz

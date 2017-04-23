@@ -2,7 +2,7 @@
 id: 9
 title: In my kitchen this month
 date: 2015-03-06T15:44:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2015/03/in-my-kitchen-this-month.html
 permalink: /2015/03/in-my-kitchen-this-month.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2015/03/in-my-kitchen-this-month.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2101003430846312234
-categories:
+tags:
   - cooking
   - kitchen
   - writing

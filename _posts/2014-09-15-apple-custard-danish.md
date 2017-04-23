@@ -2,7 +2,7 @@
 id: 80
 title: Apple custard danish
 date: 2014-09-15T13:57:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/09/apple-custard-danish.html
 permalink: /2014/09/apple-custard-danish.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/09/apple-custard-danish.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/8190007084072622103
-categories:
+tags:
   - baking
   - cooking
   - recipe
@@ -215,7 +215,7 @@ _<span style="color: #555555; font-family: 'Helvetica Neue', Arial, Helvetica, s
       </li>
     </ol>
     
-    <p>
+    
       <a style="background-color: white; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 14px; line-height: 22px; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-1CJHC5VEbP0/VBbhPgcTbqI/AAAAAAAAJfk/XS_qNqRneCM/s1600/15246133252_6641c85739_z.jpg"><img src="http://3.bp.blogspot.com/-1CJHC5VEbP0/VBbhPgcTbqI/AAAAAAAAJfk/XS_qNqRneCM/s1600/15246133252_6641c85739_z.jpg" alt="" width="400" height="308" border="0" /></a><span style="color: #555555; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><span style="line-height: 25.533332824707px;"><br /> <span style="color: #555555; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; line-height: 19.15pt; text-indent: -25.2pt;">7.  Spread half of the custard filling in the center of dough topped by the apples. Cut slanted strips along both sides. 
     
   

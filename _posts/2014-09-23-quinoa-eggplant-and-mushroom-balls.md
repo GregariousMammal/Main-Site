@@ -2,7 +2,7 @@
 id: 78
 title: Quinoa, eggplant and mushroom balls
 date: 2014-09-23T16:31:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/09/quinoa-eggplant-and-mushroom-balls.html
 permalink: /2014/09/quinoa-eggplant-and-mushroom-balls.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/09/quinoa-eggplant-and-mushroom-balls.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/5550470004448261456
-categories:
+tags:
   - cooking
   - recipe
   - vegan

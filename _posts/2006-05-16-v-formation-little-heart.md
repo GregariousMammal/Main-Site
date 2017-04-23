@@ -2,7 +2,7 @@
 layout: post
 title: V//Formation - Little Heart
 created: 1147792236
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

@@ -2,7 +2,7 @@
 id: 127
 title: Travel pics (lots of pics) and why I am looking forward to moving to Germany
 date: 2014-03-07T02:24:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/03/travel-pics-lots-of-pics-and-why-i-am-looking-forward-to-moving-to-germany.html
 permalink: /2014/03/travel-pics-lots-of-pics-and-why-i-am-looking-forward-to-moving-to-germany.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/03/travel-pics-lots-of-pics-and-why-i-am.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/1474761892986048610
-categories:
+tags:
   - Uncategorized
 ---
 

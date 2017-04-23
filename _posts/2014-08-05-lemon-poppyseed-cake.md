@@ -2,7 +2,7 @@
 id: 99
 title: Lemon poppyseed cake
 date: 2014-08-05T10:53:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/08/lemon-poppyseed-cake.html
 permalink: /2014/08/lemon-poppyseed-cake.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/08/lemon-poppyseed-cake.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6910442495195968779
-categories:
+tags:
   - baking
   - cooking
   - recipe
@@ -90,7 +90,7 @@ categories:
     <a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-GkjbXvj1bRk/U-CpcLkagYI/AAAAAAAAJGM/dC61Nq6bi4A/s1600/localharvest_lemons.15395618.jpg"><img src="http://4.bp.blogspot.com/-GkjbXvj1bRk/U-CpcLkagYI/AAAAAAAAJGM/dC61Nq6bi4A/s1600/localharvest_lemons.15395618.jpg" alt="" width="400" height="267" border="0" /></a>
   
   
-  <p>
+  
     <span style="font-weight: bold;"><br /> <span style="font-weight: bold;"><br /> <span style="font-weight: bold;"><br /> <span style="font-weight: bold;"><br /> <span style="font-weight: bold;"><br /> <span style="font-weight: bold;"><br /> <span style="font-weight: bold;"><br /> <span style="font-weight: bold;"><br /> <span style="font-weight: bold;"><br /> <span style="font-weight: bold;"><br /> <span style="font-weight: bold;"><br /> <span style="font-weight: bold;"><br /> <span style="font-weight: bold;"><br /> <span style="font-weight: bold;"><br /> <span style="font-weight: bold;">Instructions
   
 

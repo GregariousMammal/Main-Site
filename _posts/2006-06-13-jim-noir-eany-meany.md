@@ -2,7 +2,7 @@
 layout: post
 title: Jim Noir - Eany Meany
 created: 1150211436
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

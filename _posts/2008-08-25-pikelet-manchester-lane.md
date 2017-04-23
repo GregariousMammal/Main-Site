@@ -2,7 +2,7 @@
 layout: post
 title: Pikelet - Manchester Lane
 created: 1219690508
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

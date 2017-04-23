@@ -2,7 +2,7 @@
 id: 39
 title: Vegan lamingtons
 date: 2015-01-10T14:20:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2015/01/vegan-lamingtons.html
 permalink: /2015/01/vegan-lamingtons.html
@@ -14,14 +14,14 @@ blogger_permalink:
   - /2015/01/vegan-lamingtons.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6612714540300271446
-categories:
+tags:
   - australia
   - baking
   - cooking
   - recipe
   - vegan
 ---
-[<img class="alignnone size-full wp-image-370" src="atc-migrate/2015/01/10308118_10152487374271249_3918430896046275952_n.jpg" alt="10308118_10152487374271249_3918430896046275952_n" width="640" height="640" />](atc-migrate/2015/01/10308118_10152487374271249_3918430896046275952_n.jpg)
+[<img class="alignnone size-full wp-image-370" src="/images/atc-migrate/2015/01/10308118_10152487374271249_3918430896046275952_n.jpg" alt="10308118_10152487374271249_3918430896046275952_n" width="640" height="640" />](/images/atc-migrate/2015/01/10308118_10152487374271249_3918430896046275952_n.jpg)
 
 I&#8217;ve always loved Lamingtons, so I decided to have a go at a vegan version. For those unfamiliar with this particular Australian delicacy, it is basically baked sponge cake which is dipped in chocolate icing and rolled in coconut. To go all out, the sponge cake can be sandwiched with cream and jam before icing. I can&#8217;t for the life of me remember where I got the original sponge recipe which inspired my version as it had been sitting as a word document for three years in my drop box. A lot of vegan cake baking includes bicarbonate soda or baking soda in the dry ingredients but I avoid it as a rule as I&#8217;ve tasted quite a few vegan cakes with a nasty bicarb after taste. It&#8217;s also been my experience with the use of vinegar. If you want to make your life easier, the sponge can be made beforehand and stored in the freezer until ready to use.
 

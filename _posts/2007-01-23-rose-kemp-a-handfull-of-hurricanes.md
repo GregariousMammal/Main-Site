@@ -2,7 +2,7 @@
 layout: post
 title: Rose Kemp - A Handfull of Hurricanes
 created: 2007-01-23T00:00:00.000Z
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

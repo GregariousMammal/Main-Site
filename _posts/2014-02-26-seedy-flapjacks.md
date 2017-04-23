@@ -2,7 +2,7 @@
 id: 131
 title: Seedy flapjacks
 date: 2014-02-26T03:45:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/02/seedy-flapjacks.html
 permalink: /2014/02/seedy-flapjacks.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/02/seedy-flapjacks_25.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/227112622626275106
-categories:
+tags:
   - baking
   - cooking
   - recipe

@@ -2,11 +2,11 @@
 id: 736
 title: Jams, pickles and preserves masterclass Berlin
 date: 2015-04-14T10:28:22+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=736
 permalink: /2015/04/jams-pickles-and-preserves-masterclass-berlin.html
-categories:
+tags:
   - cooking
   - food
   - kitchen
@@ -20,7 +20,7 @@ format: image
 ---
 Jams, PIckles and Preserves Masterclass<figure id="attachment_742" style="width: 1361px;" class="wp-caption alignnone">
 
-[<img class="size-full wp-image-742" src="atc-migrate/2015/04/1900300_682615341777879_1540766793_o.jpg" alt="Jams, pickles and preserves masterclass Berlin" width="1361" height="2048" />](atc-migrate/2015/04/1900300_682615341777879_1540766793_o.jpg)<figcaption class="wp-caption-text">Jams, pickles and preserves masterclass Berlin</figcaption></figure> 
+[<img class="size-full wp-image-742" src="/images/atc-migrate/2015/04/1900300_682615341777879_1540766793_o.jpg" alt="Jams, pickles and preserves masterclass Berlin" width="1361" height="2048" />](/images/atc-migrate/2015/04/1900300_682615341777879_1540766793_o.jpg)<figcaption class="wp-caption-text">Jams, pickles and preserves masterclass Berlin</figcaption></figure> 
 
 
 
@@ -48,4 +48,4 @@ Please advise of any specific dietary requirements (i.e. vegan, gluten free, upo
   
 For more information email cate@atravellingcook.com or call Cate on 017699894027
 
-[<img class="alignnone size-full wp-image-741" src="atc-migrate/2015/04/11675508616_ae324ac792_o.jpg" alt="11675508616_ae324ac792_o" width="1440" height="1440" />](atc-migrate/2015/04/11675508616_ae324ac792_o.jpg)
+[<img class="alignnone size-full wp-image-741" src="/images/atc-migrate/2015/04/11675508616_ae324ac792_o.jpg" alt="11675508616_ae324ac792_o" width="1440" height="1440" />](/images/atc-migrate/2015/04/11675508616_ae324ac792_o.jpg)

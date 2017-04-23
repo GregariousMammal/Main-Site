@@ -2,11 +2,11 @@
 id: 1439
 title: 'Foodie gift boxes: FAQs'
 date: 2015-10-30T10:18:05+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=1439
 permalink: /2015/10/foodie-gift-boxes-faqs.html
-categories:
+tags:
   - Uncategorized
 format: image
 ---

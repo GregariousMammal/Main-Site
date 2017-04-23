@@ -2,11 +2,11 @@
 id: 935
 title: Dandelion syrup
 date: 2015-05-24T16:17:13+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=935
 permalink: /2015/05/dandelion-syrup.html
-categories:
+tags:
   - berlin
   - cooking
   - food
@@ -19,7 +19,7 @@ categories:
   - vegetarian
 format: image
 ---
-[<img class="aligncenter size-full wp-image-932" src="atc-migrate/2015/05/18016752816_23d21bf692_b.jpg" alt="18016752816_23d21bf692_b" width="745" height="691" />](atc-migrate/2015/05/18016752816_23d21bf692_b.jpg)
+[<img class="aligncenter size-full wp-image-932" src="/images/atc-migrate/2015/05/18016752816_23d21bf692_b.jpg" alt="18016752816_23d21bf692_b" width="745" height="691" />](/images/atc-migrate/2015/05/18016752816_23d21bf692_b.jpg)
 
 I recently went foraging in a park in Prenzlauer berg when we pickled some lovely dandeliions and nettles. I decided to make a dandelion syrup with the dandelion heads. It has a lovely amber colour and can be used in place of honey, or as a tonic when you have a sore throat.
 

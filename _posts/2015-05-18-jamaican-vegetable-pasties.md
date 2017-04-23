@@ -2,11 +2,11 @@
 id: 875
 title: Jamaican vegetable pasties
 date: 2015-05-18T15:41:12+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=875
 permalink: /2015/05/jamaican-vegetable-pasties.html
-categories:
+tags:
   - australia
   - baking
   - berlin
@@ -19,7 +19,7 @@ categories:
   - workshops
 format: image
 ---
-[<img class="aligncenter size-large wp-image-890" src="atc-migrate/2015/05/2015-05-11-18.37.37-830x1024.jpg" alt="2015-05-11 18.37.37" width="780" height="962" />](atc-migrate/2015/05/2015-05-11-18.37.37.jpg)
+[<img class="aligncenter size-large wp-image-890" src="/images/atc-migrate/2015/05/2015-05-11-18.37.37-830x1024.jpg" alt="2015-05-11 18.37.37" width="780" height="962" />](/images/atc-migrate/2015/05/2015-05-11-18.37.37.jpg)
 
 Pastry is a fine thing, and is a great way to liven up any less than inspired veggies in the bottom of your fridge. Savoury Pasties and pies aren&#8217;t really a thing here in Germany. I thought for a little while about starting a little pie making enterprise upon moving to Berlin but discovered there are three here already started by Australians!
 
@@ -47,7 +47,7 @@ Pastry:
   * 1 tablespoon curry powder
   * 1 tablespoon tumeric
   * 1/2 cup coconut oil
-  * <span style="line-height: 1.5;">3/4 cup iced water
+  * 3/4 cup iced water
 
 _To make pastry:_
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Yes, I'm leaving Australia"
 created: 2014-04-18T00:00:00.000Z
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: personal life travel
 ---
 

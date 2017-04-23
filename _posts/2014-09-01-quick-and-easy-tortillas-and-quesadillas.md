@@ -2,7 +2,7 @@
 id: 86
 title: Quick and easy tortillas and Quesadillas
 date: 2014-09-01T16:45:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/09/quick-and-easy-tortillas-and-quesadillas.html
 permalink: /2014/09/quick-and-easy-tortillas-and-quesadillas.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/09/quick-and-easy-tortillas-and-quesadillas.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6180688602441587120
-categories:
+tags:
   - cooking
   - recipe
   - vegan
@@ -28,7 +28,7 @@ categories:
   
   
   
-  <p>
+  
     <span style="font-family: Arial, Helvetica, sans-serif; line-height: 25.2000007629395px;">I love Mexican food and when Chris was in America, I asked him to get me some spices and liquid smoke. He couldn&#8217;t find the specific spices I was after but brought back a big bottle of liquid smoke. This is a really easy recipe for making your own Quesadillas. They traditionally are served with the filling in the middle of two which have been reheated, but I like mine open faced. You could add any veggies of choice, I usually would substitute black beans and sweet potato for the corn and kidney beans but haven&#8217;t found either here in Germany.
   
 

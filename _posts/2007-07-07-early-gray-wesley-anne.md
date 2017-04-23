@@ -2,7 +2,7 @@
 layout: post
 title: Early Gray - Wesley Anne
 created: 1183766542
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

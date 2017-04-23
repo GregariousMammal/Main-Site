@@ -3,7 +3,7 @@ title: An Introduction to CoreOS
 created: 2016-09-22T00:00:00.000Z
 publication_url: 'https://blog.codeship.com/an-introduction-to-coreos/'
 image: coreos.png
-categories: writing codeship
+categories: Chris writing codeship
 tags: docker devops
 ---
 

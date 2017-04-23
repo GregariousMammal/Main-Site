@@ -2,7 +2,7 @@
 id: 52
 title: Easy vegan gluten free Christmas pudding
 date: 2014-12-11T15:46:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/12/easy-vegan-gluten-free-christmas-pudding.html
 permalink: /2014/12/easy-vegan-gluten-free-christmas-pudding.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/12/easy-vegan-gluten-free-christmas-pudding.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/7326572394198677437
-categories:
+tags:
   - australia
   - baking
   - christmas

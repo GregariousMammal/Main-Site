@@ -2,7 +2,7 @@
 layout: post
 title: Delta Mainline - Dublin Castle
 created: 1163466909
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

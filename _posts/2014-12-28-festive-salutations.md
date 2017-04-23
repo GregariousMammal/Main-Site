@@ -2,7 +2,7 @@
 id: 45
 title: Festive salutations
 date: 2014-12-28T17:33:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/12/festive-salutations.html
 permalink: /2014/12/festive-salutations.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/12/festive-salutations.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/5294327395233654420
-categories:
+tags:
   - christmas
   - germany
   - holiday
@@ -22,7 +22,7 @@ categories:
   - vegan
   - winter
 ---
-<div style="text-align: left;">
+
                              <a style="clear: left; margin-bottom: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-r1KkDvUSH_k/VKAsa3zBjTI/AAAAAAAAKVk/2ux9fOnFUWw/s1600/2014-12-24%2B11.55.20.jpg"><img src="http://3.bp.blogspot.com/-r1KkDvUSH_k/VKAsa3zBjTI/AAAAAAAAKVk/2ux9fOnFUWw/s1600/2014-12-24%2B11.55.20.jpg" alt="" width="300" height="400" border="0" /></a> 
 
 

@@ -2,7 +2,7 @@
 layout: post
 title: Lightning Bolt - Thornbury Theatre
 created: 1262530545
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

@@ -2,16 +2,16 @@
 id: 762
 title: How to adopt a cat in Berlin
 date: 2015-04-27T10:51:56+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=762
 permalink: /2015/04/how-to-adopt-a-cat-in-berlin.html
-categories:
+tags:
   - berlin
   - cat
 format: image
 ---
-<img class="alignnone size-full wp-image-799" src="atc-migrate/2015/04/11008549_10152681438596249_2942695566752906427_n.jpg" alt="11008549_10152681438596249_2942695566752906427_n" width="640" height="640" />
+<img class="alignnone size-full wp-image-799" src="/images/atc-migrate/2015/04/11008549_10152681438596249_2942695566752906427_n.jpg" alt="11008549_10152681438596249_2942695566752906427_n" width="640" height="640" />
 
 _Kitty tested (but you can&#8217;t buy cats from Rewe)_
 
@@ -19,7 +19,7 @@ It was really hard for us when our cat [Mr Pablo](http://atravellingcook.com/201
 
 
 
-[<img class="alignnone size-full wp-image-763" src="atc-migrate/2015/04/13095_10152663643696249_6289904053163254338_n.jpg" alt="13095_10152663643696249_6289904053163254338_n" width="640" height="640" />](atc-migrate/2015/04/13095_10152663643696249_6289904053163254338_n.jpg)
+[<img class="alignnone size-full wp-image-763" src="/images/atc-migrate/2015/04/13095_10152663643696249_6289904053163254338_n.jpg" alt="13095_10152663643696249_6289904053163254338_n" width="640" height="640" />](/images/atc-migrate/2015/04/13095_10152663643696249_6289904053163254338_n.jpg)
 
 _Who are you? Where am I?_
 
@@ -29,7 +29,7 @@ There&#8217;s a few ways to get your own cat here:
   
 ](http://www.tierschutz-berlin.de)** [The Tier Schutz](http://www.tierschutz-berlin.de) is basically the local animal shelter for Berlin. It houses all kinds of animals and is located on the outskirts of Berlin. A cost costs between approx 60€ and 100€ and there is some paperwork including the[ Checkliste zur Vermittlung von Katzen](http://cdn.tierschutz-berlin.de/fileadmin/bilder/pdfdownload/Checkliste_zur_Vermittlung_von_Katzen_.pdf). None of the questions are difficult, is really is just common sense. We decided against going here because we don&#8217;t drive and the journey would take over an hour from where we live including a ten minute and a twenty minute walk to get there (each way). We were concerned about this impact on the new cat!
 
-<img class="alignnone size-full wp-image-764" src="atc-migrate/2015/04/11139425_10152668523476249_7718462651622042081_n.jpg" alt="11139425_10152668523476249_7718462651622042081_n" width="640" height="640" />
+<img class="alignnone size-full wp-image-764" src="/images/atc-migrate/2015/04/11139425_10152668523476249_7718462651622042081_n.jpg" alt="11139425_10152668523476249_7718462651622042081_n" width="640" height="640" />
 
 ** Small cat charities
   
@@ -43,7 +43,7 @@ Having a balcony cat proofed is a big thing in Berlin with so many people living
   
 ** Expat groups where people need to leave Berlin suddenly and are unable to take their cat with them are an option. There&#8217;s also [this](https://www.facebook.com/groups/1527354027503573/) group (created after we got our new kitty) . The advantage here is that you can meet the owner and get to know the cat in it&#8217;s natural environment before he/she comes to live with you.
 
-_[<img class="alignnone size-full wp-image-765" src="atc-migrate/2015/04/1513271_10152661967056249_9056355815281973518_n.jpg" alt="1513271_10152661967056249_9056355815281973518_n" width="640" height="640" />](http://kleinanzeigen.ebay.de/anzeigen/stadt/berlin)_
+_[<img class="alignnone size-full wp-image-765" src="/images/atc-migrate/2015/04/1513271_10152661967056249_9056355815281973518_n.jpg" alt="1513271_10152661967056249_9056355815281973518_n" width="640" height="640" />](http://kleinanzeigen.ebay.de/anzeigen/stadt/berlin)_
 
 _Ginger on her first day home! She was really wary of her new surroundings. _
 
@@ -55,4 +55,4 @@ It was great being able to build a relationship with Ginger&#8217;s new owner, w
 
 She took a week or two to settle in to her new surroundings, but she&#8217;s a delight and loves spending time sitting on the back of the couch or on the bookcase or smelling flowers on the balcony. Her favourite place to sleep is in the middle of the bed under the covers, especially when the weather is gloomy. So happy to have a cat again!
 
-<img class="alignnone size-full wp-image-800" src="atc-migrate/2015/04/11026288_10152680959351249_3351612507016388966_o.jpg" alt="11026288_10152680959351249_3351612507016388966_o" width="1536" height="2048" />
+<img class="alignnone size-full wp-image-800" src="/images/atc-migrate/2015/04/11026288_10152680959351249_3351612507016388966_o.jpg" alt="11026288_10152680959351249_3351612507016388966_o" width="1536" height="2048" />

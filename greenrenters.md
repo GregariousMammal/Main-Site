@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: projects/greenrenters/index.html
+permalink: projects/greenrenters
 ---
 
 # Green Renters

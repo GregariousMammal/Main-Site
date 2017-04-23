@@ -2,11 +2,11 @@
 id: 720
 title: Rosemary and sea salt biscuits
 date: 2015-04-09T12:40:47+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/?p=720
 permalink: /2015/04/rosemary-and-herb-biscuits.html
-categories:
+tags:
   - baking
   - cooking
   - food
@@ -15,15 +15,15 @@ categories:
 format: image
 ---
 <div class="ERSIngredients">
-  <p>
-    <a href="atc-migrate/2015/04/DSC0323.jpg"><img class="alignnone size-full wp-image-724" src="atc-migrate/2015/04/DSC0323.jpg" alt="Rosemary and sea salt biscuits" width="3445" height="2749" /></a>
+  
+    <a href="/images/atc-migrate/2015/04/DSC0323.jpg"><img class="alignnone size-full wp-image-724" src="/images/atc-migrate/2015/04/DSC0323.jpg" alt="Rosemary and sea salt biscuits" width="3445" height="2749" /></a>
   
   
-  <p>
+  
     Crackers and biscuits are quick and easy to make and are a great change to the store bought variety. They can be served as a side with soup, dipped in olive oil and sprinkled with <a title="Dukkah" href="http://atravellingcook.com/2014/03/sunday-cooking-dukkah.html">dukkah</a> or be part of a sumptuous cheese plate. Over the next few weeks, I&#8217;m going to be posting up some of my favourite varieties.
   
   
-  <p>
+  
     <em>Instructions </em>
   
   

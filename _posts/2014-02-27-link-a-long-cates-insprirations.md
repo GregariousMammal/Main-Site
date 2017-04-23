@@ -2,7 +2,7 @@
 id: 130
 title: 'Link A Long: Cate&#8217;s insprirations'
 date: 2014-02-27T06:39:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/02/link-a-long-cates-insprirations.html
 permalink: /2014/02/link-a-long-cates-insprirations.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/02/link-long-cates-insprirations.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6306898154185628650
-categories:
+tags:
   - blogging
   - writing
 ---
@@ -75,7 +75,7 @@ A collection of vegan and vegetarian bloggers that are Melbourne based aggregate
 
 **<a href="http://www.abeautifulmess.com/">A Beautiful Mess</a>, by Elsie and Emma**
   
-<br /> ABM is a lifestyle blog covering travelling, DIY crafts and creativity, cooking and <a href="http://www.abeautifulmess.com/2013/05/dragon-fruit-limeade-cocktail.html">cocktails</a><span style="text-decoration: underline;">, <a href="http://www.abeautifulmess.com/2012/08/decluttering-tips-from-an-aspiring-hoarder.html">home life </a>and the realities of small business America. At times the American tone makes me wince but I love the authentic voices, diversity of topics, and gorgeous pics. They&#8217;re business owners, book authors, fashion and decor designers and <span style="background-color: white; line-height: 19.5px;"> <span style="background-color: white; line-height: 19.5px;">write a blog that millions of people, have produced a  #1 selling app and to sum up a million dollar business. Food for thought.
+<br /> ABM is a lifestyle blog covering travelling, DIY crafts and creativity, cooking and <a href="http://www.abeautifulmess.com/2013/05/dragon-fruit-limeade-cocktail.html">cocktails</a>, <a href="http://www.abeautifulmess.com/2012/08/decluttering-tips-from-an-aspiring-hoarder.html">home life </a>and the realities of small business America. At times the American tone makes me wince but I love the authentic voices, diversity of topics, and gorgeous pics. They&#8217;re business owners, book authors, fashion and decor designers and <span style="background-color: white; line-height: 19.5px;"> <span style="background-color: white; line-height: 19.5px;">write a blog that millions of people, have produced a  #1 selling app and to sum up a million dollar business. Food for thought.
   
 <span style="background-color: white; line-height: 19.5px;"><br /> 
 

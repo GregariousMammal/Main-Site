@@ -2,7 +2,7 @@
 id: 137
 title: 'Ways to make travel with a  partner and survive with your relationship intact.'
 date: 2014-01-28T07:47:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/01/ways-to-make-travel-with-a-partner-and-survive-with-your-relationship-intact.html
 permalink: /2014/01/ways-to-make-travel-with-a-partner-and-survive-with-your-relationship-intact.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/01/ways-to-make-travel-with-suitcase-and.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6266017109750567181
-categories:
+tags:
   - travelling
 ---
 <div style="clear: both; margin: 0px; text-align: center;">

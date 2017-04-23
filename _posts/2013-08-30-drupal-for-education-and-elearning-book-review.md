@@ -2,7 +2,7 @@
 layout: post
 title: 'Drupal for Education and elearning, book review'
 created: 1377844926
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: drupal books reviews
 ---
 

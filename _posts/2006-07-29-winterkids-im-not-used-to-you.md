@@ -2,7 +2,7 @@
 layout: post
 title: "Winterkids - I'm not used to you"
 created: 1154185836
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

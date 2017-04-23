@@ -2,7 +2,7 @@
 id: 59
 title: '10 things to do in Leipzig: the Cheap and Free'
 date: 2014-11-24T17:50:00+00:00
-author: CateLawrence
+categories: Cate
 layout: post
 guid: http://atravellingcook.com/2014/11/10-things-to-do-in-leipzig-the-cheap-and-free.html
 permalink: /2014/11/10-things-to-do-in-leipzig-the-cheap-and-free.html
@@ -14,7 +14,7 @@ blogger_permalink:
   - /2014/11/10-things-to-do-in-leipzig-cheap-and.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/7019472719094465284
-categories:
+tags:
   - film
   - germany
   - leipzig
