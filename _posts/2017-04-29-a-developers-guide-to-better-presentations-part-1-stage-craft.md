@@ -3,8 +3,8 @@ layout: post
 title: A Developers Guide to Better Presentations — Part 1, Stage Craft
 date: '2017-04-29 10:13:30 +0100'
 image:
-categories: writing hackernoon medium
-tags: public speaking presentations 
+categories: Chris writing hackernoon
+tags: publicspeaking presentations 
 publication_url: https://hackernoon.com/a-developers-guide-to-better-presentations-part-1-stage-craft-36e75853656c
 ---
 
