@@ -20,20 +20,6 @@ pagination:
   </div>
 
   <section>
-    <ul class="post-list">
-      {% for post in paginator.posts %}
-      <li>
-        <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        {% if post.image %}
-        {% picture listings {{post.image}} alt="{{post.title}}" %}
-        {% endif %}
-        {{ post.excerpt }}
-        <div class="post-meta">
-          <i>{{ post.date | date: '%B %d' }}</i><br/>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-        </div>
-      </li>
-      {% endfor %}
-    </ul>
+    {% include post_list.html %}
   </section>
 </div>
