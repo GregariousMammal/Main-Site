@@ -2,7 +2,7 @@
 id: 95
 title: Pickled beetroots and beetroot bread
 date: 2014-08-12T11:44:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/08/pickled-beetroots-and-beetroot-bread.html
 permalink: /2014/08/pickled-beetroots-and-beetroot-bread.html

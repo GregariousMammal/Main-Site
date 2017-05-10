@@ -2,7 +2,7 @@
 id: 151
 title: 'Craftivism, consumerism and spending money on recycled materials&#8230;'
 date: 2012-10-08T08:36:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2012/10/craftivism-consumerism-and-spending-money-on-recycled-materials.html
 permalink: /2012/10/craftivism-consumerism-and-spending-money-on-recycled-materials.html

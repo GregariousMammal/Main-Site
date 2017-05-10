@@ -2,7 +2,7 @@
 id: 45
 title: Festive salutations
 date: 2014-12-28T17:33:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/12/festive-salutations.html
 permalink: /2014/12/festive-salutations.html

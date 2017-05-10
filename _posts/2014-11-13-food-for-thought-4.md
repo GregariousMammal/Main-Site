@@ -2,7 +2,7 @@
 id: 64
 title: Food for thought
 date: 2014-11-13T18:35:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/11/food-for-thought-4.html
 permalink: /2014/11/food-for-thought-4.html

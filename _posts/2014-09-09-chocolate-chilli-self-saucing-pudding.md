@@ -2,7 +2,7 @@
 id: 83
 title: Chocolate chilli self saucing pudding
 date: 2014-09-09T12:27:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/09/chocolate-chilli-self-saucing-pudding.html
 permalink: /2014/09/chocolate-chilli-self-saucing-pudding.html

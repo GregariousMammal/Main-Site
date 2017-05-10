@@ -2,7 +2,7 @@
 id: 113
 title: 'I&#8217;m still here!'
 date: 2014-05-02T04:10:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/05/im-still-here-2.html
 permalink: /2014/05/im-still-here-2.html

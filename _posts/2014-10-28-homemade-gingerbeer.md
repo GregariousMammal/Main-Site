@@ -2,7 +2,7 @@
 id: 69
 title: Homemade gingerbeer
 date: 2014-10-28T19:46:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/10/homemade-gingerbeer.html
 permalink: /2014/10/homemade-gingerbeer.html

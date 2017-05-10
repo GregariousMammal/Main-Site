@@ -2,7 +2,7 @@
 id: 66
 title: Chocolate bier cake
 date: 2014-11-07T14:32:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/11/chocolate-bier-cake.html
 permalink: /2014/11/chocolate-bier-cake.html

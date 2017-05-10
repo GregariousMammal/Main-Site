@@ -2,7 +2,7 @@
 id: 59
 title: '10 things to do in Leipzig: the Cheap and Free'
 date: 2014-11-24T17:50:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/11/10-things-to-do-in-leipzig-the-cheap-and-free.html
 permalink: /2014/11/10-things-to-do-in-leipzig-the-cheap-and-free.html

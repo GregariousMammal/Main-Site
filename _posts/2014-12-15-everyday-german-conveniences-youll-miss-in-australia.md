@@ -2,7 +2,7 @@
 id: 245
 title: 'Everyday German conveniences you&#8217;ll miss in Australia'
 date: 2014-12-15T14:58:18+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=245
 permalink: /2014/12/everyday-german-conveniences-youll-miss-in-australia.html

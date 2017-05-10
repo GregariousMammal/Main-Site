@@ -2,7 +2,7 @@
 id: 1223
 title: Cheesy potatoes in spiced herb oil
 date: 2015-08-18T19:00:56.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1223'
 permalink: /2015/08/potatoes-in-spiced-herb-oil.html

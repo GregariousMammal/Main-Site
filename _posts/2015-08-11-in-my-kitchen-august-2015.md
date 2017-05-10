@@ -2,7 +2,7 @@
 id: 1185
 title: 'In My Berlin Kitchen: August 2015'
 date: 2015-08-11T13:05:49+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=1185
 permalink: /2015/08/in-my-kitchen-august-2015.html

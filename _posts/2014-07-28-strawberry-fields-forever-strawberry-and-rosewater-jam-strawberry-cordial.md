@@ -2,7 +2,7 @@
 id: 103
 title: 'Strawberry fields forever: strawberry and rosewater jam &#038; strawberry cordial'
 date: 2014-07-28T10:29:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/07/strawberry-fields-forever-strawberry-and-rosewater-jam-strawberry-cordial.html
 permalink: /2014/07/strawberry-fields-forever-strawberry-and-rosewater-jam-strawberry-cordial.html

@@ -2,7 +2,7 @@
 id: 1155
 title: Ethiopian chickpeas
 date: 2015-08-04T07:23:04.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1155'
 permalink: /2015/08/ethiopean-chickpeas.html

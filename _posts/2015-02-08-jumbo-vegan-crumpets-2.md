@@ -2,7 +2,7 @@
 id: 20
 title: Jumbo vegan crumpets
 date: 2015-02-08T15:23:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/02/jumbo-vegan-crumpets-2.html
 permalink: /2015/02/jumbo-vegan-crumpets-2.html

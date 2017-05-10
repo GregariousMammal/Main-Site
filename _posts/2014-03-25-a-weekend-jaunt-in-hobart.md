@@ -2,7 +2,7 @@
 id: 122
 title: A weekend jaunt in Hobart
 date: 2014-03-25T04:07:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/03/a-weekend-jaunt-in-hobart.html
 permalink: /2014/03/a-weekend-jaunt-in-hobart.html

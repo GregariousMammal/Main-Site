@@ -2,7 +2,7 @@
 id: 1235
 title: Rejuvelac
 date: 2015-08-23T08:46:27.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1235'
 permalink: /2015/08/rejuvelac.html

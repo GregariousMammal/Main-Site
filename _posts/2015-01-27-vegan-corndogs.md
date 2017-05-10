@@ -2,7 +2,7 @@
 id: 28
 title: Vegan corndogs
 date: 2015-01-27T12:34:00.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/2015/01/vegan-corndogs.html'
 permalink: /2015/01/vegan-corndogs.html

@@ -2,7 +2,7 @@
 id: 753
 title: 20 things about me
 date: 2015-04-17T10:06:24+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=753
 permalink: /2015/04/20-things-about-me.html

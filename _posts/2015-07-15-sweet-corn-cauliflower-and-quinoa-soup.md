@@ -2,7 +2,7 @@
 id: 1104
 title: Sweet corn, cauliflower and quinoa soup
 date: 2015-07-15T12:57:34+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=1104
 permalink: /2015/07/sweet-corn-cauliflower-and-quinoa-soup.html

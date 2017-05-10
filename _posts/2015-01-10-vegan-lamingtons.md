@@ -2,7 +2,7 @@
 id: 39
 title: Vegan lamingtons
 date: 2015-01-10T14:20:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/vegan-lamingtons.html
 permalink: /2015/01/vegan-lamingtons.html

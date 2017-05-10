@@ -2,7 +2,7 @@
 id: 146
 title: New year, new blog
 date: 2014-01-01T05:47:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/01/new-year-new-blog.html
 permalink: /2014/01/new-year-new-blog.html

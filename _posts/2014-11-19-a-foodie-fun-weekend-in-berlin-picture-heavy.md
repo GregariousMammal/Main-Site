@@ -2,7 +2,7 @@
 id: 62
 title: A foodie, fun weekend in Berlin (picture heavy)
 date: 2014-11-19T12:10:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/11/a-foodie-fun-weekend-in-berlin-picture-heavy.html
 permalink: /2014/11/a-foodie-fun-weekend-in-berlin-picture-heavy.html

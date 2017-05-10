@@ -2,7 +2,7 @@
 id: 61
 title: Tomato kasundi
 date: 2014-11-20T18:50:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/11/tomato-kasundi.html
 permalink: /2014/11/tomato-kasundi.html

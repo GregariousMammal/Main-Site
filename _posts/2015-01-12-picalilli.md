@@ -2,7 +2,7 @@
 id: 37
 title: Picalilli
 date: 2015-01-12T13:48:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/picalilli.html
 permalink: /2015/01/picalilli.html

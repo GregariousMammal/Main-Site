@@ -2,7 +2,7 @@
 id: 106
 title: 'Moving to Germany: Greetings from Leipzig'
 date: 2014-07-20T16:08:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/07/moving-to-germany-greetings-from-leipzig.html
 permalink: /2014/07/moving-to-germany-greetings-from-leipzig.html

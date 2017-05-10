@@ -2,7 +2,7 @@
 id: 108
 title: 'Catching up&#8230;'
 date: 2014-06-05T05:12:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/06/catching-up.html
 permalink: /2014/06/catching-up.html

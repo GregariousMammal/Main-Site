@@ -2,7 +2,7 @@
 id: 15
 title: 6 Food trends I am completely over and 6 I am eagerly awaiting
 date: 2015-02-14T20:20:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/02/6-food-trends-i-am-completely-over-and-6-i-am-eagerly-awaiting.html
 permalink: /2015/02/6-food-trends-i-am-completely-over-and-6-i-am-eagerly-awaiting.html

@@ -2,7 +2,7 @@
 id: 1167
 title: Coconut bacon
 date: 2015-08-05T11:05:47.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1167'
 permalink: /2015/08/coconut-bacon.html

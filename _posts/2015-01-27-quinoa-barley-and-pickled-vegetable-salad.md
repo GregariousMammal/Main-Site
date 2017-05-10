@@ -2,7 +2,7 @@
 id: 27
 title: Quinoa, barley and pickled vegetable salad
 date: 2015-01-27T13:35:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/quinoa-barley-and-pickled-vegetable-salad.html
 permalink: /2015/01/quinoa-barley-and-pickled-vegetable-salad.html

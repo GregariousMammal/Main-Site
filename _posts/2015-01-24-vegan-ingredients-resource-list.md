@@ -2,7 +2,7 @@
 id: 31
 title: Vegan ingredients resource list
 date: 2015-01-24T14:33:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/vegan-ingredients-resource-list.html
 permalink: /2015/01/vegan-ingredients-resource-list.html

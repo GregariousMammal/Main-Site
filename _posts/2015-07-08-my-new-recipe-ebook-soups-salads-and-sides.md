@@ -2,7 +2,7 @@
 id: 1079
 title: 'My new recipe ebook: Soups, salads and sides'
 date: 2015-07-08T10:53:28+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=1079
 permalink: /2015/07/my-new-recipe-ebook-soups-salads-and-sides.html

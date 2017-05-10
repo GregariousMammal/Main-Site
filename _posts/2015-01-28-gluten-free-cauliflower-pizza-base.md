@@ -2,7 +2,7 @@
 id: 26
 title: Gluten free Cauliflower pizza base
 date: 2015-01-28T17:53:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/gluten-free-cauliflower-pizza-base.html
 permalink: /2015/01/gluten-free-cauliflower-pizza-base.html

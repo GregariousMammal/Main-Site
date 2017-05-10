@@ -2,7 +2,7 @@
 id: 22
 title: Cheesy pull apart bread
 date: 2015-02-06T12:48:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/02/cheesy-pull-apart-bread.html
 permalink: /2015/02/cheesy-pull-apart-bread.html

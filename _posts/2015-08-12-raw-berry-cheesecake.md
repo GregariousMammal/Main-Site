@@ -2,7 +2,7 @@
 id: 1197
 title: Raw berry cheesecake
 date: 2015-08-12T20:14:18.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1197'
 permalink: /2015/08/raw-berry-cheesecake.html

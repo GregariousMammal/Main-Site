@@ -2,7 +2,7 @@
 id: 141
 title: Hot, hot, hot
 date: 2014-01-17T03:52:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/01/hot-hot-hot.html
 permalink: /2014/01/hot-hot-hot.html

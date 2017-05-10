@@ -2,7 +2,7 @@
 id: 123
 title: This song is now going to be in your head all day
 date: 2014-03-13T11:18:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/03/this-song-is-now-going-to-be-in-your-head-all-day.html
 permalink: /2014/03/this-song-is-now-going-to-be-in-your-head-all-day.html

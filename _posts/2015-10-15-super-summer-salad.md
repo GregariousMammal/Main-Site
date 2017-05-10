@@ -2,7 +2,7 @@
 id: 1447
 title: 'Super &#8216;summer&#8217; salad'
 date: 2015-10-15T13:08:36.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1447'
 permalink: /2015/10/super-summer-salad.html

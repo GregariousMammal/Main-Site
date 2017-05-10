@@ -219,25 +219,27 @@ section {
   margin-left: 165px;
 }
 .post-meta {
-  text-align: right;
+  /*text-align: right;*/
   font-size: $base-font-size / 2;
   @include media-query($on-laptop) {
     margin-left: 0;
   }
-  a {
-    display: inline-block;
-
-  }
 
   .project-block {
-    display: inline-block;
+    /*display: inline-block;*/
     font-style: italic;
-    margin-left: $spacing-unit * 2;
+    /*margin-left: $spacing-unit * 2;*/
     @include media-query($on-laptop) {
       margin-left: 0;
-      display: block;
+      /*display: block;*/
     }
   }
+}
+
+a.post-link {
+  /*display: inline-block;*/
+  font-size: $base-font-size / 2;
+  float: right;
 }
 
 /**

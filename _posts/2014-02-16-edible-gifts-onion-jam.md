@@ -2,7 +2,7 @@
 id: 134
 title: 'Edible gifts: Onion jam'
 date: 2014-02-16T08:56:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/02/edible-gifts-onion-jam.html
 permalink: /2014/02/edible-gifts-onion-jam.html

@@ -2,7 +2,7 @@
 id: 857
 title: Jams, pickles and preserves masterclass Berlin
 date: 2015-05-03T18:01:13+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=857
 permalink: /2015/05/jams-pickles-and-preserves-masterclass-berlin-2.html

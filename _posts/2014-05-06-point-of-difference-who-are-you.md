@@ -2,7 +2,7 @@
 id: 112
 title: 'Point of difference: who are you?'
 date: 2014-05-06T08:30:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/05/point-of-difference-who-are-you.html
 permalink: /2014/05/point-of-difference-who-are-you.html

@@ -2,7 +2,7 @@
 id: 111
 title: Make your own washing powder
 date: 2014-05-08T07:08:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/05/make-your-own-washing-powder.html
 permalink: /2014/05/make-your-own-washing-powder.html

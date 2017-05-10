@@ -2,7 +2,7 @@
 id: 47
 title: Vegan chocolate salami
 date: 2015-12-08T09:58:00.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/2014/12/vegan-chocolate-salami.html'
 permalink: /2015/12/vegan-chocolate-salami.html

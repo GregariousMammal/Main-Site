@@ -2,7 +2,7 @@
 id: 834
 title: Asian millet salad
 date: 2015-04-30T09:43:39+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=834
 permalink: /2015/04/asian-millet-salad.html

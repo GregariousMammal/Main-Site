@@ -2,7 +2,7 @@
 id: 147
 title: A few pictorial tales of 2013
 date: 2014-01-01T03:46:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/01/a-few-pictorial-tales-of-2013.html
 permalink: /2014/01/a-few-pictorial-tales-of-2013.html

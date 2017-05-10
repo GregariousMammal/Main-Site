@@ -1,0 +1,30 @@
+<ul class="post-list">
+{% for post in paginator.posts %}
+  <li>
+    {% if post.publication_url %}
+    <h2>
+      <a href="{{ post.publication_url }}">{{ post.title }}</a>
+    </h2>
+    {% else %}
+    <h2>
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </h2>
+    {% endif %}
+    {% if post.image %}
+    {% picture listings {{post.image}} alt="{{post.title}}" %}
+    {% endif %}
+    <p>{{ post.excerpt }}</p>
+    {% if post.publication_url %}
+    <a class="post-link" href="{{ post.publication_url }}">Read More</a>
+    {% else %}
+    <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+    {% endif %}
+    <!-- TODO: Let's consolidate -->
+    <div class="post-meta">
+      {% if post.categories %}
+      {% include category_block.html %}
+      {% endif %}
+    </div>
+  </li>
+  {% endfor %}
+</ul>

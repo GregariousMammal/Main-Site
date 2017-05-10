@@ -2,7 +2,7 @@
 id: 979
 title: 'Vegan asian quinoa &#8216;meatballs&#8217;'
 date: 2015-06-03T11:29:14+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=979
 permalink: /2015/06/asian-quinoa-meatballs.html

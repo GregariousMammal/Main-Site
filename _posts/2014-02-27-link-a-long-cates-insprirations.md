@@ -2,7 +2,7 @@
 id: 130
 title: 'Link A Long: Cate&#8217;s insprirations'
 date: 2014-02-27T06:39:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/02/link-a-long-cates-insprirations.html
 permalink: /2014/02/link-a-long-cates-insprirations.html

@@ -2,7 +2,7 @@
 id: 91
 title: 'Restaurant Review: S Kultur, Leipzig'
 date: 2014-08-21T12:38:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/08/restaurant-review-s-kultur-leipzig.html
 permalink: /2014/08/restaurant-review-s-kultur-leipzig.html

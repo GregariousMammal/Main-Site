@@ -2,7 +2,7 @@
 id: 139
 title: Vegan chocolate beetroot cake
 date: 2014-01-20T07:06:00.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/2014/01/vegan-chocolate-beetroot-cake.html'
 permalink: /2014/01/vegan-chocolate-beetroot-cake.html

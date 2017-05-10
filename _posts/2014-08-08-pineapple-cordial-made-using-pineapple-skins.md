@@ -2,7 +2,7 @@
 id: 97
 title: Pineapple cordial (made using pineapple skins)
 date: 2014-08-08T18:11:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/08/pineapple-cordial-made-using-pineapple-skins.html
 permalink: /2014/08/pineapple-cordial-made-using-pineapple-skins.html

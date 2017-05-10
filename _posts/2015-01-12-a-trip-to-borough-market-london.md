@@ -2,7 +2,7 @@
 id: 38
 title: A trip to Borough market, London
 date: 2015-01-12T12:20:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/a-trip-to-borough-market-london.html
 permalink: /2015/01/a-trip-to-borough-market-london.html

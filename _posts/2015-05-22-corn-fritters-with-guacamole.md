@@ -2,7 +2,7 @@
 id: 902
 title: Corn fritters with guacamole
 date: 2015-05-22T20:08:08+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=902
 permalink: /2015/05/corn-fritters-with-guacamole.html

@@ -2,7 +2,7 @@
 id: 21
 title: 'Excuse the housekeeping&#8230;'
 date: 2015-02-06T15:00:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/02/excuse-the-housekeeping.html
 permalink: /2015/02/excuse-the-housekeeping.html

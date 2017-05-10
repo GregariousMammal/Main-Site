@@ -2,7 +2,7 @@
 id: 11
 title: 'Moving to Berlin: Part 1'
 date: 2015-02-26T16:13:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/02/moving-to-berlin-part-1.html
 permalink: /2015/02/moving-to-berlin-part-1.html

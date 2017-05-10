@@ -2,7 +2,7 @@
 id: 1174
 title: Coconut bacon jam
 date: 2015-08-06T09:48:28.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1174'
 permalink: /2015/08/coconut-bacon-jam.html

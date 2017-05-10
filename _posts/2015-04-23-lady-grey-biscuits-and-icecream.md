@@ -2,7 +2,7 @@
 id: 774
 title: Lady grey biscuits and icecream
 date: 2015-04-23T16:28:32+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=774
 permalink: /2015/04/lady-grey-biscuits-and-icecream.html

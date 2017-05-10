@@ -2,7 +2,7 @@
 id: 907
 title: Allotment gardens and foraging in Berlin
 date: 2015-05-24T16:59:21+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=907
 permalink: /2015/05/allotment-gardens-and-foraging-in-berlin.html

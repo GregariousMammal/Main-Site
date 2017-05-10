@@ -2,7 +2,7 @@
 id: 36
 title: Fruit upside down cake
 date: 2015-01-13T12:00:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/fruit-upside-down-cake.html
 permalink: /2015/01/fruit-upside-down-cake.html

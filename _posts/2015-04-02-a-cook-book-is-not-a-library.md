@@ -2,7 +2,7 @@
 id: 662
 title: A cook book is not your personal recipe file
 date: 2015-04-02T12:37:45+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=662
 permalink: /2015/04/a-cook-book-is-not-a-library.html

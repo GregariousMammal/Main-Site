@@ -2,7 +2,7 @@
 id: 110
 title: On the mend and Food for Thought
 date: 2014-05-18T03:31:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/05/on-the-mend-and-food-for-thought.html
 permalink: /2014/05/on-the-mend-and-food-for-thought.html

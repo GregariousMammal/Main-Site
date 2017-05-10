@@ -2,7 +2,7 @@
 id: 608
 title: Lentil and potato curry
 date: 2015-03-23T14:36:46+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=608
 permalink: /2015/03/lentil-and-potato-curry.html

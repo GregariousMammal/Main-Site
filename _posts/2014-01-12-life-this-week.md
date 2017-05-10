@@ -2,7 +2,7 @@
 id: 142
 title: Life this week
 date: 2014-01-12T01:08:00.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/2014/01/life-this-week.html'
 permalink: /2014/01/life-this-week.html

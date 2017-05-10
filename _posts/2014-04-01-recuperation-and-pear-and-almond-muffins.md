@@ -2,7 +2,7 @@
 id: 118
 title: Recuperation and Pear and almond muffins
 date: 2014-04-01T05:44:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/04/recuperation-and-pear-and-almond-muffins.html
 permalink: /2014/04/recuperation-and-pear-and-almond-muffins.html

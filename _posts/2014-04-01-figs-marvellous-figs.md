@@ -2,7 +2,7 @@
 id: 117
 title: Spiced fig and red wine jam
 date: 2014-04-01T06:25:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/04/figs-marvellous-figs.html
 permalink: /2014/04/figs-marvellous-figs.html

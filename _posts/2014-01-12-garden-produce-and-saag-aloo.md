@@ -2,7 +2,7 @@
 id: 143
 title: Garden produce saag aloo
 date: 2014-01-12T00:31:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/01/garden-produce-and-saag-aloo.html
 permalink: /2014/01/garden-produce-and-saag-aloo.html

@@ -2,7 +2,7 @@
 id: 86
 title: Quick and easy tortillas and Quesadillas
 date: 2014-09-01T16:45:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/09/quick-and-easy-tortillas-and-quesadillas.html
 permalink: /2014/09/quick-and-easy-tortillas-and-quesadillas.html

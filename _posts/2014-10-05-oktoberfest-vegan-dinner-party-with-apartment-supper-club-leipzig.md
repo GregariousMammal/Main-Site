@@ -2,7 +2,7 @@
 id: 74
 title: Oktoberfest Vegan Dinner Party with Apartment Supper Club Leipzig
 date: 2014-10-05T16:50:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/10/oktoberfest-vegan-dinner-party-with-apartment-supper-club-leipzig.html
 permalink: /2014/10/oktoberfest-vegan-dinner-party-with-apartment-supper-club-leipzig.html

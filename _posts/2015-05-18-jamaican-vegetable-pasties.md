@@ -2,7 +2,7 @@
 id: 875
 title: Jamaican vegetable pasties
 date: 2015-05-18T15:41:12+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=875
 permalink: /2015/05/jamaican-vegetable-pasties.html

@@ -2,7 +2,7 @@
 id: 999
 title: In my Kitchen this Month
 date: 2015-06-09T12:25:14+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=999
 permalink: /2015/06/in-my-kitchen-this-month-3.html

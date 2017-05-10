@@ -2,7 +2,7 @@
 id: 120
 title: Loving Hut, Northcote
 date: 2014-03-26T05:53:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/03/loving-hut-northcote.html
 permalink: /2014/03/loving-hut-northcote.html

@@ -2,7 +2,7 @@
 id: 1073
 title: Chocolate truffles
 date: 2015-07-08T09:03:19+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=1073
 permalink: /2015/07/chocolate-truffles.html

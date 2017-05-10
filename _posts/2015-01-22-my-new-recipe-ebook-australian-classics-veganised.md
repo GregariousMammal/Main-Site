@@ -2,7 +2,7 @@
 id: 33
 title: 'My new recipe ebook: Australian Classics Veganised'
 date: 2015-01-22T12:32:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/my-new-recipe-ebook-australian-classics-veganised.html
 permalink: /2015/01/my-new-recipe-ebook-australian-classics-veganised.html

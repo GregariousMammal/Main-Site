@@ -2,7 +2,7 @@
 id: 762
 title: How to adopt a cat in Berlin
 date: 2015-04-27T10:51:56+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=762
 permalink: /2015/04/how-to-adopt-a-cat-in-berlin.html

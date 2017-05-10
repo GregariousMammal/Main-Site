@@ -2,7 +2,7 @@
 id: 70
 title: 50 foodie musings for a small space, low budget travelling cook
 date: 2014-10-20T17:52:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/10/50-foodie-musings-for-a-small-space-low-budget-travelling-cook.html
 permalink: /2014/10/50-foodie-musings-for-a-small-space-low-budget-travelling-cook.html

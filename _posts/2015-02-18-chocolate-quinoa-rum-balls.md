@@ -2,7 +2,7 @@
 id: 13
 title: Chocolate quinoa rum balls
 date: 2015-02-18T15:34:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/02/chocolate-quinoa-rum-balls.html
 permalink: /2015/02/chocolate-quinoa-rum-balls.html

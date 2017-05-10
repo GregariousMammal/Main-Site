@@ -2,7 +2,7 @@
 id: 1009
 title: Chilli pesto pasta with broccoli and roast tomatoes
 date: 2015-06-10T08:50:18+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=1009
 permalink: /2015/06/chilli-pesto-pasta-with-broccoli-and-roast-tomatoes.html

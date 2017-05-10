@@ -2,7 +2,7 @@
 id: 135
 title: Catching up with Cate picture free
 date: 2014-02-05T07:33:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/02/catching-up-with-cate-picture-free.html
 permalink: /2014/02/catching-up-with-cate-picture-free.html

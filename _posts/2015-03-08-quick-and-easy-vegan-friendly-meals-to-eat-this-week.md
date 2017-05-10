@@ -2,7 +2,7 @@
 id: 6
 title: Quick and easy vegan friendly meals to eat this week!
 date: 2015-03-08T18:22:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/03/quick-and-easy-vegan-friendly-meals-to-eat-this-week.html
 permalink: /2015/03/quick-and-easy-vegan-friendly-meals-to-eat-this-week.html

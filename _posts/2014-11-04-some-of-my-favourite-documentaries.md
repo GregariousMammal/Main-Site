@@ -2,7 +2,7 @@
 id: 67
 title: Some of my favourite documentaries
 date: 2014-11-04T20:04:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/11/some-of-my-favourite-documentaries.html
 permalink: /2014/11/some-of-my-favourite-documentaries.html

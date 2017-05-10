@@ -2,7 +2,7 @@
 id: 937
 title: Nettle Pesto
 date: 2015-05-24T16:45:26+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=937
 permalink: /2015/05/nettle-pesto.html

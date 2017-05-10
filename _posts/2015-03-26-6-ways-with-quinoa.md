@@ -2,7 +2,7 @@
 id: 641
 title: 6 quick and easy ways with quinoa
 date: 2015-03-26T13:20:05+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=641
 permalink: /2015/03/6-ways-with-quinoa.html

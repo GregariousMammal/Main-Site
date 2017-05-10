@@ -1,7 +1,7 @@
 ---
 type: podcast
 layout: podcast
-categories: media podcast
+categories: Both media podcast
 tags: interview api work migrants future
 title: The Future of Work, Interview with Postman, and Skilled Migrants
 date: '2017-04-25 18:13:30 +0100'

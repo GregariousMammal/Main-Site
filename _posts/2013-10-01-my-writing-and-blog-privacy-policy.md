@@ -2,7 +2,7 @@
 id: 149
 title: My writing and blog privacy policy.
 date: 2013-10-01T07:46:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2013/10/my-writing-and-blog-privacy-policy.html
 permalink: /2013/10/my-writing-and-blog-privacy-policy.html

@@ -1,16 +1,20 @@
 {% if post.date %}
+<p>
+{% if post.categories[0] == 'Both' %}
+Cate & Chris, {{ post.date | date_to_string }}
+{% else %}
 {{ post.categories[0] }}, {{ post.date | date_to_string }}
+{% endif %}
+</p>
 {% endif %}
 
 
-{% if post.categories[1] == 'sitepoint' or post.categories[1] == 'crate' or post.categories[1] == 'theweeklysqueak' or post.categories[1] == 'codeship' or post.categories[1] == 'sqreen' or post.categories[1] == 'dzone' or post.categories[1] == 'thenextweb' or post.categories[1] == 'cultofmac' or post.categories[1] == 'podcast'  or post.categories[1] == 'hackernoon' %}
-<span class="project-block">
-  <b>Published on: </b>{{ post.categories[1] }}
-</span>
+{% if post.categories[2] == 'sitepoint' or post.categories[2] == 'crate' or post.categories[2] == 'theweeklysqueak' or post.categories[2] == 'codeship' or post.categories[2] == 'sqreen' or post.categories[2] == 'dzone' or post.categories[2] == 'thenextweb' or post.categories[2] == 'cultofmac' or post.categories[2] == 'podcast'  or post.categories[2] == 'hackernoon' or post.categories[2] == 'envato' %}
+<p>
+  <b>Published on: </b>{{ post.categories[2] }}
 {% else %}
-<span class="project-block">
   From the
-  {% case post.categories[1] %}
+  {% case post.categories[2] %}
   {% when 'odtwe' %}
   <a href="/projects/odtwe">One Day the World Ended</a>
   {% when 'chipshop' %}
@@ -23,11 +27,13 @@
   <a href="/projects/software">Software</a>
   {% when 'presentations' %}
   <a href="/writing/presentations">Presentations</a>
+  {% when 'atravellingcook' %}
+  <a href="/writing/a-travelling-cook">A Travelling Cook</a>
   {% when 'not-profit-handbook' %}
   <a href="/projects/not-profit-handbook">The Not-for-Profit Handbook</a>
   {% else %}
   Something Else
   {% endcase %}
   project
-</span>
+</p>
 {% endif %}

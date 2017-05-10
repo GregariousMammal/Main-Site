@@ -2,7 +2,7 @@
 id: 1300
 title: In my Berlin kitchen this month
 date: 2015-09-10T16:23:10+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=1300
 permalink: /2015/09/in-my-berlin-kitchen-this-month.html

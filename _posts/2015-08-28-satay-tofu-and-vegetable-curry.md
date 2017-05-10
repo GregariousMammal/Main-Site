@@ -2,7 +2,7 @@
 id: 1269
 title: Satay tofu and vegetable curry
 date: 2015-08-28T14:40:15.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1269'
 permalink: /2015/08/satay-tofu-and-vegetable-curry.html

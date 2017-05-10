@@ -2,7 +2,7 @@
 id: 1213
 title: Egg free potato dumplings
 date: 2015-08-14T10:06:42.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1213'
 permalink: /2015/08/egg-free-potato-dumplings.html

@@ -2,7 +2,7 @@
 id: 131
 title: Seedy flapjacks
 date: 2014-02-26T03:45:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/02/seedy-flapjacks.html
 permalink: /2014/02/seedy-flapjacks.html

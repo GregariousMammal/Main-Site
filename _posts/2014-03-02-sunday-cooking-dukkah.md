@@ -2,7 +2,7 @@
 id: 129
 title: 'Sunday cooking: Dukkah'
 date: 2014-03-02T02:34:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/03/sunday-cooking-dukkah.html
 permalink: /2014/03/sunday-cooking-dukkah.html

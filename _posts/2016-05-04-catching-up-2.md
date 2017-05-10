@@ -2,7 +2,7 @@
 id: 1476
 title: 'Catching up&#8230;'
 date: 2016-05-04T14:52:41+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=1476
 permalink: /2016/05/catching-up-2.html

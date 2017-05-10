@@ -2,7 +2,7 @@
 id: 720
 title: Rosemary and sea salt biscuits
 date: 2015-04-09T12:40:47+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=720
 permalink: /2015/04/rosemary-and-herb-biscuits.html

@@ -3,7 +3,7 @@ layout: post
 title: JVM-Free Kotlin With Kotlin/Native
 date: '2017-04-11 10:13:30 +0100'
 image:
-categories: writing dzone
+categories: Chris writing dzone
 tags: kotlin programming jetbrains java
 publication_url: https://dzone.com/articles/jvm-free-kotlin-with-kotlinnative
 ---

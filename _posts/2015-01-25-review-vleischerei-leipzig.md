@@ -2,7 +2,7 @@
 id: 30
 title: 'Review: Vleischerei, Leipzig'
 date: 2015-01-25T13:08:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/review-vleischerei-leipzig.html
 permalink: /2015/01/review-vleischerei-leipzig.html

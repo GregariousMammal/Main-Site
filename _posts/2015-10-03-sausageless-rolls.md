@@ -2,7 +2,7 @@
 id: 1396
 title: Sausageless rolls
 date: 2015-10-03T17:42:52.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1396'
 permalink: /2015/10/sausageless-rolls.html

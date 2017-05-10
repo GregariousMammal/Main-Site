@@ -2,7 +2,7 @@
 id: 42
 title: Chocolate panforte
 date: 2015-01-07T17:57:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/chocolate-panforte.html
 permalink: /2015/01/chocolate-panforte.html

@@ -3,7 +3,7 @@ layout: post
 title: Preventing SQL injections in Ruby (and other vulnerabilities)
 date: '2017-04-14 11:13:30 +0100'
 image:
-categories: writing sqreen
+categories: Chris writing sqreen
 tags:  sql ruby security rails
 publication_url: https://blog.sqreen.io/preventing-sql-injections-in-ruby/
 ---

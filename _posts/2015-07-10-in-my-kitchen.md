@@ -2,7 +2,7 @@
 id: 1092
 title: In my kitchen
 date: 2015-07-10T13:48:55+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=1092
 permalink: /2015/07/in-my-kitchen.html

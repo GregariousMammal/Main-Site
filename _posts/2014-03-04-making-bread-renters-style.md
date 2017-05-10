@@ -2,7 +2,7 @@
 id: 128
 title: Making bread, renters style
 date: 2014-03-04T06:37:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/03/making-bread-renters-style.html
 permalink: /2014/03/making-bread-renters-style.html

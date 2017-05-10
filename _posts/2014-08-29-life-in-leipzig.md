@@ -2,7 +2,7 @@
 id: 87
 title: Life in Leipzig
 date: 2014-08-29T17:07:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/08/life-in-leipzig.html
 permalink: /2014/08/life-in-leipzig.html

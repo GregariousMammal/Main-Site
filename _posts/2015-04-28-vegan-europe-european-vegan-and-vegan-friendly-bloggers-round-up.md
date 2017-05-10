@@ -2,7 +2,7 @@
 id: 823
 title: 'Vegan Europe: European vegan and vegan friendly bloggers round up'
 date: 2015-04-28T09:15:10+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=823
 permalink: /2015/04/vegan-europe-european-vegan-and-vegan-friendly-bloggers-round-up.html

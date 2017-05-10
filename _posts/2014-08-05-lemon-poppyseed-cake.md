@@ -2,7 +2,7 @@
 id: 99
 title: Lemon poppyseed cake
 date: 2014-08-05T10:53:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/08/lemon-poppyseed-cake.html
 permalink: /2014/08/lemon-poppyseed-cake.html

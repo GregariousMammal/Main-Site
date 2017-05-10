@@ -2,7 +2,7 @@
 id: 56
 title: Apartment supper club Leipzig Christmas party
 date: 2014-12-02T12:59:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/12/apartment-supper-club-leipzig-christmas-party.html
 permalink: /2014/12/apartment-supper-club-leipzig-christmas-party.html

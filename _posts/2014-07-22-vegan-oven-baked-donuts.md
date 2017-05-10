@@ -2,7 +2,7 @@
 id: 104
 title: Vegan oven baked donuts
 date: 2014-07-22T21:15:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/07/vegan-oven-baked-donuts.html
 permalink: /2014/07/vegan-oven-baked-donuts.html

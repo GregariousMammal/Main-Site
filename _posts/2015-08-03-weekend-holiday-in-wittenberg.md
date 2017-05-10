@@ -2,7 +2,7 @@
 id: 1135
 title: Weekend holiday in Wittenberg
 date: 2015-08-03T21:21:15.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1135'
 permalink: /2015/08/weekend-holiday-in-wittenberg.html

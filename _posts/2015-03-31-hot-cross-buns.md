@@ -2,7 +2,7 @@
 id: 622
 title: Hot cross buns
 date: 2015-03-31T11:32:10+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=622
 permalink: /2015/03/hot-cross-buns.html

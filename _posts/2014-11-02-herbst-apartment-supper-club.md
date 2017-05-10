@@ -2,7 +2,7 @@
 id: 68
 title: Herbst Apartment Supper Club
 date: 2014-11-02T12:05:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/11/herbst-apartment-supper-club.html
 permalink: /2014/11/herbst-apartment-supper-club.html

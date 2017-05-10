@@ -2,7 +2,7 @@
 id: 1234
 title: Cashew yoghurt mozzarella
 date: 2015-08-23T08:56:21.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1234'
 permalink: /2015/08/cashew-yoghurt-mozzarella.html

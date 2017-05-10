@@ -2,7 +2,7 @@
 id: 744
 title: Cornflake cookies
 date: 2015-04-15T11:51:11+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=744
 permalink: /2015/04/cornflake-cookies.html

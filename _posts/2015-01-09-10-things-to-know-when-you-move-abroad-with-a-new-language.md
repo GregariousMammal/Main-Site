@@ -2,7 +2,7 @@
 id: 40
 title: '10 things to know when you move abroad  to  a new language*'
 date: 2015-01-09T21:20:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/10-things-to-know-when-you-move-abroad-with-a-new-language.html
 permalink: /2015/01/10-things-to-know-when-you-move-abroad-with-a-new-language.html

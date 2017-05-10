@@ -2,7 +2,7 @@
 id: 145
 title: My privacy policy
 date: 2014-01-01T15:34:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/01/my-privacy-policy.html
 permalink: /2014/01/my-privacy-policy.html

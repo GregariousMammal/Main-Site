@@ -2,7 +2,7 @@
 id: 1256
 title: White bean gluten free chocolate brownies
 date: 2015-08-26T17:47:23.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1256'
 permalink: /2015/08/white-bean-gluten-free-chocolate-brownies.html

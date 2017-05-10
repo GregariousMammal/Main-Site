@@ -2,7 +2,7 @@
 id: 89
 title: Kohlrabi Coleslaw
 date: 2014-08-26T08:54:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/08/kohlrabi-coleslaw.html
 permalink: /2014/08/kohlrabi-coleslaw.html

@@ -2,7 +2,7 @@
 id: 1321
 title: A short summer trip to Prague
 date: 2015-09-29T19:31:11.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1321'
 permalink: /2015/09/a-short-summer-trip-to-prague.html

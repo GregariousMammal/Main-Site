@@ -2,7 +2,7 @@
 id: 119
 title: Is Mr Pablo coming to Germany?
 date: 2014-03-27T03:12:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/03/is-mr-pablo-coming-to-germany.html
 permalink: /2014/03/is-mr-pablo-coming-to-germany.html

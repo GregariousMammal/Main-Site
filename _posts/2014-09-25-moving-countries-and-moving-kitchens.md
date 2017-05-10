@@ -2,7 +2,7 @@
 id: 77
 title: Moving countries and moving kitchens
 date: 2014-09-25T19:21:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/09/moving-countries-and-moving-kitchens.html
 permalink: /2014/09/moving-countries-and-moving-kitchens.html

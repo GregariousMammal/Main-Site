@@ -2,7 +2,7 @@
 id: 51
 title: Vegan Fruit and nut Biscotti
 date: 2014-12-14T12:36:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/12/vegan-fruit-and-nut-biscotti.html
 permalink: /2014/12/vegan-fruit-and-nut-biscotti.html

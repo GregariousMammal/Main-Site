@@ -2,7 +2,7 @@
 id: 1243
 title: Antipasto kebabs
 date: 2015-08-23T09:25:53.000Z
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/?p=1243'
 permalink: /2015/08/antipasto-kebabs.html

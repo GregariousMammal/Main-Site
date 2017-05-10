@@ -2,7 +2,7 @@
 id: 156
 title: Excuse the mess!
 date: 2015-03-10T21:00:11+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=156
 permalink: /2015/03/excuse-the-mess.html

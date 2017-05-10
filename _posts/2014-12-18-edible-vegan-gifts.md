@@ -2,7 +2,7 @@
 id: 48
 title: Edible vegan gifts
 date: 2014-12-18T18:50:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/12/edible-vegan-gifts.html
 permalink: /2014/12/edible-vegan-gifts.html

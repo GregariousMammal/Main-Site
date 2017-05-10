@@ -2,7 +2,7 @@
 id: 166
 title: The integrity of blogging in the time of the super blogger.
 date: 2015-03-11T21:56:05+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=166
 permalink: /2015/03/the-integrity-of-blogging-in-the-time-of-the-super-blogger.html

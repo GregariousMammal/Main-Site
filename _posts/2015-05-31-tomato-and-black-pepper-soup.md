@@ -2,7 +2,7 @@
 id: 972
 title: Tomato and black pepper soup
 date: 2015-05-31T19:09:39+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=972
 permalink: /2015/05/tomato-and-black-pepper-soup.html

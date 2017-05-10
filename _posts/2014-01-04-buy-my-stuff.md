@@ -2,7 +2,7 @@
 id: 144
 title: Buy my stuff
 date: 2014-01-04T11:00:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/01/buy-my-stuff.html
 permalink: /2014/01/buy-my-stuff.html

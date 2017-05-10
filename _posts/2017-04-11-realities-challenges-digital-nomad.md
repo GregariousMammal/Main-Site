@@ -3,7 +3,7 @@ layout: post
 title: The realities and challenges of being a digital nomad
 date: '2017-04-11 18:13:30 +0100'
 image:
-categories: writing envato
+categories: Chris writing envato
 tags: digital nomad freelance expat travel pension healthinsurance
 publication_url: https://envato.com/blog/realities-challenges-digital-nomad/
 ---

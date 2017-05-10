@@ -2,7 +2,7 @@
 id: 80
 title: Apple custard danish
 date: 2014-09-15T13:57:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/09/apple-custard-danish.html
 permalink: /2014/09/apple-custard-danish.html

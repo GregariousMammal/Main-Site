@@ -2,7 +2,7 @@
 id: 49
 title: 'Everyday Australian products you&#8217;ll miss in Deutschland.'
 date: 2014-12-15T21:37:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/12/everyday-australian-products-youll-miss-in-deutschland.html
 permalink: /2014/12/everyday-australian-products-youll-miss-in-deutschland.html

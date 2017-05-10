@@ -2,7 +2,7 @@
 id: 55
 title: Pear and vanilla bean jam
 date: 2014-12-04T10:45:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/12/pear-and-vanilla-bean-jam.html
 permalink: /2014/12/pear-and-vanilla-bean-jam.html

@@ -2,7 +2,7 @@
 id: 766
 title: Smoky chickpea and sunflower hummus.
 date: 2015-04-17T17:06:53+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=766
 permalink: /2015/04/smoky-hummus.html

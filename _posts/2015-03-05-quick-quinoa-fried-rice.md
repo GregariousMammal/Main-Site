@@ -2,7 +2,7 @@
 id: 10
 title: 'Quick quinoa &#8216;fried rice&#8217;'
 date: 2015-03-05T15:31:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/03/quick-quinoa-fried-rice.html
 permalink: /2015/03/quick-quinoa-fried-rice.html

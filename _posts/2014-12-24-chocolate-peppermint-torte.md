@@ -2,7 +2,7 @@
 id: 46
 title: Chocolate peppermint torte
 date: 2014-12-24T10:34:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/12/chocolate-peppermint-torte.html
 permalink: /2014/12/chocolate-peppermint-torte.html

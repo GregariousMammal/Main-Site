@@ -2,7 +2,7 @@
 id: 1021
 title: Mushroom, white beans and ale open pies
 date: 2015-06-16T15:25:40+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=1021
 permalink: /2015/06/mushroom-white-beans-and-ale-open-pies.html

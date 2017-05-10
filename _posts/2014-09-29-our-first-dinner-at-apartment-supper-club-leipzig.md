@@ -2,7 +2,7 @@
 id: 76
 title: Our first dinner at Apartment Supper Club Leipzig
 date: 2014-09-29T12:55:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/09/our-first-dinner-at-apartment-supper-club-leipzig.html
 permalink: /2014/09/our-first-dinner-at-apartment-supper-club-leipzig.html

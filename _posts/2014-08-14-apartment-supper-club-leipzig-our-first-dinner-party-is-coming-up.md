@@ -2,7 +2,7 @@
 id: 94
 title: 'Apartment Supper Club Leipzig: Our first dinner party is coming up!'
 date: 2014-08-14T11:33:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/08/apartment-supper-club-leipzig-our-first-dinner-party-is-coming-up.html
 permalink: /2014/08/apartment-supper-club-leipzig-our-first-dinner-party-is-coming-up.html

@@ -2,7 +2,7 @@
 id: 73
 title: Jackfruit bournignon
 date: 2014-10-08T13:46:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/10/jackfruit-bournignon.html
 permalink: /2014/10/jackfruit-bournignon.html

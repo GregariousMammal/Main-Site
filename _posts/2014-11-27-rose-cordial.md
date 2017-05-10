@@ -2,7 +2,7 @@
 id: 57
 title: Rose cordial
 date: 2014-11-27T19:26:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/11/rose-cordial.html
 permalink: /2014/11/rose-cordial.html

@@ -2,7 +2,7 @@
 id: 12
 title: Chocolate and custard wontons
 date: 2015-02-23T19:58:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/02/chocolate-and-custard-wontons.html
 permalink: /2015/02/chocolate-and-custard-wontons.html

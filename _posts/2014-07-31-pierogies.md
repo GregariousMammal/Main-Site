@@ -2,7 +2,7 @@
 id: 101
 title: Pierogies
 date: 2014-07-31T09:41:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/07/pierogies.html
 permalink: /2014/07/pierogies.html

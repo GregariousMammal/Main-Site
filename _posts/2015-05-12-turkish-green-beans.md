@@ -2,7 +2,7 @@
 id: 878
 title: Turkish green beans
 date: 2015-05-12T11:32:21+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=878
 permalink: /2015/05/turkish-green-beans.html

@@ -2,7 +2,7 @@
 id: 44
 title: Asian spiced bierock
 date: 2014-12-29T12:44:00+00:00
-categories: Cate
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/12/asian-spiced-bierock.html
 permalink: /2014/12/asian-spiced-bierock.html
