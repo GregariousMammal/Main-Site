@@ -9,11 +9,11 @@ As a passionate technology educator, I have contributed to writing programming c
 
 ## CSS in Depth
 
-I am working on a video course to accompany [this forthcomign release](https://www.manning.com/books/css-in-depth) from Manning.
+I am working on a video course to accompany [this forthcoming release](https://www.manning.com/books/css-in-depth) from Manning.
 
 ## Become an iOS Developer With Swift
 
-I wrote the course overview and reviwed the final content for this Berlin based coding school [and their Swift course](https://careerfoundry.com/en/courses/become-an-ios-developer).
+I wrote the course overview and reviewed the final content for this Berlin based coding school [and their Swift course](https://careerfoundry.com/en/courses/become-an-ios-developer).
 
 ## Swift: Building iOS Apps
 

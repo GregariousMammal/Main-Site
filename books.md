@@ -9,7 +9,9 @@ If you're interested in me writing a book for you, then please [connect](/connec
 
 ## Jumpstart Responsive Design - 2nd Edition
 
-I wrote the revised second edition of [this SitePoint book](https://www.sitepoint.com/store/jump-start-responsive-web-design/).
+{% picture listings resp-book.png alt="Jumpstart Responsive Design" %}
+
+I wrote the revised second edition of [this SitePoint book](https://www.sitepoint.com/premium/books/jump-start-responsive-web-design-2nd-edition?aref=cward).
 
 ## Automate DevOps with Otto
 
