@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'iTake, Bucharest: A Crash Course in Software Craftsmanship'
-date: 2017-05-1yT00:00:00.000Z
+date: 2017-05-17T00:00:00.000Z
 image: itake.jpg
 categories: Chris writing DZone
 tags: bucharest conference testing documentation programming
