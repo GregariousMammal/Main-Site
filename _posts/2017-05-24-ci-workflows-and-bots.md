@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Docker for Windows, Linux, and Mac
-date: '2017-05-24 18:13:30 +0100'
+title: CI Workflows and Bots
+date: Wed, 24 May 2017 15:15:12 +0000
 image:
 categories: Chris writing codeship
 tags: chatbots bots slack devops
