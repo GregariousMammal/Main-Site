@@ -9,7 +9,7 @@ image:
 excerpt:
 ---
 
-In this episode Cate and Chris talk with Jessica Lovegood, a UX designer with a passion for undertsanding how people in the tech industry learn.
+In this episode Cate and Chris talk with Jessica Lovegood, a UX designer with a passion for understanding how people in the tech industry learn.
 
 -   Read the blog post discussed [here](https://medium.com/@uxofeverything/how-do-techies-and-creatives-learn-best-2ba485b22b94).
 -   [Jessica's website](https://www.jessicalovegood.co.uk/).
