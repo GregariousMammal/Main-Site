@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: Managing Distributed Databases with Apache Mesos
 event: Apache Big Data Europe
 pres_url: 'http://events.linuxfoundation.org/events/apache-big-data-europe/program/schedule'

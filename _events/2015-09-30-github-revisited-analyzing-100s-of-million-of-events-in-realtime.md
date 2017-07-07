@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: GitHub revisited - Analyzing 100s of Million of events in realtime
 event: Code.Talks Hamburg
 pres_url: 'https://www.codetalks.de/2015/programm/github-revisited-analyzing-100s-of-million-of-events-in-realtime'

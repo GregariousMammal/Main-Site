@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: Automate your docs, automate yourself
 event: Fosdem 2017
 date: 2017-02-05T16:20:00.000Z

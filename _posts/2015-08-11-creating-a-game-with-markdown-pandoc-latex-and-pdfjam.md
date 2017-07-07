@@ -91,7 +91,7 @@ Latex is new to me, but this isn't complex so far. I'll explain what I changed o
 \usepackage{multicol}
 \usepackage{amsthm,amsmath,amssymb}
 \usepackage{graphicx}
-\graphicspath{{/Users/chrisward/Workspace/cs_jk/_site/assets/images/cards/}}
+\graphicspath{{cards}}
 \usepackage{float}
 \usepackage[utf8]{inputenc}
 \usepackage{fontspec}

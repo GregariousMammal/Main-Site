@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: Understanding databases for distributed Docker applications
 event: NoSQL Matters Dublin
 pres_url: 'https://2015.distributed-matters.org/dub/speakers/#1961451827466'

@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: Crate and Docker
 event: Docker Berlin
 pres_url: ''

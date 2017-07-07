@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: Beyond Software - Learning from Other Technical Writers
 event: Write The Docs EU
 date: 2016-09-19T10:00:00.000Z

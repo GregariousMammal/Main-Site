@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: Electron - Solving our cross platform dreams
 event: Fosdem 2017
 date: 2017-02-05T15:10:00.000Z

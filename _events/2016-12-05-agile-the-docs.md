@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: Automate your docs, automate yourself
 event: Agile the Docs
 date: 2016-12-05T10:00:00.000Z

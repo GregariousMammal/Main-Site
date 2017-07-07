@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: Scalable Databases
 event: AWS User Group Meet up Berlin
 pres_url: 'http://www.meetup.com/AWS-Berlin/events/220782846/'

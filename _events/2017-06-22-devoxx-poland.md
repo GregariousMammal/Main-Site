@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: Automate your docs, automate yourself
 event: Devoxx Poland
 date: 2017-06-22T18:10:00.000Z

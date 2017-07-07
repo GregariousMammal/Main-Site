@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: What Ikea and Game Manuals Taught Me About Technical Writing
 event: Software Freedom Kosovo
 date: 2016-10-21T10:00:00.000Z

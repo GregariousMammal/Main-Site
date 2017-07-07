@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: "Don't complain about bad documentation, learn to write it better!"
 event: OpenTech Summit
 date: 2016-05-05T15:00:00.000Z

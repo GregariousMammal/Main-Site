@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: "What does 'always listening' mean to your UX?"
 event: Internet of Things Meet up
 pres_url: 'http://www.slideshare.net/chrischinchilla/always-listening-user-experience'

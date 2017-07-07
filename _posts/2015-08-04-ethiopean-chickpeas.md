@@ -11,7 +11,7 @@ tags:
   - recipe
   - vegan
 format: image
-image: atc-migrate/2015/08/dreamstime_xl_38745709-1024x712.jpg
+image: atc-migrate/2015/08/dreamstime_xl_38745709.jpg
 ---
 
 Since using chickpea brine to make [egg free lemon butter](http://atravellingcook.com/2015/05/egg-free-lemon-butter.html) and [meringues](http://atravellingcook.com/2015/05/egg-free-meringues.html), I find myself with lots of chickpeas to cook. I make lots of [hummus](http://atravellingcook.com/2015/04/smoky-hummus.html) but I also enjoy chickpeas in salads and one pot dishes. Here's one I used to make back in Australia when I was teaching cooking to Chinese migrants and their kids. We'd add whatever veggies were in season to bulk it up, and everyone enjoyed it, even the kids who claimed they didn't like vegetables!

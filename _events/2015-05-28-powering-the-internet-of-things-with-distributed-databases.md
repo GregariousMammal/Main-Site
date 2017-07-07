@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: Powering the Internet of Things with Distributed Databases
 event: Internet of Things Meet up Helsinki
 pres_url: 'http://www.meetup.com/Internet-of-Things-Helsinki/events/221317511/'

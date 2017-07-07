@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: A Documentation Crash Course for Developers
 event: LinuxCon Europe
 date: 2016-10-04T14:30:00.000Z

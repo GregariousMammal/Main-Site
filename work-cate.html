@@ -1,0 +1,40 @@
+---
+layout: default
+permalink: /work/cate
+pagination:
+  enabled: true
+  collection: work
+  category: Cate
+  permalink: /:num/
+---
+
+<div class="home">
+  <div class="work">
+    <h1 class="post-title">Work</h1>
+    <div class="description">
+      <p>Cate Work</p>
+    </div>
+  </div>
+
+  <section>
+    <ul class="post-list">
+      {% for post in paginator.posts %}
+      <li>
+        <h2>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        {% if post.image %}
+        {% picture listings {{post.image}} alt="{{post.title}}" %}
+        {% endif %}
+        {{ post.excerpt }}
+        <div class="post-meta">
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
+          {% if post.categories %}
+          {% endif %}
+        </div>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
+    {% include pagination.html %}
+</div>

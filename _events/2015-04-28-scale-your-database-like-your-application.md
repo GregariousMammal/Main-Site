@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: Crate and Docker - Scale Your Database like Your Application
 event: Docker meetup Hamburg
 pres_url: 'http://www.meetup.com/Docker-Hamburg/events/221545081/'

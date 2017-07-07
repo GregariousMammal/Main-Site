@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: 'Drupal DevOps-decoupling, demystifying and decomplicating'
 event: Melbourne DevOps
 pres_url: 'http://www.slideshare.net/chrischinchilla/melbourne-devops?related=1'

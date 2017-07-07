@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: A Documentation crash course for Developers
 event: I T.A.K.E. Unconference
 date: 2017-05-11T12:20:00.000Z

@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+
 title: Orchestrating databases with Docker
 event: null
 pres_url: 'https://www.youtube.com/watch?v=YMonkXC4hyk'

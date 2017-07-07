@@ -1,6 +1,7 @@
 ---
 type: press
 layout: event
+
 title: null
 event: Startup Night
 date: 2017-09-08T17:00:00.000Z
