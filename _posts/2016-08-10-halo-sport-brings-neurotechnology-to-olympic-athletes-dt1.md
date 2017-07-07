@@ -4,9 +4,11 @@ title: Will Rio athletes trade their Halo for medals?
 date: 2016-08-10 13:00:04.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
 tags:
   - Halo Neuroscience

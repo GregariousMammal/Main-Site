@@ -4,9 +4,11 @@ title: Wearables Move Beyond The Hand, Onto The Foot
 date: 2015-12-29 18:09:26.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Build
   - Health
 tags:

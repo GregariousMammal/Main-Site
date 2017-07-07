@@ -4,9 +4,11 @@ title: Where are all the women in tech? They're in wearables
 date: 2016-11-19 20:00:12.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
 tags:
   - Adidas

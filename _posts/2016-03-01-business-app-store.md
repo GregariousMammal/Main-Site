@@ -4,9 +4,11 @@ title: Life In An All-Business App Store
 date: 2016-03-01 19:27:59.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Fintech
   - Grow

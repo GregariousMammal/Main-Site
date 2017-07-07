@@ -4,9 +4,11 @@ title: So You Want To Build An App? Twitter Has A Playbook
 date: 2016-01-11 19:38:20.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Code
 tags:
   - app developers

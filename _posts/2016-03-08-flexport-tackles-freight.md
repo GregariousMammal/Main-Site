@@ -4,9 +4,11 @@ title: Flexport takes on freight world
 date: 2016-03-08 17:30:00.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Grow
   - Transport
 tags:

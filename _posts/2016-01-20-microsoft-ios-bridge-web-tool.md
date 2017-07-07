@@ -4,9 +4,11 @@ title: Shut Out Of Mobile, Microsoft Courts iOS Developers
 date: 2016-01-20 18:43:28.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Code
   - Connected Devices
   - Fintech

@@ -4,9 +4,11 @@ title: Four ways IoT is saving the environment
 date: 2016-05-19 14:30:22.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Industrial
 tags:

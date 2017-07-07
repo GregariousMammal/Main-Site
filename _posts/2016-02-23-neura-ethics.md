@@ -4,9 +4,11 @@ title: Neura Brings Machine Learning and Security Ethics To IoT.
 date: 2016-02-23 17:00:00.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connect
   - Connected Devices
   - Fintech

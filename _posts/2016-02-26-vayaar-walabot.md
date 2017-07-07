@@ -4,9 +4,11 @@ title: Vayyar's Walabot Will Transform 3D Technology As We Know It
 date: 2016-02-26 19:03:49.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Build
   - Connected Devices
 tags:

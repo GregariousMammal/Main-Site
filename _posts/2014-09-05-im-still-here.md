@@ -9,7 +9,9 @@ permalink: /2014/09/im-still-here.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/09/im-still-here.html
 blogger_internal:
@@ -19,7 +21,7 @@ tags:
   - germany
   - leipzig
   - vegan
-  - writing
+    - writing
 ---
 
   <a  href="http://2.bp.blogspot.com/-XM-QbITwM9I/VAnIHyQ4ztI/AAAAAAAAJZg/CyFK4Fr_X9U/s1600/1386356-bigthumbnail.jpg"><img src="http://2.bp.blogspot.com/-XM-QbITwM9I/VAnIHyQ4ztI/AAAAAAAAJZg/CyFK4Fr_X9U/s1600/1386356-bigthumbnail.jpg" alt="" width="400" height="365" border="0" /></a>

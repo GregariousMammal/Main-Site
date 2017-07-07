@@ -4,9 +4,11 @@ title: How can robotics bring real innovation to the warehouse experience?
 date: 2016-10-04 21:03:54.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Industrial
 tags:
   - AI

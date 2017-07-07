@@ -4,9 +4,11 @@ title: TankTaler wants to Tesla up your tired old ride
 date: 2016-07-20 10:00:46.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Transport
 tags:
   - auto dealers

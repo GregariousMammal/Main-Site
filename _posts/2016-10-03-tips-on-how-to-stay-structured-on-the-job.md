@@ -4,9 +4,11 @@ title: Tips on How-To Stay Structured On the Job
 date: 2016-10-03
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
 tags:
 meta:
   instant_articles_submission_id: '1106888902763164'

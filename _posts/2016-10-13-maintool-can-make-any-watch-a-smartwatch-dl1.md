@@ -4,9 +4,11 @@ title: Maintool can now make any watch into a smartwatch
 date: 2016-10-13 20:00:31.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Wear
 tags:
   - Apple

@@ -9,7 +9,9 @@ permalink: /2014/03/food-for-thought-14.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/03/food-for-thought_26.html
 blogger_internal:
@@ -19,7 +21,7 @@ tags:
   - blogging
   - cooking
   - recipe
-  - writing
+    - writing
 ---
 
 [Break out the Breville, it's time for a Toastie](http://www.theguardian.com/lifeandstyle/wordofmouth/2014/mar/13/breville-toastie-toasted-cheese-sandwich) by John Naylor

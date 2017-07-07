@@ -4,9 +4,11 @@ title: Can machine learning tackle the top killer of American women?
 date: 2016-09-01 12:00:32.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Fintech
   - Health

@@ -4,9 +4,11 @@ title: IoT Security Concerns Show An Industry Struggling To Keep Up
 date: 2016-02-05 18:38:08.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Fintech
   - Hack

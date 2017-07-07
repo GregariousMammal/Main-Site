@@ -9,7 +9,9 @@ permalink: /2014/05/on-the-mend-and-food-for-thought.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/05/on-mend-and-food-for-thought.html
 blogger_internal:

@@ -14,7 +14,7 @@ tags:
   - leipzig
   - recipe
   - vegan
-  - writing
+    - writing
 format: image
 ---
 [<img class="aligncenter size-large wp-image-1081" src="/images/atc-migrate/2015/07/19331365418_80465151a2_o-686x1024.jpg" alt="19331365418_80465151a2_o" width="686" height="1024" />](/images/atc-migrate/2015/07/19331365418_80465151a2_o.jpg)My new recipe ebook, [_Soups, salads and sides_](http://payhip.com/b/mxnL) is out at last! It&#8217;s alive! After months of recipe writing, planning, testing and photographing (particularly painful in the depths of winter), my latest recipe ebook is here!

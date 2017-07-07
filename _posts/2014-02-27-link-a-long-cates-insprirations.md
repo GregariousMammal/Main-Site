@@ -9,14 +9,16 @@ permalink: /2014/02/link-a-long-cates-insprirations.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/02/link-long-cates-insprirations.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6306898154185628650
 tags:
   - blogging
-  - writing
+    - writing
 ---
 I was reading Pip Lincolne&#8217;s <i>Meet me at Mikes</i> <a href="http://meetmeatmikes.com/2014/02/pips-link-a-long/">blog </a> and she discussed the idea that blogs are more skimmed these days than read and commented upon and people are slow to celebrate those who inspire them in blog land. I&#8217;ve been blogging for a few years on and off, starting in about 2006. Blogging&#8217;s an interesting endeavour.
 

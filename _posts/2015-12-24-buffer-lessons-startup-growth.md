@@ -4,9 +4,11 @@ title: 'Buffer''s Gift To Other Startups: How To Grow Gracefully'
 date: 2015-12-24 15:00:00.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Lead
 tags:
   - Buffer

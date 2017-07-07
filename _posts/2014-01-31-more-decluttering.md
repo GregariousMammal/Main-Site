@@ -9,13 +9,17 @@ permalink: /2014/01/more-decluttering.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/01/more-decluttering.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/3314201817737022207
 tags:
   - Cate
+  - writing
+  - readwrite
   - Uncategorized
 ---
 

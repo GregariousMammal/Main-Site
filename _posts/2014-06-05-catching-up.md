@@ -9,7 +9,9 @@ permalink: /2014/06/catching-up.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/06/catching-up.html
 blogger_internal:

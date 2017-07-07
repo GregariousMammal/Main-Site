@@ -19,7 +19,7 @@ We will cover topics such as:
 - Why write documentation?
 - Explaining your point and motivation
 - Creating context and meaning
-- Writing clear copy
+  - writing clear copy
 - Creating meaningful examples and tutorials
 - Documentation systems and formats
 - Making documentation part of build processes

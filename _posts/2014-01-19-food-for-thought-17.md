@@ -9,7 +9,9 @@ permalink: /2014/01/food-for-thought-17.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/01/food-for-thought.html
 blogger_internal:

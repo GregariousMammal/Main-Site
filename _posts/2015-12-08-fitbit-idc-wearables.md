@@ -4,9 +4,11 @@ title: How Fitbit Kept The Wearables Crown
 date: 2015-12-08 19:16:02.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Build
   - Health
 tags:

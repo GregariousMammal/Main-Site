@@ -4,9 +4,11 @@ title: Should the Internet of Vibrating Things be worried?
 date: 2016-10-13 18:00:21.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Fintech
   - Health

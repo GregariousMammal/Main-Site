@@ -4,9 +4,11 @@ title: 'Microsoft''s PowerApps: Now Your Boss Can Write Business Apps'
 date: 2015-12-07 18:19:51.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Start
 tags:
   - cloud apps

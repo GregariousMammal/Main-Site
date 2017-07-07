@@ -4,9 +4,11 @@ title: Could this be the first smart car for quadriplegics?
 date: 2016-08-02 15:00:30.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Transport
 tags:
   - adaptive technology

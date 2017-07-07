@@ -9,7 +9,9 @@ permalink: /2014/08/moving-to-germany-some-of-the-differences-between-melbourne-
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/08/some-of-differences-between-melbourne.html
 blogger_internal:

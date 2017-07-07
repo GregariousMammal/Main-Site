@@ -4,9 +4,11 @@ title: Developing Variations Of High , Middle And Elementary School Students
 date: 2016-10-03 03:36:05.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
-  - Cate []
+  - Cate
+  - writing
+  - readwrite []
 tags: []
 meta:
   instant_articles_submission_id: '369409553399504'

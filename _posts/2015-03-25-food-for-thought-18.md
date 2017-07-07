@@ -9,7 +9,9 @@ permalink: /2015/03/food-for-thought-18.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2767069470942618421
 tags:

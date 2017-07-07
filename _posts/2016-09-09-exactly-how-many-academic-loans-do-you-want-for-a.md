@@ -4,9 +4,11 @@ title: Exactly How Many Academic Loans Do You Want For A Master's-Degree
 date: 2016-09-09 01:34:40.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
-  - Cate []
+  - Cate
+  - writing
+  - readwrite []
 tags: []
 meta:
   instant_articles_submission_id: '675895052560900'

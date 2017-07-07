@@ -4,9 +4,11 @@ title: ProGlove brings smart gloves to the factory floor
 date: 2016-06-28 08:00:49.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Industrial
 tags:

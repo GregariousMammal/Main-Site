@@ -4,9 +4,11 @@ title: Smart Homes Need Smarter Apps
 date: 2016-01-26 18:09:38.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Build
   - Connected Devices
 tags:

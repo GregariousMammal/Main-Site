@@ -9,7 +9,9 @@ permalink: /2014/11/veganz-opens-in-leipzig-picture-heavy-post.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/11/veganz-opens-in-leipzig-picture-heavy.html
 blogger_internal:

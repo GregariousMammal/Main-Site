@@ -4,9 +4,11 @@ title: How close are we to the robotic human heart?
 date: 2016-09-07 10:15:49.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Health
 tags:

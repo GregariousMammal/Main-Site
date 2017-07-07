@@ -9,7 +9,9 @@ permalink: /2014/12/food-for-thought-3.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/12/food-for-thought.html
 blogger_internal:
@@ -21,7 +23,7 @@ tags:
   - idiopathic angioedema
   - leipzig
   - reading
-  - writing
+    - writing
 ---
 <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-ilWrqdUvbYQ/VISLXRvY21I/AAAAAAAAKME/cb65I8ZpVBw/s1600/2014-12-03%2B10.07.48.jpg"><img src="http://4.bp.blogspot.com/-ilWrqdUvbYQ/VISLXRvY21I/AAAAAAAAKME/cb65I8ZpVBw/s1600/2014-12-03%2B10.07.48.jpg" alt="" width="480" height="640" border="0" /></a>
 

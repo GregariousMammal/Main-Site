@@ -4,9 +4,11 @@ title: Netflix Throws Down The Gauntlet To VPN and Proxy Servers
 date: 2016-01-15 21:50:43.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Code
 tags:
   - digital video

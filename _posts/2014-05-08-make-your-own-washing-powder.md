@@ -9,7 +9,9 @@ permalink: /2014/05/make-your-own-washing-powder.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/05/make-your-own-washing-powder.html
 blogger_internal:

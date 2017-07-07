@@ -9,7 +9,9 @@ permalink: /2014/07/strawberry-fields-forever-strawberry-and-rosewater-jam-straw
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/07/strawberry-fields-forever-strawberry.html
 blogger_internal:

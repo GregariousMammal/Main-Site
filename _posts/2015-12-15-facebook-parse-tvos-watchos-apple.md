@@ -4,9 +4,11 @@ title: Facebook Adds New Apple TV And WatchOS SDKs To Parse
 date: 2015-12-15 22:20:50.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Code
 tags:
   - Apple

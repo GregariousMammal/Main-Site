@@ -4,9 +4,11 @@ title: Boyle's Law Instances in Actual Life
 date: 2016-09-16 11:35:56.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
-  - Cate []
+  - Cate
+  - writing
+  - readwrite []
 tags: []
 meta:
   instant_articles_submission_id: '609185432600175'

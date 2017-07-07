@@ -4,9 +4,11 @@ title: EASY IoT Changes Touchless Technology As We Know It
 date: 2016-02-29 19:01:06.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connect
 tags:
   - Elliptic Labs

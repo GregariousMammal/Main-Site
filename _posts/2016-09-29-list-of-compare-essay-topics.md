@@ -4,9 +4,11 @@ title: List of Compare Essay Topics
 date: 2016-09-29 10:07:10.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
-  - Cate []
+  - Cate
+  - writing
+  - readwrite []
 tags: []
 meta:
   instant_articles_submission_id: '218441075259609'

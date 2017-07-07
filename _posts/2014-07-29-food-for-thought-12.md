@@ -9,7 +9,9 @@ permalink: /2014/07/food-for-thought-12.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/07/food-for-thought_29.html
 blogger_internal:
@@ -17,7 +19,7 @@ blogger_internal:
 tags:
   - funny
   - reading
-  - writing
+    - writing
 ---
 
   <a  href="http://2.bp.blogspot.com/-lRmfiKG3jiw/U9dUvZWuqRI/AAAAAAAAJBk/LjLR-eOi4Us/s1600/working-on-my-novel-2.jpg"><img src="http://2.bp.blogspot.com/-lRmfiKG3jiw/U9dUvZWuqRI/AAAAAAAAJBk/LjLR-eOi4Us/s1600/working-on-my-novel-2.jpg" alt="" width="400" height="300" border="0" /></a>

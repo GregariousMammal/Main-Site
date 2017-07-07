@@ -4,9 +4,11 @@ title: Is Jaipur India's smartest city?
 date: 2016-05-30 14:30:15.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Smart Cities
 tags:
   - 3M

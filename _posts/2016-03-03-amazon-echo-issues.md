@@ -4,9 +4,11 @@ title: Amazon Echo Getting Kudos Among Its Competitors
 date: 2016-03-03 17:30:00.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Fintech
   - Hack
@@ -37,7 +39,9 @@ meta:
   ninja_forms_edit_title: '0'
   ninja_forms_edit_content: '0'
   ninja_forms_edit_categories:
-  - Cate '0'
+  - Cate
+  - writing
+  - readwrite '0'
   ninja_forms_edit_tags: '0'
   ninja_forms_edit_status: '0'
   _advads_ad_settings: a:1:{s:11:"disable_ads";i:0;}

@@ -4,9 +4,11 @@ title: Could robots replace us in security jobs?
 date: 2016-09-02 15:00:24.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Fintech
   - Health

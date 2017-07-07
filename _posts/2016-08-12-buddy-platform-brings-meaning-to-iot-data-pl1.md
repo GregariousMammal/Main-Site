@@ -4,9 +4,11 @@ title: Buddy Platform brings new meaning to old IoT data
 date: 2016-08-12 16:02:10.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Industrial
 tags:
   - B2B

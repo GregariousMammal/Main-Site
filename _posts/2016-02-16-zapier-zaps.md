@@ -4,9 +4,11 @@ title: Zapier Introduces Multi-Step Zaps
 date: 2016-02-16 19:19:24.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Fintech
   - Grow

@@ -9,7 +9,9 @@ permalink: /2014/09/moving-countries-and-moving-kitchens.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/09/kitchen-appliances.html
 blogger_internal:

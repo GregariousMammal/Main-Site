@@ -9,7 +9,9 @@ permalink: /2015/01/my-new-recipe-ebook-australian-classics-veganised.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/01/my-new-recipe-ebook-australian-classics.html
 blogger_internal:

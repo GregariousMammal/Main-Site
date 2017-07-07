@@ -9,13 +9,17 @@ permalink: /2014/01/a-few-pictorial-tales-of-2013.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2013/12/a-few-tales-of-2013-visited-parts-of.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/8888643232401694144
 tags:
   - Cate
+  - writing
+  - readwrite
   - cat
   - cooking
   - holiday

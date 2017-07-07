@@ -4,9 +4,11 @@ title: Android N To Use Oracle’s OpenJDK For Java APIs
 date: 2015-12-30 20:41:19.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Code
   - Connected Devices
   - Fintech

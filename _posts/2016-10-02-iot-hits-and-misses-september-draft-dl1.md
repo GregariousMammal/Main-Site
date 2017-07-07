@@ -4,9 +4,11 @@ title: 'Calm, cruel and connected: September''s best and worst of IoT'
 date: 2016-10-02 17:02:09.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
 tags:
   - Alchema

@@ -9,7 +9,9 @@ permalink: /2015/02/jumbo-vegan-crumpets-2.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/02/jumbo-vegan-crumpets.html
 blogger_internal:

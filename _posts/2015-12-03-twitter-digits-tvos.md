@@ -4,9 +4,11 @@ title: Twitter's Digits Frees Apple TV Apps From The Tyranny Of The Password
 date: 2015-12-03 18:49:51.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Code
 tags:
   - Apple TV

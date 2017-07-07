@@ -4,9 +4,11 @@ title: The Future of Wearables Is Implanted
 date: 2016-02-19 17:26:16.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Wear
 tags:

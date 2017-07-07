@@ -4,9 +4,11 @@ title: Wearables bringing fan love to Euro Cup
 date: 2016-07-07 12:00:15.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
 tags:
   - connected clothing

@@ -4,9 +4,11 @@ title: Are Robots Replacing Humans In Customer Care?
 date: 2016-04-24 13:00:30.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Fintech
   - Health
@@ -47,7 +49,9 @@ meta:
   ninja_forms_edit_title: '0'
   ninja_forms_edit_content: '0'
   ninja_forms_edit_categories:
-  - Cate '0'
+  - Cate
+  - writing
+  - readwrite '0'
   ninja_forms_edit_tags: '0'
   ninja_forms_edit_status: '0'
   _yoast_wpseo_primary_category: '7084'

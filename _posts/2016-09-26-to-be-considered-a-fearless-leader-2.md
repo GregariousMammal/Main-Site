@@ -4,9 +4,11 @@ title: To Be Considered A Fearless Leader
 date: 2016-09-26 10:33:46.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
-  - Cate []
+  - Cate
+  - writing
+  - readwrite []
 tags: []
 meta:
   instant_articles_submission_id: '364362740582877'

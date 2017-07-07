@@ -4,9 +4,11 @@ title: University rankings guide up global and national rankings rev for 2015 ad
 date: 2016-10-17 01:42:25.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
-  - Cate []
+  - Cate
+  - writing
+  - readwrite []
 tags: []
 meta:
   instant_articles_submission_id: '1811992675736920'

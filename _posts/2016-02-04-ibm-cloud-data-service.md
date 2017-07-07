@@ -4,9 +4,11 @@ title: IBM Launches A Cloud Data And Analytics Marketplace For Developers
 date: 2016-02-04 21:48:47.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Code
   - Connected Devices
   - Fintech

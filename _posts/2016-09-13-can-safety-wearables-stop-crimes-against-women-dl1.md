@@ -4,9 +4,11 @@ title: Can safety wearables really stop crimes against women?
 date: 2016-09-13 10:30:12.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
 tags:
   - Athena

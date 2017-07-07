@@ -4,9 +4,11 @@ title: 'Calm, cruel and connected: May''s best and worst of IoT'
 date: 2016-05-23 13:00:25.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
 tags:
   - Alexa

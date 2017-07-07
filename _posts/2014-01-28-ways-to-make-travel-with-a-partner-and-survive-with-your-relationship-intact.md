@@ -9,7 +9,9 @@ permalink: /2014/01/ways-to-make-travel-with-a-partner-and-survive-with-your-rel
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/01/ways-to-make-travel-with-suitcase-and.html
 blogger_internal:

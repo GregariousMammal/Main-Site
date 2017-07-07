@@ -4,9 +4,11 @@ title: IoT, Easy As A-B-C?
 date: 2016-01-27 21:03:48.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Code
 tags:
   - Cayenne

@@ -4,9 +4,11 @@ title: Can the blockchain and IoT solve international freight's issues?
 date: 2016-06-10 12:30:54.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Fintech
   - Transport
 tags:

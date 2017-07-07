@@ -4,9 +4,11 @@ title: The Internet of Packaging? Meet Magic Add
 date: 2016-05-06 12:00:11.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Fintech
   - Health

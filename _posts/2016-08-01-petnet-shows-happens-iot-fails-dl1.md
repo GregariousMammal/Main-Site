@@ -4,9 +4,11 @@ title: Petnet's failure is a warning to IoT developers
 date: 2016-08-01 10:00:09.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
 tags:
   - connected pets

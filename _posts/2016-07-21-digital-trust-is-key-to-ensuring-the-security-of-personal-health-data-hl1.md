@@ -4,9 +4,11 @@ title: Digital trust could be the key to ensure personal health data
 date: 2016-07-21 14:30:37.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Health
 tags:
   - Accenture

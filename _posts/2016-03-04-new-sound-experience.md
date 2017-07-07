@@ -4,9 +4,11 @@ title: Noveto Systems Changes Sound As We Know It
 date: 2016-03-04 19:35:55.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connect
   - Connected Devices
 tags:

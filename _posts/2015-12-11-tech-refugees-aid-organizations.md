@@ -4,9 +4,11 @@ title: How Tech Is Helping Europe's Refugees
 date: 2015-12-11 19:13:04.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Social
 tags:
   - community

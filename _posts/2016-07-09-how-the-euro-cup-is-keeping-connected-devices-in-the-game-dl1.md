@@ -4,9 +4,11 @@ title: How the Euro Cup is keeping connected devices in the game
 date: 2016-07-09 12:00:45.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
 tags:
   - Adidas

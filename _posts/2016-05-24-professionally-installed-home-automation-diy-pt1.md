@@ -4,9 +4,11 @@ title: Do we really want to DIY our home automation?
 date: 2016-05-24 12:00:08.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Fintech
   - Health

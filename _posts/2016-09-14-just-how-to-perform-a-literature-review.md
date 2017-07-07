@@ -4,9 +4,11 @@ title: Just how to Perform A Literature Review
 date: 2016-09-14 01:05:34.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
-  - Cate []
+  - Cate
+  - writing
+  - readwrite []
 tags: []
 meta:
   instant_articles_submission_id: '185201368606691'

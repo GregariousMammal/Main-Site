@@ -4,9 +4,11 @@ title: 8 Tech Resolutions To Make In 2016
 date: 2016-01-01 12:00:00.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Lead
 tags:
   - community

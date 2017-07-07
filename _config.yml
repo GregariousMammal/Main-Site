@@ -76,12 +76,10 @@ defaults:
 collections:
   events:
     output: true
-  connect:
-    output: true
   merchandise:
     output: true
     layout: merchandise
-  work:
+  clients:
     output: true
 
 picture:

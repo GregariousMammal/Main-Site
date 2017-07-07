@@ -4,9 +4,11 @@ title: Can a blockchain-IoT hybrid finally give us smart guns?
 date: 2016-09-26 09:30:09.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Health
 tags:

@@ -9,7 +9,9 @@ permalink: /2014/01/new-year-new-blog.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2013/12/new-year-new-blog.html
 blogger_internal:

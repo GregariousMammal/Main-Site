@@ -20,7 +20,12 @@ permalink: /events/
                 {% if post.image %}
                   {% picture listings {{post.image}} alt="{{post.title}}" %}
                 {% endif %}
-              <h2><a href="{{ post.url }}">{{ post.event }}</a></h2>
+                {% if post.category[0] == 'Chris' or post.category[0] == 'Cate'%}
+                <p>{{post.category[0]}} is attending…</p>
+                {% else %}
+                <p>Chris & Cate are attending…</p>
+                {% endif %}
+              <h2><a href="{{ post.pres_url }}">{{ post.event }}</a></h2>
               <h3>{{ post.title }}</h3>
               <div class="post-meta">
                 <p>{{ post.venue }}</p>

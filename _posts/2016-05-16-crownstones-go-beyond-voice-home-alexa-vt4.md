@@ -4,9 +4,11 @@ title: Crownstone takes home automation beyond Alexa
 date: 2016-05-16 16:03:31.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Fintech
   - Health

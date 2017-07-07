@@ -9,7 +9,9 @@ permalink: /2014/02/grow-your-own-salad-sprouts-without-a-garden.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/02/salad-sprout.html
 blogger_internal:

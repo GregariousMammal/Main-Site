@@ -9,7 +9,9 @@ permalink: /2015/02/veganised-portuguese-custard-tarts.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/02/portuguese-custard-tarts.html
 blogger_internal:

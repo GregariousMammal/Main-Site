@@ -4,9 +4,11 @@ title: Cover My Ass!
 date: 2016-10-11 10:25:20.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
-  - Cate []
+  - Cate
+  - writing
+  - readwrite []
 tags: []
 meta:
   instant_articles_submission_id: '883452331790603'

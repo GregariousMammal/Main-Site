@@ -9,7 +9,9 @@ permalink: /2015/02/6-food-trends-i-am-completely-over-and-6-i-am-eagerly-awaiti
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/02/6-food-trends-i-am-completely-over-and.html
 blogger_internal:

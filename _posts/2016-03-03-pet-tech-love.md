@@ -4,9 +4,11 @@ title: My Dog is More Connected Than Your Dog
 date: 2016-03-03 18:00:00.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Wear
 tags:

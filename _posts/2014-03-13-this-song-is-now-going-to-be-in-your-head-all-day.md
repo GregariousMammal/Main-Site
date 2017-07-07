@@ -9,7 +9,9 @@ permalink: /2014/03/this-song-is-now-going-to-be-in-your-head-all-day.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/03/this-song-is-now-going-to-be-in-your.html
 blogger_internal:

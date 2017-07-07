@@ -4,9 +4,11 @@ title: Universities that are best to Organize for a Job in Astronomy
 date: 2016-09-21 11:07:10.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
-  - Cate []
+  - Cate
+  - writing
+  - readwrite []
 tags: []
 meta:
   instant_articles_submission_id: '975440059252381'

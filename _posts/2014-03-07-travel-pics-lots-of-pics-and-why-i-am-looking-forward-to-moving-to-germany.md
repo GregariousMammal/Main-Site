@@ -9,7 +9,9 @@ permalink: /2014/03/travel-pics-lots-of-pics-and-why-i-am-looking-forward-to-mov
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/03/travel-pics-lots-of-pics-and-why-i-am.html
 blogger_internal:

@@ -4,9 +4,11 @@ title: How IoT is changing the fashion retail experience
 date: 2016-05-17 14:30:15.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Fintech
   - Health

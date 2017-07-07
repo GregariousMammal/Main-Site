@@ -4,9 +4,11 @@ title: Why The Blockchain, Not Bitcoin, Is What's Fascinating Builders
 date: 2016-01-06 18:56:27.000000000 +01:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Code
 tags:
   - bitcoin
@@ -30,7 +32,9 @@ meta:
   ninja_forms_edit_title: '0'
   ninja_forms_edit_content: '0'
   ninja_forms_edit_categories:
-  - Cate '0'
+  - Cate
+  - writing
+  - readwrite '0'
   ninja_forms_edit_tags: '0'
   ninja_forms_edit_status: '0'
   _yoast_wpseo_focuskeywords: "[]"

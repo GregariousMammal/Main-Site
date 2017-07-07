@@ -4,9 +4,11 @@ title: Xerox beacon technology brings retail to commuters
 date: 2016-09-04 09:00:44.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Fintech
   - Health

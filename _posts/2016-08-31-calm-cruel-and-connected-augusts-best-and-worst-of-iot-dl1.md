@@ -4,9 +4,11 @@ title: 'Calm, cruel and connected: August''s best and worst of IoT'
 date: 2016-08-31 13:00:08.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Health
 tags:

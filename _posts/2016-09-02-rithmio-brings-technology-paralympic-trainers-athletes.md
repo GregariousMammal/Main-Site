@@ -4,9 +4,11 @@ title: Rithmio gathers new data on Paralympic athletes and trainers
 date: 2016-09-02 14:00:43.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
   - Cate
+  - writing
+  - readwrite
   - Connected Devices
   - Health
 tags:

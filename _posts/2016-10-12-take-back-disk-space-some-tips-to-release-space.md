@@ -4,9 +4,11 @@ title: Take Back Disk Space   - Some Tips to Release Space Effectively
 date: 2016-10-12 01:19:14.000000000 +02:00
 type: post
 published: true
-status: publish
+publication_url: null
 categories:
-  - Cate []
+  - Cate
+  - writing
+  - readwrite []
 tags: []
 meta:
   instant_articles_submission_id: '1785869238334362'

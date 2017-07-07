@@ -9,7 +9,9 @@ permalink: /2015/01/quinoa-barley-and-pickled-vegetable-salad.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/01/quinoa-barley-and-pickled-vegetable.html
 blogger_internal:
