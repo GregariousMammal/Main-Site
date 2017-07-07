@@ -2,7 +2,7 @@
 layout: post
 title: 6 ideas to consider in smart city
 date: '2017-04-17 11:13:30 +0100'
-image:7705-CityGuideImage-e1492498216399.jpg
+image: 7705-CityGuideImage-e1492498216399.jpg
 categories: Cate writing readwrite
 tags: smartcities IoT citizenscience surveillance
 publication_url: https://readwrite.com/2017/04/17/6-ideas-consider-smart-city-development-cl1/

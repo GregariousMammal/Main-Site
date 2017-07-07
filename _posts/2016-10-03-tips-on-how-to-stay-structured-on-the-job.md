@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Tips on How-To Stay Structured On the Job
-date: 2016-10-03 04:26:37.000000000 +02:00
+date: 2016-10-03
 type: post
 published: true
 status: publish
 categories:
-  - Cate []
-tags: []
+  - Cate
+tags:
 meta:
   instant_articles_submission_id: '1106888902763164'
   _is_empty_after_transformation: 'no'

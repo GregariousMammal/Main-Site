@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Going down: Bringing AR to elevator servicing with HoloLens
+title: Going down - Bringing AR to elevator servicing with HoloLens
 date: '2016-10-22 11:13:30 +0100'
-image: tke-composing-hololens-16-9-sl_image_w886.md
+image: tke-composing-hololens-16-9-sl_image_w886.jpg
 categories: Cate writing readwrite
 tags: AR Hololens Thyssenkrupp
 publication_url: https://readwrite.com/2016/10/22/thyssenkrupp-brings-ar-to-elevator-servicing-with-microsoft-hololens-il1/
