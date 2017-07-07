@@ -1,0 +1,153 @@
+---
+layout: post
+title: Life In An All-Business App Store
+date: 2016-03-01 19:27:59.000000000 +01:00
+type: post
+published: true
+status: publish
+categories:
+  - Cate
+  - Connected Devices
+  - Fintech
+  - Grow
+  - Health
+  - Industrial
+  - Smart Cities
+  - Transport
+tags:
+  - Atlassian
+  - atlassian jira
+  - B2B
+  - Marketplaces
+  - Tempo
+  - Zephyr
+meta:
+  _thumbnail_id: '136923410025490020'
+  dpsp_networks_shares: a:3:{s:8:"linkedin";i:0;s:6:"reddit";i:0;s:11:"google-plus";i:0;}
+  _edit_last: '549'
+  _yoast_wpseo_newssitemap-exclude: 'off'
+  _yoast_wpseo_newssitemap-standout: 'off'
+  _yoast_wpseo_newssitemap-editors-pick: 'off'
+  rp4wp_cached: '1'
+  _is_empty_after_transformation: 'no'
+  _has_warnings_after_transformation: 'no'
+author:
+  login: cate-lawrence
+  email: cate@atravellingcook.com
+  display_name: Cate Lawrence
+  first_name: Cate
+  last_name: Lawrence
+excerpt: Atlassian gets B2B developer kudos
+---
+Developers love Australian enterprise software company
+[Atlassian](https://www.atlassian.com/) for its first and most popular
+product, [JIRA](https://www.atlassian.com/software/jira?_mid=86ef4f53896fdb61cc6c2cc0e849441c&gclid=CjwKEAiA9c-2BRC_vaaJ0Ybps30SJABlqxDesj6-lKQSkPn5rLh3AA2NkS6_HJh0l59oSTvbui_NvBoC5MDw_wcB),
+used across many applications being developed by teams around the world.
+It's a product that has grown beyond its developer focus, with Atlassian
+claiming that over a third of its users come from businesses units
+outside of software development, including sales, marketing, and HR. Key
+customers include NASA, Twitter, and Tesla.
+
+Digging into Atlassian's app marketplace reveals that great software
+isn’t just being created by big brand developer outfits or tech
+companies, but by small shops and teams of developers around the world. 
+
+Servicing B2B businesses and clients through this marketplace, they’re
+part of a thriving app economy – real developers, real products and real
+payouts. I recently spoke to two development companies that are
+Atlassian vendors, [Tempo](http://tempo.io/) and
+[Zephyr](http://www.getzephyr.com/), about their experiences in a B2B
+app store.  They reveal an interesting story often neglected by the
+excitement of B2C. 
+
+Tempo
+-----
+
+![](rw-import/MTM2OTIyNTk2OTM0NDI4MjU1.png)
+
+Tempo Logo
+
+[Tempo](http://tempo.io/) is one of the top-selling add-on vendors in
+the Atlassian ecosystem, offering a number of products that extend JIRA
+to help business teams collaborate, plan, track, and work more
+efficiently together. From tracking annual leave budgets and time off,
+to timesheets within project management, Tempo helps teams execute. I
+recently spoke with Jessica VanderVeen, Tempo's VP Marketing &
+Communication, to learn a bit about the company. She revealed Tempo
+emerged from a start-up innovation day and their time-tracking system,
+launched in 2009, was one of the first to enter the system.
+
+Tempo decided to join Atlassian's marketplace early on, attracted to
+their "strong values and efficient sales model." VanderVeen adds that
+Atlassian has "really set a good example for developers in the
+ecoyststem."
+
+> *"Being part of a marketplace like Atlassian has enabled us to create
+> a lucrative product, increase brand awareness and marketing. It's
+> meant that all sales work has been migrated, enabling us to focus on
+> development, doing what we are good at." *
+
+It's been a good move for Tempo. They've grown from one to four products
+with a team of over 75, with offices in Reykjavík, Iceland, and
+Montréal, Canada. Their over-7,000 customers include Dell, Netflix, Ebay
+and BMW. 
+
+Tempo won two awards at last November's Atlassian Summit: top-selling
+cloud add-on at the Atlassian Marketplace and [most creative marketing
+campaign](https://vimeo.com/123619184) that was actually a great April
+Fool's Day prank. Yet they are still intent on focusing on what they do
+best - developing. "We’re really interested in building cloud
+solutions," says VanderVeen. "We have additional products that we’d like
+to launch, and we want to continue to expand on mobile offering."
+
+Zephyr
+------
+
+![](rw-import/MTM2OTI0MTc1MDY2NDc0MDgx.jpg)\
+
+ Zephyr logo
+
+[Zephyr](http://www.getzephyr.com/) is provider of on-demand, real-time
+enterprise test management solutions, providing developers with a test
+management tool to allow software developers and testers to manage all
+of their testing before they release their products on the unsuspecting
+public.
+
+I spoke to Samir Shah, founder and CEO of Zephyr, about their
+experiences in deciding to join forces with Atlassian:
+
+> *"We got in touch with Atlassian in 2008, actually when they had just
+> opened an office here in San Francisco. Customers were actually asking
+> us, 'Hey, what about an integration to JIRA?' We didn’t know what JIRA
+> was at that point in time (and) when we did our research, (we) found
+> it was something called Atlassian and they had an office in San
+> Francisco. We met with them and we integrated our product with
+> them. This was a refreshing different way of working because here we
+> are, a small company walking up to this company and saying, 'Hey, we
+> want to integrate.' They are like, 'Sure. What do you want? Here is
+> the source code. Here is the API. How can we help you?' We’re like
+> 'Wait a second. Nobody works this way.' Well, Atlassian did and
+> they’ve continued to do that. It was extremely appealing to us to go
+> off and build our integration. It didn’t just stop there."*
+
+Like Tempo, Zephyr had found the independent marketplace challenging but
+rewarding:                
+
+> * "It’s not easy marketing and selling and going and finding your
+> customers and dealing with them one by one to make sales happen. (But)
+> we are adding ten new customers every single day off of these
+> platforms. This shrinks the world. This shrinks the world in such a
+> huge way. There was no way I was going to be able to sell my software
+> in the Maldives. I can’t even find the Maldives on a map, let alone
+> set up a sales team in an office and try and sell software to 106
+> different countries. That’s this whole change that we are seeing right
+> now. Software is no more the purview of these large organizations that
+> build huge monolithic suites that you have to buy as a whole. At this
+> point in time, you buy exactly what and how much you want."*
+
+It certainly seems that Zephyr is giving customers what they want,
+having grown from 20 to 80 people in the company over four years. They
+now have over 7,000 customers and more than 1 million users around the
+globe. With their success, Atlassian also reaps the benefits of the
+marketplace and the relationships it continues to build with these
+dynamic development teams    
