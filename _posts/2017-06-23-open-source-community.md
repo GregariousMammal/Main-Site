@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: Sick of Drama in Open-Source Communities? Here Are 8 Unwritten Rules to Follow
 date: '2017-06-23 11:13:30 +0100'

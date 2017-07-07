@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: Is DIY smart home tech hobbled by poor app functionality?
 date: 2016-06-23 15:00:37.000000000 +02:00

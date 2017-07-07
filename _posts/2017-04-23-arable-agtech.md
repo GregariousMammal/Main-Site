@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: How hard is it to bring precision analytics to agtech?
 date: '2016-04-17 11:13:30 +0100'

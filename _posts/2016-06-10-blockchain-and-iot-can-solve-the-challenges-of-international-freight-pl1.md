@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: Can the blockchain and IoT solve international freight's issues?
 date: 2016-06-10 12:30:54.000000000 +02:00

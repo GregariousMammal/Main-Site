@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: Xerox beacon technology brings retail to commuters
 date: 2016-09-04 09:00:44.000000000 +02:00

@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: Adidas wants to be the coolest gym teacher ever
 date: 2016-04-18 13:15:03.000000000 +02:00

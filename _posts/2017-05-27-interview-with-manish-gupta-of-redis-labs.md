@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: Interview With Manish Gupta of Redis Labs
 date: '2017-05-27 11:13:30 +0100'

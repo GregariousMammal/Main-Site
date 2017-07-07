@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: What Do Attacks Like WannaCry Mean for the Future of Smart City Infrastructure?
 date: '2017-05-22 11:13:30 +0100'

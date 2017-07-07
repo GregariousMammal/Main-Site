@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: How IoT is changing the fashion retail experience
 date: 2016-05-17 14:30:15.000000000 +02:00

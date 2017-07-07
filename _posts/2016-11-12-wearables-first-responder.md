@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: Wearable innovation is coming to first responder technology
 date: '2016-11-12 11:13:30 +0100'

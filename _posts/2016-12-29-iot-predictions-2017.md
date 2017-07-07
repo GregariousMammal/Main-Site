@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: 8 predictions for the future of IoT in 2017
 date: '2016-12-29 11:13:30 +0100'

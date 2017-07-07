@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: Can a blockchain-IoT hybrid finally give us smart guns?
 date: 2016-09-26 09:30:09.000000000 +02:00

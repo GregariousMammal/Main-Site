@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: How the Euro Cup is keeping connected devices in the game
 date: 2016-07-09 12:00:45.000000000 +02:00

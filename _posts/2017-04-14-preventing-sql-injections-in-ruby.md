@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: Preventing SQL injections in Ruby (and other vulnerabilities)
 date: '2017-04-14 11:13:30 +0100'

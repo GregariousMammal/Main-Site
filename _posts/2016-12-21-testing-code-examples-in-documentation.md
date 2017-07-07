@@ -1,4 +1,4 @@
----
+  - --
 title: Testing Code Examples in Documentation
 created: 2016-12-21T00:00:00.000Z
 publication_url: 'https://blog.codeship.com/testing-code-examples-in-documentation/'

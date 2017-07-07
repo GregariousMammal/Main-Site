@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: Buddy Platform brings new meaning to old IoT data
 date: 2016-08-12 16:02:10.000000000 +02:00

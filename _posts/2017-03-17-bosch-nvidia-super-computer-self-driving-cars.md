@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: Bosch and Nvidia create an AI supercomputer for self-driving tech
 date: '2017-01-26 11:13:30 +0100'

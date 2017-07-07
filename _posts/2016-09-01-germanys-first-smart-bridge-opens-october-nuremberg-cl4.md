@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: Germany's first smart bridge to open next month
 date: 2016-09-01 11:00:27.000000000 +02:00

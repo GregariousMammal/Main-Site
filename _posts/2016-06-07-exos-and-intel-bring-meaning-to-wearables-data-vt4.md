@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: EXOS and Intel bring sense to wearables data
 date: 2016-06-07 05:00:30.000000000 +02:00

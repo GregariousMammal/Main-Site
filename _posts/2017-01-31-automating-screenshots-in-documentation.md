@@ -1,4 +1,4 @@
----
+  - --
 title: Automating Screenshots in Documentation
 created: 2017-01-31T00:00:00.000Z
 publication_url: https://blog.codeship.com/automating-screenshots-in-documentation/

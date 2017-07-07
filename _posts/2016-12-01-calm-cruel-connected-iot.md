@@ -1,4 +1,4 @@
----
+  - --
 layout: post
 title: Calm, cruel and connected: November’s best and worst of IoT
 date: '2016-12-01 11:13:30 +0100'
