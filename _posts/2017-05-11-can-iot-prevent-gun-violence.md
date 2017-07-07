@@ -4,7 +4,11 @@ title: Can IoT prevent gun violence across America's cities?
 date: '2017-04-29 10:13:30 +0100'
 image: ShotSpotter_IRP_Screenshot-List.jpg
 categories: Cate writing readwrite
-tags: smartcities publicsafety crime sensortech
+tags:
+-smart cities 
+-public safety
+-crime
+-sensor tech
 publication_url: http://readwrite.com/2017/05/11/can-iot-prevent-gun-violence-across-cities-cl1/
 ---
 

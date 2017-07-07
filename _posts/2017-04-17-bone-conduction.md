@@ -4,7 +4,14 @@ title: Has bone conduction returned to wearables?
 date: '2017-04-17 11:13:30 +0100'
 image: 9667-e1492148435204.jpg
 categories: Cate writing readwrite
-tags: IoT connecteddevices wearabletech connectedhealth sgnl googleglass projectaura 
+tags:
+-IoT
+-connected devices
+-wearable tech
+-connected health
+-Sgnl
+-google glass
+-Project Aura 
 publication_url: https://readwrite.com/2017/04/13/bone-conduction-returned-to-wearables-dl1/
 ---
 
