@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Can IoT prevent gun violence across America's cities?
 date: '2017-04-29 10:13:30 +0100'

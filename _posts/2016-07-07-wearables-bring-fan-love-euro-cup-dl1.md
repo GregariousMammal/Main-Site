@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Wearables bringing fan love to Euro Cup
 date: 2016-07-07 12:00:15.000000000 +02:00

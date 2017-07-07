@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Brain.fm brings musical AI to Rio Olympics' training
 date: 2016-08-07 12:00:26.000000000 +02:00

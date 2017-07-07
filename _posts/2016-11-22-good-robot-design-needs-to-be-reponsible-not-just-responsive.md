@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Good robot design needs to be responsible, not just responsive
 date: 2016-11-22 22:52:10.000000000 +01:00

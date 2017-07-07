@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: 'iTake, Bucharest: A Crash Course in Software Craftsmanship'
 date: 2017-05-17T00:00:00.000Z

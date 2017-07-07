@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Going down - Bringing AR to elevator servicing with HoloLens
 date: '2016-10-22 11:13:30 +0100'

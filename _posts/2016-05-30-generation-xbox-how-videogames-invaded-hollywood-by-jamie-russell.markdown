@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: "Generation Xbox: How Videogames Invaded Hollywood, by Jamie Russell"
 date: "2016-05-30 08:36:38 +0200"

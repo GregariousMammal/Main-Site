@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Is smart dust the IoT vector of the future?
 date: 2016-08-20 13:00:04.000000000 +02:00

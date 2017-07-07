@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Maintool can now make any watch into a smartwatch
 date: '2016-10-13 11:13:30 +0100'

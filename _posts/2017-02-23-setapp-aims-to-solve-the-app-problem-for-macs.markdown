@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Setapp aims to solve the App problem for Macs
 date: '2017-02-23 18:13:30 +0100'

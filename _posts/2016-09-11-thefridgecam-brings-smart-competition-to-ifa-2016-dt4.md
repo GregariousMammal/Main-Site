@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: TheFridgeCam lets you spy on your milk, cheaply
 date: 2016-09-11 12:00:18.000000000 +02:00

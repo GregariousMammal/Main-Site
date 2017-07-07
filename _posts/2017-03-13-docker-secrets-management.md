@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Docker Secrets Management
 date: '2017-03-13 18:13:30 +0100'

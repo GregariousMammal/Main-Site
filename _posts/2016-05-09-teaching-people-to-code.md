@@ -1,4 +1,4 @@
-  - --
+---
 layout: podcast
 categories: Chris media podcast
 title: Teaching People to Code

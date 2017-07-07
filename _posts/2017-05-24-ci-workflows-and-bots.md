@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: CI Workflows and Bots
 date: Wed, 24 May 2017 15:15:12 +0000

@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Real-Time OCR for Mobile Apps With RTR SDK
 date: '2017-04-17 11:13:30 +0100'

@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Exactly How Many Academic Loans Do You Want For A Master's-Degree
 date: 2016-09-09 01:34:40.000000000 +02:00

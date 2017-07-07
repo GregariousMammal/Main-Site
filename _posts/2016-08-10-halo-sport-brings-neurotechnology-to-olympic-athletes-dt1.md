@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Will Rio athletes trade their Halo for medals?
 date: 2016-08-10 13:00:04.000000000 +02:00

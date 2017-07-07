@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Teaching Children to Code
 date: '2017-03-09 18:13:30 +0100'

@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: The realities and challenges of being a digital nomad
 date: '2017-04-11 18:13:30 +0100'

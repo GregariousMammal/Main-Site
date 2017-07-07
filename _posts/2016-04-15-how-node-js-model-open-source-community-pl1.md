@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: How Node.js created a model open source community
 date: 2016-04-15 11:30:33.000000000 +02:00

@@ -1,4 +1,4 @@
-  - --
+---
 type: podcast
 layout: podcast
 categories: Chris writing books

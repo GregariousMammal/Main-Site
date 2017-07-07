@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Can Halo Sport change our brain efficiency?
 date: 2016-04-27 13:00:37.000000000 +02:00

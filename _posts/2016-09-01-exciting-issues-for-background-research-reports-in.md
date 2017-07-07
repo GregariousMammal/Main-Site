@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Exciting Issues for Background Research Reports in College
 date: 2016-09-01 02:31:17.000000000 +02:00

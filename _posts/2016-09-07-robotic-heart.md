@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: How close are we to the robotic human heart?
 date: '2016-09-07 10:13:30 +0100'

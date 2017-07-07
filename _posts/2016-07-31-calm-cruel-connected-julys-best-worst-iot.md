@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: 'Calm, cruel and connected: July’s best and worst of IoT'
 date: 2016-07-31 15:00:29.000000000 +02:00

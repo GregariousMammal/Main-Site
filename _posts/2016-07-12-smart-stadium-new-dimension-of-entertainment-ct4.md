@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Kicking the fun up a notch at your local smart stadium
 date: 2016-07-12 13:00:46.000000000 +02:00

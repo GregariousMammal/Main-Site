@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: 'Trump, tech, news, opinions and solutions'
 date: '2016-11-21 11:24:48 +0100'

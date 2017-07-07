@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: To Be Considered A Fearless Leader
 date: 2016-09-26 10:33:46.000000000 +02:00

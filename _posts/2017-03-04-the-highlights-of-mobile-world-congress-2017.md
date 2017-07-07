@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: The Highlights of Mobile World Congress 2017
 date: '2017-03-04 18:13:30 +0100'

@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Companies join Linux Foundation to build open IoT edge framework
 date: '2017-04-25 11:13:30 +0100'

@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Tips on How-To Stay Structured On the Job
 date: 2016-10-03

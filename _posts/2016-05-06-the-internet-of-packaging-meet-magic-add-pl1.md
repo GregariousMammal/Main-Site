@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: The Internet of Packaging? Meet Magic Add
 date: 2016-05-06 12:00:11.000000000 +02:00

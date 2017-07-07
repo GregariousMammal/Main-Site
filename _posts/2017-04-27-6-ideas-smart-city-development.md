@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: 6 ideas to consider in smart city
 date: '2017-04-17 11:13:30 +0100'

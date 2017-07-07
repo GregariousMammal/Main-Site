@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Could this be the first smart car for quadriplegics?
 date: 2016-08-02 15:00:30.000000000 +02:00

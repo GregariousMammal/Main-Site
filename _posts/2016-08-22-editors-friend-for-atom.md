@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Editors Friend for Atom
 created: 2016-08-22T00:00:00.000Z

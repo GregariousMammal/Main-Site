@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: How can robotics bring real innovation to the warehouse experience?
 date: 2016-10-04 21:03:54.000000000 +02:00

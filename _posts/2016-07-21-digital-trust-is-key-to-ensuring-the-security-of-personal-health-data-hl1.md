@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Digital trust could be the key to ensure personal health data
 date: 2016-07-21 14:30:37.000000000 +02:00

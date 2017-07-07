@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Chatting With Chip Childers, CTO of Cloud Foundry
 date: 2017-06-19

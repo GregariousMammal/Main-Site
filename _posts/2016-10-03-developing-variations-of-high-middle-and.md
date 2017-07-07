@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Developing Variations Of High , Middle And Elementary School Students
 date: 2016-10-03 03:36:05.000000000 +02:00

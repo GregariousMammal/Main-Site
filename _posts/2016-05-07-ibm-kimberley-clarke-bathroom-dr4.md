@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Guess how smart your bathroom can get?
 date: 2016-05-07 14:30:36.000000000 +02:00

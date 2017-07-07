@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Crownstone takes home automation beyond Alexa
 date: 2016-05-16 16:03:31.000000000 +02:00

@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Screeps - The MMO Sandbox Game for Programmers
 date: 2017-06-18

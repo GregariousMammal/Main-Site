@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Autonomous boats could be sailing into Amsterdam
 date: '2016-11-04 11:13:30 +0100'

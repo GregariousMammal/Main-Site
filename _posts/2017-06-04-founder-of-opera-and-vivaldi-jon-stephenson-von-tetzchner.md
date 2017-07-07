@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Founder of Opera and Vivaldi, Jon Stephenson von Tetzchner
 date: '2017-06-04 11:13:30 +0100'

@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: IoT, Wearables, and Fashiontech at WearIt Berlin
 date: 2017-06-15

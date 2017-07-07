@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: 'Calm, cruel and connected: April''s best and worst of IoT'
 date: 2016-05-01 15:00:23.000000000 +02:00

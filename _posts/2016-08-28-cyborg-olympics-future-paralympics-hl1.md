@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: Is the Cybathlon the future of the Paralympics?
 date: 2016-08-28 15:00:10.000000000 +02:00

@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: How to make steelworking a less dangerous profession
 date: 2016-09-03 09:00:14.000000000 +02:00

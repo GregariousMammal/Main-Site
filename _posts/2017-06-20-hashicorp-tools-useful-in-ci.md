@@ -1,4 +1,4 @@
-  - --
+---
 layout: post
 title: HashiCorp Tools Useful for Continuous Integration
 date: 2017-06-20
