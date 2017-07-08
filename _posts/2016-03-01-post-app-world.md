@@ -34,97 +34,10 @@ author:
   last_name: Lawrence
 excerpt: Introducing Cyanogen's MOD integrated mobile platform
 ---
+
 [Cyanogen
 Inc](https://readwrite.com/2015/03/24/cyanogen-microsoft-team-up-google).
 is a company with an interesting history. It grew from a [community of
 open source mobile developers](http://www.cyanogenmod.org/) interested
 in modifying their mobile phones into a successful business of
 third-party firmware. 
-
-Their best known product,** **CyanogenMod, is an open-source operating
-system for smartphones and tablet computers, based on the Android mobile
-platform. It is developed as free and open-source software based on the
-official releases of Android by Google, with added original and
-third-party code.  They're [not without
-controversy](https://readwrite.com/2013/11/11/cyanogen-steve-kondik-android),
-particularly due to their desire to ["Take away Android from
-Google."](http://www.androidauthority.com/cyanogen-google-kirt-mcmaster-582373/) They
-announced a[partnership with
-Microsoft](https://cyngn.com/press/cyanogen-announces-strategic-partnership-with-microsoft)in
-April last year, under which Cyanogen would integrate and distribute
-Microsoft’s consumer apps and services across core categories, including
-productivity, messaging, utilities, and cloud-based services. As part of
-this collaboration, Microsoft would create native integrations on
-Cyanogen OS.
-
-I met with some of the team at Cyanogen Inc. about their launch of MOD,
-an integrated mobile platform (not to be confused with CyanogenMod) that
-will introduce what they call "mods," - intelligent, contextually aware,
-and lightweight experiences built natively into the mobile operating
-system.  These mean that third-party applications could take advantage
-of platform APIs to implement unique experiences directly within the
-Cyanogen OS. 
-
-Essentially MOD enables a series of distinct experiences, none of which
-require you to "go into" the app to achieve. They include:
-
--   TrueCaller Mod : A global database of over two billion numbers
-    allows this mod to identify incoming spam calls and texts in the
-    native dialer and messenger apps so you can block them for good.
--   Social lock screen: Wake your phone up to view trending and relevant
-    posts from your favorite social networks right on the lock screen.
--   Skype Mod: This is integrated directly into the native dialer. You
-    can even upgrade to a Skype video call directly from an ongoing
-    phone call.
--   Cortana Mod: Allows you to do everything from setting reminders and
-    scheduling meetings to calling and texting friends. It is also
-    enabled with a voice-activated countdown timer for selfie shots. 
--   OneNote Mod: Take notes simply and intuitively anytime—from anywhere
-    in the OS. The OneNote mod creates entry points throughout the OS,
-    from the dialer to the browser and beyond. There's even a dedicated
-    quick settings tile so you can jot down a quick note anytime.
--   Hyperlapse Mod: Simply open the native camera app, pull up the mode
-    switcher and select Hyperlapse. Now you can shoot, edit, and share
-    Hyperlapse videos without ever needing to download a special app.
-
-![](rw-import/MTM2OTQ2OTI5NTM0NzcyODMz.png)
-
-Float notes mean you can jot down a note at any time.
-
-The team gave me a demo of MOD and explained that they considered apps
-to be "single minded and boring:" 
-
-> *"With mods, barriers to deeper integration are removed and developers
-> can now unleash the full potential of their applications across the
-> OS.  Users can conveniently access their workout playlist with
-> voice-activation, schedule a ride-sharing service from within their
-> calendar, and make a video conference call from their contacts list.
-> The system will even nudge users to install the perfect mod to help
-> you complete the task at hand. "*
-
-![](rw-import/MTM2OTQ3MjQ2MDIwMTc1NDU3.png)
-
-Voice activated photos make hands-free selfies easy
-
-****
-
-**MOD Ready Brings Speed and Scale to OEMs and MNOs**
-
-The challenge for Cyanogen is to ensure the technology can keep up with
-demand. To accelerate time-to-market for devices running MOD, Cyanogen
-has created MOD Ready, a scaling program that enables original equipment
-manufacturers (OEM) and mobile network operators (MNO) to rapidly launch
-phones across a broad range of chipset platforms. 
-
-As part of the MOD Ready program, Cyanogen will provide a Platform
-Development Kit (PDK) consisting of all the major components needed to
-launch a MOD enabled device. In addition, Cyanogen will work closely
-with major chipset providers to update the PDK roadmap with new chipsets
-on a quarterly basis. Since Cyanogen OS is CTS-compliant, MOD Ready
-devices will allow partners to take advantage of the existing Android
-ecosystem.
-
-The MOD platform will begin rolling out next month on devices with
-Cyanogen OS 13.0 or greater. It'll be interesting to see how this is
-received, I suspect they might have just created the norm of the
-future. 

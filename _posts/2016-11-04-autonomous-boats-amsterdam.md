@@ -7,4 +7,5 @@ categories: Cate writing readwrite
 tags:  connectedtransport amsterdam smartcities smartboat
 publication_url: https://readwrite.com/2016/11/04/autonomous-boats-are-coming-to-smart-city-amsterdam-cl1/
 ---
+
 Researchers at the Massachusetts Institute of Technology (MIT) and Amsterdam Institute for Advanced Metropolitan Solutions  have started the world’s first major research program on autonomous floating vessels in metropolitan areas1. The program, named Roboat, is the world’s first major research program on autonomous floating systems that focusses on moving people and goods, portable infrastructure and data gathering.

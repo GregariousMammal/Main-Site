@@ -61,59 +61,10 @@ author:
 excerpt: Report says Echo wins in customer reviews but consumers want to see better
   IoT connectivity across all platforms
 ---
+
 The Smart Home market competing ecosystems is frustrating customers,
 according to a new report from [Argus
 Insights](http://www.argusinsights.com). The report looks at the top
 current options for home connectivity and finds consumers less than
 delighted with an old tech theme - a lack of desire of competing
 technologies to work together.
-
-In particular, Google and Apple’s refusal to "play nice together" irks
-users who are happier with the broad and relatively easier-to-integrate
-Amazon Echo.
-
-According to data compiled from over 576,000 Smart Home device and
-application consumer reviews from January 2015 to present, the [Amazon
-Echo](http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E) and
-[Apple’s Homekit](http://www.apple.com/ios/homekit/) are top-of-mind for
-consumers specifically discussing ecosystems.
-
-The Amazon Echo has gained strong consumer interest since the product
-was broadly promoted at the recent Consumer Electronics
-Show. Interestingly, the Works with Nest environment is the least
-discussed ecosystem of those researched.
-
-![](rw-import/MTM2OTY5ODA3MjE0OTQ1ODg3.png)
-
-Apple's Homekit rates favourably
-
-John Feland, CEO of report authors Argus Insights, explains:
-
-*“Consumers enter the Smart Home journey under the premise of creating
-an intelligent home that anticipates and serves their needs in a
-delightful, low maintenance manner. Along this journey, after users
-overcome the hurdles of installation and continued use through often
-broken app experiences, they are confronted with a mess of protocols as
-they approach expansion.” *
-
-* “Consumers are dismissing Google’s Nest ecosystem play, and we are
-seeing a real battle between [Apple’s
-Siri](http://www.apple.com/ios/siri/) and [Amazon’s
-Alexa](https://play.google.com/store/apps/details?id=com.amazon.dee.app&hl=en)
-for the voice of the Smart Home. While Apple forces users to rely on iOS
-devices, Alexa will chat up anyone willing to integrate into the Echo
-API.” *
-
-It's worth noting that using reviews as a measurement tool of
-satisfaction may result in skewed data - people tend to be more inclined
-to take the time to review a negatively received product than a positive
-one. Further, a customer's needs at the early stages of the home IoT
-experience may differ greatly than when they want to try more complex
-integrations and connections.
-
-Currently, Google only works with Nest, HomeKit only works with iOS
-devices, and Alexa works with everyone.  Interconnectivity and the
-ability to function in multi-user environments will become more
-important as people introduce more smart devices into their home.
-Companies unwilling to facilitate this may soon find themselves passed
-over, however strong the consumer brand recognition.
