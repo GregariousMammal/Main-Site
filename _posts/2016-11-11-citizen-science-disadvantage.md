@@ -4,7 +4,11 @@ title: How IoT and citizen science can tackle urban disadvantage
 date: '2016-11-11 11:13:30 +0100'
 image: 3560610688_a5e7b04184_b-e1478935450936.jpg
 categories: Cate writing readwrite
-tags: smartcities citizenscience airquality sensortech
+tags: 
+  - smart cities
+  - citizen science
+  - air quality
+  - sensor tech
 publication_url: https://readwrite.com/2016/11/11/how-iot-and-citizen-science-can-tackle-urban-disadvantage-cl1/
 ---
 

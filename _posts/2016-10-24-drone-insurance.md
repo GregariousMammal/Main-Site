@@ -4,7 +4,10 @@ title: Mo’ drones, mo’ problems that need drone insurance
 date: '2016-10-24 11:13:30 +0100'
 image: drone-rescue.jpg
 categories: Cate writing readwrite
-tags: drones dronedelivery commercialdrones
+tags:
+  - drones
+  - drone delivery
+  - commercial drones
 publication_url: https://readwrite.com/2016/10/24/as-drone-purchasing-increases-so-does-the-need-for-insurance-pl1/
 ---
 

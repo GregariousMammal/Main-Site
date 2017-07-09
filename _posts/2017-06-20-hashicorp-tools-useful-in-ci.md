@@ -2,7 +2,7 @@
 layout: post
 title: HashiCorp Tools Useful for Continuous Integration
 date: 2017-06-20
-image:
+image: 761456.png
 categories: Chris writing codeship
 tags: ci continiousintergration devops vagrant
 publication_url: https://blog.codeship.com/hashicorp-tools-useful-in-ci/

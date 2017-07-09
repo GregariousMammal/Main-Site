@@ -2,9 +2,13 @@
 layout: post
 title: Enterprising Israel
 date: '2017-04-04 11:13:30 +0100'
-image:
+image: Tel-Aviv-startup-hub.jpg
 categories: Chris writing dzone
-tags: israel telaviv startups conferences
+tags:
+  - israel
+  - tel aviv
+  - startups
+  - conferences
 publication_url: https://dzone.com/articles/enterprising-israel
 ---
 

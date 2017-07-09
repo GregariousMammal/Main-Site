@@ -4,7 +4,11 @@ title: Autonomous boats could be sailing into Amsterdam
 date: '2016-11-04 11:13:30 +0100'
 image: roboat3-e1478270132697.jpg
 categories: Cate writing readwrite
-tags:  connectedtransport amsterdam smartcities smartboat
+tags:  
+  - connected transport
+  - amsterdam
+  - smart cities
+  - smart boat
 publication_url: https://readwrite.com/2016/11/04/autonomous-boats-are-coming-to-smart-city-amsterdam-cl1/
 ---
 

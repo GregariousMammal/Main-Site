@@ -2,7 +2,7 @@
 layout: post
 title: CI Workflows and Bots
 date: Wed, 24 May 2017 15:15:12 +0000
-image:
+image: robot-customer-service.png
 categories: Chris writing codeship
 tags: chatbots bots slack devops
 publication_url: https://blog.codeship.com/ci-workflows-and-bots/
