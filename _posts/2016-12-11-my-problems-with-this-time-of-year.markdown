@@ -4,7 +4,12 @@ title: My problems with this time of year
 date: '2016-12-11 11:00:06 +0100'
 image: merchandise/christmas-chinchilla.png
 categories: Chris writing theweeklysqueak
-tags: opinion life christmas holidays family
+tags:
+  - opinion
+  - life
+  - christmas
+  - holidays
+  - family
 excerpt: "That time of year is upon us, wether it be Christmas, 'The Holidays', Festivus, or whatever else you decide to call it. It's here, loud, everywhere and in your face. It felt like time to explain my point of view and problems with this time of the year."
 ---
 

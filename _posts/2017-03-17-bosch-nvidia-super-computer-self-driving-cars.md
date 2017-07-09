@@ -5,13 +5,13 @@ date: '2017-01-26 11:13:30 +0100'
 image: image003-e1489817074334.jpg
 categories: Cate writing readwrite
 tags:
--Bosch
--Nvidia
--self driving cars
--autonomous cars
--deep learning
--machine learning
--AI
+  - Bosch
+  - Nvidia
+  - self driving cars
+  - autonomous cars
+  - deep learning
+    - machine learning
+- AI
 publication_url: https://readwrite.com/2017/03/17/bosch-nvidia-partner-tai-supercomputer-self-driving-cars-tl1/
 ---
 

@@ -5,10 +5,10 @@ date: '2017-04-17 11:13:30 +0100'
 image:7705-CityGuideImage-e1492498216399.jpg
 categories: Cate writing readwrite
 tags:
--smart cities
--IoT
--citizen science
--surveillance
+  - smart cities
+  - IoT
+  - citizen science
+  - surveillance
 publication_url: https://readwrite.com/2017/04/17/6-ideas-consider-smart-city-development-cl1/
 ---
 

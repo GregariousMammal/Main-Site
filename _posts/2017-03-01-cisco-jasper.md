@@ -5,11 +5,11 @@ date: '2017-03-01 11:13:30 +0100'
 image: 20161203200100_MWC2016GenericIMG-0045Web-e1488783298762.jpg
 categories: Cate writing readwrite
 tags:
--cisco jasper
--connected cars
--KT
--NBIoT
--Samsung
+  - cisco jasper
+  - connected cars
+  - KT
+  - NBIoT
+  - Samsung
 publication_url: https://readwrite.com/2017/03/01/cisco-jaspers-empire-goes-from-strength-to-strength-dl1/
 ---
 

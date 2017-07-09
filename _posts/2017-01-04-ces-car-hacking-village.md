@@ -5,13 +5,13 @@ date: '2017-01-04 11:13:30 +0100'
 image: geohot-selfdrivingcar-1-e1483570529670.jpg
 categories: Cate writing readwrite
 tags:
--connected devices
--CES 2017
--CES
--car hacking
--car hacking village
--autonomous cars
--cybersecurity
+  - connected devices
+  - CES 2017
+  - CES
+  - car hacking
+  - car hacking village
+  - autonomous cars
+  - cybersecurity
 
 publication_url: https://readwrite.com/2017/01/04/the-car-hacking-village-brings-car-knowledge-to-the-ces-masses-tl1/
 ---

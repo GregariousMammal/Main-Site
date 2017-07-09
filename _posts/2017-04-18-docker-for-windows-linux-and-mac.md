@@ -2,7 +2,7 @@
 layout: post
 title: Docker for Windows, Linux, and Mac
 date: '2017-04-18 18:13:30 +0100'
-image:
+image: engine.jpg
 categories: Chris writing codeship
 tags: docker windows tutorial linux mac
 publication_url: https://blog.codeship.com/docker-for-windows-linux-and-mac/

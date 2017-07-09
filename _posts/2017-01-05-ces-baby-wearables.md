@@ -5,14 +5,14 @@ date: '2017-01-05 11:13:30 +0100'
 image: Baby-Babyfoot-Child-Blur-Toes-Barefoot-Foot-472256.jpg
 categories: Cate writing readwrite
 tags:
--connected devices
--CES 2017
--CES
--wearable tech
--baby wearables
--smart home
--telehealth
--telemedicine
+  - connected devices
+  - CES 2017
+  - CES
+  - wearable tech
+  - baby wearables
+  - smart home
+  - telehealth
+  - telemedicine
 
 publication_url: https://readwrite.com/2017/01/05/ces-smart-baby-tech-a-parents-dream-or-nightmare-dl1/
 ---

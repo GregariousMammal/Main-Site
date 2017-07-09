@@ -2,7 +2,7 @@
 layout: post
 title: Pilosa - A New Kind of Database Index
 date: '2017-05-31 11:13:30 +0100'
-image:
+image: 24233787.png
 categories: Chris writing dzone
 tags: databases storage performance
 publication_url: https://dzone.com/articles/pilosa-a-new-kind-of-database-index

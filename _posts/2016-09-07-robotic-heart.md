@@ -5,10 +5,10 @@ date: '2016-09-07 10:13:30 +0100'
 image: carmat.jpg
 categories: Cate writing readwrite
 tags:
--future tech 
--robot
--robotic
--transhumanism
+  - future tech
+  - robot
+  - robotic
+  - transhumanism
 publication_url: https://readwrite.com/2016/09/07/how-close-are-we-to-the-robotic-human-heart-dt4/
 ---
 

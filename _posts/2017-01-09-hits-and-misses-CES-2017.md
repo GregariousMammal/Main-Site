@@ -5,12 +5,12 @@ date: '2017-01-09 11:13:30 +0100'
 image: iStock_000086308243_Small-e1461971515892-1-1-2-1.jpg
 categories: Cate writing readwrite
 tags:
--connected devices
--CES 2017
--CES
--connected home
--smart fridge
--smart home
+  - connected devices
+  - CES 2017
+  - CES
+  - connected home
+  - smart fridge
+  - smart home
 
 publication_url: https://readwrite.com/2017/01/09/check-out-our-list-of-tech-hits-and-misses-from-ces-2017-dl1/
 ---

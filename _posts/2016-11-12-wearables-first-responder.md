@@ -5,12 +5,12 @@ date: '2016-11-12 11:13:30 +0100'
 image: 7845050460_8aeec9a488_o-1b516193f99e113b46b2277367224312-e1478973835934.jpg
 categories: Cate writing readwrite
 tags:
--wearable tech
--health tech
--smart clothing
--connected clothing
--IIoT
--safety wearables
+  - wearable tech
+  - health tech
+  - smart clothing
+  - connected clothing
+  - IIoT
+  - safety wearables
 
 publication_url: https://readwrite.com/2016/11/12/wearable-innovation-is-coming-to-first-responser-technology-dl1/
 ---

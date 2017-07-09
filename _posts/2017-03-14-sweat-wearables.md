@@ -5,12 +5,12 @@ date: '2017-03-14 11:13:30 +0100'
 image: 10404390_473686456122944_4732681639197776587_n-e1489555814538.png
 categories: Cate writing readwrite
 tags:
--IoT
--wearable tech 
--wearables
--biotech
--kenzen
--quantified self
+  - IoT
+  - wearable tech
+  - wearables
+  - biotech
+  - kenzen
+  -quantified self
 publication_url: https://readwrite.com/2017/03/14/sweat-the-future-of-health-wearables-hl1/
 
 ---

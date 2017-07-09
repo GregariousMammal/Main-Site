@@ -5,9 +5,9 @@ date: '2017-02-26 11:13:30 +0100'
 image: Screen-Shot-2017-02-06-at-17.54.04-e1488181075187.jpg
 categories: Cate writing readwrite
 tags:
--cisco
--smart building
--smart cities
+  - cisco
+  - smart building
+  - smart cities
 publication_url: https://readwrite.com/2017/02/26/cisco-brings-digital-know-how-to-smart-buildings-il1/
 ---
 

@@ -5,13 +5,13 @@ date: '2017-01-09 11:13:30 +0100'
 image: Las_Vegas_Nevada_USA_5951714693-e1483836190542.jpg
 categories: Cate writing readwrite
 tags:
--connected devices
--CES 2017
--CES
--smart cities
--ingenu
--smart lighting
--smart traffic
+  - connected devices
+  - CES 2017
+  - CES
+  - smart cities
+  - ingenu
+  - smart lighting
+  - smart traffic
 
 publication_url: https://readwrite.com/2017/01/09/check-out-our-list-of-tech-hits-and-misses-from-ces-2017-dl1/
 ---

@@ -5,9 +5,9 @@ date: '2017-02-25 11:13:30 +0100'
 image: 14324559_954825334628421_3923400799490201790_o.jpg
 categories: Cate writing readwrite
 tags:
--smart ticketing
--smart cities
--smart transport
+  - smart ticketing
+  - smart cities
+  - smart transport
 
 publication_url: https://readwrite.com/2017/02/25/masabi-brings-smart-ticketing-to-smart-cities/
 ---
