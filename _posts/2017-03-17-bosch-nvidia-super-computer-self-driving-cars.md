@@ -10,8 +10,8 @@ tags:
   - self driving cars
   - autonomous cars
   - deep learning
-    - machine learning
-- AI
+  - machine learning
+  - AI
 publication_url: https://readwrite.com/2017/03/17/bosch-nvidia-partner-tai-supercomputer-self-driving-cars-tl1/
 ---
 

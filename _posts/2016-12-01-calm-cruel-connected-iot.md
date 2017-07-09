@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calm, cruel and connected: November’s best and worst of IoT
+title: Calm, cruel and connected - November’s best and worst of IoT
 date: '2016-12-01 11:13:30 +0100'
 image: iStock_000086308243_Small-e1461971515892-1-1-1.jpg
 categories: Cate writing readwrite

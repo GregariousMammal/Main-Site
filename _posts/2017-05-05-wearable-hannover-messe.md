@@ -2,7 +2,7 @@
 layout: post
 title: Wearable tech hits the factory floor at Hannover Messe
 date: '2017-05-05 11:13:30 +0100'
-image: blog_upskill_construction_worker_with_google_glass-e1493988117576.md
+image: blog_upskill_construction_worker_with_google_glass-e1493988117576.jpg
 categories: Cate writing readwrite
 tags:
   - IoT

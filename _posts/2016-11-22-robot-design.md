@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Calm, cruel and connected: November’s best and worst of IoT
+title: Calm, cruel and connected - November’s best and worst of IoT
 date: '2016-11-22 11:13:30 +0100'
 image: Sophia-robot.jpg
 categories: Cate writing readwrite

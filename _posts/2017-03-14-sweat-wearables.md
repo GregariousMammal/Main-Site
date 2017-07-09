@@ -10,7 +10,7 @@ tags:
   - wearables
   - biotech
   - kenzen
-  -quantified self
+  - quantified self
 publication_url: https://readwrite.com/2017/03/14/sweat-the-future-of-health-wearables-hl1/
 ---
 

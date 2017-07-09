@@ -2,7 +2,7 @@
 layout: post
 title: Where are all the women in tech? They’re in wearables
 date: '2016-11-19 11:13:30 +0100'
-image: 1913211_250256075177230_6606564316424666643_o-e1479608103843 (1).jpg
+image: 1913211_250256075177230_6606564316424666643_o-e1479608103843.jpg
 categories: Cate writing readwrite
 tags:
   - connected devices

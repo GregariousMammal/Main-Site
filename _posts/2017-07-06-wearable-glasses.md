@@ -2,7 +2,7 @@
 layout: post
 title: Wearable glasses are back in fashion
 date: '2017-07-06 11:13:30 +0100'
-image: 1-A0OjVYD7nFeBf9nOZFU_0w.jpg
+image: 1-A0OjVYD7nFeBf9nOZFU_0w.jpeg
 categories: Cate writing dzone
 tags:
   - wearable tech
