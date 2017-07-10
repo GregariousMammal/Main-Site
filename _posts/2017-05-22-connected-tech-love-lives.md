@@ -2,7 +2,7 @@
 layout: post
 title: How Will Connected Tech Affect Our Love Lives?
 date: '2017-05-22 11:13:30 +0100'
-image: modernlove_mainimage.jpg
+image: modernlove_mainimage.jpeg
 categories: Cate writing dzone
 tags:
   - connected tech

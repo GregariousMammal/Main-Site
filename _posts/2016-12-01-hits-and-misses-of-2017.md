@@ -2,7 +2,7 @@
 layout: post
 title:
 date: '2016-12-31 11:13:30 +0100'
-image: iStock_000086308243_Small-e1461971515892-1-1-2.jpg
+image: 
 categories: Cate writing readwrite
 tags:
   - pokemon go

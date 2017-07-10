@@ -24,7 +24,10 @@
 }
 
 .tags {
-  text-align: right;
+  /*text-align: right;*/
   font-size: $tiny-font-size;
-  display: inherit;
+  /*display: inherit;*/
+  h3 {
+    display: inline;
+  }
 }
