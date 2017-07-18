@@ -1,7 +1,6 @@
 ---
 type: presentation
 layout: event
-
 title: Introducing Distributed Databases
 event: Voxxed Days Belgrade
 pres_url: 'https://www.youtube.com/watch?v=mLuRDv7Ad0Y'
