@@ -8,7 +8,7 @@
       On {{ post.date | date_to_string }}, {% if post.categories[0] == 'Both' %} Cate & Chris {{ post.date | date_to_string }} {% else %}
       <a href="{{ post.categories[0] }}">{{ post.categories[0] }}</a> wrote {% endif %} {% if post.publication_url %}
       <h2>
-        <a href="{{ post.publication_url }}">{{ post.title }}</a>
+        <a href="{{ post.publication_url }}" rel="canonical">{{ post.title }}</a>
       </h2> {% else %}
       <h2>
         <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
