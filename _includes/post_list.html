@@ -32,7 +32,7 @@
       {% endfor %}
     </div>
     {% if post.publication_url %}
-    <a class="post-link" href="{{ post.publication_url }}">Read More</a> {% else %}
+    <a class="post-link" href="{{ post.publication_url }}" rel="canonical">Read More</a> {% else %}
     <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a> {% endif %}
   </li>
   {% endfor %}
