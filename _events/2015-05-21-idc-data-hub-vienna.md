@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: Understanding databases for distributed Docker applications
 event: IDC Data hub conference Vienna

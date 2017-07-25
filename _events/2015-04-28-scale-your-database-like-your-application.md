@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: Crate and Docker - Scale Your Database like Your Application
 event: Docker meetup Hamburg

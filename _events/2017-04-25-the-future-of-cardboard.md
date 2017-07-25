@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: The Future of Cardboard
 event: Quo Vadis

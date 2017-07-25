@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: Chip Shop Case Study
 event: Vienna.html

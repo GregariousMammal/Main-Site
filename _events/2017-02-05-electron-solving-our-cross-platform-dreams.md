@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: Electron - Solving our cross platform dreams
 event: Fosdem 2017

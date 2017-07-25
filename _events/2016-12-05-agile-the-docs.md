@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: Automate your docs, automate yourself
 event: Agile the Docs

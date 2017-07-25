@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: A Documentation crash course for Developers
 event: I T.A.K.E. Unconference

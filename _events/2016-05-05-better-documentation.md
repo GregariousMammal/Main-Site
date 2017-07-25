@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: "Don't complain about bad documentation, learn to write it better!"
 event: OpenTech Summit

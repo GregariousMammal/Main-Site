@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: A documentation crash course for developers
 event: Developer Week 2017, Nürnberg

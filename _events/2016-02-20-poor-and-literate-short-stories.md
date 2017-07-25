@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: Poor and Literate Short Stories
 event: Poor and Literate Short Stories

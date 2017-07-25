@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: Back To The Future With Static Site Generators
 event: DevWeek London

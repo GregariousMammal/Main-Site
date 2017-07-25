@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: 'Cosmic Horror & HP Lovecraft'
 event: Laneway Learning

@@ -1,6 +1,7 @@
 ---
 type: press
 layout: event
+categories: Both
 
 title: null
 event: Web Summit

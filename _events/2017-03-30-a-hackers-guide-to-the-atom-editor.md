@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: A Hackers guide to the Atom editor
 event: Codemotion Tel Aviv

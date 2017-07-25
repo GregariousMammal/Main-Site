@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: Building mobile apps with PhoneGap and Titanium appcelerator
 event: Melbourne Geek Night

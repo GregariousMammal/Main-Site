@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: Tell me what you're working on
 event: Pioneers Festival 2017

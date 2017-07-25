@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: JQuery Mobile
 event: Mobile Melbourne

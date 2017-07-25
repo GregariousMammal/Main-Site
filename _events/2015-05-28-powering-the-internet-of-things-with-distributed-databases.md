@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: Powering the Internet of Things with Distributed Databases
 event: Internet of Things Meet up Helsinki

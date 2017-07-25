@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: Scalable Databases
 event: AWS User Group Meet up Berlin

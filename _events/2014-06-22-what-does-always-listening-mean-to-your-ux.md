@@ -1,6 +1,7 @@
 ---
 type: presentation
 layout: event
+categories: Chris
 
 title: "What does 'always listening' mean to your UX?"
 event: Internet of Things Meet up
