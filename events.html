@@ -4,37 +4,22 @@ permalink: /events/
 ---
 
 <div class="home events">
-    <div class="description">
-      <p>You will frequently find us out and about, delivering a presentation, or attending an event to hear about your great ideas and projects. Here are our next confirmed events, though we are also to be found at many Berlin meetups that wont always be listed here.</p>
-      <p>
-        <a href="/events/past/">Past events</a>
-      </p>
-    </div>
-    <section>
-      <ul class="post-list">
-        {% for post in site.events %}
-          {% assign currentDate = site.time %}
-          {% if post.date > currentDate %}
-            <li class="">
-              <span class="date">{{ post.date | date: '%B %d %Y' }}</span>
-                {% if post.image %}
-                  {% picture listings {{post.image}} alt="{{post.title}}" %}
-                {% endif %}
-                {% if post.category[0] == 'Chris' or post.category[0] == 'Cate'%}
-                <p>{{post.category[0]}} is attending…</p>
-                {% else %}
-                <p>Chris & Cate are attending…</p>
-                {% endif %}
-              <h2><a href="{{ post.pres_url }}">{{ post.event }}</a></h2>
-              <h3>{{ post.title }}</h3>
-              <div class="post-meta">
-                <p>{{ post.venue }}</p>
-                <p><a class="post-link" href="{{ post.pres_url }}" target="_blank">Presentation</a></p>
-                <p><a class="post-link" href="{{ post.pres_source }}" target="_blank">Presentation File</a></p>
-              </div>
-            </li>
-          {% endif %}
-          {% endfor %}
-        </ul>
-      </section>
-    </div>
+  <div class="description">
+    <p>You will frequently find us out and about, delivering a presentation, or attending an event to hear about your great ideas and projects. Here are our next confirmed events, though we are also to be found at many Berlin meetups that wont always be listed here.</p>
+    <p>
+      <a href="/events/past/">Past events</a>
+    </p>
+  </div>
+  <section>
+    {% assign future_events = "" | split: "" %}
+    {% assign currentDate = site.time %}
+
+    {% for post in site.events reversed %}
+    {% if post.date > currentDate %}
+    {% assign future_events = future_events | push: post %}
+    {% endif %}
+    {% endfor %}
+
+    {% include event_list.html filtered_events = future_events %}
+  </section>
+</div>

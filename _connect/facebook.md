@@ -1,5 +1,6 @@
 ---
 type: connect
+categories: Chris
 title: Facebook
 image: null
 network_link: >-

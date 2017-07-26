@@ -1,0 +1,28 @@
+{% if include.filtered_events %}
+{% assign events = include.filtered_events %}
+{% else %}
+{% assign events = site.events %}
+{% endif %}
+
+<ul class="post-list">
+  {% for post in events %}
+      <li class="">
+        <span class="date">{{ post.date | date: '%B %d %Y' }}</span>
+          {% if post.image %}
+            {% picture listings {{post.image}} alt="{{post.title}}" %}
+          {% endif %}
+          {% if post.category[0] == 'Chris' or post.category[0] == 'Cate'%}
+          <p>{{post.category[0]}} is attending…</p>
+          {% else %}
+          <p>Chris & Cate are attending…</p>
+          {% endif %}
+        <h2><a href="{{ post.pres_url }}">{{ post.event }}</a></h2>
+        <h3>{{ post.title }}</h3>
+        <div class="post-meta">
+          <p>{{ post.venue }}</p>
+          <p><a class="post-link" href="{{ post.pres_url }}" target="_blank">Presentation</a></p>
+          <p><a class="post-link" href="{{ post.pres_source }}" target="_blank">Presentation File</a></p>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>

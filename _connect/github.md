@@ -1,5 +1,6 @@
 ---
 type: connect
+categories: Chris
 title: GitHub
 image: null
 network_link: >-

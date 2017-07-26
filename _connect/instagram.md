@@ -1,5 +1,6 @@
 ---
 type: connect
+categories: Chris
 title: Instagram
 image: null
 network_link: '<style>.ig-b- { display: inline-block; }

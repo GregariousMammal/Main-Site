@@ -1,5 +1,6 @@
 ---
 type: connect
+categories: Chris
 title: Pinterest
 image: null
 network_link: >-

@@ -1,43 +1,65 @@
 ---
 layout: default
 ---
-<div class="holding">
+<div class="home">
 
-  <header class="post-header">
-    <h1 class="post-title">{{ page.title }}</h1>
-  </header>
-  <aside class="image headshot">
-    {% picture article {{page.image}} alt="{{page.title}}" %}
-  </aside>
+  <div class="holding">
 
-  <article class="post-content">
-    {{ content }}
-  </article>
-  {{ page.categories }}
-  <ul>
+    <header class="post-header">
+      <h1 class="post-title">{{ page.title }}</h1>
+    </header>
+    <aside class="image headshot">
+      {% picture article {{page.image}} alt="{{page.title}}" %}
+    </aside>
+    <section>
+      {{ content }}
+    </section>
+  </div>
+
+
+  <section>
+    <h2>My Latest Posts</h2>
+
+    {% assign latest_posts = "" | split: "" %}
     {% assign counter = 0 %}
+
     {% for post in site.posts %}
     {% if post.categories contains page.categories and counter < 5 %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    {% assign latest_posts = latest_posts | push: post %}
     {% assign counter = counter | plus: 1 %}
     {% endif %}
     {% endfor %}
-  </ul>
-  <ul>
+
+    {% include post_list.html filtered_posts = latest_posts %}
+
+
+    <h2>My Next Events</h2>
+
+    {% assign future_events = "" | split: "" %}
     {% assign counter = 0 %}
-    {% for post in site.events reversed %}
     {% assign currentDate = site.time %}
-    {% if post.date > currentDate %}
-    {% if post.categories contains page.categories and counter < 5 %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+
+    {% for post in site.events reversed %}
+    {% if post.categories contains page.categories and post.date > currentDate and counter < 5 %}
+    {% assign future_events = future_events | push: post %}
     {% assign counter = counter | plus: 1 %}
     {% endif %}
-    {% endif %}
     {% endfor %}
-  </ul>
-  Social
+
+    {% include event_list.html filtered_events = future_events %}
+
+
+    <h2>Social</h2>
+    {% assign counter = 0 %}
+    {% for post in site.connect %}
+    {% if post.categories contains page.categories %}
+    {% if post.image %}
+    <a href="{{ post.network_link }}">{% picture icon {{ post.image }} alt={{ post.title }} %}</a>
+    {% else %}
+    {{ post.network_link }}
+    {% endif %}
+    {% endif %}
+    {% assign counter = counter | plus: 1 %}
+    {% endfor %}
+  </section>
 </div>

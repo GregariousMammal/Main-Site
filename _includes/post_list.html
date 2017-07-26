@@ -1,6 +1,12 @@
 <ul class="post-list">
-  {% for post in paginator.posts %}
-  <li>
+    {% if include.filtered_posts %}
+    {% assign posts = include.filtered_posts %}
+    {% else %}
+    {% assign posts = paginator.posts %}
+    {% endif %}
+
+    {% for post in posts %}
+    <li>
     <div class="">
       {% if post.image %} {% picture listings {{post.image}} alt="{{post.title}}" %} {% endif %}
     </div>

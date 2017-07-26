@@ -1,5 +1,6 @@
 ---
 type: connect
+categories: Chris
 title: Twitter
 image: null
 network_link: >-
