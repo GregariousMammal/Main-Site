@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: Scale Your Database like Your Application
 event: Docker Randstad
 pres_url: 'https://www.youtube.com/watch?v=SdnpQAVI_cc&index=2&list=PLzSGDpUWtiotQ3QTnwA75ndJ3qpepp75V'

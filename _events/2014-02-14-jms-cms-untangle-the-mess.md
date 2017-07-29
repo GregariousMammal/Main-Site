@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: 'JS, CMS, untangle the mess'
 event: Melbourne JS 2014
 pres_url: 'http://www.slideshare.net/chrischinchilla/js-cms-untangle-the-mess'

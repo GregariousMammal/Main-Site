@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: Tell me what you're working on
 event: Pioneers Festival 2017
 date: 2017-06-01T10:00:00.000Z

@@ -9,7 +9,9 @@ permalink: /2014/09/our-first-dinner-at-apartment-supper-club-leipzig.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/09/our-first-dinner-at-apartment-supper.html
 blogger_internal:

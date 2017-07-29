@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: A Documentation Crash Course for Developers
 event: LinuxCon Europe
 date: 2016-10-04T14:30:00.000Z
@@ -18,7 +20,7 @@ We will cover topics such as:
 - Why write documentation?
 - Explaining your point and motivation
 - Creating context and meaning
-- Writing clear copy
+  - writing clear copy
 - Creating meaningful examples and tutorials
 - Documentation systems and formats
 - Making documentation part of build processes

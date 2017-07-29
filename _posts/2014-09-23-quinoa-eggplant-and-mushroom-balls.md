@@ -9,7 +9,9 @@ permalink: /2014/09/quinoa-eggplant-and-mushroom-balls.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/09/quinoa-eggplant-and-mushroom-balls.html
 blogger_internal:

@@ -9,7 +9,9 @@ permalink: /2014/11/10-things-to-do-in-leipzig-the-cheap-and-free.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/11/10-things-to-do-in-leipzig-cheap-and.html
 blogger_internal:

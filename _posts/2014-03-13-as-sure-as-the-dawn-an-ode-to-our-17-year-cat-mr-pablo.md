@@ -9,7 +9,9 @@ permalink: /2014/03/as-sure-as-the-dawn-an-ode-to-our-17-year-cat-mr-pablo.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/03/as-sure-as-dawnan-old-to-our-cat.html
 blogger_internal:

@@ -9,7 +9,9 @@ permalink: /2012/10/craftivism-consumerism-and-spending-money-on-recycled-materi
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2012/10/craftivism-consumerism-and-spending.html
 blogger_internal:

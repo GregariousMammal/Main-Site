@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: Android Programming Without Java
 event: DroidCon Greece
 date: 2016-07-08T10:00:00.000Z

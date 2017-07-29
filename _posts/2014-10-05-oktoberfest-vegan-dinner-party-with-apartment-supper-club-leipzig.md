@@ -9,7 +9,9 @@ permalink: /2014/10/oktoberfest-vegan-dinner-party-with-apartment-supper-club-le
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/10/oktoberfest-vegan-dinner-party-with.html
 blogger_internal:

@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: A Documentation crash course for Developers
 event: PyCon Slovakia
 date: 2017-03-12T12:20:00.000Z

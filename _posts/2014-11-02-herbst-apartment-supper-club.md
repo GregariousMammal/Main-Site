@@ -9,7 +9,9 @@ permalink: /2014/11/herbst-apartment-supper-club.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/11/herbst-apartment-supper-club.html
 blogger_internal:

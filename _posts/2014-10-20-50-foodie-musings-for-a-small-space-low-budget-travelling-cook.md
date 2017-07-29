@@ -9,7 +9,9 @@ permalink: /2014/10/50-foodie-musings-for-a-small-space-low-budget-travelling-co
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/10/50-foodie-musings-for-small-space-low.html
 blogger_internal:

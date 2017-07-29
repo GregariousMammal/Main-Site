@@ -9,7 +9,9 @@ permalink: /2015/01/fruit-upside-down-cake.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/04/fruit-upside-down-cake.html
 blogger_internal:

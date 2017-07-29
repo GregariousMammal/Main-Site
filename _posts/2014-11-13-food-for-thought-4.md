@@ -9,7 +9,9 @@ permalink: /2014/11/food-for-thought-4.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/11/food-for-thought.html
 blogger_internal:
@@ -18,7 +20,7 @@ tags:
   - germany
   - green renters
   - leipzig
-  - writing
+    - writing
 ---
 I&#8217;m really behind in writing about things that have been of interest to me over the last few weeks. I had a really bad cold again (yes, my third illness since moving to Germany) which totally depleted my energy. I&#8217;ve also been working on some behind the scenes work for Green Renters as we are making our website and website content open source. I&#8217;ve also been spending time with new friends in various capacities: visiting [Dawanda](http://de.dawanda.com/?partnerid=GA2-DE-Search-Brand&gclid=Cj0KEQiAypGjBRCPme6jmqu3gZsBEiQA8NAiIE7l_I0sAJ65Ywj6htDBK6WOidxSCfudk77y8U7wr3QaAqnM8P8HAQ) craft market here in Leipzig (the Etsy of Europe), going out for drinks, enjoying [Guy Fawkes Day](http://en.wikipedia.org/wiki/Guy_Fawkes_Night)/ Bonfire night with a bunch of English expats and students, having friends over for dinner and also working on recipes, writing&#8230;.
 

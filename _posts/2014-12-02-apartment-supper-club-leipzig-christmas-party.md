@@ -9,7 +9,9 @@ permalink: /2014/12/apartment-supper-club-leipzig-christmas-party.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/12/apartment-supper-club-christmas-party.html
 blogger_internal:

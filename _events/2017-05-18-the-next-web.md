@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: Tell me what you're working on
 event: The Next Web 2017
 date: 2017-05-18T10:00:00.000Z

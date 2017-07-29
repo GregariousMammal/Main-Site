@@ -10,7 +10,7 @@ github_username:  chrischinchilla
 permalink: /:title
 comments: true
 
-gems: ['redcarpet', 'jekyll-paginate-v2']
+plugins: ['redcarpet', 'jekyll-paginate-v2']
 exclude: ['Gemfile', 'Gemfile.lock', 'vendor']
 
 ############################################################
@@ -81,6 +81,8 @@ collections:
   merchandise:
     output: true
     layout: merchandise
+  clients:
+    output: true
 
 picture:
   source: /images

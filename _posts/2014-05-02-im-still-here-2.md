@@ -9,7 +9,9 @@ permalink: /2014/05/im-still-here-2.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/05/im-still-here.html
 blogger_internal:
@@ -21,7 +23,7 @@ tags:
   - vegan
   - winter
   - workshops
-  - writing
+    - writing
 ---
 
   <a  href="http://4.bp.blogspot.com/-5m9ZZc5gu1E/U2MIud2tsDI/AAAAAAAAIp8/8HaPRM6Cgw4/s1600/feet-in-grass.jpg"><img src="http://4.bp.blogspot.com/-5m9ZZc5gu1E/U2MIud2tsDI/AAAAAAAAIp8/8HaPRM6Cgw4/s1600/feet-in-grass.jpg" alt="" width="320" height="274" border="0" /></a>

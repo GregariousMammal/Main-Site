@@ -9,7 +9,9 @@ permalink: /2015/01/10-things-to-know-when-you-move-abroad-with-a-new-language.h
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/01/10-things-no-one-tells-you-when-you.html
 blogger_internal:

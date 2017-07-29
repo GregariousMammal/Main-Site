@@ -9,7 +9,9 @@ permalink: /2015/01/gluten-free-cauliflower-pizza-base.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/01/gluten-free-cauliflower-pizza-base.html
 blogger_internal:

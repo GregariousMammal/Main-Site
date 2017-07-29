@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: JQuery Mobile
 event: Mobile Melbourne
 pres_url: 'http://www.slideshare.net/chrischinchilla/jquery-mobile-13649045'

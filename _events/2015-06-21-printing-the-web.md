@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: Printing the web
 event: Enthusiasticon
 pres_url: 'https://sourcecode.berlin/enthusiasticon/'

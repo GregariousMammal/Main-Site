@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: 'The Past, present and Future of Swift'
 event: MDevCon
 date: 2016-03-18T12:00:00.000Z
