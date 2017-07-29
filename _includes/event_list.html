@@ -11,8 +11,8 @@
           {% if post.image %}
             {% picture listings {{post.image}} alt="{{post.title}}" %}
           {% endif %}
-          {% if post.category[0] == 'Chris' or post.category[0] == 'Cate'%}
-          <p>{{post.category[0]}} is attending…</p>
+          {% if post.categories[0] == 'Chris' or post.categories[0] == 'Cate'%}
+          <p>{{post.categories[0]}} is attending…</p>
           {% else %}
           <p>Chris & Cate are attending…</p>
           {% endif %}

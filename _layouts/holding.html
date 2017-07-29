@@ -1,24 +1,36 @@
 ---
 layout: default
 ---
-<div class="home">
-
+<div class="home holding">
   <div class="holding">
-
     <header class="post-header">
       <h1 class="post-title">{{ page.title }}</h1>
     </header>
     <aside class="image headshot">
       {% picture article {{page.image}} alt="{{page.title}}" %}
     </aside>
+    <div class="connect">
+      <div class="icon_bar">
+        {% for post in site.connect %}
+        {% if post.categories contains page.categories %}
+        {% if post.image %}
+        <a href="{{ post.network_link }}">{% picture icon {{ post.image }} alt={{ post.title }} %}</a>
+        {% else %}
+        {{ post.network_link }}
+        {% endif %}
+        {% endif %}
+        {% endfor %}
+      </div>
+
+    </div>
     <section>
       {{ content }}
     </section>
   </div>
 
-
   <section>
     <h2>My Latest Posts</h2>
+    <p><a href="/writing/{{ page.categories }}">Read all my posts</a>.</p>
 
     {% assign latest_posts = "" | split: "" %}
     {% assign counter = 0 %}
@@ -32,8 +44,8 @@ layout: default
 
     {% include post_list.html filtered_posts = latest_posts %}
 
-
     <h2>My Next Events</h2>
+    <p><a href="/events">See all my events</a>.</p>
 
     {% assign future_events = "" | split: "" %}
     {% assign counter = 0 %}
@@ -47,19 +59,4 @@ layout: default
     {% endfor %}
 
     {% include event_list.html filtered_events = future_events %}
-
-
-    <h2>Social</h2>
-    {% assign counter = 0 %}
-    {% for post in site.connect %}
-    {% if post.categories contains page.categories %}
-    {% if post.image %}
-    <a href="{{ post.network_link }}">{% picture icon {{ post.image }} alt={{ post.title }} %}</a>
-    {% else %}
-    {{ post.network_link }}
-    {% endif %}
-    {% endif %}
-    {% assign counter = counter | plus: 1 %}
-    {% endfor %}
-  </section>
-</div>
+  </div>

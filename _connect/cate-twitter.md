@@ -1,7 +1,7 @@
 ---
 type: connect
-categories: Chris
+categories: Cate
 title: Twitter
 image: icons/social/twitter.png
-network_link: https://twitter.com/chrischinch
+network_link: https://twitter.com/cate_lawrence
 ---
