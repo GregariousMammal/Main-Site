@@ -2,7 +2,7 @@
 
 planet:
     posts_directory: _posts/
-    templates_directory: _layouts/
+    templates_directory: _imported/
     whitelisted_tags: []
     # sanitize_html: true
 
