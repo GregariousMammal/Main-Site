@@ -13,6 +13,11 @@ https://www.chrischinchilla.com/js/* /js/:splat 200!
 https://catelawrence.com/js/* /js/:splat 200!
 https://www.catelawrence.com/js/* /js/:splat 200!
 
+https://chrischinchilla.com/images/* /images/:splat 200!
+https://www.chrischinchilla.com/images/* /images/:splat 200!
+https://catelawrence.com/images/* /images/:splat 200!
+https://www.catelawrence.com/images/* /images/:splat 200!
+
 https://chrischinchilla.com/* /chris/:splat 200!
 https://www.chrischinchilla.com/* /chris/:splat 200!
 https://catelawrence.com/* /cate/:splat 200!
