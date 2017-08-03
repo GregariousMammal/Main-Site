@@ -2,19 +2,21 @@
 id: 13
 title: Chocolate quinoa rum balls
 date: 2015-02-18T15:34:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/02/chocolate-quinoa-rum-balls.html
 permalink: /2015/02/chocolate-quinoa-rum-balls.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/02/chocolate-quinoa-rum-balls.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/407574572597149060
-categories:
+tags:
   - cooking
   - food
   - gluten free
@@ -65,6 +67,6 @@ I&#8217;m submitting this recipe as part of the [Lavender and Lovage](http://lav
     <a  href="http://2.bp.blogspot.com/-4REaGWyKxYI/VOSeexoE0hI/AAAAAAAAKrQ/TlsscRzQuQg/s1600/2015-02-18%2B15.00.51.jpg"><img src="http://2.bp.blogspot.com/-4REaGWyKxYI/VOSeexoE0hI/AAAAAAAAKrQ/TlsscRzQuQg/s1600/2015-02-18%2B15.00.51.jpg" alt="" width="315" height="400" border="0" /></a>
   
   
-  <p>
+  
     &nbsp;
   

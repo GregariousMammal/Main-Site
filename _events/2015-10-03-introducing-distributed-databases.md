@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: Introducing Distributed Databases
 event: WebCamp Zagreb
 pres_url: 'https://2015.webcampzg.org/talks/view/introducing-distributed-databases/'

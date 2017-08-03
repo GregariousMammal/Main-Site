@@ -2,7 +2,7 @@
 layout: post
 title: Rocket Science - The East Brunswick Club
 created: 1211902547
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

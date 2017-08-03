@@ -2,19 +2,21 @@
 id: 84
 title: Vegan Summer Day Leipzig 2014
 date: 2014-09-08T19:31:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/09/vegan-summer-day-leipzig-2014.html
 permalink: /2014/09/vegan-summer-day-leipzig-2014.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/09/vegan-summer-day-leipzig-2014.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6732554391315137745
-categories:
+tags:
   - germany
   - leipzig
   - vegan

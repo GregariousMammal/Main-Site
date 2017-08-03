@@ -2,7 +2,7 @@
 layout: post
 title: Los Valentines - Cities of Gold
 created: 1262530139
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

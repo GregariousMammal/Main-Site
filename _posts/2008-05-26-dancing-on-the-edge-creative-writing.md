@@ -2,7 +2,7 @@
 layout: post
 title: Dancing on the Edge - Creative Writing
 created: 1211754290
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: creative
 ---
 

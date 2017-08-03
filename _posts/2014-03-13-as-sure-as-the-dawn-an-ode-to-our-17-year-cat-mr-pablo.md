@@ -2,19 +2,21 @@
 id: 124
 title: 'As sure as the dawn&#8230;(an ode to our 17 year cat, Mr Pablo)'
 date: 2014-03-13T04:01:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/03/as-sure-as-the-dawn-an-ode-to-our-17-year-cat-mr-pablo.html
 permalink: /2014/03/as-sure-as-the-dawn-an-ode-to-our-17-year-cat-mr-pablo.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/03/as-sure-as-dawnan-old-to-our-cat.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/3774067615247170992
-categories:
+tags:
   - blogging
   - cat
 ---

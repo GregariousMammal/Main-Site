@@ -2,7 +2,7 @@
 layout: post
 title: Bonnie Prince Billy - The Letting Go
 created: 1155725739
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

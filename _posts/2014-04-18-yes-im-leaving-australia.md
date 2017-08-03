@@ -2,7 +2,7 @@
 layout: post
 title: "Yes, I'm leaving Australia"
 created: 2014-04-18T00:00:00.000Z
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: personal life travel
 ---
 
@@ -24,7 +24,7 @@ I have also been intending to take some time off to work on several projects tha
 - Educating myself on a few new programming languages and ideas.
 - <a href="/tags/lean-traveller" target="_blank">The Lean Traveller</a> - This will be a series of blog posts about our travelling as leanly and lightly as possible. Services, tips and ideas that help facilitate that lifestyle. This will start very soon!
 - <a href="http://greenrenters.org/" target="_blank">Green Renters</a> phase 2 - Now we're leaving Melbourne we will be doing something very different and new with Green Renters. i don't really want to announce what that is here before exit's announce to the Green Renters community, but watch this space!
-- Cate also has a bunch of her own awesome ideas, keep an eye on <a href="http://consumingcate.blogspot.com.au/" target="_blank">her blog</a>.
+  - Cate also has a bunch of her own awesome ideas, keep an eye on <a href="http://consumingcate.blogspot.com.au/" target="_blank">her blog</a>.
 
 I also intend to continue working with a few Australian organisations consulting on tech projects, as is the way of the world these days, it matters less and less where you actually are in the World.
 

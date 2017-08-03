@@ -2,19 +2,21 @@
 id: 89
 title: Kohlrabi Coleslaw
 date: 2014-08-26T08:54:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/08/kohlrabi-coleslaw.html
 permalink: /2014/08/kohlrabi-coleslaw.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/08/kohl-rabi-coleslaw.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/8863215584466091808
-categories:
+tags:
   - cooking
   - germany
   - leipzig
@@ -23,7 +25,7 @@ categories:
 format: image
 ---
 
-  <a href="atc-migrate/2014/08/2014-08-26-01.55.17.jpg"><img class="aligncenter size-large wp-image-1095" src="atc-migrate/2014/08/2014-08-26-01.55.17-1024x1017.jpg" alt="2014-08-26 01.55.17" width="780" height="775" /></a><a  href="http://1.bp.blogspot.com/-AWcQ5KldEMI/U_w7_KHGYaI/AAAAAAAAJRg/aIm1M20GTz4/s1600/800px-GreenKohlrabi.jpg"><img src="http://1.bp.blogspot.com/-AWcQ5KldEMI/U_w7_KHGYaI/AAAAAAAAJRg/aIm1M20GTz4/s1600/800px-GreenKohlrabi.jpg" alt="" width="400" height="307" border="0" /></a>
+  <a href="/images/atc-migrate/2014/08/2014-08-26-01.55.17.jpg"><img class="aligncenter size-large wp-image-1095" src="/images/atc-migrate/2014/08/2014-08-26-01.55.17-1024x1017.jpg" alt="2014-08-26 01.55.17" width="780" height="775" /></a><a  href="http://1.bp.blogspot.com/-AWcQ5KldEMI/U_w7_KHGYaI/AAAAAAAAJRg/aIm1M20GTz4/s1600/800px-GreenKohlrabi.jpg"><img src="http://1.bp.blogspot.com/-AWcQ5KldEMI/U_w7_KHGYaI/AAAAAAAAJRg/aIm1M20GTz4/s1600/800px-GreenKohlrabi.jpg" alt="" width="400" height="307" border="0" /></a>
 
 
 

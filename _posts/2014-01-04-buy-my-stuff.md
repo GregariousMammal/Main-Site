@@ -2,19 +2,21 @@
 id: 144
 title: Buy my stuff
 date: 2014-01-04T11:00:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/01/buy-my-stuff.html
 permalink: /2014/01/buy-my-stuff.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/01/buy-my-stuff.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/8161060035983468300
-categories:
+tags:
   - Uncategorized
 ---
 In preparation for a move to Germany late in 2014, I&#8217;m starting the process of decluttering my stuff. In short, this means lots of garage sales, ebaying (is that a verb?) and donations to charity shops.

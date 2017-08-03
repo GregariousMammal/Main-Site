@@ -2,19 +2,21 @@
 id: 24
 title: Veganised Portuguese custard tarts
 date: 2015-02-03T14:59:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/02/veganised-portuguese-custard-tarts.html
 permalink: /2015/02/veganised-portuguese-custard-tarts.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/02/portuguese-custard-tarts.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/5382848076771201435
-categories:
+tags:
   - baking
   - cooking
   - food

@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: Understanding Distributed Databases
 event: CloudOpen Europe
 pres_url: 'http://events.linuxfoundation.org/events/cloudopen-europe/program/schedule'

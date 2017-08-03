@@ -2,7 +2,7 @@
 layout: post
 title: Workswell review
 created: 2003-01-04T00:00:00.000Z
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: reviews apple software
 ---
 

@@ -1,52 +1,26 @@
 ---
 layout: default
-permalink: writing/index.html
-paginate:
+permalink: /writing/
+categories: Both writing
+pagination:
+  enabled: true
   category: writing
 ---
-
 <div class="home">
   <div class="writing">
     <div class="image">
     </div>
     <h1 class="post-title">Writing</h1>
     <div class="description">
-      <p>I have been a professional and semi-professional writer for over ten years. Here you can find posts from across all the projects I work on as well as several creative writing projects in progress, and my personal thoughts, reviews and rambling dating back many years. I was also Editor of the <a href="http://www.sitepoint.com/mobile/" target="_blank">SitePoint Mobile channel</a> from 2014-16.</p>
+      <ul>
+        <li><a href="/writing/chris">Chris Writing</a></li>
+        <li><a href="/writing/cate">Cate Writing</a></li>
+      </ul>
     </div>
   </div>
 
   <section>
-    <ul class="post-list">
-      {% for post in paginator.posts %}
-      <li>
-        {% if post.publication_url %}
-        <h2>
-          <a href="{{ post.publication_url }}">{{ post.title }}</a>
-        </h2>
-        {% else %}
-        <h2>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        {% endif %}
-        {% if post.image %}
-        {% picture listings {{post.image}} alt="{{post.title}}" %}
-        {% endif %}
-        {{ post.excerpt }}
-        <!-- TODO: Let's consolidate -->
-        <div class="post-meta">
-          {% if post.publication_url %}
-          <a class="post-link" href="{{ post.publication_url }}">Read More</a>
-          {% else %}
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-          {% endif %}
-          {% if post.categories %}
-          {% include category_block.html %}
-          {% endif %}
-        </div>
-      </li>
-      {% endfor %}
-    </ul>
+    {% include post_list.html %}
   </section>
   {% include pagination.html %}
-
 </div>

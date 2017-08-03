@@ -2,22 +2,24 @@
 id: 102
 title: Food for thought
 date: 2014-07-29T09:01:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/07/food-for-thought-12.html
 permalink: /2014/07/food-for-thought-12.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/07/food-for-thought_29.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/8262247129202517485
-categories:
+tags:
   - funny
   - reading
-  - writing
+    - writing
 ---
 
   <a  href="http://2.bp.blogspot.com/-lRmfiKG3jiw/U9dUvZWuqRI/AAAAAAAAJBk/LjLR-eOi4Us/s1600/working-on-my-novel-2.jpg"><img src="http://2.bp.blogspot.com/-lRmfiKG3jiw/U9dUvZWuqRI/AAAAAAAAJBk/LjLR-eOi4Us/s1600/working-on-my-novel-2.jpg" alt="" width="400" height="300" border="0" /></a>

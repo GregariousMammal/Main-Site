@@ -2,19 +2,21 @@
 id: 93
 title: Food for thought
 date: 2014-08-16T03:19:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/08/food-for-thought-9.html
 permalink: /2014/08/food-for-thought-9.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/08/food-for-thought_16.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2283605638539748218
-categories:
+tags:
   - craft
   - gardening
   - germany

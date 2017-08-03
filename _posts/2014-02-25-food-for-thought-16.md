@@ -2,19 +2,21 @@
 id: 132
 title: Food for thought
 date: 2014-02-25T03:09:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/02/food-for-thought-16.html
 permalink: /2014/02/food-for-thought-16.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/02/food-for-thought.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/4094324741640091466
-categories:
+tags:
   - small space gardening
   - workshops
 ---

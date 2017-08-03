@@ -2,7 +2,7 @@
 layout: post
 title: Jeff Klein - The Hustler
 created: 1143043836
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

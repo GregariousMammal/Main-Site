@@ -3,7 +3,7 @@ created: 2016-04-06T00:00:00.000Z
 publication_url: 'http://www.sitepoint.com/managing-data-storage-with-blockchain-and-bigchaindb/'
 title: Managing data storage with block chain and big chain DB
 image: image-managing-data-storage.jpg
-categories: writing sitepoint
+categories: Chris writing sitepoint
 tags: blockchain databases
 ---
 

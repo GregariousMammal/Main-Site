@@ -2,7 +2,7 @@
 layout: post
 title: JPod - Douglas Coupland
 created: 2008-10-27T00:00:00.000Z
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: books reviews
 ---
 

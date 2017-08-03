@@ -2,19 +2,21 @@
 id: 108
 title: 'Catching up&#8230;'
 date: 2014-06-05T05:12:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/06/catching-up.html
 permalink: /2014/06/catching-up.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/06/catching-up.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2396057261923854452
-categories:
+tags:
   - cooking
   - craft
   - preserving

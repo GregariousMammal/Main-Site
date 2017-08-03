@@ -3,7 +3,7 @@ title: Video - A Tour of Android Studio
 created: 2015-09-04T00:00:00.000Z
 publication_url: 'http://www.sitepoint.com/watch-a-tour-of-android-studio/'
 image: image-understanding-android-images.png
-categories: writing sitepoint
+categories: Chris writing sitepoint
 tags: android IDE development
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Marissa Nadler - Diamond Heart
 created: 1148397036
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

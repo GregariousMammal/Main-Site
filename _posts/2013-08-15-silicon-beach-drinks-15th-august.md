@@ -2,7 +2,7 @@
 layout: post
 title: 'Silicon Beach drinks, 15th August'
 created: 2103-08-15T00:00:00.000Z
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: events socialmedia startups
 ---
 

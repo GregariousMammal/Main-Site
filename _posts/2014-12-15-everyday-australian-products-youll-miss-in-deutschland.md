@@ -2,26 +2,28 @@
 id: 49
 title: 'Everyday Australian products you&#8217;ll miss in Deutschland.'
 date: 2014-12-15T21:37:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/12/everyday-australian-products-youll-miss-in-deutschland.html
 permalink: /2014/12/everyday-australian-products-youll-miss-in-deutschland.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/12/everyday-australian-products-youll-miss.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/3612253551493693708
-categories:
+tags:
   - australia
   - food
   - funny
   - germany
   - leipzig
   - travelling
-  - writing
+    - writing
 ---
 Don&#8217;t get me wrong, I love living in Deutschland. It&#8217;s been six months now, 6 wonderful months but also six months of strangeness and challenges that extend beyond the obvious language barrier. Inspired by <i><a href="http://ohgodmywifeisgerman.com/2014/12/15/tips-from-an-american-expat-everyday-products-youll-miss-after-moving-to-germany/">Oh God my wife is German</a></i>, I&#8217;ve been thinking about things in Australia I really miss.
   

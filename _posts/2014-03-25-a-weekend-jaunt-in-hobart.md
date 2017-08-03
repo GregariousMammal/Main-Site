@@ -2,19 +2,21 @@
 id: 122
 title: A weekend jaunt in Hobart
 date: 2014-03-25T04:07:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/03/a-weekend-jaunt-in-hobart.html
 permalink: /2014/03/a-weekend-jaunt-in-hobart.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/03/a-weekend-jaunt-in-hobart.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/5968487949858480894
-categories:
+tags:
   - activism
   - holiday
   - travelling

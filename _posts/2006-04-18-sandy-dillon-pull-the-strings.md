@@ -2,7 +2,7 @@
 layout: post
 title: Sandy Dillon - Pull The Strings
 created: 1145373036
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

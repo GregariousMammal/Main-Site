@@ -3,7 +3,7 @@ title: An introduction to the Docker trusted registry
 created: 2016-05-25T00:00:00.000Z
 publication_url: 'https://blog.codeship.com/docker-trusted-registry/'
 image: dockerregistry.png
-categories: writing codeship
+categories: Chris writing codeship
 tags: docker enterprise
 ---
 

@@ -1,16 +1,18 @@
 ---
 title: Books
 layout: page
-categories: writing books
-permalink: books/index.html
+categories: Chris writing books
+permalink: /writing/books
 ---
 
-In 2016 I set out to write my first book, with more to follow. If you're interested in me writing a book for you, then please [connect](/connect) with me.
+If you're interested in me writing a book for you, then please [connect](/connect) with me.
 
 ## Jumpstart Responsive Design - 2nd Edition
 
-I am working on the revised second edition of [this SitePoint book](https://www.sitepoint.com/store/jump-start-responsive-web-design/), it should be available in late 2016.
+{% picture listings resp-book.png alt="Jumpstart Responsive Design" %}
+
+I wrote the revised second edition of [this SitePoint book](https://www.sitepoint.com/premium/books/jump-start-responsive-web-design-2nd-edition?aref=cward).
 
 ## Automate DevOps with Otto
 
-I am the technical reviewer for this Packt title on Otto, due for release in late 2016.
+I was the technical reviewer for this Packt title on Otto, cancelled due to Hashicorp cancelling the technology.

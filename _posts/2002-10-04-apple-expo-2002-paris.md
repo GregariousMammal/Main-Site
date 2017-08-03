@@ -2,7 +2,7 @@
 layout: post
 title: Apple Expo 2002 - Paris
 created: 2002-10-04
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: apple reviews conference
 ---
 

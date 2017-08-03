@@ -2,19 +2,21 @@
 id: 77
 title: Moving countries and moving kitchens
 date: 2014-09-25T19:21:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/09/moving-countries-and-moving-kitchens.html
 permalink: /2014/09/moving-countries-and-moving-kitchens.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/09/kitchen-appliances.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/470345900957677313
-categories:
+tags:
   - cooking
   - germany
   - leipzig
@@ -126,18 +128,18 @@ What was here when we arrived:
     </li>
   </ul>
   
-  <p>
+  
     <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-IXNtWHTR35w/VCRD2t98utI/AAAAAAAAJjc/h8VgG5D5iQs/s1600/41-ml-AxC2L.jpg"><img src="http://2.bp.blogspot.com/-IXNtWHTR35w/VCRD2t98utI/AAAAAAAAJjc/h8VgG5D5iQs/s1600/41-ml-AxC2L.jpg" alt="" width="300" height="400" border="0" /></a><br /> <b><br /> </b><b>Luxury items I want more than need:</b><br /> <b><br /> </b>  <a href="http://www.amazon.com/gp/product/B00D9E3GTG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00D9E3GTG&linkCode=as2&tag=atracoo0a-20&linkId=TN2FNSETTXEYWORK">Camco 42803 Picnic Blanket </a> These kind of picnic blankets are great as they have a waterproof cover on one side, so are suitably for wet ground!
   
   
   
   
   
-  <p>
+  
     <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-qAJ_U9KVBI4/VCRByjGRncI/AAAAAAAAJis/ntXp38HOoTg/s1600/download%2B(2).jpeg"><img src="http://1.bp.blogspot.com/-qAJ_U9KVBI4/VCRByjGRncI/AAAAAAAAJis/ntXp38HOoTg/s1600/download%2B(2).jpeg" alt="" width="389" height="400" border="0" /></a>
   
   
-  <p>
+  
     <a href="http://www.amazon.com/gp/product/B000QT3HOQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B000QT3HOQ&linkCode=as2&tag=atracoo-20&linkId=IO2Y5OFUVKLMIRM4">All In One Picnic Travel Backpack Plates Cutlery Set</a><img style="border: none !important; margin: 0px !important;" src="http://ir-na.amazon-adsystem.com/e/ir?t=atracoo-20&l=as2&o=1&a=B000QT3HOQ" alt="" width="1" height="1" border="0" />. Whilst these don&#8217;t have the romanticism of a lovely wicker picnic basket, they are much easier to transport, especially when you don&#8217;t drive and are cycling or using public transport.
   
   
@@ -151,7 +153,7 @@ What was here when we arrived:
   
   
   
-  <p>
+  
     <a href="http://www.amazon.com/gp/product/B004UIRUJ2/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004UIRUJ2&linkCode=as2&tag=atracoo0a-20&linkId=IMXMH3QHE3YXRYVT">EasyLunchboxes 3-compartment Bento Lunch Box Containers </a>. Seriously can you ever have enough containers? Many of the containers we had back home would be too big for our little fridge and tiny freezer here.
   
   
@@ -162,11 +164,11 @@ What was here when we arrived:
     <a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-aH1WoDr_-Ac/VCRBymv-a1I/AAAAAAAAJio/NNgV5m1IndI/s1600/download%2B(3).jpeg"><img src="http://2.bp.blogspot.com/-aH1WoDr_-Ac/VCRBymv-a1I/AAAAAAAAJio/NNgV5m1IndI/s1600/download%2B(3).jpeg" alt="" width="400" height="266" border="0" /></a>
   
   
-  <p>
+  
     &nbsp;
   
   
-  <p>
+  
     <a href="http://www.amazon.com/gp/product/B007TIE0GQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007TIE0GQ&linkCode=as2&tag=atracoo0a-20&linkId=4LHRLRR3KL2CRYVU">NutriBullet 12-Piece High-Speed Blender/Mixer System</a><img style="border: none !important; margin: 0px !important;" src="http://ir-na.amazon-adsystem.com/e/ir?t=atracoo0a-20&l=as2&o=1&a=B007TIE0GQ" alt="" width="1" height="1" border="0" /> ( I had a magic bullet at home and it was really useful for a small kitchen and also for travelling. I&#8217;d often take it to workshops in council chambers where there wasn&#8217;t much of a kitchen). This is quite similar.
   
   
@@ -177,14 +179,14 @@ What was here when we arrived:
   
   
   
-  <p>
+  
     <a href="http://www.amazon.com/gp/product/B004P2NG0K/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004P2NG0K&linkCode=as2&tag=atracoo-20&linkId=GJABFK3XYJFHL5TG">Crock-Pot SCCPVL610-S Programmable Cook and Carry Oval Slow Cooker</a><img style="border: none !important; margin: 0px !important;" src="http://ir-na.amazon-adsystem.com/e/ir?t=atracoo-20&l=as2&o=1&a=B004P2NG0K" alt="" width="1" height="1" border="0" /><br /> <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-mMvw6WVQkX0/VCRcLYXqJWI/AAAAAAAAJkA/5IJ6h9kgg6U/s1600/SCCPVL610lid_280sq._V159986894_.jpg"><img src="http://4.bp.blogspot.com/-mMvw6WVQkX0/VCRcLYXqJWI/AAAAAAAAJkA/5IJ6h9kgg6U/s1600/SCCPVL610lid_280sq._V159986894_.jpg" alt="" width="377" height="400" border="0" /></a><br /> I&#8217;ve always wanted a crockpot. Chris has a strong aversion to them after a childhood of less than palatable meals but I&#8217;m hoping I can change his mind when I have the cash!
   
   
-  <p>
+  
     I wonder if people know about the experience of rental properties and kitchens in Germany? In many instances it is quite common for a property to be rented out without a kitchen. It will have a room for a kitchen but no actual kitchen. This means you have to bring (or buy) not only your own fridge and microwave as in Australia, but also a stove, benches and sink. Some tenants even remove the light fittings and kitchen flooring which the next tenant replaces. I still find it quite strange and am grateful for our contained kitchen!
   
   
-  <p>
+  
     Because of this (and the fact that many people live in apartments with smaller kitchens, portable stove tops and small fridges are quite popular. I really miss having a bit fridge and freezer, it&#8217;s a definite lifestyle change, and I find myself needing to water bath preserves every time rather than just popping them in the fridge as there&#8217;s no cold storage space.
   

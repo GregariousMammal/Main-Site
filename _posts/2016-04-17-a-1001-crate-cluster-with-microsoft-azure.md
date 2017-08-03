@@ -3,7 +3,7 @@ title: A 1001 Crate Cluster with Microsoft Azure
 created: 2016-04-17T00:00:00.000Z
 publication_url: 'https://crate.io/a/1001-node-crate-cluster-with-microsoft-azure/'
 image: Cloud-Azure.png
-categories: writing crate
+categories: Chris writing crate
 tags: azure cloud
 ---
 

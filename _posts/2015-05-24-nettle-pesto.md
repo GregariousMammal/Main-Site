@@ -2,11 +2,11 @@
 id: 937
 title: Nettle Pesto
 date: 2015-05-24T16:45:26+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=937
 permalink: /2015/05/nettle-pesto.html
-categories:
+tags:
   - berlin
   - cooking
   - food
@@ -20,13 +20,13 @@ categories:
   - vegetarian
 format: image
 ---
-[<img class="aligncenter size-full wp-image-939" src="atc-migrate/2015/05/17858886959_f7165f16a4_z.jpg" alt="17858886959_f7165f16a4_z" width="480" height="640" />](atc-migrate/2015/05/17858886959_f7165f16a4_z.jpg)
+[<img class="aligncenter size-full wp-image-939" src="/images/atc-migrate/2015/05/17858886959_f7165f16a4_z.jpg" alt="17858886959_f7165f16a4_z" width="480" height="640" />](/images/atc-migrate/2015/05/17858886959_f7165f16a4_z.jpg)
 
 I&#8217;d never tried nettles until I made this pesto! They came from my 
 
 [first foraging trip in Berlin](http://atravellingcook.com/2015/05/allotment-gardens-and-foraging-in-berlin.html). They aren&#8217;t all that common in Australia (perhaps it&#8217;s too dry for them?), so when I started seeing nettles everywhere I decided I&#8217;d have to cook something with them. There&#8217;s a couple of types of nettles, these softer, non-prickly ones are most common:
 
-[<img class="aligncenter size-large wp-image-920" src="atc-migrate/2015/05/2015-05-16-13.39.07-768x1024.jpg" alt="2015-05-16 13.39.07" width="768" height="1024" />](atc-migrate/2015/05/2015-05-16-13.39.07.jpg)
+[<img class="aligncenter size-large wp-image-920" src="/images/atc-migrate/2015/05/2015-05-16-13.39.07-768x1024.jpg" alt="2015-05-16 13.39.07" width="768" height="1024" />](/images/atc-migrate/2015/05/2015-05-16-13.39.07.jpg)
 
 You can also see some lovely wild Forget Me Nots. I&#8217;m not sure whether they grow wild or the seeds have blown over from the local Klein gartens.
 

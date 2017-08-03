@@ -2,7 +2,7 @@
 layout: post
 title: Security and design thinking
 created: 1377641376
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: events ux security
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: The Slow Guide to Melbourne - Book review
 created: 2009-01-26T00:00:00.000Z
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: books reviews
 ---
 

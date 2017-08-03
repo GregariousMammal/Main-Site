@@ -2,19 +2,21 @@
 id: 27
 title: Quinoa, barley and pickled vegetable salad
 date: 2015-01-27T13:35:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/quinoa-barley-and-pickled-vegetable-salad.html
 permalink: /2015/01/quinoa-barley-and-pickled-vegetable-salad.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/01/quinoa-barley-and-pickled-vegetable.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2037021750210661079
-categories:
+tags:
   - cooking
   - gluten free
   - pickling

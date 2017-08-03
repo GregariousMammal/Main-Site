@@ -2,19 +2,21 @@
 id: 17
 title: Food for thought
 date: 2015-02-13T15:28:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/02/food-for-thought.html
 permalink: /2015/02/food-for-thought.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/02/food-for-thought.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/4315705247480065905
-categories:
+tags:
   - blogging
   - leipzig
   - winter
@@ -35,7 +37,7 @@ I&#8217;m also planning my next little recipe ebooks and looking forward to work
 <br /> p.s. I&#8217;m starting a newsletter to coincide with my new website. It&#8217;ll be maybe once a month  at most with a few new recipes and bits of pieces. Nothing spammy. Maybe you&#8217;d like to sign up? There&#8217;s a box on the right hand corner of my blog, can you find it ok? 
 
 <div style="margin-bottom: .0001pt; margin: 0cm;">
-  <b><span style="text-decoration: underline;"><span style="color: black; font-family: Arial; font-size: 12.0pt;"><br /> Things I am reading:</b>
+  <b><span style="color: black; font-family: Arial; font-size: 12.0pt;"><br /> Things I am reading:</b>
 
 
 <div style="margin-bottom: .0001pt; margin: 0cm;">
@@ -100,7 +102,7 @@ I&#8217;m also planning my next little recipe ebooks and looking forward to work
 
 
 
-**<span style="text-decoration: underline;">Things I am liking**
+**Things I am liking**
 
 
   <a  href="http://3.bp.blogspot.com/-iW0xBvM9P-4/VN37GmlynuI/AAAAAAAAKoQ/UoKDfY4BDDc/s1600/irena4.jpg"><img src="http://3.bp.blogspot.com/-iW0xBvM9P-4/VN37GmlynuI/AAAAAAAAKoQ/UoKDfY4BDDc/s1600/irena4.jpg" alt="" width="400" height="244" border="0" /></a>
@@ -142,6 +144,6 @@ Great art by Irana Douer via <a href="http://designismine.blogspot.de/2015/02/se
   <a  href="http://3.bp.blogspot.com/-vZ8AJavscx0/VN4HbB-wBFI/AAAAAAAAKpM/n5bp3naMEsI/s1600/fighouse6.jpg"><img src="http://3.bp.blogspot.com/-vZ8AJavscx0/VN4HbB-wBFI/AAAAAAAAKpM/n5bp3naMEsI/s1600/fighouse6.jpg" alt="" width="266" height="400" border="0" /></a>
 
 
-<span style="text-decoration: underline;"><b><br /> </b>How I love the creative work done on <a href="http://stylebyemilyhenderson.com/blog/the-fig-house-lounge-before-after/">this</a> room! 
+<b><br /> </b>How I love the creative work done on <a href="http://stylebyemilyhenderson.com/blog/the-fig-house-lounge-before-after/">this</a> room! 
   
-<span style="text-decoration: underline;"><b><br /> </b>
+<b><br /> </b>

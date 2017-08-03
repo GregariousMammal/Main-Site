@@ -1,7 +1,8 @@
 ---
 layout: default
-permalink: podcast/index.html
-paginate:
+permalink: podcast
+pagination:
+  enabled: true
   category: podcast
 ---
 
@@ -9,28 +10,19 @@ paginate:
   <div class="podcast">
     <div class="image">
     </div>
-    <h1 class="post-title">Podcasts and video</h1>
+    <h1 class="post-title">Podcasts</h1>
     <div class="description">
-      <p>I currently contribute to three regular shows. My daily(ish) podcast/video blog, 'The Daily Bark', The Weekly Squeak with <a href="https://twitter.com/cate_lawrence" target="_blank">Cate Lawrence</a>, and the Write the Docs podcast.</p>
-      <p><a href='http://feeds.soundcloud.com/users/soundcloud:users:128163767/sounds.rss'>Subscribe to my podcasts here.</a></p>
+      <p>
+        Our podcast is a regular ramble that covers technology, robots, coding, IoT, current affairs, travels, writing and so much more.</p>
+      <ul>
+      <li><a href='https://soundcloud.com/gregarious-mammal'>On Soundcloud</a></li>
+      <li><a href='https://itunes.apple.com/au/podcast/the-weekly-squeak/id1071207052?mt=2'>On iTunes</a></li>
+      <li><a href='http://feeds.soundcloud.com/users/soundcloud:users:128163767/sounds.rss'>RSS feed</a></li>
+      </ul>
     </div>
   </div>
 
   <section>
-    <ul class="post-list">
-      {% for post in paginator.posts %}
-      <li>
-        <h2><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        {% if post.image %}
-        {% picture listings {{post.image}} alt="{{post.title}}" %}
-        {% endif %}
-        {{ post.excerpt }}
-        <div class="post-meta">
-          <i>{{ post.date | date: '%B %d' }}</i><br/>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-        </div>
-      </li>
-      {% endfor %}
-    </ul>
+    {% include post_list.html %}
   </section>
 </div>

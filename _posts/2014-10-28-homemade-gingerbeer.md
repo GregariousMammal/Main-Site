@@ -2,19 +2,21 @@
 id: 69
 title: Homemade gingerbeer
 date: 2014-10-28T19:46:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/10/homemade-gingerbeer.html
 permalink: /2014/10/homemade-gingerbeer.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/10/homemade-gingerbeer.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6894969196292897205
-categories:
+tags:
   - cooking
   - germany
   - leipzig

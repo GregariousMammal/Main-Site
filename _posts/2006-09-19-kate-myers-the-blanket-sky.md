@@ -2,7 +2,7 @@
 layout: post
 title: Kate Myers - The Blanket Sky
 created: 1158650593
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

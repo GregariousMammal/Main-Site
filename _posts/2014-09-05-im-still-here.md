@@ -2,24 +2,26 @@
 id: 85
 title: 'I&#8217;m still here&#8230;.'
 date: 2014-09-05T15:27:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/09/im-still-here.html
 permalink: /2014/09/im-still-here.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/09/im-still-here.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/7969336499902755692
-categories:
+tags:
   - blogging
   - germany
   - leipzig
   - vegan
-  - writing
+    - writing
 ---
 
   <a  href="http://2.bp.blogspot.com/-XM-QbITwM9I/VAnIHyQ4ztI/AAAAAAAAJZg/CyFK4Fr_X9U/s1600/1386356-bigthumbnail.jpg"><img src="http://2.bp.blogspot.com/-XM-QbITwM9I/VAnIHyQ4ztI/AAAAAAAAJZg/CyFK4Fr_X9U/s1600/1386356-bigthumbnail.jpg" alt="" width="400" height="365" border="0" /></a>

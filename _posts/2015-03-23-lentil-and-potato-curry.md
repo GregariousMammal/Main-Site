@@ -2,11 +2,11 @@
 id: 608
 title: Lentil and potato curry
 date: 2015-03-23T14:36:46+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=608
 permalink: /2015/03/lentil-and-potato-curry.html
-categories:
+tags:
   - cooking
   - food
   - recipe
@@ -14,7 +14,7 @@ categories:
   - vegan
 format: image
 ---
-[<img class="alignnone size-full wp-image-612" src="atc-migrate/2015/03/DSC0280.jpg" alt="_DSC0280" width="2714" height="2311" />](atc-migrate/2015/03/DSC0280.jpg)
+[<img class="alignnone size-full wp-image-612" src="/images/atc-migrate/2015/03/DSC0280.jpg" alt="_DSC0280" width="2714" height="2311" />](/images/atc-migrate/2015/03/DSC0280.jpg)
 
 In Germany almost all shops are closed in Sundays. It&#8217;s considered a day of rest, for spending time with friends and family not working or shopping. I was talking about it to a friend today, and what I really like is that people despite things being closed, people don&#8217;t just stay indoors (even when it&#8217;s cold). Rather they are out and about, in parks, riding bikes and walking dogs. It&#8217;s a really nice way to spend a Sunday, although after years of self employment, we are often guilty of working on Sundays on our own projects! But when it&#8217;s something you enjoy, it doesn&#8217;t seem so much like work.
 
@@ -51,7 +51,7 @@ _Instructions_
   7. Add cabbage
   8. Serve with rice.
 
-_[<img class="alignnone size-full wp-image-613" src="atc-migrate/2015/03/DSC02791.jpg" alt="_DSC0279" width="2811" height="2071" />](atc-migrate/2015/03/DSC02791.jpg)_
+_[<img class="alignnone size-full wp-image-613" src="/images/atc-migrate/2015/03/DSC02791.jpg" alt="_DSC0279" width="2811" height="2071" />](/images/atc-migrate/2015/03/DSC02791.jpg)_
 
 Listed in Fabfood4All&#8217;s [Credit Crunch Munch](http://www.fabfood4all.co.uk/credit-crunch-munch/), hosted by [Baking Queen 74](http://www.bakingqueen74.co.uk/?p=2788)
 

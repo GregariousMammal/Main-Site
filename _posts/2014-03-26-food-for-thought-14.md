@@ -2,24 +2,26 @@
 id: 121
 title: Food for thought
 date: 2014-03-26T03:01:00.000Z
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/2014/03/food-for-thought-14.html'
 permalink: /2014/03/food-for-thought-14.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/03/food-for-thought_26.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/7023895331258021453
-categories:
+tags:
   - baking
   - blogging
   - cooking
   - recipe
-  - writing
+    - writing
 ---
 
 [Break out the Breville, it's time for a Toastie](http://www.theguardian.com/lifeandstyle/wordofmouth/2014/mar/13/breville-toastie-toasted-cheese-sandwich) by John Naylor
@@ -32,13 +34,13 @@ It made perfectly toasted sandwiches with lava like molten insides if you weren'
 
 I love old photographs that feature people in every day situations. These photographs by Bill Rauhauser of working people in Detroit are just wonderful. See more [here](http://www.slate.com/blogs/behold/2014/03/11/bill_rauhauser_photographs_detroit_in_black_and_white.html)
 
-![](../images/atc-migrate/2014/01/5B_303.jpg.CROP_.original-original.jpg)
+![](../images//images/atc-migrate/2014/01/5B_303.jpg.CROP_.original-original.jpg)
 
 [![](http://1.bp.blogspot.com/--dh0_iEScBs/UzIyGxepmxI/AAAAAAAAIdk/UCxlD8G_kwo/s1600/Rauhauser_Kresge+File_1.jpg.CROP.original-original.jpg)](http://1.bp.blogspot.com/--dh0_iEScBs/UzIyGxepmxI/AAAAAAAAIdk/UCxlD8G_kwo/s1600/Rauhauser_Kresge+File_1.jpg.CROP.original-original.jpg)
 
 [Why is preserving so popular? June Taylor on Jam Making and Avoiding Waste](http://www.thekitchn.com/why-is-preserving-so-popular-june-taylor-on-jammaking-avoiding-waste-200697) by Dana Velden
 
-![](../images/atc-migrate/2014/01/397537_10151924242901249_20842621_n-1.jpg)
+![](../images//images/atc-migrate/2014/01/397537_10151924242901249_20842621_n-1.jpg)
 
 _Scones and jam made by me_
 

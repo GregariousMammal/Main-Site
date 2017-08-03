@@ -2,19 +2,21 @@
 id: 65
 title: Veganz opens in Leipzig (picture heavy post)
 date: 2014-11-08T13:37:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/11/veganz-opens-in-leipzig-picture-heavy-post.html
 permalink: /2014/11/veganz-opens-in-leipzig-picture-heavy-post.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/11/veganz-opens-in-leipzig-picture-heavy.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/9106522547975681487
-categories:
+tags:
   - australia
   - cooking
   - germany

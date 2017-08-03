@@ -2,11 +2,11 @@
 id: 718
 title: Three bean and quinoa Chilli non carne
 date: 2015-04-08T11:47:17+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=718
 permalink: /2015/04/three-bean-and-quinoa-chilli-non-carne.html
-categories:
+tags:
   - cooking
   - food
   - recipe
@@ -16,7 +16,7 @@ format: image
 <section id="individual_top"> 
 
 <div class="cntr">
-  <a href="atc-migrate/2015/04/DSC0320.jpg"><img class="alignnone size-full wp-image-721" src="atc-migrate/2015/04/DSC0320.jpg" alt="_DSC0320" width="4288" height="2848" /></a>
+  <a href="/images/atc-migrate/2015/04/DSC0320.jpg"><img class="alignnone size-full wp-image-721" src="/images/atc-migrate/2015/04/DSC0320.jpg" alt="_DSC0320" width="4288" height="2848" /></a>
 
 
 <div class="cntr">

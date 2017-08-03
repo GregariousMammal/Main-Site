@@ -2,19 +2,21 @@
 id: 103
 title: 'Strawberry fields forever: strawberry and rosewater jam &#038; strawberry cordial'
 date: 2014-07-28T10:29:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/07/strawberry-fields-forever-strawberry-and-rosewater-jam-strawberry-cordial.html
 permalink: /2014/07/strawberry-fields-forever-strawberry-and-rosewater-jam-strawberry-cordial.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/07/strawberry-fields-forever-strawberry.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/7984654777951745980
-categories:
+tags:
   - germany
   - leipzig
   - preserving
@@ -76,7 +78,7 @@ categories:
         <a  href="http://4.bp.blogspot.com/-vX7FNP2vZBY/U9YUsgawydI/AAAAAAAAJAU/FAEMtsJTibc/s1600/1901317_676069495765797_599644079_n.jpg"><img src="http://4.bp.blogspot.com/-vX7FNP2vZBY/U9YUsgawydI/AAAAAAAAJAU/FAEMtsJTibc/s1600/1901317_676069495765797_599644079_n.jpg" alt="" width="400" height="278" border="0" /></a>
       
       
-      <p>
+      
         <i><br /> </i> 
       
       

@@ -2,11 +2,11 @@
 id: 1056
 title: Food for thought
 date: 2015-08-25T14:25:58+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=1056
 permalink: /2015/08/food-for-thought-21.html
-categories:
+tags:
   - berlin
   - cooking
   - events
@@ -25,15 +25,15 @@ I&#8217;ve been seeing movies at the [Berlin Fantasy Film Festival](http://www.f
 
 I&#8217;ve also been enjoying [_T__he Great British Bake-O__f__f_](http://www.bbc.co.uk/programmes/b013pqnm) and [_The Americans. _](http://www.imdb.com/title/tt2149175/)
 
-[<img class="aligncenter size-full wp-image-1252" src="atc-migrate/2015/08/IMG_20150809_161320.jpeg" alt="IMG_20150809_161320" width="1920" height="2560" />](atc-migrate/2015/08/IMG_20150809_161320.jpeg) We did some tourist stuff a couple of weeks ago, something we don&#8217;t do all that often, like the infamous [Mauer park karaoke](http://www.bearpitkaraoke.com/). Always funny!
+[<img class="aligncenter size-full wp-image-1252" src="/images/atc-migrate/2015/08/IMG_20150809_161320.jpeg" alt="IMG_20150809_161320" width="1920" height="2560" />](/images/atc-migrate/2015/08/IMG_20150809_161320.jpeg) We did some tourist stuff a couple of weeks ago, something we don&#8217;t do all that often, like the infamous [Mauer park karaoke](http://www.bearpitkaraoke.com/). Always funny!
 
 &nbsp;
 
-<img class="aligncenter size-large wp-image-1254" src="atc-migrate/2015/08/Picture.jpeg" alt="Picture" width="480" height="640" />
+<img class="aligncenter size-large wp-image-1254" src="/images/atc-migrate/2015/08/Picture.jpeg" alt="Picture" width="480" height="640" />
 
 We went to the German Resistance Memorial Centre and also the [Topography of Terror](http://www.topographie.de/). I recommend both for a visit-both are free and very interesting. We are looking forward to [Lange Nacht der Museen](http://www.lange-nacht-der-museen.de/en/) this weekend. Although we won&#8217;t be there too late as we&#8217;re off to Prague on Sunday afternoon!
 
-[<img class="aligncenter size-large wp-image-1253" src="atc-migrate/2015/08/IMG_20150812_184957.jpeg" alt="IMG_20150812_184957" width="768" height="1024" />](atc-migrate/2015/08/IMG_20150812_184957.jpeg)
+[<img class="aligncenter size-large wp-image-1253" src="/images/atc-migrate/2015/08/IMG_20150812_184957.jpeg" alt="IMG_20150812_184957" width="768" height="1024" />](/images/atc-migrate/2015/08/IMG_20150812_184957.jpeg)
 
 &nbsp;
 
@@ -43,12 +43,12 @@ I&#8217;ve not been terribly busy with workshops the last couple of weeks but ra
 
 _ Things that have been capturing my interest: _
 
-[<img class="aligncenter size-full wp-image-1250" src="atc-migrate/2015/08/il_570xN.806743718_8hu8.jpg" alt="il_570xN.806743718_8hu8" width="570" height="430" />](atc-migrate/2015/08/il_570xN.806743718_8hu8.jpg)
+[<img class="aligncenter size-full wp-image-1250" src="/images/atc-migrate/2015/08/il_570xN.806743718_8hu8.jpg" alt="il_570xN.806743718_8hu8" width="570" height="430" />](/images/atc-migrate/2015/08/il_570xN.806743718_8hu8.jpg)
 
   * I would love one of [these](https://www.etsy.com/listing/175189425/cat-bed-cat-cave-cat-house-eco-friendly?ref=listing-shop-header-0&utm_source=swissmiss&utm_campaign=c5e2e6c8d9-RSS_EMAIL_CAMPAIGN&utm_medium=email&utm_term=0_2660ad4d17-c5e2e6c8d9-329263722) cat igloo&#8217;s for Miss Ginger. She spends most morning sleeping in my husband&#8217;s underpants drawer!
   * I love [this](http://www.offgridquest.com/homes-dwellings/home-stories/at-first-his-friends-thought-he-was-craz?start=2) renovation of a garage into a house! Just amazing!
 
-[<img class="aligncenter size-full wp-image-1251" src="atc-migrate/2015/08/conceptionstudio-romanholiday.jpg" alt="conceptionstudio-romanholiday" width="714" height="1000" />](atc-migrate/2015/08/conceptionstudio-romanholiday.jpg)
+[<img class="aligncenter size-full wp-image-1251" src="/images/atc-migrate/2015/08/conceptionstudio-romanholiday.jpg" alt="conceptionstudio-romanholiday" width="714" height="1000" />](/images/atc-migrate/2015/08/conceptionstudio-romanholiday.jpg)
 
   * How cool is [this](http://printclublondon.com/shop/roman-holiday/) _Roman holiday_ poster?
   * I&#8217;m fascinated by [this](http://growing-underground.com/) underground garden in London. So innovative!

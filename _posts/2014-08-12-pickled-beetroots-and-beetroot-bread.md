@@ -2,19 +2,21 @@
 id: 95
 title: Pickled beetroots and beetroot bread
 date: 2014-08-12T11:44:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/08/pickled-beetroots-and-beetroot-bread.html
 permalink: /2014/08/pickled-beetroots-and-beetroot-bread.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/08/pickled-beetroots-and-beetroot-bread.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/593400982239593888
-categories:
+tags:
   - baking
   - pickling
   - preserving
@@ -32,7 +34,7 @@ categories:
         <a  href="http://2.bp.blogspot.com/-gxusRoguZ-U/U-np9RJQ-AI/AAAAAAAAJJ4/gqjzAztu0Jk/s1600/14708314599_7d4d1e1154_z.jpg"><img src="http://2.bp.blogspot.com/-gxusRoguZ-U/U-np9RJQ-AI/AAAAAAAAJJ4/gqjzAztu0Jk/s1600/14708314599_7d4d1e1154_z.jpg" alt="" width="400" height="246" border="0" /></a>
       
       
-      <p>
+      
         <span style="font-family: Georgia, Times New Roman, serif; font-weight: bold;"><br /> <span style="font-family: Georgia, Times New Roman, serif;">I&#8217;ve been craving beetroot the last week or so. So I decided to get cooking my favourite pickled beetroot and some tasty bread to go with it. Here&#8217;s my recipes.<br /> <span style="font-family: Georgia, Times New Roman, serif;"><br /> <span style="font-family: Georgia, Times New Roman, serif; font-weight: bold;">Pickled beetroot <br /> <span style="font-family: Georgia, Times New Roman, serif;"><span style="font-style: italic;">Ingredients:<br /> <span style="font-family: Georgia, Times New Roman, serif;">• 4 large beetroot<br /> • 3/4 cup water<br /> • 1 1/2 cups white vinegar • 3/4 cup sugar <br /> <span style="font-family: Georgia, Times New Roman, serif;">• 1/2 teaspoon peppercorns<br /> • 1 bay leaf<br /> • 2 cloves<br /> • 1/2 teaspoon mustard seeds • 1/2 cinnamon stick <br /> <span style="font-family: Georgia, Times New Roman, serif;">• 1/4 teaspoon salt <br /> <span style="font-family: Georgia, Times New Roman, serif;"><br /> <i>Instructions:</i><br /> <span style="font-family: Georgia, Times New Roman, serif;">1. Wash your beetroot and cook in a boiling water until tender. <br /> <span style="font-family: Georgia, Times New Roman, serif;">2. Take out and let cool. Remove the skin and cut the beetroot into slices or quarters. <br /> <span style="font-family: Georgia, Times New Roman, serif;">3. All the other ingredients go in a saucepan and boil for 5 minutes. <br /> <span style="font-family: Georgia, Times New Roman, serif;">4. Place your beetroot into hot sterilised jars and pour vinegar mixture over until all beetroot is covered. <br /> <span style="font-family: Georgia, Times New Roman, serif;">5. Seal the pickled beetroot and store in a cool place. <br /> <span style="font-family: Georgia, Times New Roman, serif;"><br /> 
       
       
@@ -40,7 +42,7 @@ categories:
         <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-tKZWsn1WSno/U-np9Syqw2I/AAAAAAAAJJ8/-xIbC7FPI2I/s1600/14708307639_9c7b005d1c_z.jpg"><img src="http://4.bp.blogspot.com/-tKZWsn1WSno/U-np9Syqw2I/AAAAAAAAJJ8/-xIbC7FPI2I/s1600/14708307639_9c7b005d1c_z.jpg" alt="" width="400" height="265" border="0" /></a>
       
       
-      <p>
+      
         <span style="font-family: Georgia, Times New Roman, serif;"><b><br /> </b> <span style="font-family: Georgia, Times New Roman, serif;"><b>Beetroot Bread</b>
       
       

@@ -2,7 +2,7 @@
 layout: post
 title: The Fratellis - Hi Fi Bar
 created: 1219690388
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

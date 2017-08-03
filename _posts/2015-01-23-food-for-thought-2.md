@@ -2,19 +2,21 @@
 id: 32
 title: Food for thought
 date: 2015-01-23T15:35:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/food-for-thought-2.html
 permalink: /2015/01/food-for-thought-2.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/01/food-for-thought.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/7778705326427785168
-categories:
+tags:
   - australia
   - blogging
   - cooking
@@ -60,9 +62,9 @@ I released my first ebook this week, _[Australian Classics Veganised](https://se
 
 You might have seen Leipzig in the news regard the [Lediga and Anti-Lediga protests](http://www.thelocal.de/20150113/100000-march-against-pegida)? Its interesting to observe as an expat. We went along to the first big protest against Lediga Monday last week with over 30,000 Leipzigers. Those numbers are amazing considering that Leipzig only has 550,000 people. The Lediga people (including many from outside Leipzig that are bused in) pledge to protest each week. There has been bomb threats and assault upon police and journalists. I actually wonder what their final aim is?
 
-<span style="text-decoration: underline;">Thing that interest me this week:
+Thing that interest me this week:
   
-<span style="text-decoration: underline;"><br /> [The science behind your sriracha obsession](http://www.refinery29.com/sriracha-flavor?utm_source=food52&utm_medium=syndication), Sarah Jacoby, _Refiney 29._ Yes I love the stuff.
+<br /> [The science behind your sriracha obsession](http://www.refinery29.com/sriracha-flavor?utm_source=food52&utm_medium=syndication), Sarah Jacoby, _Refiney 29._ Yes I love the stuff.
 
 [This](http://mynameisyeh.com/mynameisyeh/2015/1/mac-cheese-party) is such a cute idea for a party.
 

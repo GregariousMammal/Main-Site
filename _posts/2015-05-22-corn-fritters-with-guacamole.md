@@ -2,11 +2,11 @@
 id: 902
 title: Corn fritters with guacamole
 date: 2015-05-22T20:08:08+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=902
 permalink: /2015/05/corn-fritters-with-guacamole.html
-categories:
+tags:
   - baking
   - cooking
   - food
@@ -15,7 +15,7 @@ categories:
   - vegetarian
 format: image
 ---
-<img class="aligncenter size-large wp-image-904" src="atc-migrate/2015/05/DSC0455-1024x813.jpg" alt="_DSC0455" width="780" height="619" />
+<img class="aligncenter size-large wp-image-904" src="/images/atc-migrate/2015/05/DSC0455-1024x813.jpg" alt="_DSC0455" width="780" height="619" />
 
 Corn fritters are a breakfast dish that I really enjoy but realised I hadn&#8217;t had for ages! I simply had to make a batch. They are cheap, quick and easy to make. I fried these fritters in a pan but they also work perfectly well baked in the oven, although baking will take longer than frying, probably about 20 minutes on 180c.  Alternative topping include pesto, barbecue sauce and sweet chilli sauce. The fritters also work wonderfully in a sandwich on lovely fresh bread!
 
@@ -60,4 +60,4 @@ _ Instructions_
   1. Mash avocado in a small bowl with a fork.
   2. Add remaining ingredients and adjust seasonings to taste.
 
-[<img class="aligncenter size-large wp-image-903" src="atc-migrate/2015/05/DSC0466-1024x680.jpg" alt="_DSC0466" width="780" height="518" />](atc-migrate/2015/05/DSC0466.jpg)
+[<img class="aligncenter size-large wp-image-903" src="/images/atc-migrate/2015/05/DSC0466-1024x680.jpg" alt="_DSC0466" width="780" height="518" />](/images/atc-migrate/2015/05/DSC0466.jpg)

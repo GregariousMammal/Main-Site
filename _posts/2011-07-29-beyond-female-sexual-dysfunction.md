@@ -2,22 +2,24 @@
 id: 153
 title: Beyond Female Sexual Dysfunction
 date: 2011-07-29T15:20:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2011/07/beyond-female-sexual-dysfunction.html
 permalink: /2011/07/beyond-female-sexual-dysfunction.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2011/07/beyond-female-sexual-dysfunction.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6698415037826515652
-categories:
+tags:
   - non-fiction
   - women
-  - writing
+    - writing
 ---
 
   &nbsp;Women are in the most comfortable sexual position in history. Notions of sexual activity have shifted further away from a sole reproductive purpose than any time in history as women (at least in the Western paradigm) are given a license to enjoy sex and be as selfish about their own orgasms as their partner’s pleasure. Women are choosing to have sex on their own terms, whether as part of a relationship, ongoing friendship or casual encounter. Sex and sexual pleasure is part of everyday parlance with happy sexualised women visible everywhere, from your local burlesque show to the latest advertisement for perfume. But what if you don&#8217;t feel like having sex or have difficulties during sex? How do you work out if you have a problem, and if so, what does it mean and how do you treat it? Cate Lawrence interviews three women about their sex lives and various health professionals to find out.<o:p></o:p>

@@ -1,7 +1,8 @@
 ---
 layout: default
-permalink: projects/not-profit-handbook/index.html
-paginate:
+permalink: projects/not-profit-handbook
+pagination:
+  enabled: true
   category: not-profit-handbook
 ---
 
@@ -14,26 +15,7 @@ paginate:
     </p>
   </div>
   <section>
-    <ul class="post-list">
-      {% for post in paginator.posts %}
-      <li>
-        <h2>
-          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        {% if post.image %}
-        {% picture listings {{post.image}} alt="{{post.title}}" %}
-        {% endif %}
-        {{ post.excerpt }}
-        <div class="post-meta">
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">Read More</a>
-          {% if post.categories %}
-          {% include category_block.html %}
-          {% endif %}
-        </div>
-      </li>
-
-      {% endfor %}
-    </ul>
+    {% include post_list.html %}
   </section>
           {% include pagination.html %}
 

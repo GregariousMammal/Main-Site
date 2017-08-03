@@ -2,19 +2,21 @@
 id: 133
 title: Grow your own salad sprouts without a garden
 date: 2014-02-24T06:11:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/02/grow-your-own-salad-sprouts-without-a-garden.html
 permalink: /2014/02/grow-your-own-salad-sprouts-without-a-garden.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/02/salad-sprout.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/5026627565211423003
-categories:
+tags:
   - gardening
   - planting
   - small space gardening
@@ -109,7 +111,7 @@ categories:
       <span style="color: #212121; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 14px; line-height: 21px;"><a  href="http://3.bp.blogspot.com/-ZY07fBnozGo/UwrTyh14KNI/AAAAAAAAIFY/JWEEhyHUSYE/s1600/Pea-Shoots.jpg"><img src="http://3.bp.blogspot.com/-ZY07fBnozGo/UwrTyh14KNI/AAAAAAAAIFY/JWEEhyHUSYE/s1600/Pea-Shoots.jpg" alt="" width="400" height="300" border="0" /></a>
     
     
-    <p>
+    
       &nbsp;
     
   

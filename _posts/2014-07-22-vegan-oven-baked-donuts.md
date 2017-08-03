@@ -2,19 +2,21 @@
 id: 104
 title: Vegan oven baked donuts
 date: 2014-07-22T21:15:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/07/vegan-oven-baked-donuts.html
 permalink: /2014/07/vegan-oven-baked-donuts.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/07/vegan-oven-baked-donuts.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/500896873808471935
-categories:
+tags:
   - baking
   - cooking
   - recipe
@@ -68,7 +70,7 @@ _Instructions_
     <i> </i>
   
   
-  <p>
+  
     <i></i>4. Place dough in a lightly oiled bowl and cover with a tea towel
   
   
@@ -92,7 +94,7 @@ _Instructions_
       <i> </i>
     
     
-    <p>
+    
       <i></i>6. Line a baking tray with baking paper<br /> 7. Using your fist, punch dough down.<br /> 8. Place on a lightly floured board<br /> 9. Knead until smooth and elastic<br /> 10. Stretch dough to be 2cm thick
     
     
@@ -106,7 +108,7 @@ _Instructions_
       <i> </i>
     
     
-    <p>
+    
       11. Using a small round cutter, cut 12 donuts<br /> 12. Place doughnuts, 5cm apart, on prepared tray. Cover with a tea towel again.
     
   
@@ -116,13 +118,13 @@ _Instructions_
       <i><a  href="http://1.bp.blogspot.com/-_MqY4LGISus/U87E4mhyZsI/AAAAAAAAI-A/mTDQiT42Ftc/s1600/14739506943_963422ccf2_z.jpg"><img class=" aligncenter" src="http://1.bp.blogspot.com/-_MqY4LGISus/U87E4mhyZsI/AAAAAAAAI-A/mTDQiT42Ftc/s1600/14739506943_963422ccf2_z.jpg" alt="" width="320" height="176" border="0" /></a></i>
     
     
-    <p>
+    
       <i> </i>
     
   
   
   
-    <p>
+    
       <i></i>13. Set aside in a warm place for 30 minutes or until doubled in size.Meanwhile, preheat oven to 200°C.
     
     
@@ -130,21 +132,21 @@ _Instructions_
       <i><a  href="http://4.bp.blogspot.com/-rqtNqHflO8Y/U87E3Obp9rI/AAAAAAAAI9w/theAWSt-Gvk/s1600/14532991809_72355866ea_z.jpg"><img class=" aligncenter" src="http://4.bp.blogspot.com/-rqtNqHflO8Y/U87E3Obp9rI/AAAAAAAAI9w/theAWSt-Gvk/s1600/14532991809_72355866ea_z.jpg" alt="" width="292" height="320" border="0" /></a></i>
     
     
-    <p>
+    
       <i> </i>
     
   
   
   
-    <p>
+    
       <i></i>14. Cook doughnuts for 10 minutes or until golden brown and cooked through.<br /> 15. Combine remaining lemon sugar and cinnamon in a bowl.<br /> 16. Brush doughnuts with remaining butter. Dip in sugar mixture, shaking off excess.<br /> 17. Serve with your choice of tea or coffee.
     
     
-    <p>
+    
       <i>*Don&#8217;t have access to self raising flour like here in Germany? You can use plain flour on it&#8217;s own of course or add 5 teaspoons of baking powder to the flour and stir well together.</i>
     
     
-    <p>
+    
       <!-- [if gte mso 9]><xml> <o:OfficeDocumentSettings>  <o:AllowPNG/> </o:OfficeDocumentSettings></xml><![endif]-->
       
       <!-- [if gte mso 9]><xml> <w:WordDocument>  <w:View>Normal</w:View>  <w:Zoom>0</w:Zoom>  <w:TrackMoves/>  <w:TrackFormatting/>  <w:PunctuationKerning/>  <w:ValidateAgainstSchemas/>  <w:SaveIfXMLInval>false</w:SaveIfXMLInvalid>  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>  <w:DoNotPromoteQF/>  <w:LidThemeOther>EN-AU</w:LidThemeOther>  <w:LidThemeAsian>JA</w:LidThemeAsian>  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>  <w:Compatibility>   <w:BreakWrappedTables/>   <w:SnapToGridInCell/>   <w:WrapTextWithPunct/>   <w:UseAsianBreakRules/>   <w:DontGrowAutofit/>   <w:SplitPgBreakAndParaMark/>   <w:EnableOpenTypeKerning/>   <w:DontFlipMirrorIndents/>   <w:OverrideTableStyleHps/>   <w:UseFELayout/>  </w:Compatibility>  <m:mathPr>   <m:mathFont m:val="Cambria Math"/>   <m:brkBin m:val="before"/>   <m:brkBinSub m:val="&#45;-"/>   <m:smallFrac m:val="off"/>   <m:dispDef/>   <m:lMargin m:val="0"/>   <m:rMargin m:val="0"/>   <m:defJc m:val="centerGroup"/>   <m:wrapIndent m:val="1440"/>   <m:intLim m:val="subSup"/>   <m:naryLim m:val="undOvr"/>  </m:mathPr></w:WordDocument></xml><![endif]-->

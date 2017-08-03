@@ -2,7 +2,7 @@
 layout: post
 title: Rubber Records 20th Birthday - Northcote Town Hall
 created: 1225147013
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Pocus Whiteface - Demo
 created: 1172473767
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

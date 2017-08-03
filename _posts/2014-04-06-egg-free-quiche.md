@@ -2,19 +2,21 @@
 id: 116
 title: Egg free quiche
 date: 2014-04-06T10:49:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/04/egg-free-quiche.html
 permalink: /2014/04/egg-free-quiche.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/04/a-day-of-cooking-and-egg-free-quiche.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2824709367844741746
-categories:
+tags:
   - baking
   - cooking
   - recipe

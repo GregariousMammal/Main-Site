@@ -2,7 +2,7 @@
 layout: post
 title: James Yorkston - The Year of the Leopard
 created: 1155725983
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Maximo Park - Our Earthly Pleasures
 created: 1183767659
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

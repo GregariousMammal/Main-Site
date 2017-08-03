@@ -2,19 +2,21 @@
 id: 79
 title: Food for thought
 date: 2014-09-21T15:58:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/09/food-for-thought-6.html
 permalink: /2014/09/food-for-thought-6.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/09/food-for-thought_43.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/7028333612190072549
-categories:
+tags:
   - australia
   - baking
   - germany
@@ -77,7 +79,7 @@ I&#8217;ve been very busy testing recipes for next Saturday&#8217;s Apartment Su
 
 I&#8217;ve been participating in Vegan mofo 2014. Here&#8217;s some recipes I am loving and looking forward to cooking:
   
-<span style="color: #042eee; font-family: Arial;"><span style="text-decoration: underline;"><br /> 
+<span style="color: #042eee; font-family: Arial;"><br /> 
 
 
   <a  href="http://4.bp.blogspot.com/-pBOws3Li8Vk/VB7exaf3m_I/AAAAAAAAJhQ/l1FS7ZA2iBQ/s1600/tumblr_inline_nbbulfq8NP1s9uez5.png"><img src="http://4.bp.blogspot.com/-pBOws3Li8Vk/VB7exaf3m_I/AAAAAAAAJhQ/l1FS7ZA2iBQ/s1600/tumblr_inline_nbbulfq8NP1s9uez5.png" alt="" width="400" height="266" border="0" /></a>
@@ -87,14 +89,14 @@ I&#8217;ve been participating in Vegan mofo 2014. Here&#8217;s some recipes I am
   <a href="http://happyearthlings.tumblr.com/post/96538636929/green-chickpea-patties#disqus_thread">Green chickpea patties</a>
 
 
-<span style="color: #042eee; font-family: Arial;"><span style="text-decoration: underline;"> 
+<span style="color: #042eee; font-family: Arial;"> 
 
 
   <a  href="http://4.bp.blogspot.com/-2qpglS5s1R8/VB7gsM3MObI/AAAAAAAAJho/bB0X-j4geO8/s1600/BeetSeitan2.jpg"><img src="http://4.bp.blogspot.com/-2qpglS5s1R8/VB7gsM3MObI/AAAAAAAAJho/bB0X-j4geO8/s1600/BeetSeitan2.jpg" alt="" width="400" height="266" border="0" /></a>
 
 
 <div style="text-align: center;">
-  <span style="color: #042eee; font-family: Arial;"><span style="text-decoration: underline;"><a href="http://allotment2kitchen.blogspot.co.uk/2014/09/vegan-bbq-beetroot-seitan-steaks.html">BBQ beetroot seitan steaks</a>
+  <span style="color: #042eee; font-family: Arial;"><a href="http://allotment2kitchen.blogspot.co.uk/2014/09/vegan-bbq-beetroot-seitan-steaks.html">BBQ beetroot seitan steaks</a>
 
 
 <div style="text-align: center;">
@@ -114,14 +116,14 @@ I&#8217;ve been participating in Vegan mofo 2014. Here&#8217;s some recipes I am
   <span style="color: #042eee; font-family: Arial;"> 
 
 
-<span style="color: #042eee; font-family: Arial;"><span style="text-decoration: underline;"> 
+<span style="color: #042eee; font-family: Arial;"> 
 
 
   <a  href="http://4.bp.blogspot.com/-5zo9B47vg2Y/VB7fcdRB5RI/AAAAAAAAJhY/fS0NWvCOqGE/s1600/058.jpg"><img src="http://4.bp.blogspot.com/-5zo9B47vg2Y/VB7fcdRB5RI/AAAAAAAAJhY/fS0NWvCOqGE/s1600/058.jpg" alt="" width="400" height="266" border="0" /></a>
 
 
 <div style="text-align: center;">
-  <span style="color: #042eee; font-family: Arial;"><span style="text-decoration: underline;">Raspberry Tiramisu
+  <span style="color: #042eee; font-family: Arial;">Raspberry Tiramisu
 
 
 <div style="text-align: center;">
@@ -136,11 +138,11 @@ I&#8217;ve been participating in Vegan mofo 2014. Here&#8217;s some recipes I am
 
 
 <div style="text-align: center;">
-  <span style="color: #042eee; font-family: Arial;"><span style="text-decoration: underline;"> 
+  <span style="color: #042eee; font-family: Arial;"> 
 
 
-<span style="color: #042eee; font-family: Arial;"><span style="text-decoration: underline;"><br /> 
+<span style="color: #042eee; font-family: Arial;"><br /> 
   
-<span style="color: #042eee; font-family: Arial;"><span style="text-decoration: underline;"><br /> <span style="color: #042eee; font-family: Arial;"><span style="text-decoration: underline;"><br /> 
+<span style="color: #042eee; font-family: Arial;"><br /> <span style="color: #042eee; font-family: Arial;"><br /> 
 
 

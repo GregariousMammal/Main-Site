@@ -2,19 +2,21 @@
 id: 149
 title: My writing and blog privacy policy.
 date: 2013-10-01T07:46:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2013/10/my-writing-and-blog-privacy-policy.html
 permalink: /2013/10/my-writing-and-blog-privacy-policy.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/08/my-writing.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/175471229070774040
-categories:
+tags:
   - Uncategorized
 ---
 _  

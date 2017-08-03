@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: Understanding databases for distributed applications
 event: Berlin Expert Days 2015
 pres_url: 'http://bed-con.org/2015/talks/Understanding-databases-for-distributed-applications'

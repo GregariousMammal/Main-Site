@@ -2,7 +2,7 @@
 layout: post
 title: The Album Leaf - Into the Blue again
 created: 1158650287
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

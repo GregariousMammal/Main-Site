@@ -2,7 +2,7 @@
 layout: post
 title: 'Peabody & Intercooler - The East Brunswick Club'
 created: 1182015377
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: Advocate Bits
 event: Enthusiasticon
 pres_url: 'https://sourcecode.berlin/enthusiasticon/'

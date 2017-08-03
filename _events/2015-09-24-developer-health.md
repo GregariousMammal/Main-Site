@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: Developer Health
 event: Reject.JS - Berlin
 pres_url: 'https://www.youtube.com/watch?v=-AlmhhnfJ-E'

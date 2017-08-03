@@ -2,22 +2,24 @@
 id: 9
 title: In my kitchen this month
 date: 2015-03-06T15:44:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/03/in-my-kitchen-this-month.html
 permalink: /2015/03/in-my-kitchen-this-month.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/03/in-my-kitchen-this-month.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2101003430846312234
-categories:
+tags:
   - cooking
   - kitchen
-  - writing
+    - writing
 ---
 Over the last month I have been busy with flat hunting (which requires a four hour round trip to Berlin each time I go to look at rentals) and recipe testing for my new Ebook. We&#8217;re subletting a big flat in Leipzig right now but as previously mentioned, it has a DIY kitchen in that the renter needs to bring not only their own fridge but also benches, cupboards, sink and stove. Hence we have a sink and stove and a little fridge, but no oven. But it&#8217;s ok, it forces me to be imaginative when cooking which is great. In general fresh food here lasts a lot less time than in Australia so the trend here to shop for groceries little and often is apt.
 

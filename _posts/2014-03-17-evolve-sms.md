@@ -3,7 +3,7 @@ layout: post
 title: Evolve SMS
 created: 1395034974
 image: evolve.png
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 ---
 
 One of the peculiar aspects of Android is that theoretically, everything is replaceable. This includes phone features, which initially seems odd, the fact that you can replace your phone dialler with something else.

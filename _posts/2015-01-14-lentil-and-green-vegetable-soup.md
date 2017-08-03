@@ -2,19 +2,21 @@
 id: 35
 title: Lentil and green vegetable soup
 date: 2015-01-14T14:47:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/lentil-and-green-vegetable-soup.html
 permalink: /2015/01/lentil-and-green-vegetable-soup.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/01/lentil-and-green-vegetable-soup.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2143393250174815545
-categories:
+tags:
   - cooking
   - recipe
   - vegan

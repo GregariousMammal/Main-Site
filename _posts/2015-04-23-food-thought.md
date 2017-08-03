@@ -2,11 +2,11 @@
 id: 649
 title: Food for thought
 date: 2015-04-23T12:19:42+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=649
 permalink: /2015/04/food-thought.html
-categories:
+tags:
   - berlin
   - blogging
   - cat
@@ -22,23 +22,23 @@ A busy few weeks have flown by. I&#8217;ve launched [preserving classes in Berli
 
 
 
-[<img class="alignnone size-full wp-image-788" src="atc-migrate/2015/04/11103270_10152658127426249_4545764717034064160_o.jpg" alt="11103270_10152658127426249_4545764717034064160_o" width="1500" height="1125" />](atc-migrate/2015/04/11103270_10152658127426249_4545764717034064160_o.jpg)
+[<img class="alignnone size-full wp-image-788" src="/images/atc-migrate/2015/04/11103270_10152658127426249_4545764717034064160_o.jpg" alt="11103270_10152658127426249_4545764717034064160_o" width="1500" height="1125" />](/images/atc-migrate/2015/04/11103270_10152658127426249_4545764717034064160_o.jpg)
 
 And we&#8217;ve got a kitty! (Stay tuned for my post of getting a cat in Berlin).
 
-<img class="alignnone size-full wp-image-764" src="atc-migrate/2015/04/11139425_10152668523476249_7718462651622042081_n.jpg" alt="11139425_10152668523476249_7718462651622042081_n" width="640" height="640" />
+<img class="alignnone size-full wp-image-764" src="/images/atc-migrate/2015/04/11139425_10152668523476249_7718462651622042081_n.jpg" alt="11139425_10152668523476249_7718462651622042081_n" width="640" height="640" />
 
-<img class="alignnone size-full wp-image-783" src="atc-migrate/2015/04/IMG_20150423_095552.jpg" alt="IMG_20150423_095552" width="2448" height="2448" />
+<img class="alignnone size-full wp-image-783" src="/images/atc-migrate/2015/04/IMG_20150423_095552.jpg" alt="IMG_20150423_095552" width="2448" height="2448" />
 
 We&#8217;ve also been exploring bits and pieces of Berlin which has been fantastic.
 
-[<img class="alignnone size-full wp-image-787" src="atc-migrate/2015/04/11096726_10152646914516249_785812058269554403_n-1.jpg" alt="11096726_10152646914516249_785812058269554403_n (1)" width="640" height="640" />](atc-migrate/2015/04/11096726_10152646914516249_785812058269554403_n-1.jpg)
+[<img class="alignnone size-full wp-image-787" src="/images/atc-migrate/2015/04/11096726_10152646914516249_785812058269554403_n-1.jpg" alt="11096726_10152646914516249_785812058269554403_n (1)" width="640" height="640" />](/images/atc-migrate/2015/04/11096726_10152646914516249_785812058269554403_n-1.jpg)
 
-<img class="alignnone size-full wp-image-784" src="atc-migrate/2015/04/22411_10152676396701249_8314697709900999455_n.jpg" alt="22411_10152676396701249_8314697709900999455_n" width="640" height="640" />
+<img class="alignnone size-full wp-image-784" src="/images/atc-migrate/2015/04/22411_10152676396701249_8314697709900999455_n.jpg" alt="22411_10152676396701249_8314697709900999455_n" width="640" height="640" />
 
 I haven&#8217;t done one of my &#8216;food for thought&#8217; posts for a while, apologies for the absence! Here&#8217;s some things that have been holding my interest.
 
-[<img class="alignnone size-full wp-image-779" src="atc-migrate/2015/04/simonhowardofsecretgardens-photonicholaswatt-copy.jpg" alt="simonhowardofsecretgardens-photonicholaswatt copy" width="700" height="668" />](atc-migrate/2015/04/simonhowardofsecretgardens-photonicholaswatt-copy.jpg)
+[<img class="alignnone size-full wp-image-779" src="/images/atc-migrate/2015/04/simonhowardofsecretgardens-photonicholaswatt-copy.jpg" alt="simonhowardofsecretgardens-photonicholaswatt copy" width="700" height="668" />](/images/atc-migrate/2015/04/simonhowardofsecretgardens-photonicholaswatt-copy.jpg)
 
 Love these big dramatic plants, since i have a home with high ceilings, I would love to have some! (Pic from [here](http://www.poppytalk.com/2015/04/sneak-peek-mays-inside-out-magazine.html))
 
@@ -62,9 +62,9 @@ Things I&#8217;ve been watching:
 
 An interesting short film about grief in the digital age.
 
-[<img class="alignnone size-full wp-image-781" src="atc-migrate/2015/04/822cbcee-03e5-4ecb-b0c1-bbac238db502-620x372.jpeg" alt="822cbcee-03e5-4ecb-b0c1-bbac238db502-620x372" width="620" height="372" />](atc-migrate/2015/04/822cbcee-03e5-4ecb-b0c1-bbac238db502-620x372.jpeg)
+[<img class="alignnone size-full wp-image-781" src="/images/atc-migrate/2015/04/822cbcee-03e5-4ecb-b0c1-bbac238db502-620x372.jpeg" alt="822cbcee-03e5-4ecb-b0c1-bbac238db502-620x372" width="620" height="372" />](/images/atc-migrate/2015/04/822cbcee-03e5-4ecb-b0c1-bbac238db502-620x372.jpeg)
 
-[<img class="alignnone size-full wp-image-782" src="atc-migrate/2015/04/2b6310ab-1679-4816-ad34-f4aceff9795f.jpg" alt="2b6310ab-1679-4816-ad34-f4aceff9795f" width="650" height="361" />](atc-migrate/2015/04/2b6310ab-1679-4816-ad34-f4aceff9795f.jpg)
+[<img class="alignnone size-full wp-image-782" src="/images/atc-migrate/2015/04/2b6310ab-1679-4816-ad34-f4aceff9795f.jpg" alt="2b6310ab-1679-4816-ad34-f4aceff9795f" width="650" height="361" />](/images/atc-migrate/2015/04/2b6310ab-1679-4816-ad34-f4aceff9795f.jpg)
 
 I&#8217;ve been very much enjoying watching BBC2&#8217;s _[Back in Time for Dinner](http://www.bbc.co.uk/programmes/b05nc5tv),_ a great show where a British family spend each week in a different decade from 1950-2000. I&#8217;d definitely recommend watching it if it&#8217;s available in your country! [A sequel](http://www.google.de/imgres?imgurl=http%3A%2F%2Fi.guim.co.uk%2Fstatic%2Fw-620%2Fh--%2Fq-95%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2015%2F4%2F19%2F1429456754299%2F822cbcee-03e5-4ecb-b0c1-bbac238db502-620x372.jpeg&imgrefurl=http%3A%2F%2Fwww.theguardian.com%2Ftv-and-radio%2F2015%2Fapr%2F19%2Fback-time-dinner-sequel-giles-coren-robshaw&h=372&w=620&tbnid=H9BWEbErfiSHzM%3A&zoom=1&docid=84V30amKbDRA6M&ei=Qbo4VZrrGNHXarqRgKgF&tbm=isch&iact=rc&uact=3&dur=900&page=1&start=0&ndsp=21&ved=0CGYQrQMwFA) is even in discussion.
 
@@ -72,6 +72,6 @@ We also went to the cinema last week to see [Kurt Cobain: Montage of Heck. ](ht
 
 &nbsp;
 
-[<img class="alignnone size-full wp-image-778" src="atc-migrate/2015/04/il_570xN.345226486.jpg" alt="il_570xN.345226486" width="570" height="570" />](atc-migrate/2015/04/il_570xN.345226486.jpg)
+[<img class="alignnone size-full wp-image-778" src="/images/atc-migrate/2015/04/il_570xN.345226486.jpg" alt="il_570xN.345226486" width="570" height="570" />](/images/atc-migrate/2015/04/il_570xN.345226486.jpg)
 
 Love [these](https://www.etsy.com/listing/102048420/the-original-couch-arm-wrap-solid-wood?ref=shop_home_active_1) coffee table &#8216;arm wraps&#8217; for couches. Great idea for those living in small spaces!

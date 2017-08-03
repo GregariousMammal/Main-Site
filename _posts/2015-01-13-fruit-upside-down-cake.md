@@ -2,19 +2,21 @@
 id: 36
 title: Fruit upside down cake
 date: 2015-01-13T12:00:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/fruit-upside-down-cake.html
 permalink: /2015/01/fruit-upside-down-cake.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/04/fruit-upside-down-cake.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6529444305406798912
-categories:
+tags:
   - baking
   - cooking
   - vegan
@@ -25,11 +27,11 @@ categories:
     <a  href="http://2.bp.blogspot.com/-GT_m49uuMfI/VLUJGQPV7DI/AAAAAAAAKcQ/0DzZdw8ckdQ/s1600/8417852649_fe95a9b042_k.jpg"><img class="alignnone" src="http://2.bp.blogspot.com/-GT_m49uuMfI/VLUJGQPV7DI/AAAAAAAAKcQ/0DzZdw8ckdQ/s1600/8417852649_fe95a9b042_k.jpg" alt="" width="400" height="313" border="0" /></a>
   
   
-  <p>
+  
     &nbsp;
   
   
-  <p>
+  
     I made this cake with the intent of using up some rather sad looking fruit but not wanting to make a crumble or struesel.This is a tasty cake that goes wonderful with ice cream, soy whipped cream or custard. Or even on it&#8217;s own with a cup of tea!
   
 
@@ -45,7 +47,7 @@ categories:
 
 
 <div style="color: #222222; line-height: 18px; margin-bottom: 1.5em; padding: 0px;">
-  <span style="text-decoration: underline;">Fruit Layer
+  Fruit Layer
 
 
 <span style="color: #222222; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">Mixed fruit to cover:
@@ -86,7 +88,7 @@ categories:
 </ul>
 
 <div style="color: #222222; line-height: 18px; margin-bottom: 1.5em; padding: 0px;">
-  <span style="text-decoration: underline;">Cake
+  Cake
 
 
 <ul style="color: #222222; line-height: 18px; margin: 0px 0px 1.5em 1.667em; padding: 0px;">

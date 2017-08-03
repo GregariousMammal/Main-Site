@@ -2,19 +2,21 @@
 id: 70
 title: 50 foodie musings for a small space, low budget travelling cook
 date: 2014-10-20T17:52:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/10/50-foodie-musings-for-a-small-space-low-budget-travelling-cook.html
 permalink: /2014/10/50-foodie-musings-for-a-small-space-low-budget-travelling-cook.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/10/50-foodie-musings-for-small-space-low.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/8965489996372736921
-categories:
+tags:
   - cooking
   - travelling
 ---

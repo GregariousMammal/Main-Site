@@ -2,7 +2,7 @@
 layout: post
 title: Milk Kan - 12 Bar Club
 created: 1139587836
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

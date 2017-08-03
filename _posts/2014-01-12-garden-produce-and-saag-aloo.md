@@ -2,19 +2,21 @@
 id: 143
 title: Garden produce saag aloo
 date: 2014-01-12T00:31:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/01/garden-produce-and-saag-aloo.html
 permalink: /2014/01/garden-produce-and-saag-aloo.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/01/garden-produce-and-saag-aloo.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/4985859763420507413
-categories:
+tags:
   - cooking
   - gardening
   - produce
@@ -125,7 +127,7 @@ categories:
   
   
   
-  <p>
+  
     &nbsp;
   
 
@@ -140,7 +142,7 @@ categories:
 
 <div style="background-color: white; color: #444444; font-family: Verdana, Geneva, sans-serif; font-size: 13px; line-height: 18px;">
   
-    <p>
+    
       5. Add the greens and broccoli, then add the spinach and allow to cook for 10 minutes.<br /> 6. Add the yoghurt and lemon juice, then season
     
   
@@ -154,7 +156,7 @@ categories:
     <a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-3-Uww403yiM/UtssN6XZLII/AAAAAAAAH8E/ZlMr_y2p_PU/s1600/11861219643_6ae477d772_c.jpg"><img src="http://3.bp.blogspot.com/-3-Uww403yiM/UtssN6XZLII/AAAAAAAAH8E/ZlMr_y2p_PU/s1600/11861219643_6ae477d772_c.jpg" alt="" width="315" height="400" border="0" /></a>
   
   
-  <p>
+  
     &nbsp;
   
 

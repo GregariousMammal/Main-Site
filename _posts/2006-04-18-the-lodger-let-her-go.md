@@ -2,7 +2,7 @@
 layout: post
 title: The Lodger - Let her go
 created: 1145373036
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

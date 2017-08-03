@@ -1,0 +1,24 @@
+https://chrischinchilla.com/generated/* /generated/:splat 200!
+https://www.chrischinchilla.com/generated/* /generated/:splat 200!
+https://catelawrence.com/generated/* /generated/:splat 200!
+https://www.catelawrence.com/generated/* /generated/:splat 200!
+
+https://chrischinchilla.com/css/* /css/:splat 200!
+https://www.chrischinchilla.com/css/* /css/:splat 200!
+https://catelawrence.com/css/* /css/:splat 200!
+https://www.catelawrence.com/css/* /css/:splat 200!
+
+https://chrischinchilla.com/js/* /js/:splat 200!
+https://www.chrischinchilla.com/js/* /js/:splat 200!
+https://catelawrence.com/js/* /js/:splat 200!
+https://www.catelawrence.com/js/* /js/:splat 200!
+
+https://chrischinchilla.com/images/* /images/:splat 200!
+https://www.chrischinchilla.com/images/* /images/:splat 200!
+https://catelawrence.com/images/* /images/:splat 200!
+https://www.catelawrence.com/images/* /images/:splat 200!
+
+https://chrischinchilla.com/* /chris/:splat 200!
+https://www.chrischinchilla.com/* /chris/:splat 200!
+https://catelawrence.com/* /cate/:splat 200!
+https://www.catelawrence.com/* /cate/:splat 200!

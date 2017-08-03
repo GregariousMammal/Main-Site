@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: Building Cross Platform Apps with Electron
 event: Vienna.JS
 date: 2016-06-29T18:30:00.000Z

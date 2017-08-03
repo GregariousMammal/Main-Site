@@ -2,7 +2,7 @@
 title: The mobile platforms to watch in 2014
 created: 20140429
 publication_url: 'http://www.sitepoint.com/mobile-platforms-watch-2014/'
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 ---
 
 With an average global combined market share of 85-95%, iOS and Android are by far the dominant players in the mobile operating system space. So why bother looking into or developing on any other platforms?

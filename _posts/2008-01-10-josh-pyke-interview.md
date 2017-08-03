@@ -2,7 +2,7 @@
 layout: post
 title: Josh Pyke - Interview
 created: 1199985196
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

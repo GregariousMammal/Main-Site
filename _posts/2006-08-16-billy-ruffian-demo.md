@@ -2,7 +2,7 @@
 layout: post
 title: Billy Ruffian - Demo
 created: 1155726842
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

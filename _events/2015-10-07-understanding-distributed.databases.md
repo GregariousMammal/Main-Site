@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: Understanding Distributed Databases
 event: Coding Serbia
 pres_url: 'http://codingserbia.com/'

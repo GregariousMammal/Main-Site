@@ -2,19 +2,21 @@
 id: 15
 title: 6 Food trends I am completely over and 6 I am eagerly awaiting
 date: 2015-02-14T20:20:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/02/6-food-trends-i-am-completely-over-and-6-i-am-eagerly-awaiting.html
 permalink: /2015/02/6-food-trends-i-am-completely-over-and-6-i-am-eagerly-awaiting.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/02/6-food-trends-i-am-completely-over-and.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/526884804594020276
-categories:
+tags:
   - baking
   - cooking
   - food

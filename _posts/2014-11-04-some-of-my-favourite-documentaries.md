@@ -2,19 +2,21 @@
 id: 67
 title: Some of my favourite documentaries
 date: 2014-11-04T20:04:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/11/some-of-my-favourite-documentaries.html
 permalink: /2014/11/some-of-my-favourite-documentaries.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/11/some-of-my-favourite-documentaries.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/1789257486674276339
-categories:
+tags:
   - documentary
   - film
   - video
@@ -137,7 +139,7 @@ Most people know that I am a massive fan of documentaries. I feel privileged to 
     <span style="background-color: white; color: #333333; font-family: Verdana, Arial, sans-serif; font-size: 13px; line-height: 18.2000007629395px;"><span style="line-height: 18.2000007629395px;">       <a  href="http://3.bp.blogspot.com/-3LYjMcmYdSw/VFkcqxNmSGI/AAAAAAAAJy0/XsL7HWrxyMs/s1600/encounters.jpg"><img src="http://3.bp.blogspot.com/-3LYjMcmYdSw/VFkcqxNmSGI/AAAAAAAAJy0/XsL7HWrxyMs/s1600/encounters.jpg" alt="" width="300" height="400" border="0" /></a>
   
   
-  <p>
+  
     &nbsp;
   
 
@@ -248,18 +250,18 @@ Most people know that I am a massive fan of documentaries. I feel privileged to 
 
 
 <div style="text-align: center;">
-  <div style="text-align: left;">
+  
     There are so many reasons to like this documentary about the myth of Sixto Rodriguez, not only 
     
     
     
     
-    <p>
+    
       the glorious music.
     
   
   
-  <p>
+  
     <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-KJQ2dHtlEWA/VFkZSDZ_mkI/AAAAAAAAJyM/YE7tLZJx80k/s1600/searching-for-sugar-man-poster-211x300.jpg"><img src="http://2.bp.blogspot.com/-KJQ2dHtlEWA/VFkZSDZ_mkI/AAAAAAAAJyM/YE7tLZJx80k/s1600/searching-for-sugar-man-poster-211x300.jpg" alt="" width="281" height="400" border="0" /></a>
   
 

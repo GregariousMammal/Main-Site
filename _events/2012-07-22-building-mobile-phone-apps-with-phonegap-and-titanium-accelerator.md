@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: Building mobile apps with PhoneGap and Titanium appcelerator
 event: Melbourne Geek Night
 pres_url: 'http://www.slideshare.net/chrischinchilla/building-mobile-apps-with-phonegap-and-titanium-appcelerator'

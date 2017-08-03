@@ -2,19 +2,21 @@
 id: 37
 title: Picalilli
 date: 2015-01-12T13:48:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/picalilli.html
 permalink: /2015/01/picalilli.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/01/picalilli.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/855876803370606584
-categories:
+tags:
   - cooking
   - pickling
   - preserving

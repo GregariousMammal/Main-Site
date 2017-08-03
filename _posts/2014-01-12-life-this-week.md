@@ -2,19 +2,21 @@
 id: 142
 title: Life this week
 date: 2014-01-12T01:08:00.000Z
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: 'http://atravellingcook.com/2014/01/life-this-week.html'
 permalink: /2014/01/life-this-week.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/01/life-this-week.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2843107925794684872
-categories:
+tags:
   - cat
   - cooking
   - decluttering
@@ -25,7 +27,7 @@ categories:
 
 ## Reading
 
-![](../images/atc-migrate/2014/01/1815673.jpg)
+![](../images//images/atc-migrate/2014/01/1815673.jpg)
 
 read about it [here](https://www.goodreads.com/book/show/1815673.Hello_Missus)
 

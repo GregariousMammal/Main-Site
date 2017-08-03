@@ -2,7 +2,7 @@
 layout: post
 title: 'The Hot Puppies - Drill Hall, Lincoln'
 created: 1161226777
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

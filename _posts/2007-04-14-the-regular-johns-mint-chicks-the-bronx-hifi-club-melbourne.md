@@ -2,7 +2,7 @@
 layout: post
 title: "The Regular John's, Mint Chicks, The Bronx - HiFi Club, Melbourne"
 created: 1176506503
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

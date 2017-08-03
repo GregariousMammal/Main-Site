@@ -2,26 +2,28 @@
 id: 113
 title: 'I&#8217;m still here!'
 date: 2014-05-02T04:10:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/05/im-still-here-2.html
 permalink: /2014/05/im-still-here-2.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/05/im-still-here.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/1506446968765262410
-categories:
+tags:
   - green renters
   - preserving
   - travelling
   - vegan
   - winter
   - workshops
-  - writing
+    - writing
 ---
 
   <a  href="http://4.bp.blogspot.com/-5m9ZZc5gu1E/U2MIud2tsDI/AAAAAAAAIp8/8HaPRM6Cgw4/s1600/feet-in-grass.jpg"><img src="http://4.bp.blogspot.com/-5m9ZZc5gu1E/U2MIud2tsDI/AAAAAAAAIp8/8HaPRM6Cgw4/s1600/feet-in-grass.jpg" alt="" width="320" height="274" border="0" /></a>

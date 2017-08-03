@@ -2,11 +2,11 @@
 id: 1021
 title: Mushroom, white beans and ale open pies
 date: 2015-06-16T15:25:40+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=1021
 permalink: /2015/06/mushroom-white-beans-and-ale-open-pies.html
-categories:
+tags:
   - baking
   - cooking
   - food
@@ -18,7 +18,7 @@ It&#8217;s been quite cool the last couple of days so I was craving a wintery ki
 
 
 
-[<img class="aligncenter size-large wp-image-1024" src="atc-migrate/2015/06/DSC0530-1024x810.jpg" alt="_DSC0530" width="780" height="617" />](atc-migrate/2015/06/DSC0530.jpg)
+[<img class="aligncenter size-large wp-image-1024" src="/images/atc-migrate/2015/06/DSC0530-1024x810.jpg" alt="_DSC0530" width="780" height="617" />](/images/atc-migrate/2015/06/DSC0530.jpg)
 
 _Ingredients:_
 
@@ -50,7 +50,7 @@ _Instructions:_
  12. Bake in oven until pastry is golden.
  13. Serve with mashed potatoes and veggies.
 
-[<img class="aligncenter size-large wp-image-1024" src="atc-migrate/2015/06/DSC0530-1024x810.jpg" alt="_DSC0530" width="780" height="617" />](atc-migrate/2015/06/DSC0530.jpg)
+[<img class="aligncenter size-large wp-image-1024" src="/images/atc-migrate/2015/06/DSC0530-1024x810.jpg" alt="_DSC0530" width="780" height="617" />](/images/atc-migrate/2015/06/DSC0530.jpg)
 
 I&#8217;m adding this recipe to _My Legume Love Affair_, hosted this month by [Allotment2Kitchen](http://allotment2kitchen.blogspot.co.uk/2015/08/hosting-my-legume-love-affair-mlla-86.html), [The Well Seasoned Cook](http://thewellseasonedcook.blogspot.in/) and created by Lisa&#8217;s of [Food and Spice](http://foodandspice.blogspot.com/p/mlla.html).
 

@@ -2,7 +2,7 @@
 layout: post
 title: Bye bye Melbourne. Hallo Leipzig.
 created: 1405154755
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 ---
 
 In the past ten days I finally made the second overseas move of my life. This time from Melbourne to Leipzig.

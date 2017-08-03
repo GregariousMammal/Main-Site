@@ -2,7 +2,7 @@
 layout: post
 title: Spray Dog - Karate Summer Camp
 created: 1172476515
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

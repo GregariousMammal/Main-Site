@@ -13,10 +13,8 @@ dl, dd, ol, ul, figure {
 */
 body {
   word-wrap: break-word;
-  width: 70%;
-  @include media-query($on-laptop) {
-    width: 90%;
-  }
+  /*@include media-query($on-laptop) {
+  }*/
   font-family: $base-font-family;
   font-size: $base-font-size;
   line-height: $base-line-height;
@@ -164,14 +162,14 @@ pre {
 */
 .wrapper {
   margin-right: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
+  padding-right: $spacing-unit + 5px;
+  padding-left: $spacing-unit + 5px;
   @extend %clearfix;
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
     max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
+    padding-right: ($spacing-unit / 2) + 5px;
+    padding-left: ($spacing-unit / 2) + 5px;
   }
 }
 

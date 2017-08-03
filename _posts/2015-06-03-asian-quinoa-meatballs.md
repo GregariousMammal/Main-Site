@@ -2,11 +2,11 @@
 id: 979
 title: 'Vegan asian quinoa &#8216;meatballs&#8217;'
 date: 2015-06-03T11:29:14+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=979
 permalink: /2015/06/asian-quinoa-meatballs.html
-categories:
+tags:
   - baking
   - cooking
   - food
@@ -15,13 +15,13 @@ categories:
   - vegan
 format: image
 ---
-[<img class="aligncenter size-large wp-image-980" src="atc-migrate/2015/06/DSC0503-1024x779.jpg" alt="_DSC0503" width="780" height="593" />](atc-migrate/2015/06/DSC0503.jpg)
+[<img class="aligncenter size-large wp-image-980" src="/images/atc-migrate/2015/06/DSC0503-1024x779.jpg" alt="_DSC0503" width="780" height="593" />](/images/atc-migrate/2015/06/DSC0503.jpg)
 
 I love making vegan meatballs. ( Yes, I&#8217;m using the term meatballs as I like it). They can be made in advance and frozen, eaten in a sandwich, popped into a curry or stirred through a rice dish or spaghetti sauce.
 
 
 
-[<img class="aligncenter size-full wp-image-984" src="atc-migrate/2015/06/17793184884_df9b62d3b1_z.jpg" alt="17793184884_df9b62d3b1_z" width="423" height="640" />](atc-migrate/2015/06/17793184884_df9b62d3b1_z.jpg)
+[<img class="aligncenter size-full wp-image-984" src="/images/atc-migrate/2015/06/17793184884_df9b62d3b1_z.jpg" alt="17793184884_df9b62d3b1_z" width="423" height="640" />](/images/atc-migrate/2015/06/17793184884_df9b62d3b1_z.jpg)
 
 I&#8217;d like to introduce you to two of my other loves: Mushroom sauce and chilli oil. I buy both at Asian supermarkets (I found a new one the other day in Moabit called [Go Asia](https://www.facebook.com/GoAsiaSupermarkt), I love it to bits). These condiments are great for lifting up a Asian dish, adding a wonderful umami flavour.
 
@@ -57,7 +57,7 @@ Directions:
   8. Pop balls ontop and bake at 180 degrees celcius until golden brown (usually about 20 mins).
   9. Allow to cool on the paper, the balls with harden a little, making them easy to remove without sticking.
 
-[<img class="aligncenter size-large wp-image-988" src="atc-migrate/2015/06/DSC0495-1024x958.jpg" alt="_DSC0495" width="780" height="730" />](atc-migrate/2015/06/DSC0495.jpg)
+[<img class="aligncenter size-large wp-image-988" src="/images/atc-migrate/2015/06/DSC0495-1024x958.jpg" alt="_DSC0495" width="780" height="730" />](/images/atc-migrate/2015/06/DSC0495.jpg)
 
 ## Asian tomato sauce:
 
@@ -90,4 +90,4 @@ _Note:_ If you can&#8217;t find chilli oil, or you have a big influx of chillies
 
 [
   
-](atc-migrate/2015/06/DSC04951.jpg) [<img class="aligncenter size-large wp-image-993" src="atc-migrate/2015/06/DSC0501-1024x688.jpg" alt="_DSC0501" width="780" height="524" />](atc-migrate/2015/06/DSC0501.jpg)
+](/images/atc-migrate/2015/06/DSC04951.jpg) [<img class="aligncenter size-large wp-image-993" src="/images/atc-migrate/2015/06/DSC0501-1024x688.jpg" alt="_DSC0501" width="780" height="524" />](/images/atc-migrate/2015/06/DSC0501.jpg)

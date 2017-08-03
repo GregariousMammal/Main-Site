@@ -3,3 +3,5 @@ _site
 Gemfile.lock
 .bundle
 .DS_Store
+.ruby-version
+.idea

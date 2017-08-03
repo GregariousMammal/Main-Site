@@ -2,7 +2,7 @@
 layout: post
 title: Camera - Demo
 created: 1149693036
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

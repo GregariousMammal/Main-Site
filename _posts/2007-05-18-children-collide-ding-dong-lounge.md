@@ -2,7 +2,7 @@
 layout: post
 title: Children Collide - Ding Dong Lounge
 created: 1179517971
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

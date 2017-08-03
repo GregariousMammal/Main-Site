@@ -2,7 +2,7 @@
 layout: post
 title: Henry Rollins - Comedy Theatre
 created: 1209399714
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

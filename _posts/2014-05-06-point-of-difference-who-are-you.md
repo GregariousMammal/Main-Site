@@ -2,23 +2,25 @@
 id: 112
 title: 'Point of difference: who are you?'
 date: 2014-05-06T08:30:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/05/point-of-difference-who-are-you.html
 permalink: /2014/05/point-of-difference-who-are-you.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/05/point-of-difference-who-are-you.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2968141247692906712
-categories:
+tags:
   - blogging
   - craft
   - reading
-  - writing
+    - writing
 ---
 I love the way that so many people are so different and I sometimes wonder what causes them to be different. I feel that with the rise of television, infotainment, celebrity, popular culture, sponsored bloggers and the like, we are constantly given perceptions of who we are based on what we have and what we consume. I know from running Green Renters for example, that many people have a very set idea of a) how the founder of a national charity should be and b) what a sustainability &#8216;expert&#8217; will be like. I tend to surprise people a bit as I don&#8217;t tend to fit their stereotypes. No, I don&#8217;t read the Herald Sun or watch Channel 9 (considered more right wing activities), but I also don&#8217;t wear clogs and Gorman sack dresses. Or thai fisherman pants. (I have actually had two pairs of clogs in the past but gave up after the buckles kept falling off).
 

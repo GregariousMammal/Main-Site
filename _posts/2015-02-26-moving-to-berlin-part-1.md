@@ -2,19 +2,21 @@
 id: 11
 title: 'Moving to Berlin: Part 1'
 date: 2015-02-26T16:13:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/02/moving-to-berlin-part-1.html
 permalink: /2015/02/moving-to-berlin-part-1.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/02/moving-to-berlin-part-1.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/4244523429549797670
-categories:
+tags:
   - berlin
   - expat
   - germany

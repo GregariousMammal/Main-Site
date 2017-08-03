@@ -2,19 +2,21 @@
 id: 71
 title: Food for thought
 date: 2014-10-16T17:31:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/10/food-for-thought-5.html
 permalink: /2014/10/food-for-thought-5.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/10/food-for-thought_16.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/4830223978139586928
-categories:
+tags:
   - germany
   - leipzig
 ---

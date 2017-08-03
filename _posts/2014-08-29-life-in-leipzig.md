@@ -2,19 +2,21 @@
 id: 87
 title: Life in Leipzig
 date: 2014-08-29T17:07:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/08/life-in-leipzig.html
 permalink: /2014/08/life-in-leipzig.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/08/life-in-leipzig.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/1483627325385468245
-categories:
+tags:
   - Uncategorized
 ---
 I wanted to write a little bit about life in Leipzig, past and present, things that interest me. It&#8217;s not really in any particular sequence. I didn&#8217;t know much about Leipzig before I moved here, and perhaps you don&#8217;t either, so it might be a chance to learn some new things.

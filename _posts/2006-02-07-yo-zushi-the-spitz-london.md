@@ -2,7 +2,7 @@
 layout: post
 title: 'Yo Zushi - The Spitz, London'
 created: 1139328636
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

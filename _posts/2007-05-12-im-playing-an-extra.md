@@ -2,7 +2,7 @@
 layout: post
 title: "I'm playing an Extra"
 date: '2007-05-12T20:52:07+00:00'
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: drama creative
 ---
 

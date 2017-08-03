@@ -2,19 +2,21 @@
 id: 44
 title: Asian spiced bierock
 date: 2014-12-29T12:44:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/12/asian-spiced-bierock.html
 permalink: /2014/12/asian-spiced-bierock.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/12/asian-spiced-bierock.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/3823445217498130169
-categories:
+tags:
   - baking
   - cooking
   - germany
@@ -155,14 +157,14 @@ I made this recipe originally for our Apartment Supper Club Oktoberfest celebrat
       <span style="background-color: white; color: #333333;">heat the oil in a large non-stick frying pan over a medium heat and gently fry the garlic and onions until lightly browned, stirring regularly.
     </li>
     <li>
-      <span style="background-color: white;">Add the soy mince and fry lightly
+      Add the soy mince and fry lightly
     </li>
     <li>
       <span style="background-color: white; color: #333333;">Stir in the cabbage leaves, salt, pepper and all the spices into the pan with the meat. Continue to fry and stir for 3 or 4 minutes more. Add stock and sauces, cover the pan and cook gently for 10 minutes until the cabbage is very soft and soy mince is soft. Remove the pan from the heat, stir the mixture well and leave to cool.
     </li>
   </ol>
   
-  <p>
+  
     <i>To make up</i>
   
   
@@ -204,6 +206,6 @@ I made this recipe originally for our Apartment Supper Club Oktoberfest celebrat
   
   
   
-  <p>
+  
     <!--EndFragment-->
   

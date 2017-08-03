@@ -2,20 +2,20 @@
 id: 662
 title: A cook book is not your personal recipe file
 date: 2015-04-02T12:37:45+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=662
 permalink: /2015/04/a-cook-book-is-not-a-library.html
-categories:
+tags:
   - activism
   - baking
   - blogging
   - cooking
   - recipe
-  - writing
+    - writing
 format: image
 ---
-[<img class=" size-full wp-image-665 aligncenter" src="atc-migrate/2015/04/3033725490_5f9e111578.jpg" alt="3033725490_5f9e111578" width="333" height="500" />](atc-migrate/2015/04/3033725490_5f9e111578.jpg)
+[<img class=" size-full wp-image-665 aligncenter" src="/images/atc-migrate/2015/04/3033725490_5f9e111578.jpg" alt="3033725490_5f9e111578" width="333" height="500" />](/images/atc-migrate/2015/04/3033725490_5f9e111578.jpg)
 
 _Image from [here](http://vegdo.com/images/pile-of-cookbooks/)_
 
@@ -60,7 +60,7 @@ Ok, so maybe you&#8217;ve been guilty of a mindlessly shared book or recipe. Som
   * Where practicable encourage your library, book festival or food festival to invite the speaker to participate in an event.
   * Give a friend a copy of the book for their birthday.
 
-[<img class="alignnone size-full wp-image-389" src="atc-migrate/2015/02/vegan-australia-day-1.jpg" alt="vegan-australia-day-1" width="572" height="748" />](atc-migrate/2015/02/vegan-australia-day-1.jpg)
+[<img class="alignnone size-full wp-image-389" src="/images/atc-migrate/2015/02/vegan-australia-day-1.jpg" alt="vegan-australia-day-1" width="572" height="748" />](/images/atc-migrate/2015/02/vegan-australia-day-1.jpg)
 
 _My little offering_
 

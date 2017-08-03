@@ -2,7 +2,7 @@
 layout: post
 title: Doug and Julie
 created: 1292222485
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: creative
 ---
 

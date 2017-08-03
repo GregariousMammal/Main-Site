@@ -2,29 +2,31 @@
 id: 38
 title: A trip to Borough market, London
 date: 2015-01-12T12:20:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/a-trip-to-borough-market-london.html
 permalink: /2015/01/a-trip-to-borough-market-london.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/01/a-trip-to-borough-market-london.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/7781945472426606784
-categories:
+tags:
   - england
   - london
   - travelling
 ---
 <div style="clear: both;">
-                <a href="atc-migrate/2015/01/16221202375_68ceb58d5e_k.jpg"><img class="aligncenter size-full wp-image-806" src="atc-migrate/2015/01/16221202375_68ceb58d5e_k.jpg" alt="16221202375_68ceb58d5e_k" width="1600" height="1200" /></a>
+                <a href="/images/atc-migrate/2015/01/16221202375_68ceb58d5e_k.jpg"><img class="aligncenter size-full wp-image-806" src="/images/atc-migrate/2015/01/16221202375_68ceb58d5e_k.jpg" alt="16221202375_68ceb58d5e_k" width="1600" height="1200" /></a>
 
 
 
-  <a href="atc-migrate/2015/01/borough-market.jpg"><br /> </a> <a href="atc-migrate/2015/01/16221153285_b4255d709a_k.jpg"><img class="aligncenter size-full wp-image-809" src="atc-migrate/2015/01/16221153285_b4255d709a_k.jpg" alt="16221153285_b4255d709a_k" width="1200" height="1600" /></a>
+  <a href="/images/atc-migrate/2015/01/borough-market.jpg"><br /> </a> <a href="/images/atc-migrate/2015/01/16221153285_b4255d709a_k.jpg"><img class="aligncenter size-full wp-image-809" src="/images/atc-migrate/2015/01/16221153285_b4255d709a_k.jpg" alt="16221153285_b4255d709a_k" width="1200" height="1600" /></a>
 
 
 
@@ -36,10 +38,10 @@ categories:
 
                           
 
-<img class="aligncenter size-full wp-image-808" src="atc-migrate/2015/01/borough-market.jpg" alt="borough-market" width="1024" height="768" /><a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-wkGaH2aYGSU/VLOhxJOnQLI/AAAAAAAAKZ0/lDhtVpmoKy0/s1600/borough-market.jpg"><br /> </a>
+<img class="aligncenter size-full wp-image-808" src="/images/atc-migrate/2015/01/borough-market.jpg" alt="borough-market" width="1024" height="768" /><a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-wkGaH2aYGSU/VLOhxJOnQLI/AAAAAAAAKZ0/lDhtVpmoKy0/s1600/borough-market.jpg"><br /> </a>
 
 
-  <img class="aligncenter size-full wp-image-807" src="atc-migrate/2015/01/16195300186_8448825363_k1.jpg" alt="16195300186_8448825363_k" width="1200" height="1600" />
+  <img class="aligncenter size-full wp-image-807" src="/images/atc-migrate/2015/01/16195300186_8448825363_k1.jpg" alt="16195300186_8448825363_k" width="1200" height="1600" />
 
 
 
@@ -50,7 +52,7 @@ categories:
 
 
 
-  <a href="atc-migrate/2015/01/16219287681_0082470283_z.jpg"><img class="aligncenter size-full wp-image-817" src="atc-migrate/2015/01/16219287681_0082470283_z.jpg" alt="16219287681_0082470283_z" width="640" height="480" /></a>
+  <a href="/images/atc-migrate/2015/01/16219287681_0082470283_z.jpg"><img class="aligncenter size-full wp-image-817" src="/images/atc-migrate/2015/01/16219287681_0082470283_z.jpg" alt="16219287681_0082470283_z" width="640" height="480" /></a>
 
 
 
@@ -63,7 +65,7 @@ categories:
 &nbsp;
 
 
-  <img class="aligncenter size-full wp-image-815" src="atc-migrate/2015/01/16219298301_6d63602081_z.jpg" alt="16219298301_6d63602081_z" width="480" height="640" /><img class="aligncenter size-full wp-image-816" src="atc-migrate/2015/01/15601337803_843e62350b_k.jpg" alt="15601337803_843e62350b_k" width="1200" height="1600" />
+  <img class="aligncenter size-full wp-image-815" src="/images/atc-migrate/2015/01/16219298301_6d63602081_z.jpg" alt="16219298301_6d63602081_z" width="480" height="640" /><img class="aligncenter size-full wp-image-816" src="/images/atc-migrate/2015/01/15601337803_843e62350b_k.jpg" alt="15601337803_843e62350b_k" width="1200" height="1600" />
 
 
 So much cheese!
@@ -75,7 +77,7 @@ So much cheese!
 
 
 
-   <img class="aligncenter size-full wp-image-813" src="atc-migrate/2015/01/15601310703_19e1cb7bcb_o.jpg" alt="15601310703_19e1cb7bcb_o" width="943" height="1600" />
+   <img class="aligncenter size-full wp-image-813" src="/images/atc-migrate/2015/01/15601310703_19e1cb7bcb_o.jpg" alt="15601310703_19e1cb7bcb_o" width="943" height="1600" />
 
 
 
@@ -90,7 +92,7 @@ I had one of these olive and cheese sticks. So good!
 
 
 
-   <img class="aligncenter size-full wp-image-812" src="atc-migrate/2015/01/16033680318_960f955064_k.jpg" alt="16033680318_960f955064_k" width="1200" height="1600" />
+   <img class="aligncenter size-full wp-image-812" src="/images/atc-migrate/2015/01/16033680318_960f955064_k.jpg" alt="16033680318_960f955064_k" width="1200" height="1600" />
 
 
 
@@ -107,7 +109,7 @@ And yes, we sampled wine and cider.
 
 
 
-  <a href="atc-migrate/2015/01/16033815930_0b4e03f12e_b-1.jpg"><img class="aligncenter size-full wp-image-818" src="atc-migrate/2015/01/16033815930_0b4e03f12e_b-1.jpg" alt="16033815930_0b4e03f12e_b (1)" width="1024" height="771" /></a> <a href="atc-migrate/2015/01/16035067869_6f9273a080_b.jpg"><img class="aligncenter size-full wp-image-811" src="atc-migrate/2015/01/16035067869_6f9273a080_b.jpg" alt="16035067869_6f9273a080_b" width="1024" height="907" /></a>
+  <a href="/images/atc-migrate/2015/01/16033815930_0b4e03f12e_b-1.jpg"><img class="aligncenter size-full wp-image-818" src="/images/atc-migrate/2015/01/16033815930_0b4e03f12e_b-1.jpg" alt="16033815930_0b4e03f12e_b (1)" width="1024" height="771" /></a> <a href="/images/atc-migrate/2015/01/16035067869_6f9273a080_b.jpg"><img class="aligncenter size-full wp-image-811" src="/images/atc-migrate/2015/01/16035067869_6f9273a080_b.jpg" alt="16035067869_6f9273a080_b" width="1024" height="907" /></a>
 
 
 

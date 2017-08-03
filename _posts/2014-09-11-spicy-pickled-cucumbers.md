@@ -2,19 +2,21 @@
 id: 82
 title: Spicy pickled cucumbers
 date: 2014-09-11T12:59:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/09/spicy-pickled-cucumbers.html
 permalink: /2014/09/spicy-pickled-cucumbers.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/09/spicy-pickled-cucumbers.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/1148459749976442363
-categories:
+tags:
   - cooking
   - pickling
   - recipe

@@ -2,11 +2,11 @@
 id: 975
 title: Food for thought
 date: 2015-07-03T14:07:04+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=975
 permalink: /2015/07/food-for-thought-20.html
-categories:
+tags:
   - activism
   - baking
   - berlin
@@ -17,15 +17,15 @@ format: image
 ---
 I&#8217;ve been rather neglecting my blog as I&#8217;ve been crazy busy with workshops, trying to finish recipe e book number two (it will be launched on Monday) and just life in general. The weekend commemorates one year of living as an expat in Deutschland, I&#8217;ll be writing more about this next week.
 
-[<img class="aligncenter wp-image-1045 size-large" src="atc-migrate/2015/07/11412165_10152804855181249_4621262433518868800_o-768x1024.jpg" alt="11412165_10152804855181249_4621262433518868800_o" width="768" height="1024" />](atc-migrate/2015/07/11412165_10152804855181249_4621262433518868800_o.jpg)
+[<img class="aligncenter wp-image-1045 size-large" src="/images/atc-migrate/2015/07/11412165_10152804855181249_4621262433518868800_o-768x1024.jpg" alt="11412165_10152804855181249_4621262433518868800_o" width="768" height="1024" />](/images/atc-migrate/2015/07/11412165_10152804855181249_4621262433518868800_o.jpg)
 
 I&#8217;ve been attending lots of events as well which is always fun as it&#8217;s quite a hot week here in Berlin. Here&#8217;s some cute art from a venue we went to last night:
 
-[<img class="aligncenter wp-image-1041 size-large" src="atc-migrate/2015/07/2015-07-02-19.29.30-768x1024.jpg" alt="2015-07-02 19.29.30" width="768" height="1024" />](atc-migrate/2015/07/2015-07-02-19.29.30.jpg)
+[<img class="aligncenter wp-image-1041 size-large" src="/images/atc-migrate/2015/07/2015-07-02-19.29.30-768x1024.jpg" alt="2015-07-02 19.29.30" width="768" height="1024" />](/images/atc-migrate/2015/07/2015-07-02-19.29.30.jpg)
 
 Here&#8217;s a pick of Chris and I taken at last weekend&#8217;s Christopher Day Parade (Berlin&#8217;s version of Pride March). We are very happy that people in the US in same sex relationships now have the legal option of marriage and impatiently await the same rights for our fellow Australians&#8230;
 
-[<img class="aligncenter wp-image-1043 size-large" src="atc-migrate/2015/07/2015-06-27-17.27.07-1024x768.jpg" alt="2015-06-27 17.27.07" width="780" height="585" />](atc-migrate/2015/07/2015-06-27-17.27.07.jpg)
+[<img class="aligncenter wp-image-1043 size-large" src="/images/atc-migrate/2015/07/2015-06-27-17.27.07-1024x768.jpg" alt="2015-06-27 17.27.07" width="780" height="585" />](/images/atc-migrate/2015/07/2015-06-27-17.27.07.jpg)
 
 I&#8217;ve also been doing some writing for tech website Sitepoint, regarding mobile apps from a user perspective. Here&#8217;s my latest:
 
@@ -37,15 +37,15 @@ _ _-_Would love to know what you think!
 
 [This](http://alanajonesmann.com/2015/06/wallpaper-cakes-tropical-prints/) cake blows my mind-amazing!
 
-[<img class="aligncenter size-full wp-image-1044" src="atc-migrate/2015/07/Wallpaper-Cake-3.jpg" alt="Wallpaper-Cake-3" width="640" height="832" />](atc-migrate/2015/07/Wallpaper-Cake-3.jpg)
+[<img class="aligncenter size-full wp-image-1044" src="/images/atc-migrate/2015/07/Wallpaper-Cake-3.jpg" alt="Wallpaper-Cake-3" width="640" height="832" />](/images/atc-migrate/2015/07/Wallpaper-Cake-3.jpg)
 
 I love [these](http://alexandrasoldatova.com/portfolio/it-must-be-beautiful/) bus shelters in Belarus, decorated by unknown artists:
 
-[<img class="aligncenter size-full wp-image-1034" src="atc-migrate/2015/06/imb_18.jpg" alt="imb_18" width="800" height="649" />](atc-migrate/2015/06/imb_18.jpg) [<img class="aligncenter size-full wp-image-1035" src="atc-migrate/2015/06/imb_17.jpg" alt="imb_17" width="800" height="649" />](atc-migrate/2015/06/imb_17.jpg) [<img class="aligncenter size-large wp-image-1036" src="atc-migrate/2015/06/imb_07.jpg" alt="imb_07" width="780" height="633" />](atc-migrate/2015/06/imb_07.jpg)
+[<img class="aligncenter size-full wp-image-1034" src="/images/atc-migrate/2015/06/imb_18.jpg" alt="imb_18" width="800" height="649" />](/images/atc-migrate/2015/06/imb_18.jpg) [<img class="aligncenter size-full wp-image-1035" src="/images/atc-migrate/2015/06/imb_17.jpg" alt="imb_17" width="800" height="649" />](/images/atc-migrate/2015/06/imb_17.jpg) [<img class="aligncenter size-large wp-image-1036" src="/images/atc-migrate/2015/06/imb_07.jpg" alt="imb_07" width="780" height="633" />](/images/atc-migrate/2015/06/imb_07.jpg)
 
 I would love a set of shelves like [this](http://www.designsponge.com/2015/07/check-out-the-cook-republic-kitchen-designed-to-share.html) in my kitchen (and all the equipment of course). As much as a try to live without lots of stuff as an expat who sold everything to move here, it would be nice to have the luxury at times&#8230;[
   
-](atc-migrate/2015/07/central-coast-food-9.jpg) [<img class="aligncenter size-large wp-image-1051" src="atc-migrate/2015/07/home_tour45-1000x1500-683x1024.jpg" alt="home_tour45-1000x1500" width="683" height="1024" />](atc-migrate/2015/07/home_tour45-1000x1500.jpg)
+](/images/atc-migrate/2015/07/central-coast-food-9.jpg) [<img class="aligncenter size-large wp-image-1051" src="/images/atc-migrate/2015/07/home_tour45-1000x1500-683x1024.jpg" alt="home_tour45-1000x1500" width="683" height="1024" />](/images/atc-migrate/2015/07/home_tour45-1000x1500.jpg)
 
 &nbsp;
 

@@ -2,7 +2,7 @@
 layout: post
 title: Jeremy Warmsley - I Promise
 created: 1150816236
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

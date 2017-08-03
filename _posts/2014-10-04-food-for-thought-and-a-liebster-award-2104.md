@@ -2,19 +2,21 @@
 id: 75
 title: Food for Thought and a Liebster award 2104
 date: 2014-10-04T11:45:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/10/food-for-thought-and-a-liebster-award-2104.html
 permalink: /2014/10/food-for-thought-and-a-liebster-award-2104.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/10/food-for-thought-and-liebster-award-2104.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/5278649986137437453
-categories:
+tags:
   - Uncategorized
 ---
 <span style="background-color: white; line-height: 18.4799995422363px;">I like spotting strange (to me) foods at the supermarket and markets and the latest are:
@@ -45,7 +47,7 @@ categories:
   
 <span style="background-color: white; line-height: 18.4799995422363px;"><br /> <span style="background-color: white; line-height: 18.4799995422363px;">Have you tried either of these? 
   
-<span style="background-color: white;"><br /> <span style="background-color: white; line-height: 18.4799995422363px;"><b>Things I&#8217;ve been reading:</b>
+<br /> <span style="background-color: white; line-height: 18.4799995422363px;"><b>Things I&#8217;ve been reading:</b>
   
 T<a href="http://nymag.com/news/features/airbnb-in-new-york-debate-2014-9/index6.html">he dumbest person in your building is handing out the keys to your front door</a>, Jessica Pressler, <i>New York Magazine</i>
   
@@ -138,7 +140,7 @@ Vegan tiramisu for the last Apartment Supper Club.
   5. <a href="http://aviliasway.de/">http://aviliasway.de/</a>
   6. <a href="http://www.renlish.com/">http://www.renlish.com/</a>
   7. <a href="http://www.minzgruen.com/">http://www.minzgruen.com/</a>
-  8. <span style="background-color: white;"><a href="http://livandjon.wordpress.com/">http://livandjon.wordpress.com/</a>
+  8. <a href="http://livandjon.wordpress.com/">http://livandjon.wordpress.com/</a>
 
 <span style="color: #292929; font-family: Trebuchet MS, sans-serif;"><span style="line-height: 18.4799995422363px;"><br /> <span style="background-color: white; color: #292929; font-family: 'Trebuchet MS', sans-serif; line-height: 18.4799995422363px;">My questions:
 

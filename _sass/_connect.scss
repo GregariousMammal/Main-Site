@@ -1,13 +1,14 @@
 .events,
-.connect {
+.connect,
+.holding {
   .icon_bar {
-    margin-bottom: $spacing-unit;
-
-    div {
+    /*margin-bottom: $spacing-unit / 2;*/
+    margin-top: $spacing-unit / 2;
+    /*div {
       display: inline-block;
       vertical-align: top;
       max-height: 35px;
-    }
+    }*/
   }
   .date {
     font-weight: bold;

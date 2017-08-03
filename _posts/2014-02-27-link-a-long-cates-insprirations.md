@@ -2,21 +2,23 @@
 id: 130
 title: 'Link A Long: Cate&#8217;s insprirations'
 date: 2014-02-27T06:39:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/02/link-a-long-cates-insprirations.html
 permalink: /2014/02/link-a-long-cates-insprirations.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/02/link-long-cates-insprirations.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6306898154185628650
-categories:
+tags:
   - blogging
-  - writing
+    - writing
 ---
 I was reading Pip Lincolne&#8217;s <i>Meet me at Mikes</i> <a href="http://meetmeatmikes.com/2014/02/pips-link-a-long/">blog </a> and she discussed the idea that blogs are more skimmed these days than read and commented upon and people are slow to celebrate those who inspire them in blog land. I&#8217;ve been blogging for a few years on and off, starting in about 2006. Blogging&#8217;s an interesting endeavour.
 
@@ -75,7 +77,7 @@ A collection of vegan and vegetarian bloggers that are Melbourne based aggregate
 
 **<a href="http://www.abeautifulmess.com/">A Beautiful Mess</a>, by Elsie and Emma**
   
-<br /> ABM is a lifestyle blog covering travelling, DIY crafts and creativity, cooking and <a href="http://www.abeautifulmess.com/2013/05/dragon-fruit-limeade-cocktail.html">cocktails</a><span style="text-decoration: underline;">, <a href="http://www.abeautifulmess.com/2012/08/decluttering-tips-from-an-aspiring-hoarder.html">home life </a>and the realities of small business America. At times the American tone makes me wince but I love the authentic voices, diversity of topics, and gorgeous pics. They&#8217;re business owners, book authors, fashion and decor designers and <span style="background-color: white; line-height: 19.5px;"> <span style="background-color: white; line-height: 19.5px;">write a blog that millions of people, have produced a  #1 selling app and to sum up a million dollar business. Food for thought.
+<br /> ABM is a lifestyle blog covering travelling, DIY crafts and creativity, cooking and <a href="http://www.abeautifulmess.com/2013/05/dragon-fruit-limeade-cocktail.html">cocktails</a>, <a href="http://www.abeautifulmess.com/2012/08/decluttering-tips-from-an-aspiring-hoarder.html">home life </a>and the realities of small business America. At times the American tone makes me wince but I love the authentic voices, diversity of topics, and gorgeous pics. They&#8217;re business owners, book authors, fashion and decor designers and <span style="background-color: white; line-height: 19.5px;"> <span style="background-color: white; line-height: 19.5px;">write a blog that millions of people, have produced a  #1 selling app and to sum up a million dollar business. Food for thought.
   
 <span style="background-color: white; line-height: 19.5px;"><br /> 
 

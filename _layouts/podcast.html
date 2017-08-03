@@ -13,5 +13,9 @@ layout: default
     {{ page.podcast_embed }}
     {{ content }}
   </article>
+  {% include articleFooter.html %}
 
+  {% if page.comments %}
+  {% include comments.html %}
+  {% endif %}
 </div>

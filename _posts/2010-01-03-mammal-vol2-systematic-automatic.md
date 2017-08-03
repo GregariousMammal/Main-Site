@@ -2,7 +2,7 @@
 layout: post
 title: Mammal - Vol2 Systematic / Automatic
 created: 1262530392
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

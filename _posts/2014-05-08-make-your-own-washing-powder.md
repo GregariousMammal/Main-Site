@@ -2,19 +2,21 @@
 id: 111
 title: Make your own washing powder
 date: 2014-05-08T07:08:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/05/make-your-own-washing-powder.html
 permalink: /2014/05/make-your-own-washing-powder.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/05/make-your-own-washing-powder.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/7038498832067055031
-categories:
+tags:
   - Uncategorized
 ---
                          <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-a0CmSZ3FNlU/U2rQ-jZAyLI/AAAAAAAAIrE/mm8PeJMlKAQ/s1600/s10541751-300x225.jpg"><img src="http://2.bp.blogspot.com/-a0CmSZ3FNlU/U2rQ-jZAyLI/AAAAAAAAIrE/mm8PeJMlKAQ/s1600/s10541751-300x225.jpg" alt="" width="400" height="300" border="0" /></a>

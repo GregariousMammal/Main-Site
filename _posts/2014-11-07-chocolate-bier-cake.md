@@ -2,19 +2,21 @@
 id: 66
 title: Chocolate bier cake
 date: 2014-11-07T14:32:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/11/chocolate-bier-cake.html
 permalink: /2014/11/chocolate-bier-cake.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/11/chocolate-bier-cake.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/3595969887538920026
-categories:
+tags:
   - baking
   - cooking
   - leipzig

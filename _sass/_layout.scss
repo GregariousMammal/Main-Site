@@ -7,6 +7,14 @@
   line-height: initial;
 }
 
+@mixin small-logo {
+  background: url(/images/cate-solo.png) right no-repeat, url(/images/chris-solo.png) left no-repeat;
+  background-size: contain;
+  background-color: none;
+  min-height: 50px;
+  height: 50px;
+}
+
 .fixed {
   position: fixed;
   right: 0;
@@ -21,8 +29,9 @@
   -ms-transition: all 0.3s;
   -o-transition: all 0.3s;
   transition: all 0.3s;
-  width: 90%;
+  /*width: 90%;*/
   margin: 0 auto;
+
   .wrapper {
     margin-top: $spacing-unit * 4;
   }
@@ -30,31 +39,26 @@
   border-top: none;
   border-bottom: none;
   min-height: 100px;
-
   @include media-query($on-laptop) {
-    min-height: 50px;
-    height:50px;
-    background-image:url(/images/solo-head.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-    background-color: rgba(255,255,255,0.8);
+    @include small-logo;
+    min-height: 25px;
+    height: 25px;
   }
-  background-image:url(/images/gm-logo.png);
+  background-image: url("/images/gm-logo.png");
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  background-color: rgba(255,255,255,0.8);
+  background-color: none;
 }
 
 .small-logo {
-  background-image:url(/images/solo-head.png);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: contain;
-  background-color: rgba(255,255,255,0.8);
+  @include small-logo;
   min-height: 50px;
-  height:50px;
+  height: 50px;
+  @include media-query($on-laptop) {
+    min-height: 25px;
+    height: 25px;
+  }
 }
 
 .site-title {
@@ -102,12 +106,12 @@
 
 .footer-col-1 {
   width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
+  width: calc(35% - (#{$spacing-unit} / 2));
 }
 
 .footer-col-2 {
   width: -webkit-calc(65% - (#{$spacing-unit} / 2));
-  width:         calc(65% - (#{$spacing-unit} / 2));
+  width: calc(65% - (#{$spacing-unit} / 2));
 
   img {
     float: left;
@@ -116,49 +120,40 @@
 
   span {
     width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-    width:         calc(45% - (#{$spacing-unit} / 2));
+    width: calc(45% - (#{$spacing-unit} / 2));
     display: block;
   }
 }
-
-// .footer-col-3 {
-//   width: -webkit-calc(45% - (#{$spacing-unit} / 2));
-//   width:         calc(45% - (#{$spacing-unit} / 2));
-// }
 
 @include media-query($on-laptop) {
   .footer-col-1,
   .footer-col-2 {
     width: -webkit-calc(50% - (#{$spacing-unit} / 2));
-    width:         calc(50% - (#{$spacing-unit} / 2));
+    width: calc(50% - (#{$spacing-unit} / 2));
   }
 
   .footer-col-3 {
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
+    width: calc(100% - (#{$spacing-unit} / 2));
   }
 }
-
 @include media-query($on-palm) {
   .footer-col {
     float: none;
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-    width:         calc(100% - (#{$spacing-unit} / 2));
+    width: calc(100% - (#{$spacing-unit} / 2));
   }
 }
-
-
-
 /**
 * Page content
 */
 .page-content {
   margin-left: 20%;
   @include media-query($on-laptop) {
-    margin-left:0;
-    padding-top: $spacing-unit * 2;
+    margin-left: 0;
+    padding-top: $spacing-unit;
   }
-  padding-top: $spacing-unit * 4;
+  padding-top: $spacing-unit * 2;
   @include media-query($on-palm) {
     float: none;
     padding-left: 0;
@@ -168,82 +163,91 @@
 
 section {
   clear: both;
-  padding-top: $spacing-unit;
+  padding-top: $spacing-unit / 2;
+
   .post-list {
     margin-left: 0;
     list-style: none;
-    h2 {
-      @extend .headings;
-      text-align: left;
-      font-size: $base-font-size * 1.5;
-      clear: none;
-      @include media-query($on-laptop) {
-        font-size: $base-font-size * 1.15;
-        margin-left: 0;
-      }
-      a {
-        color: $text-color;
+
+    .combiheading {
+      font-size: $base-font-size / 2;
+      margin-bottom: $spacing-unit / 2;
+
+      h2 {
+        display: inline;
+        @extend .headings;
+        font-size: $base-font-size * 3;
+        @include media-query($on-laptop) {
+          font-size: $base-font-size * 2;
+          margin-left: 0;
+        }
+
+        a {
+          color: $text-color;
+        }
       }
     }
-    h3 {
-      margin-left: 165px;
-    }
+
+    /*h3 {
+    margin-left: 165px;
+    }*/
+
     > li {
-      margin-bottom: $spacing-unit;
+      margin-bottom: $spacing-unit / 2;
       border-top: 1px solid #dddddd;
-      padding-top: $spacing-unit;
+      padding-top: $spacing-unit / 2;
       min-height: 180px;
       clear: both;
+
       p {
         @include media-query($on-laptop) {
           margin-left: 0;
         }
       }
+
       picture {
         float: left;
-        padding: $spacing-unit / 2;
-        padding-left: 0;
-        max-width:35%;
+        padding: 0 $spacing-unit / 2 0 0;
+        max-width: 35%;
 
         img {
           @include media-query($on-laptop) {
-          max-height: 150px;
-        }
-        max-height: 250px;
+            max-height: 150px;
+          }
+          max-height: 250px;
         }
       }
     }
   }
 }
+
 .event-details {
   margin-left: 165px;
 }
+
 .post-meta {
-  text-align: right;
   font-size: $base-font-size / 2;
   @include media-query($on-laptop) {
     margin-left: 0;
   }
-  a {
-    display: inline-block;
-
-  }
 
   .project-block {
-    display: inline-block;
     font-style: italic;
-    margin-left: $spacing-unit * 2;
     @include media-query($on-laptop) {
       margin-left: 0;
-      display: block;
     }
   }
 }
 
+a.post-link {
+  font-size: $base-font-size;
+  float: right;
+}
 /**
 * Posts
 */
-.post, .merchandise {
+.merchandise,
+.post {
   .post-header {
     margin-bottom: $spacing-unit;
   }
@@ -252,12 +256,12 @@ section {
     @extend .headings;
     font-size: $base-font-size * 2.25;
     clear: none;
-
     @include media-query($on-laptop) {
       font-size: $base-font-size * 1.15;
       clear: both;
     }
   }
+
   picture {
     @extend .mobile-images;
     float: left;
@@ -288,7 +292,6 @@ section {
       font-size: $base-font-size * 1.05;
       margin-top: $spacing-unit;
       margin-bottom: $spacing-unit;
-
       @include media-query($on-laptop) {
         font-size: $base-font-size;
       }
@@ -296,7 +299,6 @@ section {
 
     h3 {
       font-size: 26px;
-
       @include media-query($on-laptop) {
         font-size: 22px;
       }
@@ -304,11 +306,11 @@ section {
 
     h4 {
       font-size: 20px;
-
       @include media-query($on-laptop) {
         font-size: 18px;
       }
     }
+
     picture {
       float: none;
     }

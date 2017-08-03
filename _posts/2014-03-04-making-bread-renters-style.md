@@ -2,19 +2,21 @@
 id: 128
 title: Making bread, renters style
 date: 2014-03-04T06:37:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/03/making-bread-renters-style.html
 permalink: /2014/03/making-bread-renters-style.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/03/making-bread-renters-style.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6756762905694037330
-categories:
+tags:
   - baking
   - cooking
   - recipe
@@ -30,7 +32,7 @@ categories:
 
 
 
-<span style="line-height: 1.5;">But I was intrigued to hear about the no knead bread method over at <a style="color: #156734; line-height: 1.5; margin: 0px; padding: 0px; text-decoration: none;" href="http://gourmetgirl-friend.blogspot.com.au/2013/03/baking-bread-real-deal.html">Gourmet Girlfriend&#8217;s blog </a><span style="line-height: 1.5;">and instagram account. The recipe originates from Mark Bittman and was reproduced in the <a style="color: #156734; line-height: 1.5; margin: 0px; padding: 0px; text-decoration: none;" href="http://www.nytimes.com/2006/11/08/dining/081mrex.html">New York Times </a><span style="line-height: 1.5;">and has been tried by zillions of people. I like that we&#8217;ve all made it a bit different and tried different variations. I like that by buying some bulk flour and yeast, I don&#8217;t need to go out and buy fancy bread. I can store it in a calico bag in the fridge instead of plastic wrapping. I can bake other things in the oven whilst baking the bread like pasta bakes and casseroles (negating the cost travel)<span style="line-height: 1.5; text-align: center;"> and the house smells amazing. I know what&#8217;s in the bread and it&#8217;s preservative free. 
+But I was intrigued to hear about the no knead bread method over at <a style="color: #156734; line-height: 1.5; margin: 0px; padding: 0px; text-decoration: none;" href="http://gourmetgirl-friend.blogspot.com.au/2013/03/baking-bread-real-deal.html">Gourmet Girlfriend&#8217;s blog </a>and instagram account. The recipe originates from Mark Bittman and was reproduced in the <a style="color: #156734; line-height: 1.5; margin: 0px; padding: 0px; text-decoration: none;" href="http://www.nytimes.com/2006/11/08/dining/081mrex.html">New York Times </a>and has been tried by zillions of people. I like that we&#8217;ve all made it a bit different and tried different variations. I like that by buying some bulk flour and yeast, I don&#8217;t need to go out and buy fancy bread. I can store it in a calico bag in the fridge instead of plastic wrapping. I can bake other things in the oven whilst baking the bread like pasta bakes and casseroles (negating the cost travel)<span style="line-height: 1.5; text-align: center;"> and the house smells amazing. I know what&#8217;s in the bread and it&#8217;s preservative free. 
 
 <div style="color: #212121; font-size: 14px; line-height: 21px; margin-bottom: 1.5em; padding: 0px;">
   <span style="font-family: Arial, Helvetica, sans-serif; font-weight: bold;">Ingredients
@@ -139,7 +141,7 @@ categories:
        
     
     
-    <p>
+    
        
     
     

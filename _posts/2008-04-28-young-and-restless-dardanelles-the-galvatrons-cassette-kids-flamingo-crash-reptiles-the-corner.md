@@ -2,7 +2,7 @@
 layout: post
 title: 'Young & Restless, Dardanelles, The Galvatrons, Cassette Kids, Flamingo Crash, Reptiles - The Corner'
 created: 1209399890
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

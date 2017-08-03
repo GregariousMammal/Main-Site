@@ -2,7 +2,7 @@
 layout: post
 title: Random Sunday - Creative Writing
 created: 1207717534
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: creative
 ---
 

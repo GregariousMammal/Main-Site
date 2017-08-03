@@ -2,18 +2,18 @@
 id: 1073
 title: Chocolate truffles
 date: 2015-07-08T09:03:19+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=1073
 permalink: /2015/07/chocolate-truffles.html
-categories:
+tags:
   - cooking
   - food
   - recipe
   - vegan
 format: image
 ---
-[<img class="aligncenter size-full wp-image-1074" src="atc-migrate/2015/07/2961798611_d3aefde2a7_o-1.jpg" alt="2961798611_d3aefde2a7_o (1)" width="411" height="402" />](atc-migrate/2015/07/2961798611_d3aefde2a7_o-1.jpg)
+[<img class="aligncenter size-full wp-image-1074" src="/images/atc-migrate/2015/07/2961798611_d3aefde2a7_o-1.jpg" alt="2961798611_d3aefde2a7_o (1)" width="411" height="402" />](/images/atc-migrate/2015/07/2961798611_d3aefde2a7_o-1.jpg)
 
 This is probably the quickest, cheapest and easiest recipe I&#8217;ll ever post, so you have no reason not to make it!
 

@@ -2,7 +2,7 @@
 layout: post
 title: The Noisettes
 created: 1152285036
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

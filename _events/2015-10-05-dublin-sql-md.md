@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: 'Introducing Crate, the scalable SQL Database'
 event: Dublin NoSQL with Crate.io
 pres_url: 'https://ti.to/tcube/dublin-nosql-crate-io'

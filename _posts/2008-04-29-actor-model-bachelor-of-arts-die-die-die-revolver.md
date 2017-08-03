@@ -2,7 +2,7 @@
 layout: post
 title: 'Actor/Model, Bachelor of Arts, Die Die Die! - Revolver'
 created: 1209444263
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

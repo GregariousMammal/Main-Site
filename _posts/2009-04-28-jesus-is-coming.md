@@ -2,7 +2,7 @@
 layout: post
 title: Jesus is Coming
 created: 2009-04-28T00:00:00.000Z
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: creative
 ---
 

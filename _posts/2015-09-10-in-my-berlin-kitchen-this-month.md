@@ -2,11 +2,11 @@
 id: 1300
 title: In my Berlin kitchen this month
 date: 2015-09-10T16:23:10+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/?p=1300
 permalink: /2015/09/in-my-berlin-kitchen-this-month.html
-categories:
+tags:
   - baking
   - berlin
   - cooking
@@ -24,49 +24,49 @@ In my kitchen I&#8217;m currently working on vegan cheese recipes. I teach class
 
 I&#8217;ve been cooking lots of as usual, here&#8217;s what&#8217;s been in my kitchen:[
   
-](atc-migrate/2015/09/21086391675_28c350618f_z.jpg) [
+](/images/atc-migrate/2015/09/21086391675_28c350618f_z.jpg) [
   
-](atc-migrate/2015/09/1024px-Peach-Frangipane_Tart.jpg) [<img class="aligncenter size-full wp-image-1294" src="atc-migrate/2015/09/IMG_20150903_182800.jpg" alt="IMG_20150903_182800" width="1722" height="1449" />](atc-migrate/2015/09/IMG_20150903_182800.jpg)
+](/images/atc-migrate/2015/09/1024px-Peach-Frangipane_Tart.jpg) [<img class="aligncenter size-full wp-image-1294" src="/images/atc-migrate/2015/09/IMG_20150903_182800.jpg" alt="IMG_20150903_182800" width="1722" height="1449" />](/images/atc-migrate/2015/09/IMG_20150903_182800.jpg)
 
 Mini mushroom pies
 
-[<img class="aligncenter size-full wp-image-1286" src="atc-migrate/2015/09/1024px-Peach-Frangipane_Tart.jpg" alt="Peach-Frangipane_Tart" width="1024" height="680" />](atc-migrate/2015/09/1024px-Peach-Frangipane_Tart.jpg)
+[<img class="aligncenter size-full wp-image-1286" src="/images/atc-migrate/2015/09/1024px-Peach-Frangipane_Tart.jpg" alt="Peach-Frangipane_Tart" width="1024" height="680" />](/images/atc-migrate/2015/09/1024px-Peach-Frangipane_Tart.jpg)
 
 [Peach frangipane tart ](http://atravellingcook.com/2015/09/peach-frangipane-tart.html)
 
-[<img class="aligncenter size-full wp-image-1281" src="atc-migrate/2015/09/21086391675_28c350618f_z.jpg" alt="21086391675_28c350618f_z" width="640" height="504" />](atc-migrate/2015/09/21086391675_28c350618f_z.jpg)
+[<img class="aligncenter size-full wp-image-1281" src="/images/atc-migrate/2015/09/21086391675_28c350618f_z.jpg" alt="21086391675_28c350618f_z" width="640" height="504" />](/images/atc-migrate/2015/09/21086391675_28c350618f_z.jpg)
 
 [Creamy potato salad](http://atravellingcook.com/2015/09/creamy-potato-salad.html)
 
-[<img class="aligncenter size-full wp-image-1276" src="atc-migrate/2015/08/20940321352_1bdd66205d_h.jpg" alt="20940321352_1bdd66205d_h" width="1600" height="1419" />](atc-migrate/2015/08/20940321352_1bdd66205d_h.jpg)
+[<img class="aligncenter size-full wp-image-1276" src="/images/atc-migrate/2015/08/20940321352_1bdd66205d_h.jpg" alt="20940321352_1bdd66205d_h" width="1600" height="1419" />](/images/atc-migrate/2015/08/20940321352_1bdd66205d_h.jpg)
 
 [Satay tofu and vegetable curry ](http://atravellingcook.com/2015/08/satay-tofu-and-vegetable-curry.html)
 
-[<img class="aligncenter size-full wp-image-1259" src="atc-migrate/2015/08/IMG_20150826_155628.jpg" alt="IMG_20150826_155628" width="1884" height="1920" />](atc-migrate/2015/08/IMG_20150826_155628.jpg)
+[<img class="aligncenter size-full wp-image-1259" src="/images/atc-migrate/2015/08/IMG_20150826_155628.jpg" alt="IMG_20150826_155628" width="1884" height="1920" />](/images/atc-migrate/2015/08/IMG_20150826_155628.jpg)
 
 [ White bean gluten free chocolate brownies](http://atravellingcook.com/2015/08/white-bean-gluten-free-chocolate-brownies.html)
 
-[<img class="aligncenter size-full wp-image-1244" src="atc-migrate/2015/08/IMG_20150821_192807.jpeg" alt="IMG_20150821_192807" width="2560" height="1920" />](atc-migrate/2015/08/IMG_20150821_192807.jpeg)
+[<img class="aligncenter size-full wp-image-1244" src="/images/atc-migrate/2015/08/IMG_20150821_192807.jpeg" alt="IMG_20150821_192807" width="2560" height="1920" />](/images/atc-migrate/2015/08/IMG_20150821_192807.jpeg)
 
 [Antipasto kebabs](http://atravellingcook.com/2015/08/antipasto-kebabs.html)
 
-<img class="aligncenter size-full wp-image-1239" src="atc-migrate/2015/08/IMG_20150821_193139.jpeg" alt="IMG_20150821_193139" width="1920" height="2560" />
+<img class="aligncenter size-full wp-image-1239" src="/images/atc-migrate/2015/08/IMG_20150821_193139.jpeg" alt="IMG_20150821_193139" width="1920" height="2560" />
 
 [Cashew yoghurt mozzarella](http://atravellingcook.com/2015/08/cashew-yoghurt-mozzarella.html)
 
-[<img class="aligncenter size-full wp-image-1236" src="atc-migrate/2015/08/400px-Rejuvelac.jpg" alt="400px-Rejuvelac" width="400" height="600" />](atc-migrate/2015/08/400px-Rejuvelac.jpg)[
+[<img class="aligncenter size-full wp-image-1236" src="/images/atc-migrate/2015/08/400px-Rejuvelac.jpg" alt="400px-Rejuvelac" width="400" height="600" />](/images/atc-migrate/2015/08/400px-Rejuvelac.jpg)[
   
-](atc-migrate/2015/08/IMG_20150821_193139.jpeg) [Rejuvelac](http://atravellingcook.com/2015/08/rejuvelac.html)
+](/images/atc-migrate/2015/08/IMG_20150821_193139.jpeg) [Rejuvelac](http://atravellingcook.com/2015/08/rejuvelac.html)
 
-[<img class="aligncenter size-full wp-image-1215" src="atc-migrate/2015/08/IMG_20150813_192509.jpg" alt="IMG_20150813_192509" width="1920" height="1942" />](atc-migrate/2015/08/IMG_20150813_192509.jpg)
+[<img class="aligncenter size-full wp-image-1215" src="/images/atc-migrate/2015/08/IMG_20150813_192509.jpg" alt="IMG_20150813_192509" width="1920" height="1942" />](/images/atc-migrate/2015/08/IMG_20150813_192509.jpg)
 
 [ Egg free potato dumplings](http://atravellingcook.com/2015/08/egg-free-potato-dumplings.html)
 
-[<img class="aligncenter size-full wp-image-1225" src="atc-migrate/2015/08/IMG_20150818_181459.jpeg" alt="IMG_20150818_181459" width="1920" height="2560" />](atc-migrate/2015/08/IMG_20150818_181459.jpeg)
+[<img class="aligncenter size-full wp-image-1225" src="/images/atc-migrate/2015/08/IMG_20150818_181459.jpeg" alt="IMG_20150818_181459" width="1920" height="2560" />](/images/atc-migrate/2015/08/IMG_20150818_181459.jpeg)
 
 [ Cheesy potatoes in spiced herb oil](http://atravellingcook.com/2015/08/potatoes-in-spiced-herb-oil.html)
 
-[<img class="aligncenter size-full wp-image-1211" src="atc-migrate/2015/08/11850538_10152914206851249_7910216460361132743_o.jpg" alt="11850538_10152914206851249_7910216460361132743_o" width="1650" height="1319" />](atc-migrate/2015/08/11850538_10152914206851249_7910216460361132743_o.jpg)
+[<img class="aligncenter size-full wp-image-1211" src="/images/atc-migrate/2015/08/11850538_10152914206851249_7910216460361132743_o.jpg" alt="11850538_10152914206851249_7910216460361132743_o" width="1650" height="1319" />](/images/atc-migrate/2015/08/11850538_10152914206851249_7910216460361132743_o.jpg)
 
 &nbsp;
 

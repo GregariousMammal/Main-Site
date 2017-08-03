@@ -2,19 +2,21 @@
 id: 90
 title: Food for thought
 date: 2014-08-22T12:34:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/08/food-for-thought-8.html
 permalink: /2014/08/food-for-thought-8.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/08/food-for-thought_22.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/4910329602883182239
-categories:
+tags:
   - funny
   - music
   - reading
@@ -40,7 +42,7 @@ categories:
 
 <div style="background-color: white; box-sizing: border-box; direction: ltr; float: left; margin: 0px; min-height: 1px; padding: 0px; position: relative; width: 520.328125px;">
   <div style="box-sizing: border-box; direction: ltr; margin: 0px 0px 12px; padding: 10px 0px;">
-    <p>
+    
       Cate Bolt is a mother of nine, humanitarian, social activist and is awesome. She also has a wicked sense of humour as her <a href="https://www.etsy.com/shop/PrettyFknEmbroidery?ref=l2-shopheader-name">craft </a>attests:
     
     
@@ -64,15 +66,15 @@ categories:
     
     
     
-    <p>
+    
       &#8220;<a href="http://www.bostern.com/blog/2014/08/15/what-an-als-family-really-thinks-about-the-ice-bucket-challenge/">What an ALS family really thinks of the icebucket challenge</a>&#8220;, Bo Stern, The Difference of a Day
     
     
-    <p>
+    
       &#8220;<a href="http://www.theguardian.com/lifeandstyle/2014/aug/19/-sp-drunk-online-shopping-regrets">Drunk online shopping regrets: clarinets, elephants and flatpacks</a>&#8220;, The Guardian. Good to know I&#8217;m not the only one!
     
     
-    <p>
+    
       I don&#8217;t listen to music nearly as much as I used to. I was talking to someone last night about Australian music so I decided to make a quick playlist. It&#8217;s not exhaustive or in any particular order, a lot of the stuff i wanted to add wasn&#8217;t on Spotify. I hope you enjoy listening to it, what would you add?
     
   

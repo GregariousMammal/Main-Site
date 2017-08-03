@@ -2,19 +2,21 @@
 id: 57
 title: Rose cordial
 date: 2014-11-27T19:26:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/11/rose-cordial.html
 permalink: /2014/11/rose-cordial.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/11/rose-cordial.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6261567259208369153
-categories:
+tags:
   - beverages
   - cooking
   - food
@@ -66,6 +68,6 @@ _Ingredients_
     <a  href="http://3.bp.blogspot.com/-ItedpYM17sk/VHdsW8p2OLI/AAAAAAAAKJE/uFU2OFsCU-A/s1600/15706907707_4a3bee1e74_b.jpg"><img src="http://3.bp.blogspot.com/-ItedpYM17sk/VHdsW8p2OLI/AAAAAAAAKJE/uFU2OFsCU-A/s1600/15706907707_4a3bee1e74_b.jpg" alt="" width="312" height="400" border="0" /></a>
   
   
-  <p>
+  
     &nbsp;
   

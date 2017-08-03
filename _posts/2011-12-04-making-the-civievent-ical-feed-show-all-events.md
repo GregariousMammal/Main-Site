@@ -2,7 +2,7 @@
 layout: post
 title: Making the CiviEvent iCal feed show all events
 created: 2011-12-04T00:00:00.000Z
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: civicrm php
 image: civicrm_logo.png
 ---

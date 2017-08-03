@@ -2,19 +2,21 @@
 id: 88
 title: Vegan blueberry cake
 date: 2014-08-29T11:21:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/08/vegan-blueberry-cake.html
 permalink: /2014/08/vegan-blueberry-cake.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/08/vegan-blueberry-cake.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/6745996930802339618
-categories:
+tags:
   - baking
   - recipe
   - vegan

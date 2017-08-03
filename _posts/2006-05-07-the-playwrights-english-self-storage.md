@@ -2,7 +2,7 @@
 layout: post
 title: The Playwrights - English Self storage
 created: 1147014636
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

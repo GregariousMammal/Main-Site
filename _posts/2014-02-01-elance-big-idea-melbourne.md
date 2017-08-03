@@ -2,7 +2,7 @@
 layout: post
 title: eLance big idea Melbourne
 created: 1391291592
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 ---
 
 This was a strange event for a couple of reasons, firstly it didn't run very smoothly with lots of minor technical issues and delays that made the event run very long and late, with the main event not really starting until 8pm after a 6:30 start. Secondly the pitches (I saw, see later) were generally a little unsure and not in the traditional pitch style, I spent a lot of time thinking 'and...?', it was never very clear why the pitchers were pitching, what did they want to win for, what did they need the money for? A lot of the pitches had references to 'how awesome' eLance was, feeling more like a pitch for eLance than their own products some of the time.
@@ -13,7 +13,7 @@ Down to the pitches I saw, with things running so late, I left halfway through s
 
 **Swyft pay**
 
-Australia has a lot of payment processors and related services and it wasn't completely clear what Swyft pay's point of difference was, despite a presentation chock full of information, which felt more like a feature tour than a pitch. It seems to be aimed at 'tradies' (Australian slang for plumbers, builders etc) who generally operate on a cash and paper economy. Swyft Pay offers Invoicing, quoting, paying etc through a website and mobile app. Whilst I have a lot of experience with payment systems, I have no experience of this sector, so maybe it will appeal to them.</span><br /><a href="http://www.swyftpay.com" target="_blank"><span style="line-height: 1.538em;">www.swyftpay.com</span></a>
+Australia has a lot of payment processors and related services and it wasn't completely clear what Swyft pay's point of difference was, despite a presentation chock full of information, which felt more like a feature tour than a pitch. It seems to be aimed at 'tradies' (Australian slang for plumbers, builders etc) who generally operate on a cash and paper economy. Swyft Pay offers Invoicing, quoting, paying etc through a website and mobile app. Whilst I have a lot of experience with payment systems, I have no experience of this sector, so maybe it will appeal to them.<br /><a href="http://www.swyftpay.com" target="_blank"><span style="line-height: 1.538em;">www.swyftpay.com</a>
 
 **Servomate**
 

@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: The Future of Cardboard
 event: Quo Vadis
 date: 2017-04-25T11:00:00.000Z

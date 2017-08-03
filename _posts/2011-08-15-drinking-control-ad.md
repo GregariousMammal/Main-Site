@@ -2,7 +2,7 @@
 layout: post
 title: Drinking control ad
 created: 2011-08-15T00:00:00.000Z
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: greatidea
 image: IMG_0599.jpg
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Doloroso - Godless
 created: 1155725574
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

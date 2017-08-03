@@ -1,43 +1,22 @@
 <ul class="menu nav">
-  <li class="first expanded dropdown">
-    <a href="/projects" title="Projects">Projects
-    </a>
-    {% if page.categories[0] == 'projects' or page.url == '/projects/index.html' or page.url == '/projects/software/index.html' or page.path == 'odtwe.html' or page.path == 'chipshop.html' or page.path == 'greenrenters.md' %}
-    <ul>
-      <li >
-        <a href="/projects/chipshop" title="Chip Shop">Chip Shop</a>
-      </li>
-      <li>
-        <a href="/projects/odtwe" title="One Day the World Ended">One Day the World Ended</a>
-      </li>
-      <li >
-        <a href="/projects/software" title="Software">Software</a>
-      </li>
-      <li>
-        <a href="/projects/not-profit-handbook" title="The Not-for-Profit Handbook">The Not-for-Profit Handbook</a>
-      </li>
-      <li >
-        <a href="/projects/greenrenters" title="Green Renters">Green Renters</a>
-      </li>
-    </ul>
-    {% endif %}
-  </li>
   <li><a href="/writing" title="Writing">Writing</a>
-    {% if page.url == '/books/index.html' or page.url == '/courses/index.html' or page.url == '/writing/index.html' or page.categories[0] == 'writing' %}
+    {% if page.permalink == '/writing/cate/' or page.permalink == '/writing/chris/' or page.permalink == '/writing/books' or page.permalink == '/writing/courses' or page.permalink == '/writing/' or page.categories[1] == 'writing' or page.categories[0] == 'Cate' or page.categories[0] == 'Chris' %}
     <ul>
       <li>
-        <a href="/books" title="Books">Books</a>
+        <a href="/writing/books" title="Books">Books</a>
       </li>
       <li>
-        <a href="/courses" title="Courses">Courses</a>
+        <a href="/writing/courses" title="Courses">Courses</a>
       </li>
     </ul>
     {% endif %}
   </li>
   <li><a href="/podcast" title="Podcast">Podcast</a> </li>
   <li>
-    <a href="/connect">Connect</a>
+    <a href="/clients">Clients</a>
+  </li>
+  <li>
+    <a href="/events">Events</a>
   </li>
   <li><a href="/support">Support</a></li>
-  <li><a href="/search">Search</a></li>
 </ul>

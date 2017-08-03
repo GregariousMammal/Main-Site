@@ -2,7 +2,7 @@
 layout: post
 title: 'Hellyeah, Mammal - Billboard'
 created: 1183767042
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

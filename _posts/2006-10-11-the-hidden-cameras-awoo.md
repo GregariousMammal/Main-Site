@@ -2,7 +2,7 @@
 layout: post
 title: The Hidden Cameras - Awoo
 created: 1160587108
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

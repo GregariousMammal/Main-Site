@@ -2,19 +2,24 @@
 id: 147
 title: A few pictorial tales of 2013
 date: 2014-01-01T03:46:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/01/a-few-pictorial-tales-of-2013.html
 permalink: /2014/01/a-few-pictorial-tales-of-2013.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2013/12/a-few-tales-of-2013-visited-parts-of.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/8888643232401694144
-categories:
+tags:
+  - Cate
+  - writing
+  - readwrite
   - cat
   - cooking
   - holiday
@@ -176,7 +181,7 @@ Spent alot of time with the lovely men in my life
 
 
 **
-  
+
 ** **Cooking firsts:**
 
 
@@ -195,7 +200,7 @@ Made my first gnocchi
 <a style="text-align: center;" href="http://4.bp.blogspot.com/-YQ6_VqEUntI/UsM-RWPI-eI/AAAAAAAAHxs/QjFtBxj7ILA/s1600/11675087054_109a1207fc_z.jpg"><img src="http://4.bp.blogspot.com/-YQ6_VqEUntI/UsM-RWPI-eI/AAAAAAAAHxs/QjFtBxj7ILA/s400/11675087054_109a1207fc_z.jpg" alt="" width="400" height="400" border="0" /></a>
 
 Made my first tofu
-  
+
 <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-jFPBGU_89uk/UsN--6txYvI/AAAAAAAAH2U/5YXg48PT7O0/s1600/tofu.jpeg"><img src="http://1.bp.blogspot.com/-jFPBGU_89uk/UsN--6txYvI/AAAAAAAAH2U/5YXg48PT7O0/s400/tofu.jpeg" alt="" width="400" height="342" border="0" /></a>
 
 <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-YZNXak-mGeA/UsN--KzKfnI/AAAAAAAAH2E/6ZwzsI8c3RE/s1600/11675047694_50bbbe9178_z.jpg"><img src="http://1.bp.blogspot.com/-YZNXak-mGeA/UsN--KzKfnI/AAAAAAAAH2E/6ZwzsI8c3RE/s400/11675047694_50bbbe9178_z.jpg" alt="" width="400" height="400" border="0" /></a>
@@ -232,7 +237,7 @@ Taught loads of classes included our jams, pickles and preserves masterclasses a
       <a style="margin-left: auto; margin-right: auto; text-align: center;" href="http://4.bp.blogspot.com/-VpcHMgaKokU/UsN3wi8zlxI/AAAAAAAAH00/zX4eklo3tkU/s1600/11675250836_5af9921409_c.jpg"><img src="http://4.bp.blogspot.com/-VpcHMgaKokU/UsN3wi8zlxI/AAAAAAAAH00/zX4eklo3tkU/s400/11675250836_5af9921409_c.jpg" alt="" width="298" height="400" border="0" /></a>
     </td>
   </tr>
-  
+
   <tr>
     <td style="text-align: center;">
     </td>
@@ -260,7 +265,7 @@ Taught loads of classes included our jams, pickles and preserves masterclasses a
 Lots of projects including a Green Renting Expo for people living in social housing, private rental, rooming houses etc in Redfern, Sydney; a food waste program for a Chinese mothers&#8217; group and their kids; a community leadership program in the eastern suburbs of Melbourne (still going).
 
 <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-U4vJCeQjgh4/UsM-S4U30VI/AAAAAAAAHx8/RoRmEMeHAnI/s1600/11675290056_292da10006_c.jpg"><img src="http://4.bp.blogspot.com/-U4vJCeQjgh4/UsM-S4U30VI/AAAAAAAAHx8/RoRmEMeHAnI/s400/11675290056_292da10006_c.jpg" alt="" width="400" height="298" border="0" /></a>
-  
+
 <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-YIA3RjJPUco/UsN1eET97HI/AAAAAAAAHyk/XjbLDeXFMMk/s1600/11674669835_409b3637fd_b.jpg"><img src="http://4.bp.blogspot.com/-YIA3RjJPUco/UsN1eET97HI/AAAAAAAAHyk/XjbLDeXFMMk/s400/11674669835_409b3637fd_b.jpg" alt="" width="298" height="400" border="0" /></a>
 
 Holidayed and spent Christmas in Far North Queensland:

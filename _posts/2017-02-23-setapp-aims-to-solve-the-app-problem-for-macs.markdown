@@ -3,7 +3,7 @@ layout: post
 title: Setapp aims to solve the App problem for Macs
 date: '2017-02-23 18:13:30 +0100'
 image: setapp_get_started.png
-categories: writing cultofmac
+categories: Chris writing cultofmac
 tags: apple mac software
 publication_url: http://www.cultofmac.com/467861/setapp-aims-solve-mac-apps-problem/
 ---

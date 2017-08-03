@@ -2,7 +2,7 @@
 layout: post
 title: From The Jam - Prince of Wales
 created: 1205365339
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

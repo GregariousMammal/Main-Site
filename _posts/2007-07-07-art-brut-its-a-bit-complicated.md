@@ -2,7 +2,7 @@
 layout: post
 title: "Art Brut - It's a bit Complicated"
 created: 1183767232
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

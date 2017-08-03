@@ -2,19 +2,21 @@
 id: 10
 title: 'Quick quinoa &#8216;fried rice&#8217;'
 date: 2015-03-05T15:31:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/03/quick-quinoa-fried-rice.html
 permalink: /2015/03/quick-quinoa-fried-rice.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/03/quick-quinoa-fried-rice.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/8331683949460731733
-categories:
+tags:
   - cooking
   - recipe
   - vegan
@@ -68,7 +70,7 @@ categories:
   </ul>
   
   <p style="text-align: left;">
-    <span style="text-decoration: underline;">Dressing:
+    Dressing:
   
   
   <ul style="text-align: left;">

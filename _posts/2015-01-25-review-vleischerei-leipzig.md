@@ -2,19 +2,21 @@
 id: 30
 title: 'Review: Vleischerei, Leipzig'
 date: 2015-01-25T13:08:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2015/01/review-vleischerei-leipzig.html
 permalink: /2015/01/review-vleischerei-leipzig.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2015/01/review-vleischerei-leipzig.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/8349822531380119691
-categories:
+tags:
   - food
   - germany
   - leipzig
@@ -26,7 +28,7 @@ categories:
     <a  href="http://1.bp.blogspot.com/-ta8EEdFrPzU/VMTZ8PKpYoI/AAAAAAAAKg8/YYNDJy0ftis/s1600/16176803047_3bd6c44bda_o.jpg"><img src="http://1.bp.blogspot.com/-ta8EEdFrPzU/VMTZ8PKpYoI/AAAAAAAAKg8/YYNDJy0ftis/s1600/16176803047_3bd6c44bda_o.jpg" alt="" width="246" height="400" border="0" /></a>
   
   
-  <p>
+  
     <strong style="border-image-outset: initial; border-image-repeat: initial; border-image-slice: initial; border-image-source: initial; border-image-width: initial; border: 0px; font-stretch: inherit; font-style: inherit; font-variant: inherit; line-height: inherit; margin: 0px; padding: 0px; vertical-align: baseline;"><br /> </strong>On friday night it was a bit cold here in Leipzig. It had been snowing a little during the day and the streets were quiet. It was a good night to stay at home and watching telly and drink something hot. But I&#8217;d be busy all week which included lots of cooking and recipe testing, so we decided to pop out to <a href="http://www.vleischerei.de/">Vleisicherei</a> for dinner. <br /> <i><br /> </i><i>Vlesicherei </i>is an old vegan fast food cafe with a generous selection of drinks (even cider) and a menu where fake meats are prominent. The name is a pun on Fleischerei which means butcher in English. Gyros, sausages, burgers, seitan steaks, fries and a choice of sauces including mayo, hommus and garlic sauce. I&#8217;d read reviews that the service was slow and surly but it must have been a good night as our food was fast and fresh and the staff member I spoke to was friendly. As well as the hot food, there&#8217;s also a small range of deli items to buy like vegan cheese and seitan sausages and homemade cakes. This is not everyday food unless you have an amazing metabolism and immune system but is delicious every now and again. 
   
 

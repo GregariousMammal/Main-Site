@@ -2,7 +2,7 @@
 layout: post
 title: Rose Kemp - Violence
 created: 1160586697
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 

@@ -2,19 +2,21 @@
 id: 115
 title: 'Food for thought: DIY (pic heavy)'
 date: 2014-04-10T02:57:00+00:00
-author: CateLawrence
+categories: Cate writing atravellingcook
 layout: post
 guid: http://atravellingcook.com/2014/04/food-for-thought-diy-pic-heavy.html
 permalink: /2014/04/food-for-thought-diy-pic-heavy.html
 blogger_blog:
   - atravellingcook.blogspot.com
 blogger_author:
-  - Cate Lawrence
+  - Cate
+  - writing
+  - readwrite Lawrence
 blogger_permalink:
   - /2014/04/food-for-thought-diy-pic-heavy.html
 blogger_internal:
   - /feeds/4126609572633548921/posts/default/2756463402441128498
-categories:
+tags:
   - craft
   - embroidery
   - moving

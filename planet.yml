@@ -1,0 +1,20 @@
+planet:
+    posts_directory: _posts/
+    templates_directory: _imported/
+    whitelisted_tags: []
+    # sanitize_html: true
+
+blogs:
+  # Bare minimum to get it working
+  - author: "Cate Lawrence"
+    feed:   "https://readwrite.com/author/cate-lawrence/feed/"
+    image:  "http://www.rss-specifications.com/rss-spec-rss.gif"
+    twitter: "poteland"
+    categories: "Cate writing readwrite"
+    tags: "test rss feed"
+  - author: "Chris Ward"
+    feed:   "https://blog.codeship.com/author/chrisward/feed/"
+    image:  "http://www.rss-specifications.com/rss-spec-rss.gif"
+    twitter: "poteland"
+    categories: "Chris writing codeship"
+    tags: "test rss feed"

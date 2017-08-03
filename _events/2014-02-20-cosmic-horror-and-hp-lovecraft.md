@@ -1,6 +1,8 @@
 ---
 type: presentation
 layout: event
+categories: Chris
+
 title: 'Cosmic Horror & HP Lovecraft'
 event: Laneway Learning
 pres_url: 'http://melbourne.lanewaylearning.com/classes/cosmic-horror-and-hp-lovecraft/'

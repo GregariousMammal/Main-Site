@@ -2,7 +2,7 @@
 layout: post
 title: The Television personalities - The Barfly
 created: 1143172777
-categories: writing chrischinchilla
+categories: Chris writing chrischinchilla
 tags: music reviews
 ---
 
