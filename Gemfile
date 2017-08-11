@@ -6,6 +6,7 @@ gem 'mini_magick'
 gem 'fastimage'
 gem 'redcarpet'
 gem 'planet', :git => "https://github.com/ChrisChinchilla/planet.rb", :branch => "master"
+# gem 'planet', :path => "/Users/chrisward/Workspace/planet.rb"
 
 
 group :jekyll_plugins do
