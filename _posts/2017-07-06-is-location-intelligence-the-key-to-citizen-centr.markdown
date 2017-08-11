@@ -6,7 +6,6 @@ categories: Cate writing readwrite
 tags: 
   - Smart Cities
   - CARTO
-  - engagement
   - location intelligence
   - Mapping
   - neighborhood

@@ -9,13 +9,13 @@ tags:
   - Smart Cities
   - Beecham Research
   - data security
+  - engagement
   - featured
   - Internet of Things
   - IoT
   - IoT monitoring platforms
   - IoT platform
   - top
-  - Trending
 publication_url: "https://readwrite.com/2017/07/21/with-over-450-iot-platforms-which-one-will-you-choose-il1/"
 layout: post
 image: High-tech-background-blue-styles-vector-03-e1500621090654.jpg
