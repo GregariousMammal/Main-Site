@@ -9,7 +9,6 @@ tags:
   - Smart Cities
   - Beecham Research
   - data security
-  - engagement
   - featured
   - Internet of Things
   - IoT

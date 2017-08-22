@@ -10,7 +10,6 @@ tags:
   - air quality
   - Amazon
   - drones
-  - engagement
   - FAA
   - featured
   - Internet of Things
