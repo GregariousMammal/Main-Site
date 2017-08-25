@@ -9,12 +9,12 @@ tags:
   - carhacking
   - cyberattacks
   - cybersecurity
+  - engagement
   - featured
   - Internet of Things
   - IoT
   - NTIA
   - top
-  - Trending
   - TrendNet
 publication_url: "https://readwrite.com/2017/08/11/egislation-wont-solve-iot-cybersecurity-dl1/"
 layout: post

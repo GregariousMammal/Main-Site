@@ -14,7 +14,7 @@ permalink: /events/
     {% assign future_events = "" | split: "" %}
     {% assign currentDate = site.time %}
 
-    {% for post in site.events reversed %}
+    {% for post in site.events %}
     {% if post.date > currentDate %}
     {% assign future_events = future_events | push: post %}
     {% endif %}

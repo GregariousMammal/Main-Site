@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 12 must-listen software engineering podcast episodes
+title: How to get started in computer science - A course roundup
 date: 2017-08-21
 image: coding-courses-resources.jpg
 categories: Chris writing techbeacon

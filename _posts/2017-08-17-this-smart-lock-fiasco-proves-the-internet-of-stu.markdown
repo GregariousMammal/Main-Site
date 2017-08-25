@@ -17,7 +17,7 @@ tags:
   - Trending
 publication_url: "https://readwrite.com/2017/08/16/latest-smart-lock-faso-dl1/"
 layout: post
-image: DF6OtiaUwAE6ZA7.jpg
+image: smart-locks-LockState.jpg
 ---
 As anyone who’s traveled widely before the days of connected smart phones and GPS knows the pain when travel plans go awry and you end up at your place of accommodation only to find yourself locked out in the middle of the night.
 
