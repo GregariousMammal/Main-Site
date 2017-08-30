@@ -6,6 +6,7 @@ categories: Cate writing readwrite
 tags: 
   - Connected Devices
   - connected home
+  - engagement
   - featured
   - hardware
   - Internet of Things
@@ -14,7 +15,6 @@ tags:
   - PetNet
   - smart lock
   - top
-  - Trending
 publication_url: "https://readwrite.com/2017/08/16/latest-smart-lock-faso-dl1/"
 layout: post
 image: smart-locks-LockState.jpg
