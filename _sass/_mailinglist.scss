@@ -1,3 +1,16 @@
 #mc_embed_signup {
-  margin-top: $spacing-unit;
+  width: 50%;
+  margin-top: $spacing-unit / 2;
+  margin-bottom: $spacing-unit / 2;
+  font-size: 0.75em;
+
+  div {
+    margin-top: $spacing-unit / 4;
+    margin-bottom: $spacing-unit / 4;
+
+    input,
+    select {
+      float: right;
+    }
+  }
 }

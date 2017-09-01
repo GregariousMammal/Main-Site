@@ -8,3 +8,14 @@
     text-align: center;
   }
 }
+
+.stickers {
+  picture, p {
+    // font-size: .5em;
+    display: inline-block;
+    max-width: 45%;
+    margin-right: $spacing-unit;
+    // vertical-align: middle;
+    // text-align: center;
+  }
+}
