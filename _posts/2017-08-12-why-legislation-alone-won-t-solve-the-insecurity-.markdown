@@ -9,7 +9,6 @@ tags:
   - carhacking
   - cyberattacks
   - cybersecurity
-  - engagement
   - featured
   - Internet of Things
   - IoT
