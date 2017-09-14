@@ -7,10 +7,10 @@ tags:
   - Transport
   - Cisco
   - connected car
+  - engagement
   - smart carpark
   - smart parking
   - smart valet
-  - Trending
 publication_url: "https://readwrite.com/2017/08/30/connected-parking-service-driverlessly-tl1/"
 layout: post
 image: connected-cars-1030x1030-1024x1024.jpg

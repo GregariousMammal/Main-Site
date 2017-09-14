@@ -8,13 +8,13 @@ tags:
   - Connected Devices
   - Smart Home
   - connected home
+  - engagement
   - featured
   - Home Automation
   - Machine Learning
   - Neura
   - open API
   - top
-  - Trending
 publication_url: "https://readwrite.com/2017/08/28/neura-ai-makes-connected-home-truly-smart-dl1/"
 layout: post
 image: smart-home-2006026_1280-1024x365.jpg

@@ -8,13 +8,13 @@ tags:
   - Transport
   - autonomous vehicles
   - consumer mobility as a service
+  - engagement
   - featured
   - Intel
   - self-driving vehicles
   - Smart Cities
   - the passenger economy
   - top
-  - Trending
 publication_url: "https://readwrite.com/2017/08/28/intel-consumer-iot-autonomous-cars-tl1/"
 layout: post
 image: ideo-self-driving-car-concept-work-on-wheels.jpg
