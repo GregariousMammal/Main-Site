@@ -13,10 +13,10 @@ tags:
   - connected cars
   - cyberattack
   - cybersecurity
+  - engagement
   - Internet of Things
   - IoT
   - terrorism
-  - Trending
   - V2V
 publication_url: "https://readwrite.com/2017/09/01/can-technology-stop-terrorist-vehicle-ramming-attacks-tl1/"
 layout: post

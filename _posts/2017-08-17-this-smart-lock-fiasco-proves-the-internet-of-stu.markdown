@@ -6,7 +6,6 @@ categories: Cate writing readwrite
 tags: 
   - Connected Devices
   - connected home
-  - engagement
   - featured
   - hardware
   - Internet of Things
