@@ -1,16 +1,18 @@
-#mc_embed_signup {
-  width: 50%;
-  margin-top: $spacing-unit / 2;
-  margin-bottom: $spacing-unit / 2;
-  font-size: 0.75em;
+.full_ml {
+  #mc_embed_signup {
+    width: 50%;
+    margin-top: $spacing-unit / 2;
+    margin-bottom: $spacing-unit / 2;
+    font-size: 0.75em;
 
-  div {
-    margin-top: $spacing-unit / 4;
-    margin-bottom: $spacing-unit / 4;
+    div {
+      margin-top: $spacing-unit / 4;
+      margin-bottom: $spacing-unit / 4;
 
-    input,
-    select {
-      float: right;
+      input,
+      select {
+        float: right;
+      }
     }
   }
 }
