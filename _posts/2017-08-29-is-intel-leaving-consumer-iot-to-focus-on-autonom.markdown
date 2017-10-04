@@ -8,7 +8,6 @@ tags:
   - Transport
   - autonomous vehicles
   - consumer mobility as a service
-  - engagement
   - featured
   - Intel
   - self-driving vehicles

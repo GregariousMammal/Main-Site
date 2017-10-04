@@ -7,7 +7,6 @@ tags:
   - Transport
   - Cisco
   - connected car
-  - engagement
   - smart carpark
   - smart parking
   - smart valet

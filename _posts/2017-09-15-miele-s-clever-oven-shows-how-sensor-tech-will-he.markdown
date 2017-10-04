@@ -8,13 +8,13 @@ tags:
   - Smart Home
   - connected home
   - cooking
+  - engagement
   - IFA 2017
   - Miele
   - sensor tech
   - smart appliances
   - smart kitchen
   - smart oven
-  - Trending
 publication_url: "https://readwrite.com/2017/09/14/mieles-sensor-tech-heating-ovens-dl1/"
 layout: post
 image: Screen-Shot-2017-09-01-at-18.07.46-1024x627.jpg

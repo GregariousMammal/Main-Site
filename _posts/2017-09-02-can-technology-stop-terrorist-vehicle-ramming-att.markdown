@@ -13,7 +13,6 @@ tags:
   - connected cars
   - cyberattack
   - cybersecurity
-  - engagement
   - Internet of Things
   - IoT
   - terrorism

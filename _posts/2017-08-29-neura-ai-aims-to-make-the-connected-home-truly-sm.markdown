@@ -8,7 +8,6 @@ tags:
   - Connected Devices
   - Smart Home
   - connected home
-  - engagement
   - featured
   - Home Automation
   - Machine Learning

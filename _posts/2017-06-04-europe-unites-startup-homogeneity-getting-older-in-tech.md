@@ -9,7 +9,7 @@ image: europe-flags.jpg
 excerpt:
 ---
 
-In this episode Cate and Chris discuss European startups uniting, startup homogeneity and getting older in tech.
+In this episode Cate and Chris discuss European startups salesman uniting, startup homogeneity and getting older in tech.
 
 ## Links mentioned
 
