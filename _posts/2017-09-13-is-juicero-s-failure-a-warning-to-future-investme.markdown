@@ -19,7 +19,6 @@ tags:
   - MWCA17
   - Samsung
   - smart home
-  - top
 publication_url: "https://readwrite.com/2017/09/12/juiceros-failure-connected-products-dl1/"
 layout: post
 image: Screen-Shot-2016-03-29-at-12.49.14-PM.jpg

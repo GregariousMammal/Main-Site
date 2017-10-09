@@ -11,13 +11,13 @@ tags:
   - bone conduction
   - bragi
   - Cortana
+  - engagement
   - featured
   - Home Automation
   - robot helper
   - robots
   - smart headphones
   - top
-  - Trending
   - wearables
 publication_url: "https://readwrite.com/2017/09/21/amazons-alexa-wants-rule-your-world-dl1/"
 layout: post
