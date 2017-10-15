@@ -9,12 +9,10 @@ tags:
   - Wear
   - AR
   - Bixi
-  - featured
   - gesture control
   - industrial
   - kimenic
   - Myo
-  - top
   - Trending
   - VR
 publication_url: "https://readwrite.com/2017/10/05/gesture-control-moves-from-keyboards/"

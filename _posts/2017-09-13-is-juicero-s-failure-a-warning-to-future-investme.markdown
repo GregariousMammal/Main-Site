@@ -8,7 +8,6 @@ tags:
   - Smart Home
   - Bosch
   - connected home
-  - engagement
   - featured
   - hardware
   - IFA

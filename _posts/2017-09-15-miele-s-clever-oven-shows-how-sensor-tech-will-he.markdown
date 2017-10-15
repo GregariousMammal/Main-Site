@@ -8,7 +8,6 @@ tags:
   - Smart Home
   - connected home
   - cooking
-  - engagement
   - IFA 2017
   - Miele
   - sensor tech
