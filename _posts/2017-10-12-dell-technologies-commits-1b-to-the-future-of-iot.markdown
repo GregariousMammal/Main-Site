@@ -12,8 +12,9 @@ tags:
   - Edge
   - edge computing
   - Edico Genome
+  - engagement
+  - featured
   - IIoT
-  - Trending
 publication_url: "https://readwrite.com/2017/10/12/dell-commits-1b-future-iot/"
 layout: post
 image: IQT-and-Analyst-Summit-1005-1024x683.jpg

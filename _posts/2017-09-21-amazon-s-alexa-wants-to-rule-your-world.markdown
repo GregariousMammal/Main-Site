@@ -11,7 +11,6 @@ tags:
   - bone conduction
   - bragi
   - Cortana
-  - engagement
   - featured
   - Home Automation
   - robot helper

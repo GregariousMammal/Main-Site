@@ -10,11 +10,11 @@ tags:
   - Transport
   - connect stadium
   - data exchange
+  - engagement
   - open data
   - smart city
   - smart transport
   - Teradata
-  - Trending
 publication_url: "https://readwrite.com/2017/10/06/smart-data-exchange-smart-city/"
 layout: post
 image: 6867459602_433b288c79_z.jpg
