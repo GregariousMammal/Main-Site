@@ -9,7 +9,6 @@ tags:
   - Wear
   - AR
   - Bixi
-  - engagement
   - featured
   - gesture control
   - industrial

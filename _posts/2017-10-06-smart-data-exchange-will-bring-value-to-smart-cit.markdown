@@ -10,7 +10,6 @@ tags:
   - Transport
   - connect stadium
   - data exchange
-  - engagement
   - open data
   - smart city
   - smart transport

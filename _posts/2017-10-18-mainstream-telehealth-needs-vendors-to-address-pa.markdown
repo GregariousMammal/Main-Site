@@ -8,6 +8,7 @@ tags:
   - Health
   - Smart Home
   - consumer wearables
+  - engagement
   - featured
   - health wearables
   - K4connect
@@ -15,7 +16,6 @@ tags:
   - telehealth
   - telemedicine
   - top
-  - Trending
   - Tyto home
 publication_url: "https://readwrite.com/2017/10/18/mainstream-telehealth-needs-help/"
 layout: post
