@@ -4,12 +4,12 @@ layout: podcast
 categories: Both media podcast
 title: Coders are King
 date: "2017-11-16 14:16"
-podcast_embed:
+podcast_embed: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/356839418&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 image: king-chinchilla.png
 excerpt:
 ---
 
-In this episode Cate and Chris tackle some difficult topics such as the backlash against tech, does the status quo even want to change, diversity, the naivity of engineers and much more.
+In this episode Cate and Chris tackle some difficult topics such as the backlash against tech, does the status quo even want to change, diversity, the naivety of engineers and much more.
 
 ## Links
 
