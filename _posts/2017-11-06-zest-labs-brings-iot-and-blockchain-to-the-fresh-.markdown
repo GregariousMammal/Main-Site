@@ -7,9 +7,9 @@ tags:
   - Blockchain
   - Industrial
   - Agtech
+  - engagement
   - iot supply chain of trust
   - supply chain
-  - Trending
   - zest labs
 publication_url: "https://readwrite.com/2017/11/06/zest-blockchain-food-supply-chain/"
 layout: post

@@ -8,7 +8,6 @@ tags:
   - Health
   - Smart Home
   - consumer wearables
-  - engagement
   - featured
   - health wearables
   - K4connect
