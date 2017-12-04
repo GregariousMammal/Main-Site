@@ -7,8 +7,8 @@ tags:
   - Connected Devices
   - Amazon
   - connected security
+  - engagement
   - smart lock
-  - Trending
 publication_url: "https://readwrite.com/2017/11/11/1aim-connected-smarts-workplace-doors-beyond/"
 layout: post
 image: PM_1718_Bild_1.jpg
