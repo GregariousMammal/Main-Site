@@ -7,7 +7,6 @@ tags:
   - Blockchain
   - Industrial
   - Agtech
-  - engagement
   - iot supply chain of trust
   - supply chain
   - zest labs
