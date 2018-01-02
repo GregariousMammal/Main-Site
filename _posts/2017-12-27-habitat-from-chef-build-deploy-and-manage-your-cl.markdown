@@ -1,5 +1,5 @@
 ---
-title: "Habitat from Chef, Build, Deploy, and Manage Your Cloud Services"
+title: "Habitat from Chef: Build, Deploy, and Manage Your Cloud Services"
 created_at: 2017-12-27 06:01:03 UTC
 author: "Chris Ward"
 categories: Chris writing dzone
