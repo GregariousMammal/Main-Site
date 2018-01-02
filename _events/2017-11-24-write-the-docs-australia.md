@@ -6,7 +6,7 @@ title: Conversational UIs for Writers
 event: Write the Docs - Australia
 date: 2017-11-24T00:00:00.000Z
 venue: Meat Market, 5 Blackwood Street North Melbourne VIC 3051 Australia
-pres_source:
+pres_source: <iframe width="560" height="315" src="https://www.youtube.com/embed/_WECIeLBqu8" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 pres_url: http://www.writethedocs.org/conf/au/2017/
 ---
 

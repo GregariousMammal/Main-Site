@@ -6,7 +6,7 @@ title: Are we all doomed and what can we do about it?
 event: Voxxed Days Belgrade
 date: 2017-10-19T00:00:00.000Z
 venue: Belexpocenter, Španskih boraca 74
-pres_source:
+pres_source: <iframe width="560" height="315" src="https://www.youtube.com/embed/HYoVkDbqCpk" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 pres_url: 'https://belgrade.voxxeddays.com/speakers/chris-ward'
 ---
 
