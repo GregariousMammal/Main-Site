@@ -24,7 +24,7 @@ collections:
       - {label: "Categories", name: "categories", widget: "string"}
       - {label: "Tags", name: "tags", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Publication URL", name: "publication_url", widget: "string"}
+      - {label: "Publication URL", name: "publication_url", widget: "string", required: false}
   - name: "clients" # Used in routes, e.g. /admin/collections/blog
     label: "Clients" # Used in the UI
     folder: "_clients" # The path to the folder where the documents are stored
