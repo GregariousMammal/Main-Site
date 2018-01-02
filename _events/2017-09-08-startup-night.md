@@ -9,5 +9,4 @@ venue: Various venues, Berlin
 image:
 pres_source: null
 pres_url: https://www.startupnight.net/
-categories: Both
 ---

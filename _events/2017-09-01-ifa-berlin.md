@@ -9,5 +9,4 @@ venue: Messe, Berlin
 image:
 pres_source: null
 pres_url: http://b2b.ifa-berlin.com/
-categories: Both
 ---
