@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: GregariousMammal/Main-Site # Path to your Github repository
-  branch: feature/cms # Branch to update
+  branch: master # Branch to update
 
 publish_mode: editorial_workflow
 media_folder: "images" # Media files will be stored in the repo under images/uploads
