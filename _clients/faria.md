@@ -1,6 +1,5 @@
 ---
 type: marketing
-
 title: Faria Education Group
 company_url: 'https://www.fariaedu.com/'
 image: work/faria.jpeg
