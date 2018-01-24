@@ -1,9 +1,9 @@
 ---
-title: "CES: A Home for the Weird and Wonderful"
+title: "CES - A Home for the Weird and Wonderful"
 created_at: 2018-01-16 10:02:00 UTC
 author: "Cate Lawrence"
 categories: Cate writing dzone
-tags: 
+tags:
   - connected devices
   - wearables
   - sensor tech

@@ -1,9 +1,9 @@
 ---
-title: "Blockwatch: Berlin Blockchain Day Panel [Podcast]"
+title: "Blockwatch - Berlin Blockchain Day Panel [Podcast]"
 created_at: 2017-12-31 06:01:02 UTC
 author: "Chris Ward"
 categories: Chris writing dzone
-tags: 
+tags:
   - blockchain
   - ethereum
   - smart contracts
