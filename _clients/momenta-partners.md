@@ -1,7 +1,7 @@
 ---
 type: marketing
 title: Momenta Partners
-image: work/momenta_transp.png
+image: images/work/momenta_transp.png
 category: clients
 tags: IIoT IoT
 company_url: 'https://www.momenta.partners/iot-venture-capital'
