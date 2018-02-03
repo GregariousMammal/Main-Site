@@ -2,7 +2,7 @@
 type: documentation
 title: Event Store
 company_url: 'https://eventstore.org'
-image: work/event-store.png
+image: event-store.png
 category: Chris writing
 start_date: 2017
 end_date: ongoing

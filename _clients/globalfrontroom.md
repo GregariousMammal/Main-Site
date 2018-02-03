@@ -3,7 +3,7 @@ type: marketing
 
 title: Global Front Room
 company_url: 'https://globalfrontroom.com'
-image: work/gfr.jpg
+image: gfr.jpg
 category: Cate marketing
 start_date: 2017
 end_date: ongoing

@@ -1,7 +1,7 @@
 ---
 type: blogging
 title: AB-CHAIN
-image: work/abdownload.png
+image: abdownload.png
 category: clients
 tags: cryptocurrency marketing
 company_url: 'https://ab-chain.com/'

@@ -3,7 +3,7 @@ type: marketing
 
 title: ReadWrite
 company_url: 'http://readwrite.com'
-image: work/readwrite.jpg
+image: readwrite.jpg
 category: Cate writing
 start_date: 2015
 end_date: ongoing

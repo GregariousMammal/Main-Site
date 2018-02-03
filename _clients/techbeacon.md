@@ -3,7 +3,7 @@ type: blogging
 
 title: Tech Beacon
 company_url: 'https://techbeacon.com'
-image: work/techbeacon.png
+image: techbeacon.png
 category: Chris writing
 start_date: 2017
 end_date: ongoing

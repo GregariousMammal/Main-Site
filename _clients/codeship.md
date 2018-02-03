@@ -2,7 +2,7 @@
 type: blogging
 title: CodeShip
 company_url: 'https://blog.codeship.com/'
-image: work/codeship.png
+image: codeship.png
 category: Chris writing
 start_date: 2016
 end_date: ongoing

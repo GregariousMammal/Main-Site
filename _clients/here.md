@@ -3,7 +3,7 @@ type: documentation
 
 title: here
 company_url: 'https://here.com/'
-image: work/here.png
+image: here.png
 category: Chris writing
 start_date: 2017
 end_date: ongoing

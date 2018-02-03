@@ -3,7 +3,7 @@ type: blogging
 layout: work
 title: Cult of Mac
 company_url: 'http://www.cultofmac.com/'
-image: work/cultofmac.jpg
+image: cultofmac.jpg
 category: Chris writing
 start_date: 2017
 end_date: ongoing

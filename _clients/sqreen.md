@@ -3,7 +3,7 @@ type: blogging
 
 title: Sqreen
 company_url: 'https://www.sqreen.io/'
-image: work/sqreen.png
+image: sqreen.png
 category: Chris writing
 start_date: 2017
 end_date: ongoing

@@ -2,7 +2,7 @@
 type: blogging
 title: Coralogix
 company_url: 'https://coralogix.com/category/Log-analytics-blog/'
-image: work/coralogix.png
+image: coralogix.png
 category: Chris writing
 start_date: 2017
 end_date: ongoing
