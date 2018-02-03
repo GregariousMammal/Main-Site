@@ -1,9 +1,9 @@
 ---
-title: "How To Size Your Apache Flink® Cluster - A Back-of-the-Envelope Calculation"
+title: "How To Size Your Apache Flink® Cluster- A Back-of-the-Envelope Calculation"
 created_at: 2018-01-11 14:13:50 UTC
 author: "Chris Ward"
 categories: Chris writing dataartisans
-tags:
+tags: 
   - Resources
   - capacity planning
   - cluster sizing

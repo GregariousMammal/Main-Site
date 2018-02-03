@@ -1,5 +1,5 @@
 ---
-title: "Blockwatch: Cryptogovernment and Blockchain Marketing"
+title: "Blockwatch- Cryptogovernment and Blockchain Marketing"
 created_at: 2017-09-28 05:01:56 UTC
 author: "Chris Ward"
 categories: Chris writing dzone

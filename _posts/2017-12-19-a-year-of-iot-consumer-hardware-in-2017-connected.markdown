@@ -1,5 +1,5 @@
 ---
-title: "A Year of IoT Consumer Hardware in 2017: Connected Failures, Hacking, and..."
+title: "A Year of IoT Consumer Hardware in 2017- Connected Failures, Hacking, and..."
 created_at: 2017-12-19 06:02:25 UTC
 author: "Cate Lawrence"
 categories: Cate writing dzone

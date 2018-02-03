@@ -1,5 +1,5 @@
 ---
-title: "Ukraine: The Silicon Valley of IoT Hardware?"
+title: "Ukraine- The Silicon Valley of IoT Hardware?"
 created_at: 2017-10-23 05:01:01 UTC
 author: "Cate Lawrence"
 categories: Cate writing dzone

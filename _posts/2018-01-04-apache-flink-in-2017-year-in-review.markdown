@@ -1,9 +1,9 @@
 ---
-title: "Apache Flink in 2017 - Year in Review"
+title: "Apache Flink in 2017- Year in Review"
 created_at: 2018-01-04 15:39:08 UTC
 author: "Chris Ward"
 categories: Chris writing dataartisans
-tags:
+tags: 
   - Flink Community
   - Flink Features
   - apache flink
