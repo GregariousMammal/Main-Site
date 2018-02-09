@@ -1,5 +1,5 @@
 ---
-title: "Otto- The Next Generation of Vagrant"
+title: "Otto - The Next Generation of Vagrant"
 created_at: 2016-06-22 15:15:53 UTC
 author: "Chris Ward"
 categories: Chris writing codeship
