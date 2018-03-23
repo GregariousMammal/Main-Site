@@ -11,7 +11,7 @@ tags:
   - Google
   - The Internet
   - Fuchsia
-podcast_embed: <iframe src="https://anchor.fm/gregarious-mammal/embed/episodes/SWSW--social-credit--and-the-right-to-be-forgotten-e175p0" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+podcast_embed: <iframe src="https://anchor.fm/gregarious-mammal/embed/episodes/SWSW--social-credit--and-the-right-to-be-forgotten-e17n4v" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 ---
 
 In our latest episode, Chris reports back from SXSW and we talk about interesting articles from the week including the creation of the internet, China's efforts at social credit, the 'right to be forgotten' and more.
