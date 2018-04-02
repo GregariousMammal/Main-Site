@@ -21,6 +21,7 @@ Chris and Cate attend [Mobile World Congress 2018](https://www.mobileworldcongre
 -   [Italtel](http://www.italtel.com)
 -   [SailFish OS](https://www.engadget.com/2018/03/01/jolla-sailfish-os-team-interview-mwc/)
 -   [Waverly Labs](https://waverlylabs.com)
+- [PoLTE](https://polte.com)
 
 ### LG AI Cam
 

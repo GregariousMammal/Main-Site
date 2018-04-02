@@ -1,5 +1,5 @@
 ---
-title: "SXSW (Part 2)- Fixing Tech, AI, and Startups"
+title: "SXSW Part 2- Fixing Tech, AI, and Startups"
 created_at: 2018-03-24 05:01:50 UTC
 author: "Chris Ward"
 categories: Chris writing dzone
