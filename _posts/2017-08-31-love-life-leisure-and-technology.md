@@ -4,9 +4,15 @@ layout: podcast
 categories: Both media podcast
 title: Love, life, leisure and technology
 date: 2017-08-31
-podcast_embed: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/340271156&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+podcast_embed: <iframe src="https://anchor.fm/gregarious-mammal/embed/episodes/Love--life--leisure-and-technology-e14p6m/a-a2io9o" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 image: 3108podcast.jpg
-excerpt:
+tags:
+ - Journalism
+ - Robots
+ - Music
+ - Ethics
+ - Apple
+ - Estonia
 ---
 
 This week Cate and Chris discuss the intersections of journalism, immortality, music, romance and government with technology.

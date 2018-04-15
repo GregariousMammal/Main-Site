@@ -4,9 +4,12 @@ layout: podcast
 categories: Chris media podcast
 title: The Ukrainian Startup scene with Anastasia Sleptsova
 date: "2017-11-01 14:16"
-podcast_embed: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/349241579&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+podcast_embed: <iframe src="https://anchor.fm/gregarious-mammal/embed/episodes/The-Ukrainian-Startup-scene-with-Anastasia-Sleptsova-e14p6b" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 image: sleptsova.png
-excerpt:
+tags:
+  - Ukraine
+  - Startups
+  - Eastern Europe
 ---
 
 As part of a forthcoming article on the Ukrainian tech/startup scene, I interview Anastasia Sleptsova Head of Ecosystem Partnerships at UNIT.City.

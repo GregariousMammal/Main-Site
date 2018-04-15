@@ -6,7 +6,7 @@ title: CES 2018 - The woeful and the wonderful
 date: 2018-01-15T08:54:30.979Z
 image: scout_future_front_2_a34c54c1-96cc-4399-b48a-18f10088a8e2_1024x1024.jpg
 tags: CES IoT events conference
-podcast_embed: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/383955236&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+podcast_embed: <iframe src="https://anchor.fm/gregarious-mammal/embed/episodes/CES-2018---The-woeful-and-the-wonderful-e14p60" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 ---
 
 In this episode Cate and Chris tackle CES, a crazy show of more than 4,500 exhibitors spread over 11 official venues. It's an exercise in stamina as you traverse the crowds trying to find the gems among the generic. There's a lot more 'nice to have' than 'need it now' devices. But every year a few things stand out, but not always for the right reasons.

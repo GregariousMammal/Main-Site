@@ -12,15 +12,18 @@ blogs:
     twitter: "poteland"
     categories: "Cate writing readwrite"
     tags: "test rss feed"
+    layout: post
   - author: "Chris Ward"
     feed:   "https://blog.codeship.com/author/chrisward/feed/"
     image:  "http://www.rss-specifications.com/rss-spec-rss.gif"
     twitter: "poteland"
     categories: "Chris writing codeship"
     tags: "test rss feed"
+    layout: post
   - author: "Chris Ward"
     feed:   "https://data-artisans.com/blog/author/chris/feed"
     image:  "http://www.rss-specifications.com/rss-spec-rss.gif"
     twitter: "poteland"
     categories: "Chris writing dataartisans"
     tags: "test rss feed"
+    layout: post

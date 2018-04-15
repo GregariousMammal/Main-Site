@@ -9,7 +9,7 @@ tags:
   - Big Data
   - Public Transport
   - Streaming
-podcast_embed: <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/398184612&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+podcast_embed: <iframe src="https://anchor.fm/gregarious-mammal/embed/episodes/The-Big-Data-Bikocalypse-e14p5s" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 ---
 
 In this episode Cate and Chris discuss the birthday of open source, big data, transportation and how to conduct yourself at networking events.

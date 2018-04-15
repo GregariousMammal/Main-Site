@@ -4,9 +4,12 @@ layout: podcast
 categories: Chris media podcast
 title: What can musicians and programmers learn from each other? A conversation with Ryan Blunden
 date: "2017-11-07 14:16"
-podcast_embed: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/352291832&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+podcast_embed: <iframe src="https://anchor.fm/gregarious-mammal/embed/episodes/What-can-musicians-and-programmers-learn-from-each-other--A-conversation-with-Ryan-Blunden-e14p6a/a-a2io9c" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 image: ryan-blunden.jpeg
-excerpt:
+tags:
+  - Coding
+  - Music
+  - Developement
 ---
 
 Chris speaks with Ryan Blunden about what programmers and musicians can learn from each other, the affects of music on coding, what genres might be what programming language, computer generated music and much more.

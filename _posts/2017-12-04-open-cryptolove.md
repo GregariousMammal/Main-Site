@@ -4,7 +4,7 @@ layout: podcast
 categories: Both media podcast
 title: Love in the time of artificial intelligence
 date: "2017-12-04 14:16"
-podcast_embed: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/364670342&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+podcast_embed: <iframe src="https://anchor.fm/gregarious-mammal/embed/episodes/Love-in-the-time-of-artificial-intelligence-e14p66/a-a2io99" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 image: open-cryptolove.jpg
 excerpt:
 ---

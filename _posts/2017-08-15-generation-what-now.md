@@ -4,9 +4,12 @@ layout: podcast
 categories: Both media podcast
 title: Generation what now?
 date: 2017-08-15
-podcast_embed: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/337941405&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+podcast_embed: <iframe src="https://anchor.fm/gregarious-mammal/embed/episodes/Generation-what-now-e14p6q/a-a2io9r" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 image: new-logos.jpg
-excerpt:
+tags:
+  - WannaCry
+  - Smartphones
+  - Documentation
 ---
 
 This week Cate and Chris discuss how smart phones are destroying a generation, cybersecurity, documentation, tech diversity and more.

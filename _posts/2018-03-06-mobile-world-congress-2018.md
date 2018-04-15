@@ -6,7 +6,7 @@ title: Mobile World Congress 2018
 date: 2018-03-06T15:11:45.346Z
 image: 6f9a1781-ed.jpg
 tags: Event MWC Mobile IoT Networks 5G 4G
-podcast_embed: <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/409386378&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+podcast_embed: <iframe src="https://anchor.fm/gregarious-mammal/embed/episodes/Mobile-World-Congress-2018-e16nk5" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 ---
 
 Chris and Cate attend [Mobile World Congress 2018](https://www.mobileworldcongress.com/) in Barcelona along with side events. Whilst battling crowds, rain and snow, we interviewed stallholders and attendees as well as writing articles about the least news and tech. 5G was hot, competing standards and copy cat technology all make their presence known.

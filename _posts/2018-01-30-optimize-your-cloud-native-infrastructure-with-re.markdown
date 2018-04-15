@@ -1,9 +1,9 @@
 ---
-title: "Optimize Your Cloud Native Infrastructure with Replex.Io [Audio..."
+title: "Optimize Your Cloud Native Infrastructure with Replex.Io"
 created_at: 2018-01-30 21:01:01 UTC
 author: "Chris Ward"
 categories: Chris writing dzone
-tags: 
+tags:
   - cloud
   - cloud native
   - devops

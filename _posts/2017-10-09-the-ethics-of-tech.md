@@ -4,9 +4,12 @@ layout: podcast
 categories: Both media podcast
 title: "The Ethics of Tech"
 date: "2017-10-10 14:16"
-podcast_embed: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/346245437&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
+podcast_embed: <iframe src="https://anchor.fm/gregarious-mammal/embed/episodes/The-Ethics-of-Tech-e14p6e" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 image: 1010-podcast.jpg
-excerpt:
+tags:
+  - Ethics
+  - Tech
+  - Developers
 ---
 
 This week Cate and Chris discuss smarter ways to hire developers, ethics in tech and more.
