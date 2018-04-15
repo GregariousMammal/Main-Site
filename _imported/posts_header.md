@@ -5,5 +5,4 @@ author: "{{ author }}"
 categories: {{ blog_categories }}
 tags: {{ post_tags }}
 image: {{ image }}
-publication_url: {{ publication_url }}
 ---
