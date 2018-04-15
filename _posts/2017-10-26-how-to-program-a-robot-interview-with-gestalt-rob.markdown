@@ -1,10 +1,12 @@
 ---
 title: "How to program a robot - Interview with Gestalt Robotocs"
+kind: podcast
 created_at: 2017-10-26 06:17:27 UTC
 author: ""
 categories: Both media podcast
 tags: 
-image: KzbyVqNIdfGp3cQJ0rD71t8h9eiPdGxJ.jpg
+orig_url: https://anchor.fm/gregarious-mammal
+layout: podcast
 ---
 Robots are appearing everywhere in our lives and workplaces, but how does a developer actually program one?
 

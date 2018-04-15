@@ -6,16 +6,8 @@ categories: Chris writing codeship
 tags: 
   - Development
 publication_url: "https://blog.codeship.com/docker-trusted-registry/"
-layout: post
 image: trusted_reg_ov.png
+layout: post
 ---
 Many of us start our Docker journey pulling images from the Docker Hub with the time-honored docker pull command.
 
-
-{::options parse_block_html="true" /}
-<div class="author">
-   <img src="http://www.rss-specifications.com/rss-spec-rss.gif" style="width: 96px; height: 96;">
-   <span style="position: absolute; padding: 32px 15px;">{% comment %}Remark that post_url refers to the *original* post url, not Jekyll's post_url variable. Moreover, planet.rb preprocesses the substitutions with Mustache.{% endcomment %}
-      <i>{% if "https://blog.codeship.com/docker-trusted-registry/" != "" %}<a href="https://blog.codeship.com/docker-trusted-registry/">Original post</a>{% else %}Original post{% endif %} by {% if "http://twitter.com/poteland" != "" %}<a href="http://twitter.com/poteland">Chris Ward</a>{% else %}Chris Ward{% endif %} &mdash; check out <a href="https://blog.codeship.com">Chris Ward – via @codeship</a>.</i>
-  </span>
-</div>

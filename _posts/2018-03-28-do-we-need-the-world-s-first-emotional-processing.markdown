@@ -9,16 +9,8 @@ tags:
   - gpu
   - machine learning
 publication_url: "https://dzone.com/articles/do-we-need-the-worlds-first-emotional-processing-u"
-layout: post
 image: 8606605.jpeg
+layout: post
 ---
 Emoshape has created what they call the first emotional processing unit (EPU) dedicated to understanding and putting a value on human emotions.
 
-
-{::options parse_block_html="true" /}
-<div class="author">
-   <img src="http://www.rss-specifications.com/rss-spec-rss.gif" style="width: 96px; height: 96;">
-   <span style="position: absolute; padding: 32px 15px;">{% comment %}Remark that post_url refers to the *original* post url, not Jekyll's post_url variable. Moreover, planet.rb preprocesses the substitutions with Mustache.{% endcomment %}
-      <i>{% if "https://dzone.com/articles/do-we-need-the-worlds-first-emotional-processing-u" != "" %}<a href="https://dzone.com/articles/do-we-need-the-worlds-first-emotional-processing-u">Original post</a>{% else %}Original post{% endif %} by {% if "http://twitter.com/poteland" != "" %}<a href="http://twitter.com/poteland">Chris Ward</a>{% else %}Chris Ward{% endif %} &mdash; check out <a href="https://dzone.com">Dzone</a>.</i>
-  </span>
-</div>

@@ -10,16 +10,8 @@ tags:
   - markdown
   - integration
 publication_url: "https://dzone.com/articles/customizing-visual-studio-code-for-writing"
-layout: post
 image: 8660654.jpeg
+layout: post
 ---
 Are you a technical writer or dev who needs to create documentation around your project? Check out these extensions you can integrate into VS Code that can help.
 
-
-{::options parse_block_html="true" /}
-<div class="author">
-   <img src="http://www.rss-specifications.com/rss-spec-rss.gif" style="width: 96px; height: 96;">
-   <span style="position: absolute; padding: 32px 15px;">{% comment %}Remark that post_url refers to the *original* post url, not Jekyll's post_url variable. Moreover, planet.rb preprocesses the substitutions with Mustache.{% endcomment %}
-      <i>{% if "https://dzone.com/articles/customizing-visual-studio-code-for-writing" != "" %}<a href="https://dzone.com/articles/customizing-visual-studio-code-for-writing">Original post</a>{% else %}Original post{% endif %} by {% if "http://twitter.com/poteland" != "" %}<a href="http://twitter.com/poteland">Chris Ward</a>{% else %}Chris Ward{% endif %} &mdash; check out <a href="https://dzone.com">Dzone</a>.</i>
-  </span>
-</div>

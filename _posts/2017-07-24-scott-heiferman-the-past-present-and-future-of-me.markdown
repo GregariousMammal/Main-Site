@@ -1,10 +1,12 @@
 ---
 title: "Scott Heiferman - The past, present and future of meeting people with meetup founder"
+kind: podcast
 created_at: 2017-07-24 06:20:00 UTC
 author: ""
 categories: Both media podcast
 tags: 
-image: 2jDlWwlICSzDHvmmPMoNrf6i1wTB8yzo.jpg
+orig_url: https://anchor.fm/gregarious-mammal
+layout: podcast
 ---
 There's a high chance that if you have attended an event in a city in recent years, it was arranged through meetup.com. The site now has over 32 million members, over a quarter of a million meetup groups and over half a million meetups happening in 182 countries every month.
 
