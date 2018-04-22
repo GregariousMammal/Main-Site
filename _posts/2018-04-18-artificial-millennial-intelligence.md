@@ -1,7 +1,7 @@
 ---
 title: 'Artificial Millenial Intelligence'
 date: '2018-04-18T19:16:18+02:00'
-image: /images/robotjob.jpg
+image: robotjob.jpg
 type: podcast
 layout: podcast
 categories: Both media podcast
@@ -14,7 +14,7 @@ tags:
   - Games
   - Smart Cities
   - IoT
-podcast_embed:
+podcast_embed: <iframe src="https://anchor.fm/gregarious-mammal/embed/episodes/Artificial-Millennial-Intelligence-e1b84i/a-a333og" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
 ---
 
 In this episode, Cate and Chris talk about AI and the human machine era, the end of the 8 hour work day, when crypto conferences go wrong and more…
