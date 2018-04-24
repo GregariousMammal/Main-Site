@@ -15,4 +15,4 @@ I wrote the revised second edition of [this SitePoint book](https://www.sitepoin
 
 ## Automate DevOps with Otto
 
-I was the technical reviewer for this Packt title on Otto, cancelled due to Hashicorp cancelling the technology.
+I was the technical reviewer for this Packt title on Otto, canceled due to Hashicorp canceling the technology.
