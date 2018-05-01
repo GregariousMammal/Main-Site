@@ -4,7 +4,8 @@ kind: podcast
 created_at: 2018-04-26 14:00:00 UTC
 author: ""
 categories: Both media podcast
-tags: 
+tags:
+image: zilliqa.jpg
 orig_url: https://anchor.fm/gregarious-mammal
 layout: podcast
 ---
