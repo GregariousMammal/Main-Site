@@ -1,5 +1,5 @@
 ---
-type: press
+action: to sp about
 layout: event
 categories: Chris
 title: Removing Berlin from audio

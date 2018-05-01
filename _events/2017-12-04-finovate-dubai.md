@@ -1,5 +1,5 @@
 ---
-type: press
+action: to hear about
 layout: event
 categories: Chris
 title: Tell me what you're working on

@@ -1,8 +1,7 @@
 ---
-type: presentation
+action: to speak about
 layout: event
 categories: Chris
-
 title: Explaining Complex Topics
 event: Developer Week Community Night 2017, Nürnberg
 date: 2017-06-27T19:30:00.000Z

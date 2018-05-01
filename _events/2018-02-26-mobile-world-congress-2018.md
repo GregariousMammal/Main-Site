@@ -1,8 +1,8 @@
 ---
-type: press
+action: to hear about
 layout: event
 categories: Both
-title: To hear your ideas and projects
+title: your ideas and projects
 event: Mobile World Congress
 venue: Fira Gran Via
 pres_url: 'https://www.mobileworldcongress.com'

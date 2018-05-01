@@ -1,5 +1,5 @@
 ---
-type: presentation
+action: to speak about
 layout: event
 categories: Chris
 title: Are we all doomed and what can we do about it?

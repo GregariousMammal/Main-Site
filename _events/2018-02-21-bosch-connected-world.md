@@ -1,6 +1,6 @@
 ---
-type: press
-title: Bosch Connected World
+action: to hear
+title: your talks and ideas
 event: Bosch Connected World
 venue: 'Station, Berlin'
 categories: Cate

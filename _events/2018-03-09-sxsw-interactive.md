@@ -1,8 +1,8 @@
 ---
-type: press
+action: to hear about
 layout: event
 categories: Chris
-title: To hear your ideas and projects
+title: your ideas and projects
 event: SXSW Interactive
 venue: Austin, Texas
 pres_url: https://www.sxsw.com/festivals/interactive/

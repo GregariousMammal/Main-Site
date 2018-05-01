@@ -1,8 +1,8 @@
 ---
-type: press
+action: to apear on
 layout: event
 categories: Chris
-title: Appearing on a panel dicussing trends and highlights from IFA
+title: a panel discussing trends and highlights from IFA
 event: IXDS IFA Pre-Work talk, Munich
 date: 2017-09-21
 venue: IXDS Munich, Ganghoferstraße 68b, 80339 München

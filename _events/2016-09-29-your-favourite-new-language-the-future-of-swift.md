@@ -1,5 +1,5 @@
 ---
-type: presentation
+action: to speak about
 layout: event
 categories: Chris
 title: Your Favourite New Language - The Future of Swift

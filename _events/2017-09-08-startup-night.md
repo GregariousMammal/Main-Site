@@ -1,8 +1,8 @@
 ---
-type: press
+action: to hear about
 layout: event
 categories: Both
-title: To hear about your ideas and projects
+title: your ideas and projects
 event: Startup Night
 date: 2017-09-08T17:00:00.000Z
 venue: Various venues, Berlin

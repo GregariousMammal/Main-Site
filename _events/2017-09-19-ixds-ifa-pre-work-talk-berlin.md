@@ -1,8 +1,8 @@
 ---
-type: press
+action: to apear on
 layout: event
 categories: Chris
-title: Appearing on a panel dicussing trends and highlights from IFA
+title: a panel discussing trends and highlights from IFA
 event: IXDS IFA Pre-Work talk, Berlin
 date: 2017-09-19
 venue: IXDS Berlin, Paul-Lincke-Ufer 39-40, 10999

@@ -1,8 +1,8 @@
 ---
-type: attending
+action: to hear
 layout: event
 categories: Chris
-title:
+title: your talks
 event: Write the Docs US
 date: 2018-05-06T00:00:00.000Z
 venue: The Crystal Ballroom, 1332 W. Burnside, Portland OR 97209

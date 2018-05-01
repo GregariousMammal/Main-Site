@@ -1,5 +1,5 @@
 ---
-type: presentation
+action: to speak about
 layout: event
 categories: Chris
 event: Literally Speaking - Dead of Winter

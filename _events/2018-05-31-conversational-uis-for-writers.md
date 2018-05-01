@@ -1,5 +1,5 @@
 ---
-type: speaking
+action: to speak about
 layout: event
 categories: Chris
 title: Conversational UIs for Writers
