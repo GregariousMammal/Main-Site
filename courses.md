@@ -9,7 +9,7 @@ As a passionate technology educator, I have contributed to writing programming c
 
 ## CSS in Depth
 
-I am working on a video course to accompany [this forthcoming release](https://www.manning.com/books/css-in-depth) from Manning.
+I created a video course to accompany [this book release](https://www.manning.com/books/css-in-depth) from Manning. Find the course [here](https://www.manning.com/livevideo/css-in-depth-in-motion).
 
 ## Become an iOS Developer With Swift
 
