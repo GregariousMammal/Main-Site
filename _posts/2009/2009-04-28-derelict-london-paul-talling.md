@@ -12,4 +12,4 @@ My own connections aside this is a great little book of fascinating images of ab
 
 The descriptions accompanying each photo give an insight into the mind of the author, full of references to London football teams and amusing anecdotes to reveal a side of London that you either didn't know about or much like the subjects, had forgotten about.
 
-[www.derelictlondon.com](http://www.derelictlondon.com)
+[www.derelictlondon.com](https://www.derelictlondon.com)

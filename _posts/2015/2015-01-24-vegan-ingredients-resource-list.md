@@ -4,7 +4,7 @@ title: Vegan ingredients resource list
 date: 2015-01-24T14:33:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/01/vegan-ingredients-resource-list.html
+guid: https://atravellingcook.com/2015/01/vegan-ingredients-resource-list.html
 permalink: /2015/01/vegan-ingredients-resource-list.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -55,7 +55,7 @@ For convenience I use the terms cheese, butter and egg. There are loads of diffe
 
 
 
-  <span style="color: #343435; font-family: Arial, Helvetica, sans-serif;">Dairy free butter is readily available in most supermarkets. It should not be confused with margarine which has whey and casein. A true dairy free butter is made from plant oils such as canola, olive and coconut oil. <a href="http://www.nuttelex.com.au/"><i>Nuttlex</i> </a>is readily available in Australia and <a href="http://www.alsan.de/"><i>Alsan S</i></a> in Europe. 
+  <span style="color: #343435; font-family: Arial, Helvetica, sans-serif;">Dairy free butter is readily available in most supermarkets. It should not be confused with margarine which has whey and casein. A true dairy free butter is made from plant oils such as canola, olive and coconut oil. <a href="https://www.nuttelex.com.au/"><i>Nuttlex</i> </a>is readily available in Australia and <a href="https://www.alsan.de/"><i>Alsan S</i></a> in Europe. 
 
 
 
@@ -67,7 +67,7 @@ For convenience I use the terms cheese, butter and egg. There are loads of diffe
 
 
 
-  <span style="color: #343435; font-family: Arial, Helvetica, sans-serif;">Dairy free cheese have undergone amazing growth and innovation in the last ten years. You can choose from tofu, nut and coconut oil based cheeses. It&#8217;s worth reading the labels though because at least one tofu cheese in Australia contains rennet (an enzyme produced in the stomach of mammals).  You can also of course, make your own. <i><a href="http://www.violife.gr/">Violife</a></i> is probably the most popular cheese of late that is widely available in Australia and Europe. 
+  <span style="color: #343435; font-family: Arial, Helvetica, sans-serif;">Dairy free cheese have undergone amazing growth and innovation in the last ten years. You can choose from tofu, nut and coconut oil based cheeses. It&#8217;s worth reading the labels though because at least one tofu cheese in Australia contains rennet (an enzyme produced in the stomach of mammals).  You can also of course, make your own. <i><a href="https://www.violife.gr/">Violife</a></i> is probably the most popular cheese of late that is widely available in Australia and Europe. 
 
 
 
@@ -99,7 +99,7 @@ For convenience I use the terms cheese, butter and egg. There are loads of diffe
 
 
 
-  <a  href="http://1.bp.blogspot.com/-Brt6G-zI14Q/VMOeni2_WwI/AAAAAAAAKgE/Yt99wguuCUI/s1600/10324.jpg"><img src="http://1.bp.blogspot.com/-Brt6G-zI14Q/VMOeni2_WwI/AAAAAAAAKgE/Yt99wguuCUI/s1600/10324.jpg" alt="" width="238" height="320" border="0" /></a>
+  <a  href="https://1.bp.blogspot.com/-Brt6G-zI14Q/VMOeni2_WwI/AAAAAAAAKgE/Yt99wguuCUI/s1600/10324.jpg"><img src="https://1.bp.blogspot.com/-Brt6G-zI14Q/VMOeni2_WwI/AAAAAAAAKgE/Yt99wguuCUI/s1600/10324.jpg" alt="" width="238" height="320" border="0" /></a>
 
 
 
@@ -111,7 +111,7 @@ For convenience I use the terms cheese, butter and egg. There are loads of diffe
 
 
 
-  <span style="color: #343435;"> Egg replacer is made from a variety of raising ingredient like potato flour and corn flour. It can be used as an alternative to eggs in pancakes, cake, biscuits, burgers etc. <span style="background-color: white; color: #515151; line-height: 23px;">Powdered egg replacers cannot be used to create egg recipes such as scrambles or omelets. (Tofu and also Chickpea flour work well though, stay tuned for a future recipe!). <br /> <span style="background-color: white; color: #515151; line-height: 23px;"><br /> <span style="background-color: white; color: #515151; line-height: 23px;">I&#8217;ve bought Australian company <a href="http://www.orgran.com/products/174/"><i>Organ&#8217;s</i></a> egg replacer in Australia, England and Europe. 
+  <span style="color: #343435;"> Egg replacer is made from a variety of raising ingredient like potato flour and corn flour. It can be used as an alternative to eggs in pancakes, cake, biscuits, burgers etc. <span style="background-color: white; color: #515151; line-height: 23px;">Powdered egg replacers cannot be used to create egg recipes such as scrambles or omelets. (Tofu and also Chickpea flour work well though, stay tuned for a future recipe!). <br /> <span style="background-color: white; color: #515151; line-height: 23px;"><br /> <span style="background-color: white; color: #515151; line-height: 23px;">I&#8217;ve bought Australian company <a href="https://www.orgran.com/products/174/"><i>Organ&#8217;s</i></a> egg replacer in Australia, England and Europe. 
 
 
 
@@ -123,14 +123,14 @@ For convenience I use the terms cheese, butter and egg. There are loads of diffe
 
 
 
-  <span style="background-color: white; color: #252525; line-height: 22.3999996185303px;">Golden syrup<span style="background-color: white; color: #252525; line-height: 22.3999996185303px;"> is a thick, amber-coloured form of <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Inverted sugar syrup" href="http://en.wikipedia.org/wiki/Inverted_sugar_syrup">inverted sugar syrup</a><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;">, made in the process of refining <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Sugar cane" href="http://en.wikipedia.org/wiki/Sugar_cane">sugar cane</a><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;"> or <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Sugar beet" href="http://en.wikipedia.org/wiki/Sugar_beet">sugar beet</a><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;"> juice into <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Sugar" href="http://en.wikipedia.org/wiki/Sugar">sugar</a><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;">, or by treatment of a sugar solution with acid. It is used in a variety of baking recipes and desserts. It has an appearance similar to <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Honey" href="http://en.wikipedia.org/wiki/Honey">honey</a><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;">, and is often used as a substitute by people who do not eat corn syrup. Some people make their own but I&#8217;ve never tried it. It&#8217;s easily found in Australia and the UK and in some international shops in Europe. Agave and maple syrups work well as substitutes but treacle should be avoided due to it&#8217;s overpowering taste. 
+  <span style="background-color: white; color: #252525; line-height: 22.3999996185303px;">Golden syrup<span style="background-color: white; color: #252525; line-height: 22.3999996185303px;"> is a thick, amber-coloured form of <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Inverted sugar syrup" href="https://en.wikipedia.org/wiki/Inverted_sugar_syrup">inverted sugar syrup</a><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;">, made in the process of refining <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Sugar cane" href="https://en.wikipedia.org/wiki/Sugar_cane">sugar cane</a><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;"> or <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Sugar beet" href="https://en.wikipedia.org/wiki/Sugar_beet">sugar beet</a><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;"> juice into <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Sugar" href="https://en.wikipedia.org/wiki/Sugar">sugar</a><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;">, or by treatment of a sugar solution with acid. It is used in a variety of baking recipes and desserts. It has an appearance similar to <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Honey" href="https://en.wikipedia.org/wiki/Honey">honey</a><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;">, and is often used as a substitute by people who do not eat corn syrup. Some people make their own but I&#8217;ve never tried it. It&#8217;s easily found in Australia and the UK and in some international shops in Europe. Agave and maple syrups work well as substitutes but treacle should be avoided due to it&#8217;s overpowering taste. 
 
 
 
                                       
   
   
-    <a  href="http://2.bp.blogspot.com/-Sdebipuy8Xc/VMOgWfrVwsI/AAAAAAAAKgU/atDSsOomKj0/s1600/golden-syrup.jpg"><img src="http://2.bp.blogspot.com/-Sdebipuy8Xc/VMOgWfrVwsI/AAAAAAAAKgU/atDSsOomKj0/s1600/golden-syrup.jpg" alt="" width="213" height="320" border="0" /></a>
+    <a  href="https://2.bp.blogspot.com/-Sdebipuy8Xc/VMOgWfrVwsI/AAAAAAAAKgU/atDSsOomKj0/s1600/golden-syrup.jpg"><img src="https://2.bp.blogspot.com/-Sdebipuy8Xc/VMOgWfrVwsI/AAAAAAAAKgU/atDSsOomKj0/s1600/golden-syrup.jpg" alt="" width="213" height="320" border="0" /></a>
   
 
 
@@ -154,7 +154,7 @@ For convenience I use the terms cheese, butter and egg. There are loads of diffe
   You can buy jackfruit in large Asian supermarkets. It most commonly comes tinned and is available in the tinned fruit section.Make sure you buy the one that comes in brine water than syrup as the syrup is really sweet. The sweet one (not suitable for savoury dishes) looks like this: 
   
   
-    <a  href="http://3.bp.blogspot.com/-CQbbYws-oos/VMO67sZQEgI/AAAAAAAAKgg/41oVosQzodg/s1600/10433777_10152993489760874_6809747427770154079_n.jpg"><img src="http://3.bp.blogspot.com/-CQbbYws-oos/VMO67sZQEgI/AAAAAAAAKgg/41oVosQzodg/s1600/10433777_10152993489760874_6809747427770154079_n.jpg" alt="" width="300" height="400" border="0" /></a>
+    <a  href="https://3.bp.blogspot.com/-CQbbYws-oos/VMO67sZQEgI/AAAAAAAAKgg/41oVosQzodg/s1600/10433777_10152993489760874_6809747427770154079_n.jpg"><img src="https://3.bp.blogspot.com/-CQbbYws-oos/VMO67sZQEgI/AAAAAAAAKgg/41oVosQzodg/s1600/10433777_10152993489760874_6809747427770154079_n.jpg" alt="" width="300" height="400" border="0" /></a>
   
   
   
@@ -162,11 +162,11 @@ For convenience I use the terms cheese, butter and egg. There are loads of diffe
   
   
   
-    <a  href="http://3.bp.blogspot.com/-1V9YpX-GYWs/VMO7PaJzO2I/AAAAAAAAKgo/VnoVNWMC2sI/s1600/71JCOpW5LbL._SX425_.jpg"><img src="http://3.bp.blogspot.com/-1V9YpX-GYWs/VMO7PaJzO2I/AAAAAAAAKgo/VnoVNWMC2sI/s1600/71JCOpW5LbL._SX425_.jpg" alt="" width="400" height="266" border="0" /></a>
+    <a  href="https://3.bp.blogspot.com/-1V9YpX-GYWs/VMO7PaJzO2I/AAAAAAAAKgo/VnoVNWMC2sI/s1600/71JCOpW5LbL._SX425_.jpg"><img src="https://3.bp.blogspot.com/-1V9YpX-GYWs/VMO7PaJzO2I/AAAAAAAAKgo/VnoVNWMC2sI/s1600/71JCOpW5LbL._SX425_.jpg" alt="" width="400" height="266" border="0" /></a>
   
   
   
-    <br />  It has a stringy texture that when cooked and shredded resembled shredded meat. Thus the fruit is a great option as an alternative to meat in vegan dishes. You could use it in tacos, pies, pasta, casseroles&#8230;many options! I like to use it to make j<a href="http://atravellingcook.com/2014/10/jackfruit-bournignon.html">ackfruit bournignon</a>. You can also of course use it in desserts once sweetened with other fruit or sugars.
+    <br />  It has a stringy texture that when cooked and shredded resembled shredded meat. Thus the fruit is a great option as an alternative to meat in vegan dishes. You could use it in tacos, pies, pasta, casseroles&#8230;many options! I like to use it to make j<a href="https://atravellingcook.com/2014/10/jackfruit-bournignon.html">ackfruit bournignon</a>. You can also of course use it in desserts once sweetened with other fruit or sugars.
   
 
 
@@ -175,7 +175,7 @@ For convenience I use the terms cheese, butter and egg. There are loads of diffe
 
 
 <div style="background: white; line-height: 15.6pt;">
-                              <a style="line-height: normal; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-zEcqZNSysxo/VCzBbWXVjEI/AAAAAAAAJm4/JX9vdszwshI/s1600/2014-09-24%2B23.08.24.jpg"><img src="http://2.bp.blogspot.com/-zEcqZNSysxo/VCzBbWXVjEI/AAAAAAAAJm4/JX9vdszwshI/s1600/2014-09-24%2B23.08.24.jpg" alt="" width="320" height="212" border="0" /></a>
+                              <a style="line-height: normal; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-zEcqZNSysxo/VCzBbWXVjEI/AAAAAAAAJm4/JX9vdszwshI/s1600/2014-09-24%2B23.08.24.jpg"><img src="https://2.bp.blogspot.com/-zEcqZNSysxo/VCzBbWXVjEI/AAAAAAAAJm4/JX9vdszwshI/s1600/2014-09-24%2B23.08.24.jpg" alt="" width="320" height="212" border="0" /></a>
 
 
 
@@ -234,7 +234,7 @@ For convenience I use the terms cheese, butter and egg. There are loads of diffe
 
 
 
-  <span style="color: #343435; font-family: Arial, Helvetica, sans-serif;">there are lots of stock products which are animal and msg free but resemble the spicing of meat dishes. These can be used in soups, sauces and all kinds of dishes. <a href="http://massel.com/"><i>Massel</i> </a>is probably the most well known brand and is available in all Australian supermarkets. 
+  <span style="color: #343435; font-family: Arial, Helvetica, sans-serif;">there are lots of stock products which are animal and msg free but resemble the spicing of meat dishes. These can be used in soups, sauces and all kinds of dishes. <a href="https://massel.com/"><i>Massel</i> </a>is probably the most well known brand and is available in all Australian supermarkets. 
 
 
 
@@ -246,4 +246,4 @@ For convenience I use the terms cheese, butter and egg. There are loads of diffe
 
 
 
-  <span style="background-color: white; color: #252525; line-height: 22.3999996185303px;"><i><a href="https://www.vegemite.com.au/">Vegemite</a></i><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;"> is a dark brown <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Australia" href="http://en.wikipedia.org/wiki/Australia">Australian</a><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;"> food paste made from leftover brewers&#8217; <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Yeast extract" href="http://en.wikipedia.org/wiki/Yeast_extract">yeast extract</a><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;"> with various vegetable and spice <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Food additive" href="http://en.wikipedia.org/wiki/Food_additive">additives</a><span style="color: #252525;"><span style="background-color: white; line-height: 22.3999996185303px;">. It is wonderful on toast or when added to casseroles and curries to create a rich umami flavour. It should not be confused with <i>Marmite</i> and <i>Promite</i> that are vastly inferior products. It is readily available in all Australian supermarkets, <i>Tescos </i>in London and expat shops around the world. If you are an expat overseas it is worth noting that it cannot be carried onto planes, customs will confiscate it as a liquid! 
+  <span style="background-color: white; color: #252525; line-height: 22.3999996185303px;"><i><a href="https://www.vegemite.com.au/">Vegemite</a></i><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;"> is a dark brown <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Australia" href="https://en.wikipedia.org/wiki/Australia">Australian</a><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;"> food paste made from leftover brewers&#8217; <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Yeast extract" href="https://en.wikipedia.org/wiki/Yeast_extract">yeast extract</a><span style="background-color: white; color: #252525; line-height: 22.3999996185303px;"> with various vegetable and spice <a style="background: none #ffffff; color: #0b0080; font-family: sans-serif; line-height: 22.3999996185303px; text-decoration: none;" title="Food additive" href="https://en.wikipedia.org/wiki/Food_additive">additives</a><span style="color: #252525;"><span style="background-color: white; line-height: 22.3999996185303px;">. It is wonderful on toast or when added to casseroles and curries to create a rich umami flavour. It should not be confused with <i>Marmite</i> and <i>Promite</i> that are vastly inferior products. It is readily available in all Australian supermarkets, <i>Tescos </i>in London and expat shops around the world. If you are an expat overseas it is worth noting that it cannot be carried onto planes, customs will confiscate it as a liquid! 

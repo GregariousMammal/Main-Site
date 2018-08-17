@@ -4,7 +4,7 @@ title: Raw berry cheesecake
 date: 2015-08-12T20:14:18.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/?p=1197'
+guid: 'https://atravellingcook.com/?p=1197'
 permalink: /2015/08/raw-berry-cheesecake.html
 tags:
   - cooking
@@ -62,4 +62,4 @@ _Topping:_
 
 _Variations:_
 
-You can vary the topping with different fruits or chocolate, add cacao and peppermint (like in my [chocolate peppermint torte](http://atravellingcook.com/2014/12/chocolate-peppermint-torte.html)) or orange zest or coffee to the filling or use dates instead of coconut in the crust for a change. I've made it loads of times and it always is incredibly popular.
+You can vary the topping with different fruits or chocolate, add cacao and peppermint (like in my [chocolate peppermint torte](https://atravellingcook.com/2014/12/chocolate-peppermint-torte.html)) or orange zest or coffee to the filling or use dates instead of coconut in the crust for a change. I've made it loads of times and it always is incredibly popular.

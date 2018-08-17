@@ -40,7 +40,7 @@ excerpt: The software doesn't live up to the hardware
 Consumers are frustrated with smart homes. Notably, they're not annoyed
 with the devices that wire up their living environments. It's the apps
 through which they schedule and manage each device, according to a new
-report from [Argus Insights](http://www.argusinsights.com/).  
+report from [Argus Insights](https://www.argusinsights.com/).  
 
 Argus, notably, uses actual data drawn from devices and public sources
 like app-store reviews. In this case, it analyzed 50,000 smart-home

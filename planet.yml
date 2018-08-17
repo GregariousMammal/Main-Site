@@ -8,7 +8,7 @@ blogs:
   # Bare minimum to get it working
   - author: "Chris Ward"
     feed:   "https://blog.codeship.com/author/chrisward/feed/"
-    image:  "http://www.rss-specifications.com/rss-spec-rss.gif"
+    image:  "https://www.rss-specifications.com/rss-spec-rss.gif"
     twitter: "poteland"
     categories: "Chris writing codeship"
     layout: post

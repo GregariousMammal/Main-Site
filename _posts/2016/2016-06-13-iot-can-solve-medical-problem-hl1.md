@@ -48,7 +48,7 @@ author:
   last_name: Lawrence
 ---
 In October 2015, a refrigerator thermostat at [Stanford Children's
-Health](http://www.mercurynews.com/health/ci_28913345/bad-refrigerator-at-stanford-childrens-health-medical-office)
+Health](https://www.mercurynews.com/health/ci_28913345/bad-refrigerator-at-stanford-childrens-health-medical-office)
 failed, spoiling ten different types of vaccines and causing 1,500 kids
 to receive ineffective vaccinations. Unfortunately, failed thermostats
 are not an unusual issue and can cause ruined blood samples, vaccines
@@ -63,7 +63,7 @@ before it starts.
 One solution to losing bio samples: connected thermostats
 ---------------------------------------------------------
 
-[DataToWeb](http://datatoweb.com/) is an IoT monitoring platform from
+[DataToWeb](https://datatoweb.com/) is an IoT monitoring platform from
 the company based in Montreal, Canada, that reduces the risk of losses,
 facilitate the management of regulation complacency and reduce workload
 related for the management of temperatures in hospitals, laboratories

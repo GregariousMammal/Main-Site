@@ -11,15 +11,15 @@ excerpt: "In episode 2 of the Write the Docs podcast, we explore how to help use
 
 Here are some links to topics mentioned in the podcast:
 
-- [Lunr search](http://lunrjs.com/)
-- [Jekyll Tips tutorial on configuring Lunr search in Jekyll](http://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/)
-- [Apache Solr search](http://lucene.apache.org/solr/)
+- [Lunr search](https://lunrjs.com/)
+- [Jekyll Tips tutorial on configuring Lunr search in Jekyll](https://jekyll.tips/jekyll-casts/jekyll-search-using-lunr-js/)
+- [Apache Solr search](https://lucene.apache.org/solr/)
 - [Algolia search](https://www.algolia.com/)
 - [Swiftype](https://swiftype.com/)
 - [Google Custom Search](https://cse.google.com/cse/all)
 - [Google search appliance](https://enterprise.google.com/search/products/gsa.html)
 - [Semantic mediawiki](https://www.semantic-mediawiki.org/wiki/Semantic_MediaWiki)
-- [Findability is a content problem, not a search problem, by Mark Baker](http://everypageispageone.com/2013/05/28/findability-is-a-content-problem-not-a-search-problem/)
+- [Findability is a content problem, not a search problem, by Mark Baker](https://everypageispageone.com/2013/05/28/findability-is-a-content-problem-not-a-search-problem/)
 
 If you would like to recommend a topic or article for discussion for the next podcast, [let us know](/contact). The planned topic for the next podcast is trends.
 

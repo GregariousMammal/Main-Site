@@ -4,7 +4,7 @@ title: Homemade gingerbeer
 date: 2014-10-28T19:46:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/10/homemade-gingerbeer.html
+guid: https://atravellingcook.com/2014/10/homemade-gingerbeer.html
 permalink: /2014/10/homemade-gingerbeer.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -22,9 +22,9 @@ tags:
   - leipzig
   - recipe
 ---
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-ppWH9lyz84Q/VE_X5P5bCWI/AAAAAAAAJvM/ylQV7RnhpKk/s1600/15466087838_ce83a298b0_o.jpg"><img src="http://2.bp.blogspot.com/-ppWH9lyz84Q/VE_X5P5bCWI/AAAAAAAAJvM/ylQV7RnhpKk/s1600/15466087838_ce83a298b0_o.jpg" alt="" width="340" height="400" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-ppWH9lyz84Q/VE_X5P5bCWI/AAAAAAAAJvM/ylQV7RnhpKk/s1600/15466087838_ce83a298b0_o.jpg"><img src="https://2.bp.blogspot.com/-ppWH9lyz84Q/VE_X5P5bCWI/AAAAAAAAJvM/ylQV7RnhpKk/s1600/15466087838_ce83a298b0_o.jpg" alt="" width="340" height="400" border="0" /></a>
 
-I recently got reunited with my love of ginger beer due to drinking [Moscow Mules](http://www.epicurious.com/recipes/food/views/Moscow-Mule-233186) at an Irish pub here in Leipzig. I used to make a lot of ginger beer back in Melbourne and also teach others to make it. It&#8217;s a tasty drink and very nutritious for all that ails you. You can add more or less sugar to taste although I wouldn&#8217;t reduce the sugar by more than half.
+I recently got reunited with my love of ginger beer due to drinking [Moscow Mules](https://www.epicurious.com/recipes/food/views/Moscow-Mule-233186) at an Irish pub here in Leipzig. I used to make a lot of ginger beer back in Melbourne and also teach others to make it. It&#8217;s a tasty drink and very nutritious for all that ails you. You can add more or less sugar to taste although I wouldn&#8217;t reduce the sugar by more than half.
 
 
 
@@ -85,7 +85,7 @@ Follow this recipe through and you&#8217;ll be left with a delicious tasty ginge
 
 
 
-                                      <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-SMFcknL-GZM/VE_TrI8WLII/AAAAAAAAJuk/iDU4KpnvLZI/s1600/Ginger%2Bbeer%2B-%2BDay%2B1.JPG"><img src="http://3.bp.blogspot.com/-SMFcknL-GZM/VE_TrI8WLII/AAAAAAAAJuk/iDU4KpnvLZI/s1600/Ginger%2Bbeer%2B-%2BDay%2B1.JPG" alt="" width="300" height="400" border="0" /></a>
+                                      <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-SMFcknL-GZM/VE_TrI8WLII/AAAAAAAAJuk/iDU4KpnvLZI/s1600/Ginger%2Bbeer%2B-%2BDay%2B1.JPG"><img src="https://3.bp.blogspot.com/-SMFcknL-GZM/VE_TrI8WLII/AAAAAAAAJuk/iDU4KpnvLZI/s1600/Ginger%2Bbeer%2B-%2BDay%2B1.JPG" alt="" width="300" height="400" border="0" /></a>
 
 
 
@@ -119,7 +119,7 @@ Follow this recipe through and you&#8217;ll be left with a delicious tasty ginge
   3. Bottle and seal. The ginger beer should be ready to drink by the end of a week. But the longer you leave it, the more potent it will be.
 
 
-                         <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-sMBeM1clH8U/VE_VofDOSLI/AAAAAAAAJu0/ikN1HhmyLOU/s1600/newandbrewed.jpg"><img src="http://2.bp.blogspot.com/-sMBeM1clH8U/VE_VofDOSLI/AAAAAAAAJu0/ikN1HhmyLOU/s1600/newandbrewed.jpg" alt="" width="424" height="640" border="0" /></a>
+                         <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-sMBeM1clH8U/VE_VofDOSLI/AAAAAAAAJu0/ikN1HhmyLOU/s1600/newandbrewed.jpg"><img src="https://2.bp.blogspot.com/-sMBeM1clH8U/VE_VofDOSLI/AAAAAAAAJu0/ikN1HhmyLOU/s1600/newandbrewed.jpg" alt="" width="424" height="640" border="0" /></a>
 
 
 

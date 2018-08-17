@@ -19,4 +19,4 @@ Whilst they are my platforms of choice, I feel that the almost overly exclusive 
 
 All in all its a great book and whilst some of the information within it isn't new, often targeting an audience through more mainstream and approachable means is often the best way to bring a topic out of the niche and into the foreground, so let's hope the book achieves just that for the writer and the CiviCRM community.
 
-<a href="http://www.packtpub.com/civicrm-cookbook/book" target="_blank">Buy the book from Packt here</a>
+<a href="https://www.packtpub.com/civicrm-cookbook/book" target="_blank">Buy the book from Packt here</a>

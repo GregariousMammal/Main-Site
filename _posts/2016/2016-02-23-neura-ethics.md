@@ -42,7 +42,7 @@ author:
 excerpt: Creating "ethical personalization" for IoT
 ---
 
-Last month [Neura](http://www.theneura.com/) announced that it raised  a
+Last month [Neura](https://www.theneura.com/) announced that it raised  a
 $11 million Series A funding round. The company calls itself 'the
 ethical personalization service for the Internet of Things' which stands
 for "Smarter Technology. Powered by Trust." They're leading in

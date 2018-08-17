@@ -59,7 +59,7 @@ author:
   first_name: Cate
   last_name: Lawrence
 ---
-[[Suggestic](http://suggestic.com/) is a digital startup trying to
+[[Suggestic](https://suggestic.com/) is a digital startup trying to
 tackle [Type 2
 diabetes](https://readwrite.com/2015/02/10/apple-watch-dexcom-app-diabetes-glucose-monitoring/)
 using machine learning to create personalized interventions and guide

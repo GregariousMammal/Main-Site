@@ -4,7 +4,7 @@ title: Recuperation and Pear and almond muffins
 date: 2014-04-01T05:44:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/04/recuperation-and-pear-and-almond-muffins.html
+guid: https://atravellingcook.com/2014/04/recuperation-and-pear-and-almond-muffins.html
 permalink: /2014/04/recuperation-and-pear-and-almond-muffins.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -28,7 +28,7 @@ I&#8217;ve been a bit behind with blogging of late. I had day surgery on friday 
 Mr Pablo has been ecstatic at my sedentary behaviour (besides 30 mins prescribed exercise each day) and has been sharing the bed enthusiastically.
 
 
-  <a  href="http://4.bp.blogspot.com/-axsxnLecE8w/Uzo-b90zSGI/AAAAAAAAIgk/XVHNeA8A7-4/s1600/IMG_20140401_112300.jpg"><img src="http://4.bp.blogspot.com/-axsxnLecE8w/Uzo-b90zSGI/AAAAAAAAIgk/XVHNeA8A7-4/s1600/IMG_20140401_112300.jpg" alt="" width="400" height="300" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-axsxnLecE8w/Uzo-b90zSGI/AAAAAAAAIgk/XVHNeA8A7-4/s1600/IMG_20140401_112300.jpg"><img src="https://4.bp.blogspot.com/-axsxnLecE8w/Uzo-b90zSGI/AAAAAAAAIgk/XVHNeA8A7-4/s1600/IMG_20140401_112300.jpg" alt="" width="400" height="300" border="0" /></a>
 
 
 <span style="font-family: Times, Times New Roman, serif;">Yesterday I did a bit of cooking: lovely lentil soup, an experimental pumpkin loaf which didn&#8217;t fare all too well and some pear and almond muffins. It&#8217;s not really hot food weather, I&#8217;ve been impatiently waiting for the real autumn to arrive, it&#8217;s my favourite season!
@@ -38,7 +38,7 @@ Mr Pablo has been ecstatic at my sedentary behaviour (besides 30 mins prescribed
 <span style="font-family: Times, Times New Roman, serif;"><br /> <span style="font-family: Times, Times New Roman, serif;"><i><br /> </i>
 
 
-  <a  href="http://1.bp.blogspot.com/-USXquyywo1Y/UzpD6qqmkWI/AAAAAAAAIg0/DoVOyA0PmXQ/s1600/13532014925_2a0e58d278_z.jpg"><span style="font-family: Times, Times New Roman, serif;"><img src="http://1.bp.blogspot.com/-USXquyywo1Y/UzpD6qqmkWI/AAAAAAAAIg0/DoVOyA0PmXQ/s1600/13532014925_2a0e58d278_z.jpg" alt="" width="400" height="255" border="0" /></a>
+  <a  href="https://1.bp.blogspot.com/-USXquyywo1Y/UzpD6qqmkWI/AAAAAAAAIg0/DoVOyA0PmXQ/s1600/13532014925_2a0e58d278_z.jpg"><span style="font-family: Times, Times New Roman, serif;"><img src="https://1.bp.blogspot.com/-USXquyywo1Y/UzpD6qqmkWI/AAAAAAAAIg0/DoVOyA0PmXQ/s1600/13532014925_2a0e58d278_z.jpg" alt="" width="400" height="255" border="0" /></a>
 
 
 

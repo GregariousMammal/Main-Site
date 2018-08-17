@@ -62,7 +62,7 @@ cities, part of government plans to develop 100 Smart Cities by the end
 of 2022.
 
 The plans came about in part, via the [Smart Cities
-Challenge](http://www.smartcitieschallenge.in/challenge-overview) funded
+Challenge](https://www.smartcitieschallenge.in/challenge-overview) funded
 by Bloomberg Philanthropies. The Government of India launched this
 challenge as a selection process to distribute central government
 funding to 100 cities over three years.
@@ -78,7 +78,7 @@ million residents and over 40 million tourists visiting annually - will
 be the first Smart+Connected Community "Lighthouse City" in South Asia.
 
 Under the consulting guidance of Cisco, the [Jaipur Development
-Authority](http://jda.urban.rajasthan.gov.in/content/raj/udh/jda---jaipur/en/home.html)(JDA)
+Authority](https://jda.urban.rajasthan.gov.in/content/raj/udh/jda---jaipur/en/home.html)(JDA)
 is focused on developing smart city infrastructure in Jaipur to
 transform itself into a digital city of the future.
 

@@ -61,7 +61,7 @@ Sensors built into the bridge on the Autobahn 9,
 
 <div id="EObjFuElFB2MSbKyHGiL" style="width: 236px">
 
-<http://www.laviagraes.com/foro-viagra-femenina>
+<https://www.laviagraes.com/foro-viagra-femenina>
 
 </div>
 
@@ -78,7 +78,7 @@ New bridge part of the digital autobahn test field
 --------------------------------------------------
 
 The new bridge is part of the ["Digital Autobahn Test
-Field,"](http://www.bmvi.de/SharedDocs/DE/Pressemitteilungen/2015/084-dobrindt-startet-digitales-testfeld-autobahn.html?nn=134500)
+Field,"](https://www.bmvi.de/SharedDocs/DE/Pressemitteilungen/2015/084-dobrindt-startet-digitales-testfeld-autobahn.html?nn=134500)
 a project which the government launched in 2015.  The A9 between Munich
 and Nuremberg, one of the most important traffic routes in Europe, is
 gradually being transformed into a test route for innovations. Using the
@@ -88,7 +88,7 @@ A9 into a proving ground for the technologies of the future.
 
 The aim is make driving faster, safer and reduce congestion. [Another
 advantage of the project is that it could reduce the number
-of *Geisterfahrer*](http://www.siemens.com/innovation/en/home/pictures-of-the-future/mobility-and-motors/urban-mobility-radar-technology-for-highways.html)
+of *Geisterfahrer*](https://www.siemens.com/innovation/en/home/pictures-of-the-future/mobility-and-motors/urban-mobility-radar-technology-for-highways.html)
 - ghost drivers, or those who enter the road on an exit and drive
 against the flow of traffic. By warning these people and other drivers
 of the mistake they are about to make, the system will increase safety
@@ -111,7 +111,7 @@ road infrastructure that will direct vehicles but also actively
 communicate with them. The German Ministry’s aim is to create a platform
 ready for introducing and testing additional vehicle-to-infrastructure
 (V2I) and [vehicle-to-vehicle (V2V) communication
-features](http://www.esk.fraunhofer.de/en/media/press_releases/pm1510.html).
+features](https://www.esk.fraunhofer.de/en/media/press_releases/pm1510.html).
 
 Radar sensors is utilized in the project, controlled by modern 77 GHz
 microchips made by [Infineon](https://www.infineon.com/). They have
@@ -138,7 +138,7 @@ time before they attempt risky passing maneuvers.
 
 In addition, technology from the [Fraunhofer Research Institution for
 Communication Systems and
-Continental](http://www.esk.fraunhofer.de/en.html) is making it possible
+Continental](https://www.esk.fraunhofer.de/en.html) is making it possible
 for a vehicle to warn the cars behind it that it is about to brake –
 even before the brake lights go on. Such capabilities are designed to
 provide drivers with alternative routes and warn them of impending
@@ -149,7 +149,7 @@ in
 
 <div id="0TDxouj5ZBhBDDIMC" style="width: 372px">
 
-<http://www.viagragenericoes24.com/tipo-de-viagra-natural>
+<https://www.viagragenericoes24.com/tipo-de-viagra-natural>
 
 </div>
 
@@ -157,6 +157,6 @@ an open source format. “The idea is that creative minds from the
 automotive industry, the digital sector, and the scientific community
 will be able to use the data generated from this project to develop
 additional innovative mobility solutions,” says [Marcus
-Zwick,](http://www.siemens.com/innovation/en/home/pictures-of-the-future/mobility-and-motors/urban-mobility-radar-technology-for-highways.html) who
+Zwick,](https://www.siemens.com/innovation/en/home/pictures-of-the-future/mobility-and-motors/urban-mobility-radar-technology-for-highways.html) who
 responsible for Siemens Mobility's technology incubator. It'll be
 interesting to see what innovations develop on the intelligent autobahn.

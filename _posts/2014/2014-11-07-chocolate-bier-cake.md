@@ -4,7 +4,7 @@ title: Chocolate bier cake
 date: 2014-11-07T14:32:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/11/chocolate-bier-cake.html
+guid: https://atravellingcook.com/2014/11/chocolate-bier-cake.html
 permalink: /2014/11/chocolate-bier-cake.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -23,7 +23,7 @@ tags:
   - recipe
 ---
 
-  <a  href="http://4.bp.blogspot.com/-Zj6zwxM3R7o/VFzGKEY-JtI/AAAAAAAAJz8/xGl9NquuH9M/s1600/15707833596_880089271a_k.jpg"><img src="http://4.bp.blogspot.com/-Zj6zwxM3R7o/VFzGKEY-JtI/AAAAAAAAJz8/xGl9NquuH9M/s1600/15707833596_880089271a_k.jpg" alt="" width="400" height="265" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-Zj6zwxM3R7o/VFzGKEY-JtI/AAAAAAAAJz8/xGl9NquuH9M/s1600/15707833596_880089271a_k.jpg"><img src="https://4.bp.blogspot.com/-Zj6zwxM3R7o/VFzGKEY-JtI/AAAAAAAAJz8/xGl9NquuH9M/s1600/15707833596_880089271a_k.jpg" alt="" width="400" height="265" border="0" /></a>
 
 
 
@@ -33,7 +33,7 @@ tags:
 
 
 
-  This is a cake recipe I made originally for the <a href="http://www.apartmentsupperclubleipzig.com/">Apartment Supperclub</a> Oktoberfest event  that we hosted here in Leipzig.  I made it again last night but modified the recipe by substituting mashed banana for the oil as we had loads of frozen bananas that needed to be used. I also used a smoked beer which added an interesting taste to the cake. It&#8217;s a two layer cake, I made each layer separately as I only had one cake pan but you could of course cook them together.
+  This is a cake recipe I made originally for the <a href="https://www.apartmentsupperclubleipzig.com/">Apartment Supperclub</a> Oktoberfest event  that we hosted here in Leipzig.  I made it again last night but modified the recipe by substituting mashed banana for the oil as we had loads of frozen bananas that needed to be used. I also used a smoked beer which added an interesting taste to the cake. It&#8217;s a two layer cake, I made each layer separately as I only had one cake pan but you could of course cook them together.
 
 
 

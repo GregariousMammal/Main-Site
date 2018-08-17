@@ -4,7 +4,7 @@ title: Spicy pumpkin, spinach and fetta pasties
 date: 2014-03-11T06:11:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/03/spicy-pumpkin-spinach-and-fetta-pasties.html
+guid: https://atravellingcook.com/2014/03/spicy-pumpkin-spinach-and-fetta-pasties.html
 permalink: /2014/03/spicy-pumpkin-spinach-and-fetta-pasties.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -33,7 +33,7 @@ tags:
 
                                
 
-<a  href="http://2.bp.blogspot.com/-KFk8MEWxsf4/Ux6cNtWNvUI/AAAAAAAAIXY/E-y-dvBTMa8/s1600/12981214715_bddb0e53c3_c.jpg"><img src="http://2.bp.blogspot.com/-KFk8MEWxsf4/Ux6cNtWNvUI/AAAAAAAAIXY/E-y-dvBTMa8/s1600/12981214715_bddb0e53c3_c.jpg" alt="" width="400" height="227" border="0" /></a>
+<a  href="https://2.bp.blogspot.com/-KFk8MEWxsf4/Ux6cNtWNvUI/AAAAAAAAIXY/E-y-dvBTMa8/s1600/12981214715_bddb0e53c3_c.jpg"><img src="https://2.bp.blogspot.com/-KFk8MEWxsf4/Ux6cNtWNvUI/AAAAAAAAIXY/E-y-dvBTMa8/s1600/12981214715_bddb0e53c3_c.jpg" alt="" width="400" height="227" border="0" /></a>
 
 <h4 >
   Ingredients:
@@ -59,14 +59,14 @@ tags:
     3 cups spinach/silverbeet/rainbow chard
   </li>
   <li >
-    3 tablespoons <a href="http://consumingcate.blogspot.com/2014/03/sunday-cooking-dukkah.html">dukkah</a>
+    3 tablespoons <a href="https://consumingcate.blogspot.com/2014/03/sunday-cooking-dukkah.html">dukkah</a>
   </li>
   <li >
     1 cup tinned corn, drained
 
 
 
-      <a  href="http://3.bp.blogspot.com/-w2HAuA6wCR8/UxqWRGoZPdI/AAAAAAAAIUY/FDyiKNWZrwk/s1600/12981340983_c499de29d9_z.jpg"><img src="http://3.bp.blogspot.com/-w2HAuA6wCR8/UxqWRGoZPdI/AAAAAAAAIUY/FDyiKNWZrwk/s1600/12981340983_c499de29d9_z.jpg" alt="" width="300" height="400" border="0" /></a>
+      <a  href="https://3.bp.blogspot.com/-w2HAuA6wCR8/UxqWRGoZPdI/AAAAAAAAIUY/FDyiKNWZrwk/s1600/12981340983_c499de29d9_z.jpg"><img src="https://3.bp.blogspot.com/-w2HAuA6wCR8/UxqWRGoZPdI/AAAAAAAAIUY/FDyiKNWZrwk/s1600/12981340983_c499de29d9_z.jpg" alt="" width="300" height="400" border="0" /></a>
 
   </li>
 </ul>
@@ -85,12 +85,12 @@ tags:
 
 
 
-                               <a  href="http://4.bp.blogspot.com/-dCl3SLcIbQM/Ux6cOXu2pyI/AAAAAAAAIXg/P0euEu8gwdU/s1600/12981624754_ccac7d7c90_c.jpg"><img src="http://4.bp.blogspot.com/-dCl3SLcIbQM/Ux6cOXu2pyI/AAAAAAAAIXg/P0euEu8gwdU/s1600/12981624754_ccac7d7c90_c.jpg" alt="" width="400" height="285" border="0" /></a><br /> <span style="color: #343435;"><span style="line-height: 15px;"><br /> 3. Add the spinach, silverbeet, corn and fetta and cook for five minutes until  well combined. 4. Stir through dukkah. Allow to cool. 5. Cut each pastry sheet in half to create two strips. 6. Place 1/4 cup of the mixture along the middle of one half of each strip. 7. Fold and seal. Repeat with all the pastry. 
+                               <a  href="https://4.bp.blogspot.com/-dCl3SLcIbQM/Ux6cOXu2pyI/AAAAAAAAIXg/P0euEu8gwdU/s1600/12981624754_ccac7d7c90_c.jpg"><img src="https://4.bp.blogspot.com/-dCl3SLcIbQM/Ux6cOXu2pyI/AAAAAAAAIXg/P0euEu8gwdU/s1600/12981624754_ccac7d7c90_c.jpg" alt="" width="400" height="285" border="0" /></a><br /> <span style="color: #343435;"><span style="line-height: 15px;"><br /> 3. Add the spinach, silverbeet, corn and fetta and cook for five minutes until  well combined. 4. Stir through dukkah. Allow to cool. 5. Cut each pastry sheet in half to create two strips. 6. Place 1/4 cup of the mixture along the middle of one half of each strip. 7. Fold and seal. Repeat with all the pastry. 
 
 
 
     
-                                   <a  href="http://3.bp.blogspot.com/-LzLp5LGRazU/Ux6cOatd4qI/AAAAAAAAIXc/mt07yyY_QV0/s1600/12981609104_598ff626d1_c.jpg"><img src="http://3.bp.blogspot.com/-LzLp5LGRazU/Ux6cOatd4qI/AAAAAAAAIXc/mt07yyY_QV0/s1600/12981609104_598ff626d1_c.jpg" alt="" width="400" height="343" border="0" /></a>
+                                   <a  href="https://3.bp.blogspot.com/-LzLp5LGRazU/Ux6cOatd4qI/AAAAAAAAIXc/mt07yyY_QV0/s1600/12981609104_598ff626d1_c.jpg"><img src="https://3.bp.blogspot.com/-LzLp5LGRazU/Ux6cOatd4qI/AAAAAAAAIXc/mt07yyY_QV0/s1600/12981609104_598ff626d1_c.jpg" alt="" width="400" height="343" border="0" /></a>
 
 
 
@@ -99,4 +99,4 @@ tags:
 
 
 
-    <br />                                <a  href="http://4.bp.blogspot.com/-AuLBF_h9KVM/Ux6dWIMZA7I/AAAAAAAAIX0/O0t2f8JPWi4/s1600/12981174435_556cc9f6a5_c.jpg"><img src="http://4.bp.blogspot.com/-AuLBF_h9KVM/Ux6dWIMZA7I/AAAAAAAAIX0/O0t2f8JPWi4/s1600/12981174435_556cc9f6a5_c.jpg" alt="" width="387" height="400" border="0" /></a>
+    <br />                                <a  href="https://4.bp.blogspot.com/-AuLBF_h9KVM/Ux6dWIMZA7I/AAAAAAAAIX0/O0t2f8JPWi4/s1600/12981174435_556cc9f6a5_c.jpg"><img src="https://4.bp.blogspot.com/-AuLBF_h9KVM/Ux6dWIMZA7I/AAAAAAAAIX0/O0t2f8JPWi4/s1600/12981174435_556cc9f6a5_c.jpg" alt="" width="387" height="400" border="0" /></a>

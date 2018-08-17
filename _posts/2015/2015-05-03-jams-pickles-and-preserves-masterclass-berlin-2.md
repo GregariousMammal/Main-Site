@@ -4,7 +4,7 @@ title: Jams, pickles and preserves masterclass Berlin
 date: 2015-05-03T18:01:13+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=857
+guid: https://atravellingcook.com/?p=857
 permalink: /2015/05/jams-pickles-and-preserves-masterclass-berlin-2.html
 tags:
   - berlin
@@ -49,6 +49,6 @@ Please advise of any specific dietary requirements (i.e. vegan, gluten free, upo
   
 For more information email cate@atravellingcook.com or call Cate on 017699894027
 
-FInd out more about my cooking classes <a title="A Travelling Cook cooking classes" href="http://atravellingcook.com/cooking-classes" rel="nofollow">her</a>e
+FInd out more about my cooking classes <a title="A Travelling Cook cooking classes" href="https://atravellingcook.com/cooking-classes" rel="nofollow">her</a>e
   
 **Bookings: [here](https://www.eventbrite.com/e/jams-pickles-and-preserves-masterclass-tickets-16575580006)**

@@ -5,7 +5,7 @@ created: 1416478461
 categories: projects leantraveller
 ---
 
-I have just rolled it the first incarnation of <a href="http://theleantraveller.com/" target="_blank">The Lean Traveller</a>, with the first of the topics we will be covering, '<a href="http://theleantraveller.com/money" target="_blank">Money</a>'.
+I have just rolled it the first incarnation of <a href="https://theleantraveller.com/" target="_blank">The Lean Traveller</a>, with the first of the topics we will be covering, '<a href="https://theleantraveller.com/money" target="_blank">Money</a>'.
 
 We have the beginnings of a theme and structure, but there's much more to come in the next month:<ul><li>Adding images</li><li>Ratings and Cost comparisons</li><li>More Content</li><li>Project Management workflow behind the scenes for handling contacting services we cover.</li><li>More topics and content</li></ul>
 

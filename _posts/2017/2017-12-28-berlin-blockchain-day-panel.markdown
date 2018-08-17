@@ -12,5 +12,5 @@ Chris hosts a panel at the recent Berlin Blockchain day with three blockchain lu
 
 https://binarydistrict.com/courses/berlin-blockchain-day/
 
-Previous Episodes - http://gregariousmammal.com/podcast/
-Support the show - http://gregariousmammal.com/support
+Previous Episodes - https://gregariousmammal.com/podcast/
+Support the show - https://gregariousmammal.com/support

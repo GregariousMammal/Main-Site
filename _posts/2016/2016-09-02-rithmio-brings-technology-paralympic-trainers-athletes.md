@@ -52,7 +52,7 @@ author:
 ---
 For the first time, a Paralympic team is getting data on the athletes’
 movements instead of data on the wheelchair only thanks to
-[Rithmio](http://www.rithmio.com/), a leading motion recognition
+[Rithmio](https://www.rithmio.com/), a leading motion recognition
 company.
 
 Rithmio was founded in 2014 when doctoral student Adam Tilton partnered
@@ -66,7 +66,7 @@ compete in the Paralympic Games in Rio.
 Through a wearable tech tool called Cadence Counter, Bleakney is able to
 get real-time cadence feedback that helps him understand his athlete’s
 stroke efficiency while training. This benefits athletes such as [Josh
-George](http://www.teamusa.org/para-track-and-field/athletes/Joshua-George),
+George](https://www.teamusa.org/para-track-and-field/athletes/Joshua-George),
 gold, silver and bronze medal winner in the track and field at the
 Paralympics and competing this year in Rio.
 

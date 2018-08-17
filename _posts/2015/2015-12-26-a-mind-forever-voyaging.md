@@ -15,4 +15,4 @@ This book was an amazing journey for me, an excuse and way of exploring games th
 
 A highly recommended read for anyone into storytelling of any kind.
 
-<a rel="nofollow" href="http://www.amazon.com/gp/product/1480005754/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1480005754&linkCode=as2&tag=gregamamma-20&linkId=JJXO43YZL6RTHDIG">Buy a copy from Amazon</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=gregamamma-20&l=as2&o=1&a=1480005754" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> and earn me a few cents to!
+<a rel="nofollow" href="https://www.amazon.com/gp/product/1480005754/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1480005754&linkCode=as2&tag=gregamamma-20&linkId=JJXO43YZL6RTHDIG">Buy a copy from Amazon</a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gregamamma-20&l=as2&o=1&a=1480005754" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> and earn me a few cents to!

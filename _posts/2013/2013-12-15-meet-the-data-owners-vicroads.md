@@ -22,4 +22,4 @@ Some of the real life applications of these data sets are travel time estimates,
 
 Some issues pertaining to VicRoads and their data sets relate to privacy and licensing issues over particular data sets not being available for public consumption and with VicRoads being tax payer funded, they are not able to create data sets and APIs to suite niche requirements that aren’t in the public interest.
 
-<a href="http://www.meetup.com/Datahack-Melbourne/events/152600552/" target="_blank">meetup.com/Datahack-Melbourne/events/152600552</a>
+<a href="https://www.meetup.com/Datahack-Melbourne/events/152600552/" target="_blank">meetup.com/Datahack-Melbourne/events/152600552</a>

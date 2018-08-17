@@ -4,7 +4,7 @@ title: Turkish green beans
 date: 2015-05-12T11:32:21+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=878
+guid: https://atravellingcook.com/?p=878
 permalink: /2015/05/turkish-green-beans.html
 tags:
   - cooking

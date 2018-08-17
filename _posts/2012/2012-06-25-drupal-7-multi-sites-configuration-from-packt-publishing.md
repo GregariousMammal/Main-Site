@@ -5,7 +5,7 @@ created: 1340623057
 image: drupal7multisite.png
 ---
 
-<a href="http://www.packtpub.com/news/new-drupal-mini-books" target="_blank">Part of Packt publishing's new _Mini Drupal series_</a>
+<a href="https://www.packtpub.com/news/new-drupal-mini-books" target="_blank">Part of Packt publishing's new _Mini Drupal series_</a>
 
 Drupal's Multi sites functionality is one of those hidden little gems that few people know about, use or, to be blunt, need, but is fantastic never the less. I used it quite happily for many years blissfully unaware of how to use it completely properly, but loving the tidiness of having one codebase hosting several sites. Whilst it is a powerful and pitfall laden features, it's also not terribly complicated to set up and utilise, so I was wondering how one would fill an entire book with the subject, even a 'mini-book'.
 

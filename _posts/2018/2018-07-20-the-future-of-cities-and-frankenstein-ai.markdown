@@ -10,6 +10,6 @@ layout: podcast
 ---
 Chris speaks with URBAN-X’s Managing Director Micah Kotch to speak about the startups they fund, and to Rachel Ginsberg about the Frankenstein AI project that challenges how we interact with AI, and how they interact with us.
 
-http://gregariousmammal.com/podcast/
-http://gregariousmammal.com/support
-http://facebook.com/gregariousmammal/
+https://gregariousmammal.com/podcast/
+https://gregariousmammal.com/support
+https://facebook.com/gregariousmammal/

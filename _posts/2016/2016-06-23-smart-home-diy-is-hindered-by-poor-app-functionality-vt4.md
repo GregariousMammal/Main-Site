@@ -61,8 +61,8 @@ with the most popular Smart Home Service Providers and MSOs (Multiple
 System Operators) and the apps coming with Do It Yourself (DIY) devices.
 
 Argus Insights found that - - from over 56,000 app and device reviews
--- [ADT](http://www.adt.com/dallas?ecid=lmdallas&optimizely_disable=true)
-and [Suddenlink](http://www.suddenlink.com/) are the least liked of MSOs
+-- [ADT](https://www.adt.com/dallas?ecid=lmdallas&optimizely_disable=true)
+and [Suddenlink](https://www.suddenlink.com/) are the least liked of MSOs
 and service providers and their associated apps saw a drop in both the
 tone and volume of feedback over the last month, an indication that
 frustrated users could be moving to other providers.
@@ -73,7 +73,7 @@ demonstrates a high degree of satisfaction by customers in DIFM (“Do it
 for me”) installations.
 
 However, [Vivint’s Sky
-app](http://support.vivint.com/product/skycontrol-mobile-app), Cox
+app](https://support.vivint.com/product/skycontrol-mobile-app), Cox
 Communications Homelife app, Xfinity Home app and Alarm.com app all
 trended up - - an impact of both new releases and subscriber growth.
 

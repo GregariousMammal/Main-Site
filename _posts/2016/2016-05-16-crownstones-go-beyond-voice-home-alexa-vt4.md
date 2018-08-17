@@ -57,11 +57,11 @@ author:
 Sensor technology seems to be one of the biggest buzz technologies of
 late, and companies like DoBots are bringing it to home automation.
 [DoBots](https://dobots.nl/) is a spinoff of
-[Almende](http://www.almende.com/home), a research institute in
+[Almende](https://www.almende.com/home), a research institute in
 Rotterdam, the Netherlands. DoBots specializes in artificial
 intelligence, for robots and home automation alike. I recently spoke to
 roboticist and COO, Anne van Rossum about through their soon to be
-shipped product, [Crownstone](http://crownstone.rocks/), a home
+shipped product, [Crownstone](https://crownstone.rocks/), a home
 automation device that relies on indoor localization over voice
 activated commands.
 

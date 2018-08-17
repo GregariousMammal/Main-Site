@@ -22,7 +22,7 @@ Is the setup for the web servers being used throughout the project for local dev
 ## Design
 Here's a great post on designing for Drupal, learning to better understand it's structure so it doesn't obstruct what you do.
 
-[www.chapterthree.com/blog/nica_lorber/design_drupal_template_approach](http://www.chapterthree.com/blog/nica_lorber/design_drupal_template_approach)
+[www.chapterthree.com/blog/nica_lorber/design_drupal_template_approach](https://www.chapterthree.com/blog/nica_lorber/design_drupal_template_approach)
 
 ## Development
 These aren't necessarily in any particular order, but are various pointers picked up along the way.
@@ -39,7 +39,7 @@ Views is a great way to create listings of content, but generally a client will 
 ### Typekit problems with Internet Explorer 8 and lower
 We've noticed this on several sites that utilise TypeKit, when Internet Explorer 8 and below renders many fonts all in italics. I wont bother explaining it all here, but take a look at the link below.
 
-<a href="http://drupal.org/node/1936340" style="line-height: 1.538em;">drupal.org/node/1936340</a>
+<a href="https://drupal.org/node/1936340" style="line-height: 1.538em;">drupal.org/node/1936340</a>
 
 ### WYSIWYGs
 'What You See Is What You Get' editors are a popular and convenient way of editing content but are prone to many configuration issues and assumptions from all sides, with developers wanting to limit what clients can do and clients wanting to do as much as possible. The real nitty gritty of this may vary from project to project, but here's a few features we've found clients always want and expect, so save yourself some hassle by just setting them up in the first place, unless you have a very good reason not to (with all of these there are several ways to achieve them, I shall leave the preferred implementation up to you).<ul><li>The ability to upload files inline into a WYSIWYG, not upload separately and enter a file's path, but directly uploading a file, adding a link and everything to work.</li><li>Much like above, the ability to upload images directly into a WYSIWYG. When allowing this functionality you will need to think about file sizes, image sizes, image layouts and many other factors. This may all seem like a lot of work, but content editors will want to be able to edit content the way they want to and it's up to you to find a way that can be accommodated stably, once you've got it right once, it can generally be rolled out across all projects.</li><li>Content editors expect to be able to create links to external content content internal to the site, so when setting up links within a WYSIWYG, try adding the facility to be able to link easily to internal site content, preferably though some sort of picker or autocomplete widget.</li><li>Don't allow  tags in your WYSIWYG fields.</li></ul>
@@ -81,7 +81,7 @@ Are your timezones set correctly for the main site, subsites, user accounts etc?
 Usernames like 'admin', 'administrator' etc are not secure usernames for powerful admin accounts and will be easily guessed by automated hacking systems. Change them as soon as you can.
 
 ### Be careful of hostnames in MYSQL grant statements
-Generally it's too easy to just create MySQL users who can access your database server from anywhere, if you want to be extremely cautious, these can be locked to only access from specificic places, domains or IP addresses, <a href="http://dev.mysql.com/doc/refman/5.5/en/account-names.html" target="_blank">see more details here</a>.
+Generally it's too easy to just create MySQL users who can access your database server from anywhere, if you want to be extremely cautious, these can be locked to only access from specificic places, domains or IP addresses, <a href="https://dev.mysql.com/doc/refman/5.5/en/account-names.html" target="_blank">see more details here</a>.
 
 ## Some other useful resources
-<ul><li>[www.zivtech.com/blog/impending-drupal-site-launch-use-list](http://www.zivtech.com/blog/impending-drupal-site-launch-use-list)</li></ul>
+<ul><li>[www.zivtech.com/blog/impending-drupal-site-launch-use-list](https://www.zivtech.com/blog/impending-drupal-site-launch-use-list)</li></ul>

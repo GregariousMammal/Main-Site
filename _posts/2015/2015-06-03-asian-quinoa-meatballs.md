@@ -4,7 +4,7 @@ title: 'Vegan asian quinoa &#8216;meatballs&#8217;'
 date: 2015-06-03T11:29:14+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=979
+guid: https://atravellingcook.com/?p=979
 permalink: /2015/06/asian-quinoa-meatballs.html
 tags:
   - baking
@@ -41,7 +41,7 @@ I&#8217;d like to introduce you to two of my other loves: Mushroom sauce and chi
   * 2 tablespoons Vegetarian mushroom sauce
   * 1 tablespoon tamari sauce
   * 1 cup soy crumble or TVP
-  * 1 cup pre cooked quinoa as per [this](http://atravellingcook.com/2015/03/quick-quinoa-fried-rice.html) recipe
+  * 1 cup pre cooked quinoa as per [this](https://atravellingcook.com/2015/03/quick-quinoa-fried-rice.html) recipe
   * 2 grated carrots
   * 1 cup Gluten free bread crumbs
 
@@ -86,7 +86,7 @@ _Instructions:_
 
 Gently add &#8216;meat&#8217; balls to the tomato sauce and warm through. Serve with rice, noodles, potato or salad.
 
-_Note:_ If you can&#8217;t find chilli oil, or you have a big influx of chillies growing in your garden, you can make your own as per [this](http://ahacooking.com/make-chinese-chili-oil/) recipe.
+_Note:_ If you can&#8217;t find chilli oil, or you have a big influx of chillies growing in your garden, you can make your own as per [this](https://ahacooking.com/make-chinese-chili-oil/) recipe.
 
 [
   

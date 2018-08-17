@@ -4,7 +4,7 @@ title: Beyond Female Sexual Dysfunction
 date: 2011-07-29T15:20:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2011/07/beyond-female-sexual-dysfunction.html
+guid: https://atravellingcook.com/2011/07/beyond-female-sexual-dysfunction.html
 permalink: /2011/07/beyond-female-sexual-dysfunction.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -434,7 +434,7 @@ Sensuality is defined as relating the gratification of the senses or the indulge
 
 
 
-  <a href="http://www.basrt.org.uk/">http://www.basrt.org.uk/</a><o:p></o:p>
+  <a href="https://www.basrt.org.uk/">https://www.basrt.org.uk/</a><o:p></o:p>
 
 
 
@@ -448,7 +448,7 @@ Sensuality is defined as relating the gratification of the senses or the indulge
 
 
 
-  <a href="http://www.relate.org.uk/">http://www.relate.org.uk/</a><o:p></o:p>
+  <a href="https://www.relate.org.uk/">https://www.relate.org.uk/</a><o:p></o:p>
 
 
 
@@ -459,7 +459,7 @@ Sensuality is defined as relating the gratification of the senses or the indulge
 
 
 
-  http://www.ipm.org.uk<o:p></o:p>
+  https://www.ipm.org.uk<o:p></o:p>
 
 
 
@@ -470,7 +470,7 @@ Sensuality is defined as relating the gratification of the senses or the indulge
 
 
 
-  <a href="http://www.sda.uk.net/">http://www.sda.uk.net/</a><o:p></o:p>
+  <a href="https://www.sda.uk.net/">https://www.sda.uk.net/</a><o:p></o:p>
 
 
 
@@ -513,7 +513,7 @@ Sensuality is defined as relating the gratification of the senses or the indulge
       
       <span style="font-family: &quot;Times New Roman&quot;; font-size: 10.0pt; mso-ansi-language: EN-AU; mso-bidi-language: AR-SA; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US;">[2]<!--[endif]--></a> Balon,A “The DSM Criteria of Sexual Dysfunction: Need for a Change”, 
       
-      <span style="mso-field-code: &quot; HYPERLINK  022http://www.informaworld.com/smpp/title~content=t713723519~db=all 022 \o  022Click to go to publication home 022 \t  022_top 022 &quot;;">Journal of Sex & Marital Therapy, Volume <span style="mso-field-code: &quot; HYPERLINK  022http://www.informaworld.com/smpp/title~content=t713723519~db=all~tab=issueslist~branches=34 022 \l  022v34 022 \o  022Click to view volume 022 \t  022_top 022 &quot;;">34, Issue <span style="mso-field-code: &quot; HYPERLINK  022http://www.informaworld.com/smpp/title~content=g792021450~db=all 022 \o  022Click to view issue 022 \t  022_top 022 &quot;;">3 May 2008 , pages 186 &#8211; 197<o:p></o:p>
+      <span style="mso-field-code: &quot; HYPERLINK  022https://www.informaworld.com/smpp/title~content=t713723519~db=all 022 \o  022Click to go to publication home 022 \t  022_top 022 &quot;;">Journal of Sex & Marital Therapy, Volume <span style="mso-field-code: &quot; HYPERLINK  022https://www.informaworld.com/smpp/title~content=t713723519~db=all~tab=issueslist~branches=34 022 \l  022v34 022 \o  022Click to view volume 022 \t  022_top 022 &quot;;">34, Issue <span style="mso-field-code: &quot; HYPERLINK  022https://www.informaworld.com/smpp/title~content=g792021450~db=all 022 \o  022Click to view issue 022 \t  022_top 022 &quot;;">3 May 2008 , pages 186 &#8211; 197<o:p></o:p>
     
   
   
@@ -559,7 +559,7 @@ Sensuality is defined as relating the gratification of the senses or the indulge
       
       <span style="font-family: &quot;Times New Roman&quot;; font-size: 10.0pt; mso-ansi-language: EN-AU; mso-bidi-language: AR-SA; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US;">[7]<!--[endif]--></a> Balon,A “The DSM Criteria of Sexual Dysfunction: Need for a Change”, 
       
-      <span style="mso-field-code: &quot; HYPERLINK  022http://www.informaworld.com/smpp/title~content=t713723519~db=all 022 \o  022Click to go to publication home 022 \t  022_top 022 &quot;;">Journal of Sex & Marital Therapy, Volume <span style="mso-field-code: &quot; HYPERLINK  022http://www.informaworld.com/smpp/title~content=t713723519~db=all~tab=issueslist~branches=34 022 \l  022v34 022 \o  022Click to view volume 022 \t  022_top 022 &quot;;">34, Issue <span style="mso-field-code: &quot; HYPERLINK  022http://www.informaworld.com/smpp/title~content=g792021450~db=all 022 \o  022Click to view issue 022 \t  022_top 022 &quot;;">3 May 2008 , pages 186 &#8211; 197<o:p></o:p>
+      <span style="mso-field-code: &quot; HYPERLINK  022https://www.informaworld.com/smpp/title~content=t713723519~db=all 022 \o  022Click to go to publication home 022 \t  022_top 022 &quot;;">Journal of Sex & Marital Therapy, Volume <span style="mso-field-code: &quot; HYPERLINK  022https://www.informaworld.com/smpp/title~content=t713723519~db=all~tab=issueslist~branches=34 022 \l  022v34 022 \o  022Click to view volume 022 \t  022_top 022 &quot;;">34, Issue <span style="mso-field-code: &quot; HYPERLINK  022https://www.informaworld.com/smpp/title~content=g792021450~db=all 022 \o  022Click to view issue 022 \t  022_top 022 &quot;;">3 May 2008 , pages 186 &#8211; 197<o:p></o:p>
     
     
     
@@ -591,7 +591,7 @@ Sensuality is defined as relating the gratification of the senses or the indulge
     
       <a href="https://www.blogger.com/blogger.g?blogID=4126609572633548921#_ftnref10" name="_ftn10" style="mso-footnote-id: ftn10;" title=""><span style="mso-special-character: footnote;"><!--[if !supportFootnotes]-->
       
-      <span style="font-family: &quot;Times New Roman&quot;; font-size: 10.0pt; mso-ansi-language: EN-AU; mso-bidi-language: AR-SA; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US;">[10]<!--[endif]--></a>http://www.theage.com.au/news/lifeandstyle/lifematters/new-contraceptive-pill/2009/01/22/1232471502991.html<o:p></o:p>
+      <span style="font-family: &quot;Times New Roman&quot;; font-size: 10.0pt; mso-ansi-language: EN-AU; mso-bidi-language: AR-SA; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US;">[10]<!--[endif]--></a>https://www.theage.com.au/news/lifeandstyle/lifematters/new-contraceptive-pill/2009/01/22/1232471502991.html<o:p></o:p>
     
     
     
@@ -630,7 +630,7 @@ Sensuality is defined as relating the gratification of the senses or the indulge
       
       <span style="font-family: &quot;Times New Roman&quot;; font-size: 10.0pt; mso-ansi-language: EN-AU; mso-bidi-language: AR-SA; mso-fareast-font-family: &quot;Times New Roman&quot;; mso-fareast-language: EN-US;">[13]<!--[endif]--></a> 
       
-      <span style="color: #333333; font-family: Arial; font-size: 9.0pt;">March 2004, http://<a href="http://www.pfizer.com/">www.<strong><span style="background: white; color: #cc0000; font-family: Arial; text-decoration: none; text-underline: none;">pfizer</strong>.com</a><o:p></o:p>
+      <span style="color: #333333; font-family: Arial; font-size: 9.0pt;">March 2004, https://<a href="https://www.pfizer.com/">www.<strong><span style="background: white; color: #cc0000; font-family: Arial; text-decoration: none; text-underline: none;">pfizer</strong>.com</a><o:p></o:p>
     
   
   
@@ -661,6 +661,6 @@ Sensuality is defined as relating the gratification of the senses or the indulge
     
     
     
-      <o:p><i>This article was originally published in an abridged version in <a href="http://en.wikipedia.org/wiki/Filament_(magazine)#Topics_Covered">Filament</a><u>, 2011.</u>&nbsp;</i></o:p>
+      <o:p><i>This article was originally published in an abridged version in <a href="https://en.wikipedia.org/wiki/Filament_(magazine)#Topics_Covered">Filament</a><u>, 2011.</u>&nbsp;</i></o:p>
     
   

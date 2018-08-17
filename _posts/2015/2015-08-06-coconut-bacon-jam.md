@@ -4,7 +4,7 @@ title: Coconut bacon jam
 date: 2015-08-06T09:48:28.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/?p=1174'
+guid: 'https://atravellingcook.com/?p=1174'
 permalink: /2015/08/coconut-bacon-jam.html
 tags:
   - cooking
@@ -16,7 +16,7 @@ format: image
 image: atc-migrate/2015/08/19717993023_11223154f6_k.jpg
 ---
 
-As a [cooking teacher](http://atravellingcook.com/cooking-classes) who teaches jam making and preserving, I was intrigued to come across bacon jam a few years ago. I like making coconut bacon so I decided to have a go at bacon jam. It's a lovely sweet, salty, smoky kind of flavour which the balsamic vinegar really brings out. I tried some for breakfast and it was delicious!
+As a [cooking teacher](https://atravellingcook.com/cooking-classes) who teaches jam making and preserving, I was intrigued to come across bacon jam a few years ago. I like making coconut bacon so I decided to have a go at bacon jam. It's a lovely sweet, salty, smoky kind of flavour which the balsamic vinegar really brings out. I tried some for breakfast and it was delicious!
 
 ![19716328154_3a0d12ac80_k](/images/atc-migrate/2015/08/19716328154_3a0d12ac80_k-768x1024.jpg)
 

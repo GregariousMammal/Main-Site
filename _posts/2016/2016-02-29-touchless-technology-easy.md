@@ -35,7 +35,7 @@ author:
 excerpt: New gesture control technology available to mobile industry
 ---
 
-[Elliptic Labs](http://www.ellipticlabs.com/) has been passionate about
+[Elliptic Labs](https://www.ellipticlabs.com/) has been passionate about
 gesture-controlled technology since its founding in 2006. While much of
 their energy has been focused on a touch-free mobile phone experience -
 enabling hands-free video recording and selfies - they unveiled EASY IoT

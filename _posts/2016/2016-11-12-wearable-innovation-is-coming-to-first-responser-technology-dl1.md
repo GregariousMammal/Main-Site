@@ -61,5 +61,5 @@ The Department of Homeland Security Science and Technology Directorate
 accelerator program designed to bring start-ups, accelerators, and other
 strategic partners together in a common research and development effort.
 The program operates in conjunction in conjunction
-with [TechNexus](http://technexus.com/) and its partner
-[CIT](http://www.cit.org/).
+with [TechNexus](https://technexus.com/) and its partner
+[CIT](https://www.cit.org/).

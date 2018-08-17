@@ -1,7 +1,7 @@
 ---
 title: Effective PDF Generation with Drupal
 created: 20150202
-publication_url: 'http://www.sitepoint.com/effective-pdf-generation-drupal/'
+publication_url: 'https://www.sitepoint.com/effective-pdf-generation-drupal/'
 categories: Chris writing sitepoint
 ---
 

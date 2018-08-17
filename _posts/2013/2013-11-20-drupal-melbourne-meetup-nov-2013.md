@@ -12,7 +12,7 @@ A great session tonight with two case studies from local Drupal shops...
 
 <a href="https://www.monkii.com.au" target="_blank">Monkii</a> work strongly with UX personas, building profiles of potential users before embarking on web projects, with the relaunch of the <a href="https://www.accaonline.org.au/" target="_blank">ACCA</a> site, content hubs were built to suit explorers and first timers to sites,  they have a rough idea of what they are looking for, but only broadly.
 
-Here's an example - <a href="http://www.accaonline.org.au/learn" target="_blank"> www.accaonline.org.au/learn</a>
+Here's an example - <a href="https://www.accaonline.org.au/learn" target="_blank"> www.accaonline.org.au/learn</a>
 
 They help guide a site visitor to where you want them to go and utilise 'meta' content types for highlighting 'real content'.
 

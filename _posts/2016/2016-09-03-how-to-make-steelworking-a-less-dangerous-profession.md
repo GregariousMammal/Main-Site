@@ -55,18 +55,18 @@ author:
 In recent years IoT has played an important role in worker safety with
 wearable and embedded sensors making it possible for workers to be
 monitored within their surroundings to prevent injury
-from[falls](http://www.fujitsu.com/global/about/resources/news/press-releases/2015/0511-01.html),
+from[falls](https://www.fujitsu.com/global/about/resources/news/press-releases/2015/0511-01.html),
 [toxic
-gas](http://www.honeywell.com/newsroom/pressreleases/2015/11/honeywell-and-intel-demonstrate-prototype-of-wearable-iot-connected-safety-solutions-for-industrial-workers-and-first-responders),
-and [overexertion](http://www.smartcaptech.com/). Wearable technology
+gas](https://www.honeywell.com/newsroom/pressreleases/2015/11/honeywell-and-intel-demonstrate-prototype-of-wearable-iot-connected-safety-solutions-for-industrial-workers-and-first-responders),
+and [overexertion](https://www.smartcaptech.com/). Wearable technology
 can prevent a range of injuries in some of the most dangerous
 occupations.
 
 [North Star Bluescope
-Steel](http://www.northstarbluescope.com/default.asp), a steel producer
+Steel](https://www.northstarbluescope.com/default.asp), a steel producer
 for global building and construction industries for Australia, New
 Zealand and North American markets, is [working with
-IBM](http://www-03.ibm.com/press/us/en/pressrelease/49994.wss) to
+IBM](https://www-03.ibm.com/press/us/en/pressrelease/49994.wss) to
 develop a cognitive platform that taps into IBM Watson IoT technology
 for wearable safety technology to help employees stay safer in dangerous
 environments. By gathering and analyzing sensor data collected from

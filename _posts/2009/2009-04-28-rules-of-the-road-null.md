@@ -51,12 +51,12 @@ A common reason for jumping red lights given by many cyclists is momentum. Unlik
 
 It does sadly seem that many cyclists suffer something of a superiority complex, taking the fact that they're 'doing their bit for the planet' as a carte blanche do what they like on the roads. Then there's the rebellious attitude that accompanies a lot of cyclists, the attitude that initially drives you to rebuke the four-wheeled majority and take to two wheels carries on into just doing what you damn like. Whatever your opinion or attitude, there are rules in place for a reason, if you don't agree with that reason or feel you are inappropriately represented or covered by regulations and rules then flaunting them isn't necessarily the best approach. One person breaking a rule because they feel justified or safer (which may have unforseen repercussions) in doing so achieves nothing, taking your complaints through official channels and making more intelligent larger scale protests through lobby groups (some listed below) or attending related public events can achieve better results.
 
-<a href=http://www.bv.com.au>www.bv.com.au</a>
+<a href=https://www.bv.com.au>www.bv.com.au</a>
 
-<a href=http://www.vicroads.vic.gov.au/Home/BicyclesPedestrians>www.vicroads.vic.gov.au/Home/BicyclesPedestrians</a>
+<a href=https://www.vicroads.vic.gov.au/Home/BicyclesPedestrians>www.vicroads.vic.gov.au/Home/BicyclesPedestrians</a>
 
-<a href=http://www.austroads.com.au/abc>www.austroads.com.au/abc</a>
+<a href=https://www.austroads.com.au/abc>www.austroads.com.au/abc</a>
 
-<a href=http://www.melbournecyclist.com/forum/topics/rule-breaking-cyclists>www.melbournecyclist.com/forum/topics/rule-breaking-cyclists</a>
+<a href=https://www.melbournecyclist.com/forum/topics/rule-breaking-cyclists>www.melbournecyclist.com/forum/topics/rule-breaking-cyclists</a>
 
 Published in Aduki

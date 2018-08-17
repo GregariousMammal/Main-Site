@@ -59,12 +59,12 @@ far, [there's been a proliferation of human performance data in the
 market, but a lack of understanding about what the data means and what
 to do with it. ]{.s1}
 
-[[EXOS](http://www.teamexos.com/) is a human performance company that
+[[EXOS](https://www.teamexos.com/) is a human performance company that
 trains elite athletes, such as the likes of Russell Wilson, Andrew Luck,
 and German National Soccer team. They also conducted a study with the
 U.S. national soccer team that investigated the [relationship between
 sleep and
-performance](http://sports.usatoday.com/2014/06/05/sleep-monitors-us-players-brazil/).
+performance](https://sports.usatoday.com/2014/06/05/sleep-monitors-us-players-brazil/).
 The company helps prepare hundreds of college players for the NFL every
 year, and it built on this program by reaching a deal with the NFL
 Players Association to provide lifestyle services to current and former
@@ -90,7 +90,7 @@ professionals, focusing on behavior upgrades and wearables data
 collection. This includes the first in a series of EXOS Presents
 courses, in collaboration with Intel, on wearables data. [The initial
 course focuses on leveraging data to help facilitate
-recovery](http://courses.teamexos.com/data-and-recovery/?utm_source=readwrite&utm_medium=article&utm_campaign=pr).\
+recovery](https://courses.teamexos.com/data-and-recovery/?utm_source=readwrite&utm_medium=article&utm_campaign=pr).\
 
 EXOS: Time to bring insight to data
 -----------------------------------
@@ -129,7 +129,7 @@ employee data has changed in purpose according to Friedman. I recall
 last year ago there was a lot of attention focused on BP's distribution
 of Fitbit fitness trackers to employees and their spouses with [activity
 points earning staff discounts on their health insurance
-premiums](http://www.bbc.co.uk/news/business-33261116).  Friedman
+premiums](https://www.bbc.co.uk/news/business-33261116).  Friedman
 stresses that there is a need to ensure that data focuses on a variety
 of activities in an ongoing way with a consideration of the individual
 beyond the quantified self, "Is  a healthier employee more happy, do

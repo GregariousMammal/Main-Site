@@ -64,7 +64,7 @@ excerpt: Report says Echo wins in customer reviews but consumers want to see bet
 
 The Smart Home market competing ecosystems is frustrating customers,
 according to a new report from [Argus
-Insights](http://www.argusinsights.com). The report looks at the top
+Insights](https://www.argusinsights.com). The report looks at the top
 current options for home connectivity and finds consumers less than
 delighted with an old tech theme - a lack of desire of competing
 technologies to work together.

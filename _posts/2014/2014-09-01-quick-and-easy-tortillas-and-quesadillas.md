@@ -4,7 +4,7 @@ title: Quick and easy tortillas and Quesadillas
 date: 2014-09-01T16:45:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/09/quick-and-easy-tortillas-and-quesadillas.html
+guid: https://atravellingcook.com/2014/09/quick-and-easy-tortillas-and-quesadillas.html
 permalink: /2014/09/quick-and-easy-tortillas-and-quesadillas.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -24,7 +24,7 @@ tags:
 ---
 <div style="background-color: white; color: #333333; line-height: 25.2000007629395px; margin-bottom: 1.8em;">
   
-    <a  href="http://4.bp.blogspot.com/-lGXdfdce-0I/VASXujT5NPI/AAAAAAAAJYo/RK7hAcNz9Yg/s1600/14919846380_4970588d4c_b.jpg"><img src="http://4.bp.blogspot.com/-lGXdfdce-0I/VASXujT5NPI/AAAAAAAAJYo/RK7hAcNz9Yg/s1600/14919846380_4970588d4c_b.jpg" alt="" width="400" height="340" border="0" /></a>
+    <a  href="https://4.bp.blogspot.com/-lGXdfdce-0I/VASXujT5NPI/AAAAAAAAJYo/RK7hAcNz9Yg/s1600/14919846380_4970588d4c_b.jpg"><img src="https://4.bp.blogspot.com/-lGXdfdce-0I/VASXujT5NPI/AAAAAAAAJYo/RK7hAcNz9Yg/s1600/14919846380_4970588d4c_b.jpg" alt="" width="400" height="340" border="0" /></a>
   
   
   
@@ -42,7 +42,7 @@ tags:
 
 
 <div style="background-color: white; color: #333333; line-height: 25.2000007629395px; margin-bottom: 1.8em;">
-                         <a style="line-height: normal; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-CpnTSzr8ZcA/VASSiNpC1CI/AAAAAAAAJXw/jlvnEtE7W-c/s1600/15106125742_5a0cb69888_z.jpg"><img src="http://4.bp.blogspot.com/-CpnTSzr8ZcA/VASSiNpC1CI/AAAAAAAAJXw/jlvnEtE7W-c/s1600/15106125742_5a0cb69888_z.jpg" alt="" width="400" height="310" border="0" /></a>
+                         <a style="line-height: normal; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-CpnTSzr8ZcA/VASSiNpC1CI/AAAAAAAAJXw/jlvnEtE7W-c/s1600/15106125742_5a0cb69888_z.jpg"><img src="https://4.bp.blogspot.com/-CpnTSzr8ZcA/VASSiNpC1CI/AAAAAAAAJXw/jlvnEtE7W-c/s1600/15106125742_5a0cb69888_z.jpg" alt="" width="400" height="310" border="0" /></a>
 
 
 <div style="background-color: white; color: #333333; line-height: 25.2000007629395px; margin-bottom: 1.8em;">
@@ -101,7 +101,7 @@ tags:
 
 
 
-                       <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-mSvLqfyIdwE/VASSi2TagdI/AAAAAAAAJX0/pDoee85eRD8/s1600/14919921717_6b00a42553_k.jpg"><img src="http://3.bp.blogspot.com/-mSvLqfyIdwE/VASSi2TagdI/AAAAAAAAJX0/pDoee85eRD8/s1600/14919921717_6b00a42553_k.jpg" alt="" width="400" height="318" border="0" /></a>
+                       <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-mSvLqfyIdwE/VASSi2TagdI/AAAAAAAAJX0/pDoee85eRD8/s1600/14919921717_6b00a42553_k.jpg"><img src="https://3.bp.blogspot.com/-mSvLqfyIdwE/VASSi2TagdI/AAAAAAAAJX0/pDoee85eRD8/s1600/14919921717_6b00a42553_k.jpg" alt="" width="400" height="318" border="0" /></a>
 
 
 

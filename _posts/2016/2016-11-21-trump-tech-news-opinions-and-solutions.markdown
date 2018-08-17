@@ -36,12 +36,12 @@ Do not underestimate the power of a perceived 'solution to your problems'. The r
 I wont go anymore into how and why we go there, writers have put it far better than me, including:
 
 - [Trump voters will not like what happens next](https://www.washingtonpost.com/opinions/trump-voters-will-not-like-what-happens-next/2016/11/09/e346ffc2-a67f-11e6-8fc0-7be8f848c492_story.html).
-- [Globalisation is dead](http://www.theguardian.com/commentisfree/2016/nov/09/globalisation-dead-white-supremacy-trump-neoliberal).
-- [White voters gave victory to Trump](http://www.theguardian.com/us-news/2016/nov/09/white-voters-victory-donald-trump-exit-polls).
-- [How the tech industry got Trump elected](http://thenextweb.com/politics/2016/11/10/how-the-tech-industry-got-donald-trump-elected/).
-- [How much is Facebook to blame](http://gizmodo.com/how-much-is-facebook-to-blame-1788773278).
+- [Globalisation is dead](https://www.theguardian.com/commentisfree/2016/nov/09/globalisation-dead-white-supremacy-trump-neoliberal).
+- [White voters gave victory to Trump](https://www.theguardian.com/us-news/2016/nov/09/white-voters-victory-donald-trump-exit-polls).
+- [How the tech industry got Trump elected](https://thenextweb.com/politics/2016/11/10/how-the-tech-industry-got-donald-trump-elected/).
+- [How much is Facebook to blame](https://gizmodo.com/how-much-is-facebook-to-blame-1788773278).
 - [Trump is in the White house because of me](https://www.washingtonpost.com/news/the-intersect/wp/2016/11/17/facebook-fake-news-writer-i-think-donald-trump-is-in-the-white-house-because-of-me/).
-- [Don't Panic](http://www.cracked.com/blog/dont-panic/).
+- [Don't Panic](https://www.cracked.com/blog/dont-panic/).
 
 You'll notice that these are a mixture of angles on the same subject, because of course there are multiple reasons events happen, but also because they reflect aspects of my interests and solutions.
 
@@ -57,7 +57,7 @@ For the past decades the 'left' has spent a lot of time bickering amongst itself
 
 This is an issue in itself, we have got used to different political and social opinions mixing so much in a blurred middle, that we neglected to notice the extreme ends of opinion where no longer having a voice. Voicing and hearing a mixture of opinions, no matter how you feel about them is important, only when we acknowledge them can we reason with them.
 
-If we believe in a certain opinion to be correct, and counter the opinions of others, we need to be better at explaining why and doing something about it. The 'us and them' attitudes are no longer relevant or constructive. The [Don't Panic](http://www.cracked.com/blog/dont-panic/) article listed above does a good job of explaining how 'they' won, what 'we' can learn, and how to act better. In the past two weeks I have had conversations with people unhappy with the state of the world, and some I found constructive, with people who saw how we now need to act, whist others were the typical woolly headed academic conversations the 'we' have become famous for.
+If we believe in a certain opinion to be correct, and counter the opinions of others, we need to be better at explaining why and doing something about it. The 'us and them' attitudes are no longer relevant or constructive. The [Don't Panic](https://www.cracked.com/blog/dont-panic/) article listed above does a good job of explaining how 'they' won, what 'we' can learn, and how to act better. In the past two weeks I have had conversations with people unhappy with the state of the world, and some I found constructive, with people who saw how we now need to act, whist others were the typical woolly headed academic conversations the 'we' have become famous for.
 
 We can no longer just disagree with someone's opinion, we need to understand why they might have that opinion and if we feel it is incorrect, explain why. Not just demean, patronise and block others who don't share the same viewpoint. By doing this, we are no better than those we claim are rude and offensive.
 

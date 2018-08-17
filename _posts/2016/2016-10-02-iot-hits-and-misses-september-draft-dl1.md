@@ -108,10 +108,10 @@ Sony glass sound speaker
 
 Envisage a rather delicate looking wireless lamp with a speaker. Bundle
 it with a suite of exclusive products by Sony called [Life Space
-UX](http://www.sony.com/electronics/life-space-ux). Add a marketing
+UX](https://www.sony.com/electronics/life-space-ux). Add a marketing
 campaign that includes a troupe of hipsters carrying the lamp through a
 forest at night and using it for a spot of
-[glamping](http://www.glamping.com/what-is-glamping/).
+[glamping](https://www.glamping.com/what-is-glamping/).
 
 Add a price tag of \$799. Yes, it's essentially \$800 for a
 lantern/speaker combo, made of easily breakable components like glass,
@@ -130,7 +130,7 @@ Alchema
 DIY homebrewing and fermenting is a hobby enjoyed by many all around the
 world. Coming from a home where you could be awakened by homemade ginger
 beer bottles exploding in the laundry, there's a number of very tangible
-benefits to the [Alchema](http://www.alchema.com/product)system.
+benefits to the [Alchema](https://www.alchema.com/product)system.
 
 It comes with recipes on a corresponding app which also includes key
 facts about your current batch, including fermentation temperature,
@@ -190,7 +190,7 @@ Lowiee smart cigarette case
 .aligncenter width="970" height="411"}
 
 Quitting smoking can a difficult and disheartening experience for many.
-French company [Lowiee](http://www.lowiee.com/) have come up with a
+French company [Lowiee](https://www.lowiee.com/) have come up with a
 novel way to support people in the process through a connected cigarette
 case. Users can set the number of cigarettes they want to smoke in a day
 along with a time interval between the dispensing of each cigarette.
@@ -218,7 +218,7 @@ orgasm.
 
 With the assertion *"*Set the alarm and slip it in your panties. Because
 of its shape you won't notice it,*"* the makers of the[Little
-Rooster](http://www.littleroosterstore.com/)connected sex toy/alarm
+Rooster](https://www.littleroosterstore.com/)connected sex toy/alarm
 clock are obviously heavier sleepers than the rest of us. It's a product
 that leaves me with more questions than answers. How could you not
 notice a big hunk of plastic in your nether regions? What happens when

@@ -4,7 +4,7 @@ title: Picalilli
 date: 2015-01-12T13:48:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/01/picalilli.html
+guid: https://atravellingcook.com/2015/01/picalilli.html
 permalink: /2015/01/picalilli.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -36,7 +36,7 @@ tags:
 
 
 
-  <a  href="http://3.bp.blogspot.com/-JLKcATRBpPs/VLO8yz7NnQI/AAAAAAAAKbc/QuxLAeaamI0/s1600/16076930569_85f78a3a44_o.jpg"><img src="http://3.bp.blogspot.com/-JLKcATRBpPs/VLO8yz7NnQI/AAAAAAAAKbc/QuxLAeaamI0/s1600/16076930569_85f78a3a44_o.jpg" alt="" width="400" height="383" border="0" /></a>
+  <a  href="https://3.bp.blogspot.com/-JLKcATRBpPs/VLO8yz7NnQI/AAAAAAAAKbc/QuxLAeaamI0/s1600/16076930569_85f78a3a44_o.jpg"><img src="https://3.bp.blogspot.com/-JLKcATRBpPs/VLO8yz7NnQI/AAAAAAAAKbc/QuxLAeaamI0/s1600/16076930569_85f78a3a44_o.jpg" alt="" width="400" height="383" border="0" /></a>
 
 
 

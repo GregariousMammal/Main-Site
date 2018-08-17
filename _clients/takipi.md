@@ -2,7 +2,7 @@
 type: blogging
 
 title: Takipi
-company_url: 'http://blog.takipi.com/'
+company_url: 'https://blog.takipi.com/'
 image: takipi.png
 category: Chris writing
 start_date: 2017

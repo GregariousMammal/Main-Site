@@ -63,7 +63,7 @@ physical cash transaction and have it delivered to us in what can feel
 like the blink of an eye. In times where retail fashion can be bought in
 seconds and free returns mean that your apartment can be an at-home
 changing room, I was interested to talk last week to Healey Cypher,
-co-founder and CEO of [Oak](http://www.oaklabs.is/) and creator of a
+co-founder and CEO of [Oak](https://www.oaklabs.is/) and creator of a
 hardware enabled platform that uses mirrors as a conduit to transform
 the retail experience.
 

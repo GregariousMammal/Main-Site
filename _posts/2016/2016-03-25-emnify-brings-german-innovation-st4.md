@@ -63,8 +63,8 @@ Germany has been long considered a country of scientific, technological
 and engineering innovation. This is reflected in the strength of  IoT
 technology which extends far beyond the automobile industry.  Keen to
 get a feel for an insider's perspective, I met with Martin Giess,
-[EMnify](http://www.emnify.com/) co-founder and Chief Technology Officer
-and Frank Stoecker, [EMnify](http://www.emnify.com/) co-founder and CEO.
+[EMnify](https://www.emnify.com/) co-founder and Chief Technology Officer
+and Frank Stoecker, [EMnify](https://www.emnify.com/) co-founder and CEO.
 
 EMnify is  a next-generation elastic Cloud Service enabling enterprises
 and OEMs to connect M2M (machine to machine) and IoT devices globally

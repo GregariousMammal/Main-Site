@@ -81,9 +81,9 @@ While I'm not really the target market that lusts after luxury bags, I
 do know that if I was to purchase one, I would want proof that I was
 buying the real deal and not a cheap knock-off.
 
-Electronics and smart systems company [Thinfilm](http://www.thinfilm.no)
+Electronics and smart systems company [Thinfilm](https://www.thinfilm.no)
 recently announced a partnership
-with [[Maria&Donato](http://www.mariadonato.com), a craftsman
+with [[Maria&Donato](https://www.mariadonato.com), a craftsman
 leather-goods manufacturer and provider of premium handbags. ]{.s1}[The
 two companies are integrating Thinfilm’s NFC SpeedTaü tags into
 Maria&Donato’s exclusive handbag collections to battle counterfeiting
@@ -114,7 +114,7 @@ lived in Australia it was not uncommon to see children on leashes to
 stop them running across the road. Now there's a wearable wanting to
 address this problem in a more technical way.
 
-The [Kiband](http://kiband.com/) is a wearable device designed for
+The [Kiband](https://kiband.com/) is a wearable device designed for
 situations when children wander off in public places like parks, malls,
 grocery stores and public events. It's a wristband, or ankle band if you
 prefer, with a patent-pending internal locking mechanism. A
@@ -143,7 +143,7 @@ Elvie
 ![Elvie-product-shot-B](rw-import/Elvie-product-shot-B.jpg){.alignnone
 .size-full .wp-image-4554 width="845" height="748"}
 
-[Pelvic floor dysfunction](http://www.ncbi.nlm.nih.gov/pubmed/19932408)
+[Pelvic floor dysfunction](https://www.ncbi.nlm.nih.gov/pubmed/19932408)
 encompasses a range of health conditions that can affect up to 60% of
 women at a stage of life. [Elvie](https://www.elvie.com/) is a wearable
 device that facilitates exercise therapy to successfully treat these
@@ -185,14 +185,14 @@ Tree Wi-Fi
 pollution](https://readwrite.com/2016/06/27/iot-brings-accuracy-to-the-problem-of-air-pollution-tl1/)is
 one of the problems of modern society where the Internet of Things can
 be part of the solution. Amsterdam based start-up
-[TreeWiFi](http://www.heroesandfriends.com/projects/treewifi)  are
+[TreeWiFi](https://www.heroesandfriends.com/projects/treewifi)  are
 building birdhouses that measure air pollution and make the levels of
 pollution visible through an LED status light. Obviously visibility is
 only one part of the tools needed to fight pollution.
 
 TreeWifi take this a step further. When the server detects an
 improvement in air quality, it allows the birdhouse to share it’s
-[internet connection](http://inhabitat.com/tag/wifi/) with everyone in
+[internet connection](https://inhabitat.com/tag/wifi/) with everyone in
 the street. Users that connect to the network get tips & tricks on how
 to improve air quality locally before going online. It's an innovative
 way to tackle a problem where residential engagement can be difficult.

@@ -87,12 +87,12 @@ revolution?](https://readwrite.com/2016/05/09/blockhain-new-ir/)*
 One team has found a novel way to address these inefficiencies and
 authenticity challenges through the blockchain.  In January Dominik
 Schiener and his team won first prize at the [Shanghai Blockchain
-Hackathon](http://www.blockchainlabs.org/blockchain-hackthon-en/) for
+Hackathon](https://www.blockchainlabs.org/blockchain-hackthon-en/) for
 their
 project [Cargochain](https://github.com/domschiener/cargochain/tree/master/presentation).
 We saw their work recently here in Berlin where they won the silver
 medal at the [GTEC Blockchain Innovation
-Awards](http://gtec.berlin/announcing-the-shortlist-for-the-gtec-blockchain-innovation-award/) and I
+Awards](https://gtec.berlin/announcing-the-shortlist-for-the-gtec-blockchain-innovation-award/) and I
 met with Dominik to learn more about it.
 
 **ReadWrite: How did your interest in the block chain and IoT come
@@ -133,7 +133,7 @@ DS: The main technological innovation of IOTA is the Tangle, which is a
 completely new Blockchain design that gets rid of the blocks and
 introduces a Directed Acyclic Graph (DAG) (NOTE: you can read the
 whitepaper on this technology at
-<http://iotatoken.com/IOTA_Whitepaper.pdf>). The way the Tangle achieves
+<https://iotatoken.com/IOTA_Whitepaper.pdf>). The way the Tangle achieves
 consensus is entirely self-regulating. This means that consensus is no
 longer decoupled as with today’s blockchains. Because of this, IOTA is
 scalable, it is no longer limited to 10-minute block times and most

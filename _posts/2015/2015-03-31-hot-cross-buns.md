@@ -4,7 +4,7 @@ title: Hot cross buns
 date: 2015-03-31T11:32:10+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=622
+guid: https://atravellingcook.com/?p=622
 permalink: /2015/03/hot-cross-buns.html
 tags:
   - australia
@@ -22,7 +22,7 @@ format: image
 
 Hot cross buns are something I really miss in Germany. In Australia they pop up in bakeries and supermarkets a few days after Christmas to the outrage of the traditionalists who prefer a break between their mince tarts and easter eggs. I&#8217;ve been making my own hot cross buns for a few years. I tend to vary the fruit and nuts used in the mix depending on what I have on hand. Figs, dates, apricots, dried apple all work well. You can also add chocolate chips. I&#8217;m not a fan of peel so I tend to leave it out but by all means go for your life if you like it!
 
-They are really easy to make, especially if you have the crosses and glaze good to go before the second rise so you can add the crosses before you pop them in the oven and the glaze once you take them out. Serve with butter of choice and your favourite jam. I like [strawberry and rosewater](http://atravellingcook.com/2014/07/strawberry-fields-forever-strawberry-and-rosewater-jam-strawberry-cordial.html) and also [pear and vanilla bean](http://atravellingcook.com/2014/12/pear-and-vanilla-bean-jam.html "Pear and vanilla bean jam") works really well.
+They are really easy to make, especially if you have the crosses and glaze good to go before the second rise so you can add the crosses before you pop them in the oven and the glaze once you take them out. Serve with butter of choice and your favourite jam. I like [strawberry and rosewater](https://atravellingcook.com/2014/07/strawberry-fields-forever-strawberry-and-rosewater-jam-strawberry-cordial.html) and also [pear and vanilla bean](https://atravellingcook.com/2014/12/pear-and-vanilla-bean-jam.html "Pear and vanilla bean jam") works really well.
 
 <div class="region region-content">
   <div id="block-system-main" class="block block-system">

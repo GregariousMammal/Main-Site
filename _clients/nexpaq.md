@@ -2,7 +2,7 @@
 type: marketing
 
 title: nexpaq
-company_url: 'http://nexpaq.com'
+company_url: 'https://nexpaq.com'
 image: nexpaq.png
 category: Cate marketing
 start_date: 2015

@@ -4,7 +4,7 @@ title: 'Quick quinoa &#8216;fried rice&#8217;'
 date: 2015-03-05T15:31:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/03/quick-quinoa-fried-rice.html
+guid: https://atravellingcook.com/2015/03/quick-quinoa-fried-rice.html
 permalink: /2015/03/quick-quinoa-fried-rice.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -38,7 +38,7 @@ tags:
   
   
   <p class="separator">
-    <a href="http://4.bp.blogspot.com/-CMAWyNNfRe4/VPhpO1cAeNI/AAAAAAAAKwI/_-v-FMDTV08/s1600/2015-03-05%2B15.14.56.jpg"><img src="https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F4.bp.blogspot.com%2F-CMAWyNNfRe4%2FVPhpO1cAeNI%2FAAAAAAAAKwI%2F_-v-FMDTV08%2Fs1600%2F2015-03-05%252B15.14.56.jpg&container=blogger&gadget=a&rewriteMime=image%2F*" alt="" width="320" height="312" border="0" data-orig-src="http://4.bp.blogspot.com/-CMAWyNNfRe4/VPhpO1cAeNI/AAAAAAAAKwI/_-v-FMDTV08/s1600/2015-03-05%2B15.14.56.jpg" /></a>
+    <a href="https://4.bp.blogspot.com/-CMAWyNNfRe4/VPhpO1cAeNI/AAAAAAAAKwI/_-v-FMDTV08/s1600/2015-03-05%2B15.14.56.jpg"><img src="https://images-blogger-opensocial.googleusercontent.com/gadgets/proxy?url=http%3A%2F%2F4.bp.blogspot.com%2F-CMAWyNNfRe4%2FVPhpO1cAeNI%2FAAAAAAAAKwI%2F_-v-FMDTV08%2Fs1600%2F2015-03-05%252B15.14.56.jpg&container=blogger&gadget=a&rewriteMime=image%2F*" alt="" width="320" height="312" border="0" data-orig-src="https://4.bp.blogspot.com/-CMAWyNNfRe4/VPhpO1cAeNI/AAAAAAAAKwI/_-v-FMDTV08/s1600/2015-03-05%2B15.14.56.jpg" /></a>
   
   
   <p style="text-align: left;">
@@ -126,4 +126,4 @@ tags:
 
 
 
-<a  href="http://4.bp.blogspot.com/-PEvzLwQqKLw/VPhrxMbSm3I/AAAAAAAAKwU/-P_0SmFJcvM/s1600/2015-03-05%2B15.14.56.jpg"><img src="http://4.bp.blogspot.com/-PEvzLwQqKLw/VPhrxMbSm3I/AAAAAAAAKwU/-P_0SmFJcvM/s1600/2015-03-05%2B15.14.56.jpg" alt="" width="320" height="316" border="0" /></a>
+<a  href="https://4.bp.blogspot.com/-PEvzLwQqKLw/VPhrxMbSm3I/AAAAAAAAKwU/-P_0SmFJcvM/s1600/2015-03-05%2B15.14.56.jpg"><img src="https://4.bp.blogspot.com/-PEvzLwQqKLw/VPhrxMbSm3I/AAAAAAAAKwU/-P_0SmFJcvM/s1600/2015-03-05%2B15.14.56.jpg" alt="" width="320" height="316" border="0" /></a>

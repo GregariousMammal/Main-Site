@@ -8,6 +8,6 @@ categories: Chris writing chrischinchilla
 
 Lots of news and reviews to post here soon, but in the meantime here's my latest Indieoma.com post with all sorts of stuff in it...
 
-<a href=<http://www.indieoma.com/public_journal.php?d=d1f491a404d6854880943e5c3cd9ca25>" target="_blank">Diversity from Downunder</a>
+<a href=<https://www.indieoma.com/public_journal.php?d=d1f491a404d6854880943e5c3cd9ca25>" target="_blank">Diversity from Downunder</a>
 
 Enjoy :-)"

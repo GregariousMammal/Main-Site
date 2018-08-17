@@ -78,7 +78,7 @@ Cyborg Nest recently launched their first commercial product, North
 Sense, a Bluetooth-enabled, thumbnail-sized embeddable piece of tech
 that attaches to your body with a couple piercings and vibrates every
 time it faces [magnetic
-north](http://gisgeography.com/magnetic-north-vs-geographic-true-pole/).
+north](https://gisgeography.com/magnetic-north-vs-geographic-true-pole/).
 The Cyborg Nest website couches their wearables in an unfortunately
 "mystical" language which obscures the practical benefits of wearables
 in everyday life for many people. Let's face it - - there are other more
@@ -104,7 +104,7 @@ question of how it will change people:
 > you're reading this sentence."]{.color_1}
 
 North Sense seems tame compared to predecessors like the work
-of [Grindhouse wetware](http://www.grindhousewetware.com/), a Pittsburgh
+of [Grindhouse wetware](https://www.grindhousewetware.com/), a Pittsburgh
 startup that created Northstar V1, an implanted wearable device,
 pictured below, that gives wearers "the possibility of implanting
 technology in the body and paves the way for more advanced and
@@ -125,5 +125,5 @@ beyond being simply "worn."
 
 You can pre-order North Sense now for \$367, with the initial 2,000
 units expected ship in September. Beyond that, you'll have to wait for
-the next [Biohacker Summit](http://biohackersummit.com/) in Helsinki or
+the next [Biohacker Summit](https://biohackersummit.com/) in Helsinki or
 liaise with [Dangerous Things.](https://dangerousthings.com/)

@@ -17,7 +17,7 @@ Wichertstrasse, 54<br/>
 
 Telephone: +4917698758931<br/>
 E-Mail: <mailto:chriswhward@gmail.com><br/>
-Internetadresse: [gregariousmammal.com](http://www.gregariousmammal.com)<br/>
+Internetadresse: [gregariousmammal.com](https://www.gregariousmammal.com)<br/>
 
 ## VAT number
 
@@ -57,7 +57,7 @@ Wichertstrasse, 54<br/>
 
 Telefon: +4917698758931<br/>
 E-Mail: <mailto:chriswhward@gmail.com><br/>
-Internetadresse: [gregariousmammal.com](http://www.gregariousmammal.com)<br/>
+Internetadresse: [gregariousmammal.com](https://www.gregariousmammal.com)<br/>
 
 ## Umsatzsteuer-ID
 
@@ -86,4 +86,4 @@ Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wi
 
 Die durch die Seitenbetreiber erstellten bzw. verwendeten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
 
-_With help from:_ [www.Kanzlei-CH.de](http://www.kanzlei-ch.de)
+_With help from:_ [www.Kanzlei-CH.de](https://www.kanzlei-ch.de)

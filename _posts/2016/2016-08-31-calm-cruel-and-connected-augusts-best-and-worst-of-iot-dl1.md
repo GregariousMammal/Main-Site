@@ -79,7 +79,7 @@ With the proliferation of air strikes and chemical warfare, it would be
 easy to think of land mines as a problem of another era. Yet every day
 at least 10 people around the world lose their life or limb to a
 landmine or another explosive remnant of war with over [60
-countries](http://www.icbl.org/en-gb/the-treaty/treaty-status.aspx "Treaty Status")
+countries](https://www.icbl.org/en-gb/the-treaty/treaty-status.aspx "Treaty Status")
 around the world  contaminated by landmines. Pokemon Go players in
 Bosnia have even been warned to[avoid certain
 areas](https://www.theguardian.com/technology/2016/jul/20/pokemon-go-players-in-bosnia-warned-to-steer-clear-of-landmines)

@@ -75,7 +75,7 @@ project](https://readwrite.com/2016/09/24/blockchain-drives-wanxiangs-30b-smart-
 But first, let's delve into guns before we explore the inclusion of the
 blockchain. In April  this year, President Obama[ made funding for smart
 gun
-research](http://www.cnet.com/news/obama-orders-feds-to-study-smart-gun-technology/)
+research](https://www.cnet.com/news/obama-orders-feds-to-study-smart-gun-technology/)
 part of his end-of-term efforts.  The smart gun promises a technological
 fix for gun violence by keeping firearms out of the hands of people who
 shouldn’t have them — thieves, children, and anyone else who isn’t the
@@ -94,7 +94,7 @@ The strange history of smart guns
 
 For those of us born outside of America, it's hard to imagine the notion
 that smart gun development has been thwarted by politics and [political
-lobbying](http://www.cbsnews.com/news/60-minutes-is-the-u-s-ready-for-smart-guns/) and
+lobbying](https://www.cbsnews.com/news/60-minutes-is-the-u-s-ready-for-smart-guns/) and
 an underlying concern that their introduction would lead to stricter gun
 control. But it's the strange reality. In 1999, gunmaker Smith & Wesson
 promised the Clinton White House to develop smart guns that can be fired
@@ -109,7 +109,7 @@ that smart guns would soon be the only guns people were allowed to buy,
 infringing on individual’s rights bear arms of their choosing.
 
 Gunmakers Colt received a [\$500,000
-grant](http://fortune.com/2015/04/22/smart-guns-theyre-ready-are-we/){.markup--anchor
+grant](https://fortune.com/2015/04/22/smart-guns-theyre-ready-are-we/){.markup--anchor
 .markup--p-anchor} from the Justice Department in 1997 to complete
 development of a handgun that would work with RFID via a wristband.
 Smith and Wesson
@@ -120,9 +120,9 @@ prototypes were completed but no one was using them and Smith & Wesson
 had to layoff 15 percent of its staff due to boycotts.
 
 In 2014, when [Engage
-Armament](http://www.reuters.com/article/us-usa-maryland-smartgun-idUSBREA410SD20140502)
+Armament](https://www.reuters.com/article/us-usa-maryland-smartgun-idUSBREA410SD20140502)
 of Washington shared their intentions to sell the [German Armatix iP1
-.22](http://www.armatix.de/iP1-Pistol.779.0.html?&L=1)-caliber handgun,
+.22](https://www.armatix.de/iP1-Pistol.779.0.html?&L=1)-caliber handgun,
 which electronically limits the ability to fire the weapon, the shop
 received thousands of complaints and threats of violence and death,
 forcing them to reconsider their decision.
@@ -139,7 +139,7 @@ pressure from gun rights activists on manufacturers not to develop the
 technology.
 
 [This
-week](http://www.guns.com/2016/09/22/smart-gun-bill-introduced-in-congress/) California
+week](https://www.guns.com/2016/09/22/smart-gun-bill-introduced-in-congress/) California
 congressman Rep. Mark DeSaulnier, submitted the [Modernizing Firearms
 Technology Act ](https://www.govtrack.us/congress/bills/114/hr6080)to
 Congress. The bill would require gun retailers to display at least one

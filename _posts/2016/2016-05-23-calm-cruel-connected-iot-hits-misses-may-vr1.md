@@ -81,7 +81,7 @@ Smiirl's social media counter
 Some people need regular validation. They stare in the mirror and think
 "But do people really like me?" If such people started a business, this
 would be the product for them, [a visual counter by
-Smiirl](http://www.smiirl.com/en/)displaying their company's number of
+Smiirl](https://www.smiirl.com/en/)displaying their company's number of
 Twitter, Facebook or Instagram likes. As the company explains:
 
 > <div>
@@ -108,7 +108,7 @@ The Smart Zabuton
 
 For cafe staff too busy staring at the social media counter to notice
 that their customers have moved from their seats, there is the [Smart
-Zabuton](http://www.keyvalue.jp/?stage=press_smartchair), a cushion with
+Zabuton](https://www.keyvalue.jp/?stage=press_smartchair), a cushion with
 that emits a signal when sat on (no, not like a whoopie cushion). This
 allows cafe staff to use the corresponding app to check how many seats
 are free in a cafe or restaurant. I guess it could come in handy if you
@@ -124,7 +124,7 @@ my.Flow
 .aligncenter width="639" height="388"}
 
 Did you know someone has made a smart tampon? You seem shocked. Anyway,
-the[my.flow](http://www.trackmyflow.com/) notifies the wearer when it
+the[my.flow](https://www.trackmyflow.com/) notifies the wearer when it
 needs to be changed. It works via a long tampon string that reaches out
 of your underwear and attaches to a snap-on bluetooth sensor. This
 bluetooth sensor can then be clipped on to your waistband.This sensor
@@ -139,7 +139,7 @@ The company is currently seeking funding with the intention to sell the
 sensor for a one-time price of \$49. I'm genuinely amazed how many
 prizes this product has won, especially when more technology is
 addressing the problem in innovative ways like [high tech absorbent
-underwear](http://www.dearkates.com/pages/technology-new). It's also
+underwear](https://www.dearkates.com/pages/technology-new). It's also
 reminiscent of the [Pro-pregnancy
 tracker](https://readwrite.com/2016/01/08/ces-2016-misses/) in being a
 rather redundant means to solve an issue. **Verdict: Miss.**
@@ -153,7 +153,7 @@ Mobile phones are not conducive to the kitchen environment. I'm a keen
 cook and often find myself unable to answer the phone due to fingers
 encased with dough. I've also had the unpleasant experience of dropping
 a mobile in a sink full of water from an apron product while teaching a
-class. The Triby by [Invoxia](http://www.invoxia.com/) comes to
+class. The Triby by [Invoxia](https://www.invoxia.com/) comes to
 my rescue.
 
 <div>
@@ -179,7 +179,7 @@ Bitlock
 As a person who loses keys more often than I'd like to admit, this
 product is very appealing. I also live in Berlin, where bike thefts are
 a huge problem - thieves literally go around with cutters and steal
-enough bikes to fill a truck.  [BitLock](http://bitlock.co/) is made of
+enough bikes to fill a truck.  [BitLock](https://bitlock.co/) is made of
 reinforced and heat-treated steel combined with a high-security disc
 locking mechanism. The lock is not only keyless but it's corresponding
 app enables users to transfer pin number access to friends or visitors.

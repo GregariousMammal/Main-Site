@@ -32,19 +32,19 @@ author:
   last_name: Lawrence
 ---
 [Reports this
-week](http://www.businessinsider.com/tweets-on-twitter-is-in-serious-decline-2016-2?r=UK&IR=T)
+week](https://www.businessinsider.com/tweets-on-twitter-is-in-serious-decline-2016-2?r=UK&IR=T)
 suggest that the number of tweets per day created by Twitter's users has
 fallen by more than half since a peak in August 2014, according to a
 sampling of data from Twitter's API. It's hardly surprising, as both the
 media and tech sector have been charting and predicting its downward
 trajectory for several years. This is in addition to [hits on the stock
-exchange](http://fortune.com/2015/06/12/twitter-ceo-dick-costolo-resigns/)in
+exchange](https://fortune.com/2015/06/12/twitter-ceo-dick-costolo-resigns/)in
 2014, a [change of
-CEO](http://fortune.com/2015/06/11/twitter-costolo-dorsey/) in 2015, the
+CEO](https://fortune.com/2015/06/11/twitter-costolo-dorsey/) in 2015, the
 debacle regarding the[identity 2013 of Boston Marathon
-bomber](http://faculty.washington.edu/kstarbi/Starbird_iConference2014-final.pdf),
+bomber](https://faculty.washington.edu/kstarbi/Starbird_iConference2014-final.pdf),
 and persistent reports of [bullying via
-twitter](http://www.theguardian.com/commentisfree/2014/jan/08/twitter-bullies-voice-responsibility-caroline-criado-perez)
+twitter](https://www.theguardian.com/commentisfree/2014/jan/08/twitter-bullies-voice-responsibility-caroline-criado-perez)
 from the general public, politicians and celebrities.
 
 Whatever statistical or financial report you choose to read, it's a
@@ -62,7 +62,7 @@ it.
 
 The \#RIPTwitter debacle may be a blessing in disguise. The hashtag hit
 the social media on Saturday after an article [from
-Buzzfeed](http://www.buzzfeed.com/alexkantrowitz/twitter-to-introduce-algorithmic-timeline-as-soon-as-next-we?utm_term=.okYwordBK#.si1v189Mx) stating
+Buzzfeed](https://www.buzzfeed.com/alexkantrowitz/twitter-to-introduce-algorithmic-timeline-as-soon-as-next-we?utm_term=.okYwordBK#.si1v189Mx) stating
 that Twitter would soon prioritise the Tweets that appear on a user's
 timeline based on algorithms. Essentially, under the reported new
 system, you'd see Tweets that Twitter thinks you'd like, rather than in
@@ -133,7 +133,7 @@ Twitter-based harassment, assessed them, and escalated reports as
 necessary to Twitter for special attention.
 
 The [subsequent
-report](http://www.womenactionmedia.org/twitter-report/)is interesting
+report](https://www.womenactionmedia.org/twitter-report/)is interesting
 if unpleasant reading. It involved 811 incoming reports of harassment
 and discussed a range of issues such as different kinds of harassment
 (including doxxing), problems with duplicate reports and those sent by a
@@ -153,7 +153,7 @@ enforcement.](https://blog.twitter.com/2015/making-it-easier-to-report-threats-t
 
 Twitter has also cracked down on doxxing and revenge porn with [changes
 to its usage
-policies](http://www.buzzfeed.com/charliewarzel/twitter-tackles-revenge-porn?bftw&utm_term=.opZBvj79K#.ac8068gxp)
+policies](https://www.buzzfeed.com/charliewarzel/twitter-tackles-revenge-porn?bftw&utm_term=.opZBvj79K#.ac8068gxp)
 in March 2015. People who get caught posting other people's identifying
 information, intimate videos and photos without their consent will have
 their accounts locked until they delete the offending posts. And repeat
@@ -186,7 +186,7 @@ wanted to see what was happening there, so he turned to Twitter. While
 he could read about the protests, he could not see them.
 
 [These kinds of
-benefits](http://www.theatlantic.com/technology/archive/2010/10/exclusive-biz-stone-on-twitter-and-activism/64772/)
+benefits](https://www.theatlantic.com/technology/archive/2010/10/exclusive-biz-stone-on-twitter-and-activism/64772/)
 are tangible and effective and can reinforce the benefits of Twitter at
 a time when it is accused of lacking an engaged audience. Likewise, most
 new technology has great capacity for social action through its

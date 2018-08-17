@@ -1,7 +1,7 @@
 ---
 title: Techcrunch Disrupt 2014
 created: 20141024
-publication_url: 'http://www.sitepoint.com/techcrunch-disrupt-2014/'
+publication_url: 'https://www.sitepoint.com/techcrunch-disrupt-2014/'
 categories: Chris writing sitepoint
 ---
 

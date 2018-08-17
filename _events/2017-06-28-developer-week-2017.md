@@ -7,7 +7,7 @@ event: Developer Week 2017, Nürnberg
 date: 2017-06-28T11:45:00.000Z
 venue: Messe Nünberg, Nürnberg, Germany
 pres_source:
-pres_url: http://www.developer-week.de/Programm/Veranstaltung/(event)/21576
+pres_url: https://www.developer-week.de/Programm/Veranstaltung/(event)/21576
 ---
 
 _I am back in beautiful Nürnberg and it's developer week to give another installment of my documentation for developers talk_.

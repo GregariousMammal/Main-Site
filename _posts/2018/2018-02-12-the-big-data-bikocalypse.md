@@ -17,7 +17,7 @@ In this episode Cate and Chris discuss the birthday of open source, big data, tr
 ## Links Mentioned
 
 -   [How I coined the term 'open source'](https://opensource.com/article/18/2/coining-term-open-source-software)
--   [Tech and the future of transportation: From here to there](http://www.zdnet.com/article/tech-and-the-future-of-transportation-from-here-to-there/)
+-   [Tech and the future of transportation: From here to there](https://www.zdnet.com/article/tech-and-the-future-of-transportation-from-here-to-there/)
 -   [Bring On the Bikocalypse](https://www.wired.com/story/chinese-dockless-bikes-revolution/)
 -   [To protect or collect? Germany’s big data divide](https://www.politico.eu/article/to-protect-or-collect-germanys-big-data-divide/)
 -   [Early Facebook and Google Employees Form Coalition to Fight What They Built](https://www.nytimes.com/2018/02/04/technology/early-facebook-google-employees-fight-tech.html)

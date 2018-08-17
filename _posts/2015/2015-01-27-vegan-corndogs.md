@@ -4,7 +4,7 @@ title: Vegan corndogs
 date: 2015-01-27T12:34:00.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/2015/01/vegan-corndogs.html'
+guid: 'https://atravellingcook.com/2015/01/vegan-corndogs.html'
 permalink: /2015/01/vegan-corndogs.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -23,7 +23,7 @@ tags:
   - vegan
 ---
 
-![](http://3.bp.blogspot.com/-EFJEKg9sV_Q/VMdtXrwkosI/AAAAAAAAKic/BkcOXXdwySE/s1600/4959134244_fc7dd0f3b8_o.jpg)
+![](https://3.bp.blogspot.com/-EFJEKg9sV_Q/VMdtXrwkosI/AAAAAAAAKic/BkcOXXdwySE/s1600/4959134244_fc7dd0f3b8_o.jpg)
 
 I made corn dogs last year for our vegan Oktoberfest supper club event and they were definitely a hit. They are incredibly easy to make and very quick. For a crowd it's best to have the oven preheated so you can keep the cooked ones warm until the others are done.
 
@@ -56,6 +56,6 @@ _Instructions_
 12. Place on kitchen paper to drain then pop in the oven until all corndogs are done
 13. Serve with tomato sauce, barbecue sauce, sriracha and mustard.
 
-![](http://2.bp.blogspot.com/-XgLWiMWM2rw/VMds1kCX8VI/AAAAAAAAKh8/r_77i_K44_E/s1600/alberts_frankfurter_gross.jpg)
+![](https://2.bp.blogspot.com/-XgLWiMWM2rw/VMds1kCX8VI/AAAAAAAAKh8/r_77i_K44_E/s1600/alberts_frankfurter_gross.jpg)
 
 Tofu hot dogs are really good.

@@ -14,4 +14,4 @@ The first half of the book tells the tale(s) of how modern English evolved from 
 
 Full of wonderful insights, anecdotes and stories, highly recommended.
 
-<a  href="http://www.amazon.com/gp/product/0142002313/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142002313&linkCode=as2&tag=gregamamma-20&linkId=4GCLAKG7TY2PFK3P">Make me a few cents and order a copy here</a>.<img src="http://ir-na.amazon-adsystem.com/e/ir?t=gregamamma-20&l=as2&o=1&a=0142002313" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a  href="https://www.amazon.com/gp/product/0142002313/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0142002313&linkCode=as2&tag=gregamamma-20&linkId=4GCLAKG7TY2PFK3P">Make me a few cents and order a copy here</a>.<img src="https://ir-na.amazon-adsystem.com/e/ir?t=gregamamma-20&l=as2&o=1&a=0142002313" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />

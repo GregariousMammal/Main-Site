@@ -53,9 +53,9 @@ excerpt: Philips shut out third-party bulbs—then backed down.
 ---
 Philips was forced to reverse recent software updates this week when it
 was revealed that updates to its [Philips
-Hue](http://www2.meethue.com/en-us/) wireless lighting system [cut off
+Hue](https://www2.meethue.com/en-us/) wireless lighting system [cut off
 access to previously supported light
-bulbs](http://zatznotfunny.com/2015-12/philips-hue-excludes-3rd-party-bulbs/) made
+bulbs](https://zatznotfunny.com/2015-12/philips-hue-excludes-3rd-party-bulbs/) made
 by other companies.
 
 Here's how Philips explained the decision:
@@ -82,9 +82,9 @@ as partners.  All of their connected home products, applications, and
 platforms will integrate with Philips Hue.
 
 That invite-only approach clashes with the principles of the [ZigBee
-alliance](http://www.zigbee.org/), a group promoting a networking
+alliance](https://www.zigbee.org/), a group promoting a networking
 standard that [controls these smart lighting
-systems](http://www.zigbee.org/what-is-zigbee/connectedlighting/). In
+systems](https://www.zigbee.org/what-is-zigbee/connectedlighting/). In
 theory, Zigbee-compatible devices should work together.
 
 Philips is rolling back the firmware updates that blocked access to

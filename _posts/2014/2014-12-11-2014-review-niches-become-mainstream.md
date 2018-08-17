@@ -1,7 +1,7 @@
 ---
 title: '2014 Review, Niches-Become Mainstream'
 created: 20141211
-publication_url: 'http://www.sitepoint.com/2014-review-niches-become-mainstream/'
+publication_url: 'https://www.sitepoint.com/2014-review-niches-become-mainstream/'
 categories: Chris writing sitepoint
 ---
 

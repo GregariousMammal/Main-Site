@@ -25,4 +25,4 @@ This week Cate and Chris discuss how smart phones are destroying a generation, c
 
 -   [Electronic Frontiers Foundation](https://www.eff.org/)
 -   [Thoughts on Stack Overflow’s Documentation beta](https://medium.com/@beth.aitman/thoughts-on-stack-overflows-documentation-beta-f5a8b7f10c8)
--   [Why Stack Overflow's Documentation effort failed -- a few thoughts from a technical writer's perspective](http://idratherbewriting.com/2017/08/05/why-stack-overflow-documentation-effort-failed/)
+-   [Why Stack Overflow's Documentation effort failed -- a few thoughts from a technical writer's perspective](https://idratherbewriting.com/2017/08/05/why-stack-overflow-documentation-effort-failed/)

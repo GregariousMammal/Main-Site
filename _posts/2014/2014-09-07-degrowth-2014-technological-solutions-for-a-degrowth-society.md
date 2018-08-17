@@ -10,9 +10,9 @@ tags: politics degrowth activism
 
 It's refreshing to hear someone (unsurprisingly an engineer) mention that the Degrowth movement could do with more practical projects and methodologies to run alongside the theoretical discussions.
 
-The [OAE](http://www.openaltraeconomia.it/software.html#web) project aimed to intersect Ecological/Socio-Economic, Legal and Green Tech concepts and values. The project's expected outcomes were to provide up-to-date data in common and standard formats for the consortium that OAE is a part of. This would enable it's participants to keep up to date, access and find what they need and utilise the data in activities and projects.
+The [OAE](https://www.openaltraeconomia.it/software.html#web) project aimed to intersect Ecological/Socio-Economic, Legal and Green Tech concepts and values. The project's expected outcomes were to provide up-to-date data in common and standard formats for the consortium that OAE is a part of. This would enable it's participants to keep up to date, access and find what they need and utilise the data in activities and projects.
 
-There is an [Open Data deployment scheme](http://5stardata.info/) proposed by Tim Berners-Lee that the team tried to follow.
+There is an [Open Data deployment scheme](https://5stardata.info/) proposed by Tim Berners-Lee that the team tried to follow.
 
 The data was linked to merge disparate sources into something more useful and relevant, matching source relationships. The data was then presented in an a method that developers would understand and could utilise. This enabled the team to create web and mobile apps that an end-user could utilise.
 
@@ -24,7 +24,7 @@ From a Degrowth perspective, many are somewhat opposed to technology whilst othe
 
 ### A specific example - Climate engineering
 
-[Climate engineering](http://en.wikipedia.org/wiki/Climate_engineering) looks at methods for potentially counteracting (inevitable) climate change. These include concepts such as space mirrors, cloud seeding, radiation management, reflective aerosols, [Stratospheric aerosol injection](http://en.wikipedia.org/wiki/Stratospheric_sulfate_aerosols_(geoengineering)) (SAI) and many other ideas that seem somewhat scary and far-fetched.
+[Climate engineering](https://en.wikipedia.org/wiki/Climate_engineering) looks at methods for potentially counteracting (inevitable) climate change. These include concepts such as space mirrors, cloud seeding, radiation management, reflective aerosols, [Stratospheric aerosol injection](https://en.wikipedia.org/wiki/Stratospheric_sulfate_aerosols_(geoengineering)) (SAI) and many other ideas that seem somewhat scary and far-fetched.
 
 - **Is SAI viable?** It's fossil fuel based, needs to be flown and is an unpredictable form of pollution. It doesn't address all affects of Climate Change, but does it tackle enough?
 - **Is SAI convivial?** It's not decentralised and there are currently no institutions that regulate SAI. Broad agreement on values and ends are also not agreed and we potentially give the power to change the climate to people(s).

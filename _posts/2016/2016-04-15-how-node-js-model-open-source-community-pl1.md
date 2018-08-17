@@ -99,7 +99,7 @@ these devices and [Node]{.il}.js as the glue that connects them.
 [ I spoke with members of Node.js about their experiences in the
 community, recently at the ]{style="font-weight: 400;"}[[Linux
 Foundation Collaboration
-Summit.]{style="font-weight: 400;"}](http://events.linuxfoundation.org/events/collaboration-summit)
+Summit.]{style="font-weight: 400;"}](https://events.linuxfoundation.org/events/collaboration-summit)
 
 A short Node.js history of the problem
 --------------------------------------
@@ -187,7 +187,7 @@ height="440"} ]{style="font-weight: 400;"}
 organizational size of well over 400 members. Node.js Core now has over
 50 committers and over 100 contributors per
 month. ]{style="font-weight: 400;"}[[Mikeal
-Rogers]{style="font-weight: 400;"}](http://mikealrogers.com/)[, now
+Rogers]{style="font-weight: 400;"}](https://mikealrogers.com/)[, now
 community manager of the Node.js Foundation, explained that this
 innovation has extended into other areas of the
 foundation.]{style="font-weight: 400;"}

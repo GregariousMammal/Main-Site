@@ -4,7 +4,7 @@ title: 6 quick and easy ways with quinoa
 date: 2015-03-26T13:20:05+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=641
+guid: https://atravellingcook.com/?p=641
 permalink: /2015/03/6-ways-with-quinoa.html
 tags:
   - cooking
@@ -23,9 +23,9 @@ I really like to cook with quinoa, it&#8217;s a great change from rice, it&#8217
 
 
 
-  1. [Vegetable, quinoa and chilli soup](http://atravellingcook.com/2015/02/red-beans-quinoa-and-jerk-spice-soup.html)
-  2. [Red beans, quinoa and jerk spice soup](http://atravellingcook.com/2015/02/red-beans-quinoa-and-jerk-spice-soup.html)
-  3. [Quinoa, eggplant and mushroom balls](http://atravellingcook.com/2014/09/quinoa-eggplant-and-mushroom-balls.html)
-  4. [Quinoa, barley and pickled vegetable salad](http://atravellingcook.com/2015/01/quinoa-barley-and-pickled-vegetable-salad.html)
-  5. [Quick quinoa fried rice](http://atravellingcook.com/2015/03/quick-quinoa-fried-rice.html)
-  6. [Chocolate quinoa rum balls](http://atravellingcook.com/http:/atravellingcook.com/topics/recipe/recipe)
+  1. [Vegetable, quinoa and chilli soup](https://atravellingcook.com/2015/02/red-beans-quinoa-and-jerk-spice-soup.html)
+  2. [Red beans, quinoa and jerk spice soup](https://atravellingcook.com/2015/02/red-beans-quinoa-and-jerk-spice-soup.html)
+  3. [Quinoa, eggplant and mushroom balls](https://atravellingcook.com/2014/09/quinoa-eggplant-and-mushroom-balls.html)
+  4. [Quinoa, barley and pickled vegetable salad](https://atravellingcook.com/2015/01/quinoa-barley-and-pickled-vegetable-salad.html)
+  5. [Quick quinoa fried rice](https://atravellingcook.com/2015/03/quick-quinoa-fried-rice.html)
+  6. [Chocolate quinoa rum balls](https://atravellingcook.com/http:/atravellingcook.com/topics/recipe/recipe)

@@ -4,7 +4,7 @@ title: Garden produce saag aloo
 date: 2014-01-12T00:31:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/01/garden-produce-and-saag-aloo.html
+guid: https://atravellingcook.com/2014/01/garden-produce-and-saag-aloo.html
 permalink: /2014/01/garden-produce-and-saag-aloo.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -24,14 +24,14 @@ tags:
   - vegan
 ---
 <div style="background-color: white; color: #444444; font-family: Verdana, Geneva, sans-serif; font-size: 13px; line-height: 18px;">
-  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-H6xehNhPaaE/UtHRe7AuJRI/AAAAAAAAH6E/W9AvU0Bzaa4/s1600/11861260553_cf6e31875a_c+%25281%2529.jpg"><img src="http://1.bp.blogspot.com/-H6xehNhPaaE/UtHRe7AuJRI/AAAAAAAAH6E/W9AvU0Bzaa4/s1600/11861260553_cf6e31875a_c+%25281%2529.jpg" alt="" width="400" height="281" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-H6xehNhPaaE/UtHRe7AuJRI/AAAAAAAAH6E/W9AvU0Bzaa4/s1600/11861260553_cf6e31875a_c+%25281%2529.jpg"><img src="https://1.bp.blogspot.com/-H6xehNhPaaE/UtHRe7AuJRI/AAAAAAAAH6E/W9AvU0Bzaa4/s1600/11861260553_cf6e31875a_c+%25281%2529.jpg" alt="" width="400" height="281" border="0" /></a>
 
 
 <div style="background-color: white; color: #444444; font-family: Verdana, Geneva, sans-serif; font-size: 13px; line-height: 18px;">
 
 
 <div style="background-color: white; color: #444444; font-family: Verdana, Geneva, sans-serif; font-size: 13px; line-height: 18px;">
-  <a style="font-family: Times; font-size: medium; line-height: normal; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-317FogCKObo/UtHOLqibQgI/AAAAAAAAH5Y/cqsy-tBLc88/s1600/11860942475_6596e2123b_z.jpg"><img src="http://1.bp.blogspot.com/-317FogCKObo/UtHOLqibQgI/AAAAAAAAH5Y/cqsy-tBLc88/s1600/11860942475_6596e2123b_z.jpg" alt="" width="400" height="345" border="0" /></a>
+  <a style="font-family: Times; font-size: medium; line-height: normal; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-317FogCKObo/UtHOLqibQgI/AAAAAAAAH5Y/cqsy-tBLc88/s1600/11860942475_6596e2123b_z.jpg"><img src="https://1.bp.blogspot.com/-317FogCKObo/UtHOLqibQgI/AAAAAAAAH5Y/cqsy-tBLc88/s1600/11860942475_6596e2123b_z.jpg" alt="" width="400" height="345" border="0" /></a>
 
 
 <div style="background-color: white; color: #444444; font-family: Verdana, Geneva, sans-serif; font-size: 13px; line-height: 18px;">
@@ -51,7 +51,7 @@ tags:
 
 
 <div style="background-color: white; color: #444444; font-family: Verdana, Geneva, sans-serif; font-size: 13px; line-height: 18px;">
-  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-WNFWj8XoAaQ/UtHQcZUIDPI/AAAAAAAAH5g/_dJq5qTBG_0/s1600/11861377964_b0149e9703_z.jpg"><img src="http://2.bp.blogspot.com/-WNFWj8XoAaQ/UtHQcZUIDPI/AAAAAAAAH5g/_dJq5qTBG_0/s1600/11861377964_b0149e9703_z.jpg" alt="" width="400" height="298" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-WNFWj8XoAaQ/UtHQcZUIDPI/AAAAAAAAH5g/_dJq5qTBG_0/s1600/11861377964_b0149e9703_z.jpg"><img src="https://2.bp.blogspot.com/-WNFWj8XoAaQ/UtHQcZUIDPI/AAAAAAAAH5g/_dJq5qTBG_0/s1600/11861377964_b0149e9703_z.jpg" alt="" width="400" height="298" border="0" /></a>
 
 
 <div style="background-color: white; color: #444444; font-family: Verdana, Geneva, sans-serif; font-size: 13px; line-height: 18px;">
@@ -122,7 +122,7 @@ tags:
 
 
 <div style="background-color: white; color: #444444; font-family: Verdana, Geneva, sans-serif; font-size: 13px; line-height: 18px;">
-  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/--XMTsg8YpF4/UtHRZ5encEI/AAAAAAAAH5w/sUCM1g-jwGo/s1600/11860933555_c6c4e9b48d_c.jpg"><img src="http://4.bp.blogspot.com/--XMTsg8YpF4/UtHRZ5encEI/AAAAAAAAH5w/sUCM1g-jwGo/s1600/11860933555_c6c4e9b48d_c.jpg" alt="" width="400" height="286" border="0" /></a> 
+  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/--XMTsg8YpF4/UtHRZ5encEI/AAAAAAAAH5w/sUCM1g-jwGo/s1600/11860933555_c6c4e9b48d_c.jpg"><img src="https://4.bp.blogspot.com/--XMTsg8YpF4/UtHRZ5encEI/AAAAAAAAH5w/sUCM1g-jwGo/s1600/11860933555_c6c4e9b48d_c.jpg" alt="" width="400" height="286" border="0" /></a> 
   
   
   
@@ -153,7 +153,7 @@ tags:
   
   
   
-    <a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-3-Uww403yiM/UtssN6XZLII/AAAAAAAAH8E/ZlMr_y2p_PU/s1600/11861219643_6ae477d772_c.jpg"><img src="http://3.bp.blogspot.com/-3-Uww403yiM/UtssN6XZLII/AAAAAAAAH8E/ZlMr_y2p_PU/s1600/11861219643_6ae477d772_c.jpg" alt="" width="315" height="400" border="0" /></a>
+    <a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="https://3.bp.blogspot.com/-3-Uww403yiM/UtssN6XZLII/AAAAAAAAH8E/ZlMr_y2p_PU/s1600/11861219643_6ae477d772_c.jpg"><img src="https://3.bp.blogspot.com/-3-Uww403yiM/UtssN6XZLII/AAAAAAAAH8E/ZlMr_y2p_PU/s1600/11861219643_6ae477d772_c.jpg" alt="" width="315" height="400" border="0" /></a>
   
   
   

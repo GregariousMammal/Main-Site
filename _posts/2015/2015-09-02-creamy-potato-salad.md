@@ -4,7 +4,7 @@ title: Creamy potato salad
 date: 2015-09-02T15:20:37.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/?p=1280'
+guid: 'https://atravellingcook.com/?p=1280'
 permalink: /2015/09/creamy-potato-salad.html
 tags:
   - cooking

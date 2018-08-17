@@ -4,7 +4,7 @@ title: Egg free potato dumplings
 date: 2015-08-14T10:06:42.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/?p=1213'
+guid: 'https://atravellingcook.com/?p=1213'
 permalink: /2015/08/egg-free-potato-dumplings.html
 tags:
   - cooking
@@ -17,7 +17,7 @@ image: atc-migrate/2015/08/IMG_20150813_192509.jpg
 
 Living in Germany, dishes like potato dumplings and spätzle are common place on menus serving traditional Deutsch fare. Most involved eggs, dairy and of course a spätzle maker to get the requisite noodle like dough. Not being in possession of one, I decided to make potato dumplings.
 
-These are vegan, using white bean brine (also known as [aquafaba](http://aquafaba.com/)) a wonderful substance which cooks previously poured down the drain. Now, it can be used to make all kinds of egg substitute recipes like these [meringues](http://atravellingcook.com/2015/05/egg-free-meringues.html) and [lemon butter](http://atravellingcook.com/2015/05/egg-free-lemon-butter.html). In this instance the brine provides a binding agent, enabling the potatoes and flour to combine without being floury or too wet.
+These are vegan, using white bean brine (also known as [aquafaba](https://aquafaba.com/)) a wonderful substance which cooks previously poured down the drain. Now, it can be used to make all kinds of egg substitute recipes like these [meringues](https://atravellingcook.com/2015/05/egg-free-meringues.html) and [lemon butter](https://atravellingcook.com/2015/05/egg-free-lemon-butter.html). In this instance the brine provides a binding agent, enabling the potatoes and flour to combine without being floury or too wet.
 
 _Ingredients_
 
@@ -46,4 +46,4 @@ Instructions:
 
 _I'll be posting some sauces to complement the gnocchi over the weekend!_
 
-Included in Jac's [Meat Free Mondays](http://www.tinnedtomatoes.com/2015/08/meat-free-mondays-7-recipes-for-week_10.html) over at _Tinned Tomatoes._
+Included in Jac's [Meat Free Mondays](https://www.tinnedtomatoes.com/2015/08/meat-free-mondays-7-recipes-for-week_10.html) over at _Tinned Tomatoes._

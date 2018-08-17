@@ -4,7 +4,7 @@ title: 'Vegan Europe: European vegan and vegan friendly bloggers round up'
 date: 2015-04-28T09:15:10+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=823
+guid: https://atravellingcook.com/?p=823
 permalink: /2015/04/vegan-europe-european-vegan-and-vegan-friendly-bloggers-round-up.html
 tags:
   - blogging
@@ -19,7 +19,7 @@ format: image
 
 
 
-  <em> pic from <a href="http://www.tammileetips.com/2014/04/earth-day-cookies/">here</a></em>
+  <em> pic from <a href="https://www.tammileetips.com/2014/04/earth-day-cookies/">here</a></em>
 
 
 

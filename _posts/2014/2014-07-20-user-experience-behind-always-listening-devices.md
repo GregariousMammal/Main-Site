@@ -1,7 +1,7 @@
 ---
 title: The User Experience behind always listening devices
 created: 20140720
-publication_url: 'http://www.sitepoint.com/user-experience-behind-always-listening-devices/'
+publication_url: 'https://www.sitepoint.com/user-experience-behind-always-listening-devices/'
 categories: Chris writing sitepoint
 ---
 

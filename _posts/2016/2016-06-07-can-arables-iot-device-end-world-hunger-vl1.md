@@ -58,7 +58,7 @@ go hungry around the world. When we learned from one new concept that
 data acquired through an IoT device could end this, our interest is
 piqued.
 
-[Arable](http://arable.com/) has created PulsePod, an IoT device capable
+[Arable](https://arable.com/) has created PulsePod, an IoT device capable
 of measuring more about the environment than any other connected device
 in the world and can provide insight into crop health for the first time
 in history.

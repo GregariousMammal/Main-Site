@@ -4,7 +4,7 @@ title: Sausageless rolls
 date: 2015-10-03T17:42:52.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/?p=1396'
+guid: 'https://atravellingcook.com/?p=1396'
 permalink: /2015/10/sausageless-rolls.html
 tags:
   - australia
@@ -52,6 +52,6 @@ _Instructions:_
 11. Slice the roll into the size you would like with at least a 2 centimetres gap between each roll on the baking tray.
 12. Brush each roll with diary free milk and sprinkle with sesame seeds. place them on the baking tray.
 13. Bake the rolls for about 20 minutes, until they're golden and ﬂaky.
-14. Serve with tomato sauce or [tomato kasundi](http://atravellingcook.com/2014/11/tomato-kasundi.html)
+14. Serve with tomato sauce or [tomato kasundi](https://atravellingcook.com/2014/11/tomato-kasundi.html)
 
 This recipe is the first of my recipe ebooks,[_Australian classics veganised._](https://sellfy.com/p/2sEt/) It's only $3USD and 50c from each purchase goes to the Asylum Seeker Resource Centre in Melbourne, Australia.

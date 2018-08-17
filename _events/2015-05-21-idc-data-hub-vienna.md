@@ -5,7 +5,7 @@ categories: Chris
 
 title: Understanding databases for distributed Docker applications
 event: IDC Data hub conference Vienna
-pres_url: 'http://idcdatahub.com/agenda/'
+pres_url: 'https://idcdatahub.com/agenda/'
 date: 2015-05-21T00:00:00.000Z
 pres_source: null
 ---

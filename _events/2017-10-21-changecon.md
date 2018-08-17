@@ -7,7 +7,7 @@ event: ChangeCon
 date: 2017-10-21T00:00:00.000Z
 venue: Zagreb
 pres_source: 
-pres_url: http://changecon.com/speakers/chris-ward/
+pres_url: https://changecon.com/speakers/chris-ward/
 ---
 
 As programmers, designers, writers and those who pursue 'creative' pursuits we consider ourselves mostly immune to the predicted forthcoming robot invasion of our jobs.

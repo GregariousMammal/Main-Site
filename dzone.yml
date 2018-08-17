@@ -7,11 +7,11 @@ dzone:
 blogs:
   - author: "Chris Ward"
     profile:   "2962687"
-    image:  "http://www.rss-specifications.com/rss-spec-rss.gif"
+    image:  "https://www.rss-specifications.com/rss-spec-rss.gif"
     twitter: "poteland"
     categories: "Chris writing dzone"
   - author: "Cate Lawrence"
     profile:   "2974561"
-    image:  "http://www.rss-specifications.com/rss-spec-rss.gif"
+    image:  "https://www.rss-specifications.com/rss-spec-rss.gif"
     twitter: "poteland"
     categories: "Cate writing dzone"

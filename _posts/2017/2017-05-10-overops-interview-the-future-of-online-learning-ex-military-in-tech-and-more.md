@@ -13,9 +13,9 @@ In this episode Cate and Chris speak with Tal Weiss from OverOps, discuss the fu
 
 ## Companies and articles mentioned
 
--   [The UN Wants to Adopt Bitcoin And Ethereum – And Soon](http://www.coindesk.com/the-united-nations-wants-to-accept-ethereum-and-bitcoin-and-soon/).
+-   [The UN Wants to Adopt Bitcoin And Ethereum – And Soon](https://www.coindesk.com/the-united-nations-wants-to-accept-ethereum-and-bitcoin-and-soon/).
 -   [The real problem with standing desks, according to evolutionary psychology](https://qz.com/957311/why-cant-i-focus-using-a-standing-desk/).
 -   [The great British Brexit robbery: how our democracy was hijacked](https://www.theguardian.com/technology/2017/may/07/the-great-british-brexit-robbery-hijacked-democracy).
 -   [Massive Open Online Courses used to be 100% free. But they didn’t stay that way](https://medium.freecodecamp.com/massive-open-online-courses-started-out-completely-free-but-where-are-they-now-1dd1020f59).
 -   [States are moving to cut college costs by introducing open-source textbooks](https://qz.com/962487/states-are-moving-to-cut-college-costs-by-introducing-open-source-textbooks/).
--   [Why Chefs and Soldiers Make the Best Product Managers](http://firstround.com/review/why-soldiers-and-chefs-make-the-best-product-managers/).
+-   [Why Chefs and Soldiers Make the Best Product Managers](https://firstround.com/review/why-soldiers-and-chefs-make-the-best-product-managers/).

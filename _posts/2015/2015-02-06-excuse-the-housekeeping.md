@@ -4,7 +4,7 @@ title: 'Excuse the housekeeping&#8230;'
 date: 2015-02-06T15:00:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/02/excuse-the-housekeeping.html
+guid: https://atravellingcook.com/2015/02/excuse-the-housekeeping.html
 permalink: /2015/02/excuse-the-housekeeping.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -22,4 +22,4 @@ tags:
 My blog is a bit messy at the moment as I&#8217;m in the process of moving over the Squarespace. Will keep you all posted for the great reveal, apologies again for the mess!
 
 
-  <a href="http://3.bp.blogspot.com/-pOZ-Cy0M9jw/VNTI2f5SpII/AAAAAAAAKmw/8NTL2P5p-wk/s1600/image7.jpg" ><img border="0" src="http://3.bp.blogspot.com/-pOZ-Cy0M9jw/VNTI2f5SpII/AAAAAAAAKmw/8NTL2P5p-wk/s1600/image7.jpg" height="395" width="400" /></a><span style="color: #0000ee;"><u><a href=&#8221;http://www.bloglovin.com/blog/12717159/?claim=3stpvtnxewn&#8221;>Follow my blog with Bloglovin</a></u>
+  <a href="https://3.bp.blogspot.com/-pOZ-Cy0M9jw/VNTI2f5SpII/AAAAAAAAKmw/8NTL2P5p-wk/s1600/image7.jpg" ><img border="0" src="https://3.bp.blogspot.com/-pOZ-Cy0M9jw/VNTI2f5SpII/AAAAAAAAKmw/8NTL2P5p-wk/s1600/image7.jpg" height="395" width="400" /></a><span style="color: #0000ee;"><u><a href=&#8221;https://www.bloglovin.com/blog/12717159/?claim=3stpvtnxewn&#8221;>Follow my blog with Bloglovin</a></u>

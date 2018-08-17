@@ -8,7 +8,7 @@ tags: politics degrowth activism
 
 ## Facing the current crisis: Critique and Resistance
 
-**Konstantatos Haris of the Harokopio University of Athens** is a member of [Syriza](http://en.wikipedia.org/wiki/Coalition_of_the_Radical_Left) and Political scientist in the department of Geography. He states that Geography and History are also factors as well as different political and socio-economic structures. There are commonalities amongst many Southern European countries that need to be addressed today.
+**Konstantatos Haris of the Harokopio University of Athens** is a member of [Syriza](https://en.wikipedia.org/wiki/Coalition_of_the_Radical_Left) and Political scientist in the department of Geography. He states that Geography and History are also factors as well as different political and socio-economic structures. There are commonalities amongst many Southern European countries that need to be addressed today.
 
 Whilst a lot of attention has been paid to the neo-liberalisation of economies in the 70s and 80s, not enough has been paid to environmental and resource factors, there is no 'one reason'. Neo-Liberalism has always set out to remove politics from economics and many feel it's too late to turn back to the 'golden age of capitalism' now. This has also led to a widespread alienation towards politics, rise of corruption and the growth of the far right.
 

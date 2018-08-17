@@ -4,7 +4,7 @@ title: Our first dinner at Apartment Supper Club Leipzig
 date: 2014-09-29T12:55:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/09/our-first-dinner-at-apartment-supper-club-leipzig.html
+guid: https://atravellingcook.com/2014/09/our-first-dinner-at-apartment-supper-club-leipzig.html
 permalink: /2014/09/our-first-dinner-at-apartment-supper-club-leipzig.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -26,18 +26,18 @@ tags:
 ---
 <div style="text-align: center;">
   
-                               <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-2zmZFY2bess/VClHHodTgEI/AAAAAAAAJk0/c_5izu4v78w/s1600/15198010657_6bbff13a71_z.jpg"><img src="http://3.bp.blogspot.com/-2zmZFY2bess/VClHHodTgEI/AAAAAAAAJk0/c_5izu4v78w/s1600/15198010657_6bbff13a71_z.jpg" alt="" width="400" height="265" border="0" /></a>
+                               <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-2zmZFY2bess/VClHHodTgEI/AAAAAAAAJk0/c_5izu4v78w/s1600/15198010657_6bbff13a71_z.jpg"><img src="https://3.bp.blogspot.com/-2zmZFY2bess/VClHHodTgEI/AAAAAAAAJk0/c_5izu4v78w/s1600/15198010657_6bbff13a71_z.jpg" alt="" width="400" height="265" border="0" /></a>
   
   
   
-    We had our first <a href="http://gregariousmammal.com/apartment-supper-club">Apartment Supper Club</a> dinner on Saturday night. I was pretty excited! We had a lovely evening with five guests besides Chris and  I.
+    We had our first <a href="https://gregariousmammal.com/apartment-supper-club">Apartment Supper Club</a> dinner on Saturday night. I was pretty excited! We had a lovely evening with five guests besides Chris and  I.
   
   
   
   
   
   
-                              <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-T8IAaXGLsqA/VClHHM5Hh0I/AAAAAAAAJlE/cnH_0gGz5cg/s1600/15197774460_8085139ae2_z.jpg"><img src="http://3.bp.blogspot.com/-T8IAaXGLsqA/VClHHM5Hh0I/AAAAAAAAJlE/cnH_0gGz5cg/s1600/15197774460_8085139ae2_z.jpg" alt="" width="400" height="265" border="0" /></a>
+                              <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-T8IAaXGLsqA/VClHHM5Hh0I/AAAAAAAAJlE/cnH_0gGz5cg/s1600/15197774460_8085139ae2_z.jpg"><img src="https://3.bp.blogspot.com/-T8IAaXGLsqA/VClHHM5Hh0I/AAAAAAAAJlE/cnH_0gGz5cg/s1600/15197774460_8085139ae2_z.jpg" alt="" width="400" height="265" border="0" /></a>
   
   
   
@@ -51,7 +51,7 @@ tags:
   
   
   
-                                <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-6Q6e_jgeTHg/VClIMbcG95I/AAAAAAAAJlU/icWvapkLmRI/s1600/15198015637_a5dc81ccbf_z.jpg"><img src="http://1.bp.blogspot.com/-6Q6e_jgeTHg/VClIMbcG95I/AAAAAAAAJlU/icWvapkLmRI/s1600/15198015637_a5dc81ccbf_z.jpg" alt="" width="400" height="265" border="0" /></a>
+                                <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-6Q6e_jgeTHg/VClIMbcG95I/AAAAAAAAJlU/icWvapkLmRI/s1600/15198015637_a5dc81ccbf_z.jpg"><img src="https://1.bp.blogspot.com/-6Q6e_jgeTHg/VClIMbcG95I/AAAAAAAAJlU/icWvapkLmRI/s1600/15198015637_a5dc81ccbf_z.jpg" alt="" width="400" height="265" border="0" /></a>
   
 
 
@@ -183,14 +183,14 @@ tags:
   
   
   
-    <a  href="http://4.bp.blogspot.com/-DFu_myREHxc/VClHHIU4veI/AAAAAAAAJkw/WQtkI7R73Hw/s1600/15197744279_eb3af1703a_z.jpg"><img src="http://4.bp.blogspot.com/-DFu_myREHxc/VClHHIU4veI/AAAAAAAAJkw/WQtkI7R73Hw/s1600/15197744279_eb3af1703a_z.jpg" alt="" width="400" height="292" border="0" /></a>
+    <a  href="https://4.bp.blogspot.com/-DFu_myREHxc/VClHHIU4veI/AAAAAAAAJkw/WQtkI7R73Hw/s1600/15197744279_eb3af1703a_z.jpg"><img src="https://4.bp.blogspot.com/-DFu_myREHxc/VClHHIU4veI/AAAAAAAAJkw/WQtkI7R73Hw/s1600/15197744279_eb3af1703a_z.jpg" alt="" width="400" height="292" border="0" /></a>
   
   
   
   
   
   
-    <a  href="http://4.bp.blogspot.com/-nY4FzUgK4Uc/VClHHOqECXI/AAAAAAAAJks/VpTRDsVUtEQ/s1600/15197907338_f5b7dbc497_z.jpg"><img src="http://4.bp.blogspot.com/-nY4FzUgK4Uc/VClHHOqECXI/AAAAAAAAJks/VpTRDsVUtEQ/s1600/15197907338_f5b7dbc497_z.jpg" alt="" width="400" height="291" border="0" /></a>
+    <a  href="https://4.bp.blogspot.com/-nY4FzUgK4Uc/VClHHOqECXI/AAAAAAAAJks/VpTRDsVUtEQ/s1600/15197907338_f5b7dbc497_z.jpg"><img src="https://4.bp.blogspot.com/-nY4FzUgK4Uc/VClHHOqECXI/AAAAAAAAJks/VpTRDsVUtEQ/s1600/15197907338_f5b7dbc497_z.jpg" alt="" width="400" height="291" border="0" /></a>
   
   
   
@@ -213,7 +213,7 @@ tags:
   
   
   <div style="text-align: justify;">
-                         <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-kZQMbyCISF4/VClIMfXyOnI/AAAAAAAAJlQ/y40NAjTNI8M/s1600/15198009257_7820f9a6b8_z.jpg"><img src="http://1.bp.blogspot.com/-kZQMbyCISF4/VClIMfXyOnI/AAAAAAAAJlQ/y40NAjTNI8M/s1600/15198009257_7820f9a6b8_z.jpg" alt="" width="400" height="265" border="0" /></a>
+                         <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-kZQMbyCISF4/VClIMfXyOnI/AAAAAAAAJlQ/y40NAjTNI8M/s1600/15198009257_7820f9a6b8_z.jpg"><img src="https://1.bp.blogspot.com/-kZQMbyCISF4/VClIMfXyOnI/AAAAAAAAJlQ/y40NAjTNI8M/s1600/15198009257_7820f9a6b8_z.jpg" alt="" width="400" height="265" border="0" /></a>
   
   
   <div style="text-align: justify;">

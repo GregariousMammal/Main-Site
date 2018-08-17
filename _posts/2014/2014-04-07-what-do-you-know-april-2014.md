@@ -16,7 +16,7 @@ Advice on running groups as well as an overview of engaging women in the tech in
 
 Ask questions on sign ups from meetup group, reading responses to surveys. Export that data from for further analysis. In Girl Geek Dinners case it has been revealing, often open ended and varied.
 
-Next event -  <a href="http://www.shehacks.io/" target="_blank">she makes</a>, 11th Oct
+Next event -  <a href="https://www.shehacks.io/" target="_blank">she makes</a>, 11th Oct
 
 **Deciding when What you know is wrong - Peter Wilson**
 
@@ -28,7 +28,7 @@ Moving away from large monolithic code bases into micro chunks. Throw away the i
 
 **Maurio Visic, a faster web**
 
-Web is slow because of what we added to it... The visual additions of Netscape and the demands and extras we added, css, web fonts, images etc... slow sites impact conversion rates. To help use Web speed tests, <a href="https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CDcQFjAA&url=http%3A%2F%2Fdeveloper.yahoo.com%2Fyslow%2F&ei=n_xBU6TJFsPdkgW83YGQCg&usg=AFQjCNFmoZ-gRFU3niH49DI2h8-FUZixJw&sig2=SPrxxye93EmvU94f84B-gw&bvm=bv.64125504,d.dGI" target="_blank">Yslow</a>, <a href="http://www.webpagetest.org/" target="_blank">webpagetests</a>, google etc... Start working on it now.
+Web is slow because of what we added to it... The visual additions of Netscape and the demands and extras we added, css, web fonts, images etc... slow sites impact conversion rates. To help use Web speed tests, <a href="https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CDcQFjAA&url=http%3A%2F%2Fdeveloper.yahoo.com%2Fyslow%2F&ei=n_xBU6TJFsPdkgW83YGQCg&usg=AFQjCNFmoZ-gRFU3niH49DI2h8-FUZixJw&sig2=SPrxxye93EmvU94f84B-gw&bvm=bv.64125504,d.dGI" target="_blank">Yslow</a>, <a href="https://www.webpagetest.org/" target="_blank">webpagetests</a>, google etc... Start working on it now.
 
 **Innovating the open source business model, Shane from Silverstripe**
 
@@ -36,7 +36,7 @@ Both client and developers want more for less. All open source communities say t
 
 **Typescript**
 
-Typed JavaScript. Good JavaScript generator. Classes, vars, semicolons. Nesting. <a href="http://www.typescriptlang.org/" target="_blank">www.typescriptlang.org</a>
+Typed JavaScript. Good JavaScript generator. Classes, vars, semicolons. Nesting. <a href="https://www.typescriptlang.org/" target="_blank">www.typescriptlang.org</a>
 
 **Bikeshedding - Drew from reactive**
 
@@ -44,7 +44,7 @@ Clients often miss the big details and focus on small things like logo and colou
 
 **Webgl - Alex mackey**
 
-3d content onto web pages, take a look at <a href="http://www.simpleisbest.co.uk/" target="_blank">Alex's blog</a> for more details.
+3d content onto web pages, take a look at <a href="https://www.simpleisbest.co.uk/" target="_blank">Alex's blog</a> for more details.
 
 **Design by community - Dimitri**
 

@@ -13,4 +13,4 @@ I go through phases of having time to read through news and blogs, generally wit
 
 It currently works with Facebook (personal and pages), twitter, LinkedIn and app.net, provides analytics on your posts, has some pretty solid mobile apps and browser plugins and is free for a limited amount of posts and accounts that should suit most non social media professionals, I like it so much I might even upgrade to premium despite not needing to.
 
-<a href="http://bufferapp.com" target="_blank">bufferapp.com</a>
+<a href="https://bufferapp.com" target="_blank">bufferapp.com</a>

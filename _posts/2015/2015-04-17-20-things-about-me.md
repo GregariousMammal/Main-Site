@@ -4,7 +4,7 @@ title: 20 things about me
 date: 2015-04-17T10:06:24+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=753
+guid: https://atravellingcook.com/?p=753
 permalink: /2015/04/20-things-about-me.html
 tags:
   - australia
@@ -21,7 +21,7 @@ format: image
   
     [<img class="alignnone size-full wp-image-755" src="/images/atc-migrate/2015/04/tumblr_mtky9jrQVt1r708wbo1_500.jpg" alt="tumblr_mtky9jrQVt1r708wbo1_500" width="424" height="553" />
   
-](/images/atc-migrate/2015/04/tumblr_mtky9jrQVt1r708wbo1_500.jpg) _(Pic from [here](http://my-place-of-recovery.tumblr.com/post/68118021407))_
+](/images/atc-migrate/2015/04/tumblr_mtky9jrQVt1r708wbo1_500.jpg) _(Pic from [here](https://my-place-of-recovery.tumblr.com/post/68118021407))_
   3. As a child I had a fear of men with beards. There&#8217;s several photos of me sitting on Santa&#8217;s lap at some shopping centre weeping terrified tears. I&#8217;m not overly fond of them still.
   4. I always thought hangovers would be less vicious as I aged. It&#8217;s sadly untrue.
   5. I am chronically untidy. This also does not improve with age but a nagging husband helps me keep it in check.
@@ -30,7 +30,7 @@ format: image
   
     _[<img class="alignnone size-full wp-image-754" src="/images/atc-migrate/2015/04/cape-cod-rte-6a-blue-hydrangeas-july-20-2010.jpg" alt="cape-cod-rte-6a-blue-hydrangeas-july-20-2010" width="360" height="480" />](/images/atc-migrate/2015/04/cape-cod-rte-6a-blue-hydrangeas-july-20-2010.jpg)_
   
-    _( Pic from [here](http://2in10.net/mindfulness-and-healing/ "blue hydrangeas"))_
+    _( Pic from [here](https://2in10.net/mindfulness-and-healing/ "blue hydrangeas"))_
   8. I have no idea how to drive. But I can ride a bike.
   9. I&#8217;m not a morning person but I&#8217;m not much good at night either. Hmmm&#8230;
  10. i am a terrible procrastinator. I&#8217;ve been working on this patchwork quilt for about three years. Maybe this will be the year to finish it?
@@ -51,4 +51,4 @@ format: image
 
 
 
-This post was inspired by Chantelle&#8217;s post [here](http://fatmumslim.com.au/20-things-about-me/)
+This post was inspired by Chantelle&#8217;s post [here](https://fatmumslim.com.au/20-things-about-me/)

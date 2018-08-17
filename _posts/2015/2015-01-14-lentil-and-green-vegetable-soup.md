@@ -4,7 +4,7 @@ title: Lentil and green vegetable soup
 date: 2015-01-14T14:47:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/01/lentil-and-green-vegetable-soup.html
+guid: https://atravellingcook.com/2015/01/lentil-and-green-vegetable-soup.html
 permalink: /2015/01/lentil-and-green-vegetable-soup.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -22,7 +22,7 @@ tags:
   - vegan
   - winter
 ---
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/--ea1mII1yiI/VLZyvjxyDxI/AAAAAAAAKcs/wn8W9xbxg1Q/s1600/16091473710_24aecaec93_o.jpg"><img src="http://2.bp.blogspot.com/--ea1mII1yiI/VLZyvjxyDxI/AAAAAAAAKcs/wn8W9xbxg1Q/s1600/16091473710_24aecaec93_o.jpg" alt="" width="400" height="265" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/--ea1mII1yiI/VLZyvjxyDxI/AAAAAAAAKcs/wn8W9xbxg1Q/s1600/16091473710_24aecaec93_o.jpg"><img src="https://2.bp.blogspot.com/--ea1mII1yiI/VLZyvjxyDxI/AAAAAAAAKcs/wn8W9xbxg1Q/s1600/16091473710_24aecaec93_o.jpg" alt="" width="400" height="265" border="0" /></a>
 
 I&#8217;ve been getting into soups a lot for lunch this winter. Basically I cook up a a big batch and freeze it in smaller zip lock bags and tubs for lunch, served with bread and spread ( &#8216;butter&#8217; or avocado). Feel free to vary the ingredients and spices, it&#8217;s a tasty soup which lends itself to big flavours or something milder.
 
@@ -61,4 +61,4 @@ _Directions_:
 
 
 
-I featured my soup on [No Croutons required ](http://www.tinnedtomatoes.com/2015/02/no-croutons-required-february-2015.html), as supported by [Lisa&#8217;s Kitchen](http://foodandspice.blogspot.com/).
+I featured my soup on [No Croutons required ](https://www.tinnedtomatoes.com/2015/02/no-croutons-required-february-2015.html), as supported by [Lisa&#8217;s Kitchen](https://foodandspice.blogspot.com/).

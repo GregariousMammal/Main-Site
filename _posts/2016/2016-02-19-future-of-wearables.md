@@ -55,7 +55,7 @@ The manipulation of the brain through the use of technological devices
 is accepted practice in serious conditions where medication and other
 forms of treatment have been unsuccessful. Research into brain-based
 disorders has lead to treatment like [Vagus nerve
-stimulation](http://www.epilepsy.com/learn/treating-seizures-and-epilepsy/devices/vagus-nerve-stimulation-vns)
+stimulation](https://www.epilepsy.com/learn/treating-seizures-and-epilepsy/devices/vagus-nerve-stimulation-vns)
 to treat severe epilepsy. Psychiatric neuro-technology researchers are
 focused on [Transcranial direct current
 stimulation](https://en.wikipedia.org/wiki/Transcranial_direct-current_stimulation)
@@ -75,7 +75,7 @@ Taking this a step further, deep electrical stimulation of the brain
 (otherwise known as [deep brain
 stimulation](https://en.wikipedia.org/wiki/Deep_brain_stimulation)) can
 treat [severe
-OCD,](http://america.aljazeera.com/watch/shows/america-tonight/articles/2015/3/13/ocd-patient-brain-implant-gave-me-a-chance-at-happiness.html)
+OCD,](https://america.aljazeera.com/watch/shows/america-tonight/articles/2015/3/13/ocd-patient-brain-implant-gave-me-a-chance-at-happiness.html)
 depression and [a range of other
 disorders](https://www.technologyreview.com/s/542176/a-shocking-way-to-fix-the-brain/),
 enabling health professionals to target the specific parts of the brain
@@ -89,7 +89,7 @@ brain areas associated with motivation to the frontal lobe.
 It's foreseeable to envision a time when other parts of the brain are
 better understood and implants are at the forefront curing a range of
 brain disorders. Some speculate that implants to improve[memory and
-intelligence](http://www.extremetech.com/extreme/186444-us-scientists-push-ahead-with-memory-boosting-brain-implants-but-we-still-have-to-crack-the-brains-code-first)
+intelligence](https://www.extremetech.com/extreme/186444-us-scientists-push-ahead-with-memory-boosting-brain-implants-but-we-still-have-to-crack-the-brains-code-first)
 could be closer than we think and offer opportunities for developers
 looking for a new challenge.
 
@@ -127,7 +127,7 @@ back of the retina in her right eye.  
 ![](rw-import/MTM2NjQ1MTI1OTQwOTc5Mjk3.jpg)
 
 [A wafer-thin retinal implant
-chip](http://oxfordbrc.nihr.ac.uk/blind-womans-joy-as-she-reads-the-time-thanks-to-bionic-eye/)
+chip](https://oxfordbrc.nihr.ac.uk/blind-womans-joy-as-she-reads-the-time-thanks-to-bionic-eye/)
 was inserted into the back of the eye to replace damaged photoreceptors.
 The chip captures the light entering the eye to stimulate the nerve
 cells of the inner retina to deliver signals to the brain through the
@@ -143,9 +143,9 @@ obtain the best possible signal for different conditions.
 
 Another option for those tired of wearing glasses is the Bionic Lens,
 the brainchild of the [Ocumetics Technology
-Corp](http://ocumetics.com/), a company who want to eliminate glasses
+Corp](https://ocumetics.com/), a company who want to eliminate glasses
 and contact lenses forever. T[he Ocumetics Bionic
-Lens](http://ocumetics.com/) is the result of eight years of research
+Lens](https://ocumetics.com/) is the result of eight years of research
 and \$3 million in funding and lets you see “three times better than
 20/20 vision” without wearing any contacts or glasses at all — for an
 entire lifetime. Amazingly the surgery is estimated to cost around
@@ -155,9 +155,9 @@ entire lifetime. Amazingly the surgery is estimated to cost around
 ---------------------------
 
 [MIT spinout Microchips
-Biotech](http://news.mit.edu/2015/implantable-drug-delivery-microchip-device-0629)
+Biotech](https://news.mit.edu/2015/implantable-drug-delivery-microchip-device-0629)
 has been working on a birth-control microchip, backed by the [Bill and
-Melinda Gates Foundation](http://www.gatesfoundation.org/), that
+Melinda Gates Foundation](https://www.gatesfoundation.org/), that
 releases contraceptives and can be turned on and off wirelessly. The
 tiny chip has an antenna and battery and is designed to be implanted
 under the skin, where it stores hormones and releases a precise dose at
@@ -170,8 +170,8 @@ turned on and off with a remote control.
 
 Exploration into implanted RFID chips has been around for a while. A
 chip implanted in the hand could [unlock
-doors](http://www.bbc.co.uk/news/technology-31042477), [start a
-car](http://hackaday.com/2010/01/14/start-the-car-with-a-wave-of-your-hand/)
+doors](https://www.bbc.co.uk/news/technology-31042477), [start a
+car](https://hackaday.com/2010/01/14/start-the-car-with-a-wave-of-your-hand/)
 or be an alternative to a swipe card. It's easy to imagine the
 contactless jacket embedded with a bPay chip being replaced by an
 implant. But it could also verify a person's identity in case of an

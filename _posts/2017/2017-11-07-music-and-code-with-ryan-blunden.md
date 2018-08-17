@@ -16,7 +16,7 @@ Chris speaks with Ryan Blunden about what programmers and musicians can learn fr
 
 ## Links
 
-- [Playing next door to Alice: Popgun reveals its music AI](http://musically.com/2017/06/30/playing-alice-popgun-music-ai/)
+- [Playing next door to Alice: Popgun reveals its music AI](https://musically.com/2017/06/30/playing-alice-popgun-music-ai/)
 - [The Algorithm](https://en.wikipedia.org/wiki/The_Algorithm)
 - [Composing Code: Why Musicians Make Great Software Developers](https://www.huffingtonpost.com/anthony-hughes/composing-code-why-musici_b_10714288.html)
 - [Why you should listen to music while coding (and what kind to listen to)](https://jaxenter.com/why-you-should-listen-to-music-while-coding-and-what-kind-to-listen-to-108013.html)

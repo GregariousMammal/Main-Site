@@ -13,7 +13,7 @@ In this Weekly Squeak I cover another week in Berlin meetups and after Apples Se
 
 ### Reactive Programming (with Swift)
 
-First up was [a Swift meetup](http://www.meetup.com/Dubsmash-Tech-Talks/events/233449942/) covering [reactive programming](https://en.wikipedia.org/wiki/Reactive_programming) with a variety of frameworks. Having heard a lot about the subject I was keen to get a more 'beginner' perspective of what Reactive programming actually is and how / when it's useful. The talks were more advanced than I was expecting and I was still missing a starting point, still it was good to see real-world code examples. For those of you interested in an actual 'beginners guide', this [gist](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) might be what you're looking for.
+First up was [a Swift meetup](https://www.meetup.com/Dubsmash-Tech-Talks/events/233449942/) covering [reactive programming](https://en.wikipedia.org/wiki/Reactive_programming) with a variety of frameworks. Having heard a lot about the subject I was keen to get a more 'beginner' perspective of what Reactive programming actually is and how / when it's useful. The talks were more advanced than I was expecting and I was still missing a starting point, still it was good to see real-world code examples. For those of you interested in an actual 'beginners guide', this [gist](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) might be what you're looking for.
 
 ### Continuous Discovery
 
@@ -38,9 +38,9 @@ Are they really uninterested in the (small) pro market anymore, or has it ever b
 ## Links of the Week
 
 - [The Mighty Ellipsis](https://medium.com/@jsaito/the-mighty-ellipsis-6c2c00ddc864#.m738uqa43): I know they're not everyone's favourite punctuation, but when used right I am a big fan of the humble '…'.
-- [Taking Stock One Year After Refugees' Arrival](http://www.spiegel.de/international/europe/taking-stock-one-year-after-the-arrival-of-refugees-in-germany-a-1110654.html): I live in Berlin and have witnessed the transition from arms open to the worrying rise of anti-refugee attitudes in the past year. This article is a good summary of the period.
+- [Taking Stock One Year After Refugees' Arrival](https://www.spiegel.de/international/europe/taking-stock-one-year-after-the-arrival-of-refugees-in-germany-a-1110654.html): I live in Berlin and have witnessed the transition from arms open to the worrying rise of anti-refugee attitudes in the past year. This article is a good summary of the period.
 - [Why I can’t forgive Nick Clegg and his party of useful idiots](https://www.theguardian.com/commentisfree/2016/sep/06/i-cant-forgive-nick-clegg-lib-dems-useful-idiots-coalition-tory-savagery-pr): My Dad and I were LibDem voters for most of our lives and we saw them slowly grow in influence and power, then obliterate themselves overnight with the Conservative alliance.
-- [Venture Communism - How China Is Building a Start-Up Boom](http://www.nytimes.com/2016/09/04/business/international/venture-communism-how-china-is-building-a-start-up-boom.html?_r=0): China does everything at scale, including scaling.
-- [BBC Soap ‘The Archers,’ Pushing 70, Generates New Buzz With Abuse Thread](http://www.nytimes.com/2016/09/04/world/europe/the-archers-bbc-radio-domestic-abuse.html?nytmobile=0): The Archers is one of my guilty pleasures, and I have found this recent story line powerful. Even the New York Times has taken notice.
+- [Venture Communism - How China Is Building a Start-Up Boom](https://www.nytimes.com/2016/09/04/business/international/venture-communism-how-china-is-building-a-start-up-boom.html?_r=0): China does everything at scale, including scaling.
+- [BBC Soap ‘The Archers,’ Pushing 70, Generates New Buzz With Abuse Thread](https://www.nytimes.com/2016/09/04/world/europe/the-archers-bbc-radio-domestic-abuse.html?nytmobile=0): The Archers is one of my guilty pleasures, and I have found this recent story line powerful. Even the New York Times has taken notice.
 
 Chinch out xx

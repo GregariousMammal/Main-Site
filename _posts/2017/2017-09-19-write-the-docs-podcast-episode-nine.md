@@ -17,6 +17,6 @@ In this episode, we’re joined by Ellis Pratt from Cherryleaf to talk about cha
   <li><a href="https://qnamaker.ai/">QnA Maker</a></li>
   <li><a href="https://hubot.github.com/">HUBOT: Your friendly robot sidekick</a></li>
   <li><a href="https://blogs.sap.com/2017/04/10/sap-tm-chatbot-talk-to-sap-tm-application-with-google-home/">SAP Chatbot – Talk to SAP Applications with Google Home/Facebook Messenger/Skype</a></li>
-  <li><a href="http://shop.oreilly.com/product/9780596007652.do">Ambient Findability</a></li>
+  <li><a href="https://shop.oreilly.com/product/9780596007652.do">Ambient Findability</a></li>
   <li><a href="https://www.cherryleaf.com/">Cherryleaf</a></li>
 </ul>

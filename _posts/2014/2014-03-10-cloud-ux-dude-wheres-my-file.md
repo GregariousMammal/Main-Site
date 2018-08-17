@@ -1,7 +1,7 @@
 ---
 title: "Cloud UX - Dude where's my file?"
 created: 20140310
-publication_url: 'http://www.sitepoint.com/cloud-ux/'
+publication_url: 'https://www.sitepoint.com/cloud-ux/'
 categories: Chris writing sitepoint
 ---
 

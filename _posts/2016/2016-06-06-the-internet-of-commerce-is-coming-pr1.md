@@ -57,7 +57,7 @@ personalized by your previous purchasing habits. You receive a package
 of ink in the mail when your printer runs low and a new toothbrush head
 just before it's time to change yours. This is the Commerce of Things,
 according to [James Gagliardi, Vice President of Strategy and Innovation
-at [[Digital River](http://www.digitalriver.com/), ]{.s2}]{.s1}and it's
+at [[Digital River](https://www.digitalriver.com/), ]{.s2}]{.s1}and it's
 coming to your home and workplace.
 
 I sat down and spoke to James about the role of e-commerce in the IoT

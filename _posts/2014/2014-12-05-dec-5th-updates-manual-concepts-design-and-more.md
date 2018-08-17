@@ -23,7 +23,7 @@ I have started working through writing the manual for the game as this helped me
 I have started creating some cards as part of the products deck. In my mind they are ready for publishing here, but as they currently use real product names I need to decide wether I start contact license holders or just make up my own parody names.
 
 <h2>Twitter Hash Tag</h2>
-Every project needs a twitter hash tag, I’ve set ours as [#chipshopbg](http://https://twitter.com/hashtag/chipshopbg?f=realtime). In it I will be posting various bits and pieces from my research or other quick thoughts that will build towards these blogposts. For convenience, there is a block showing you latest tweets over on the left <—-.
+Every project needs a twitter hash tag, I’ve set ours as [#chipshopbg](https://https://twitter.com/hashtag/chipshopbg?f=realtime). In it I will be posting various bits and pieces from my research or other quick thoughts that will build towards these blogposts. For convenience, there is a block showing you latest tweets over on the left <—-.
 
 <h2>Design Mockups</h2>
 

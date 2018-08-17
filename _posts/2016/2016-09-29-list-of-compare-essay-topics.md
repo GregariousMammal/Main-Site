@@ -28,7 +28,7 @@ handle everyday life affairs. Authorship an excellent essay can be quite
 a boring job for students from rather a long time, but with the right
 guidance it is possible to enrich his write up really readily. Today
 you're
-http://tsgastro.hu/just-how-educational-loans-do-you-really-need-for/
+https://tsgastro.hu/just-how-educational-loans-do-you-really-need-for/
 ready to start writing a college essay. Composing a college essay may be
 somewhat nerve-racking for many since this can be your opportunity to
 exhibit the professor what you're created of. It offers this excellent
@@ -99,7 +99,7 @@ Sawyer who's a chairman of household sub committee on research demographics, and
 --------------------------------------------------------------------------------------------------
 
 Here's a step-by-action process that
-http://assets.utm.my/blog/scholarships-with-february-2015-deadlines-9/
+https://assets.utm.my/blog/scholarships-with-february-2015-deadlines-9/
 can help you write a productive essay. Also if it's the instance that
 the article is the greatest piece of materials on earth, it really is
 going to be dismissed in the function the essay hasn't relation to the

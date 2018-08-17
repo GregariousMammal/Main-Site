@@ -4,7 +4,7 @@ title: In my Kitchen this month
 date: 2015-04-03T14:04:51+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=702
+guid: https://atravellingcook.com/?p=702
 permalink: /2015/04/in-my-kitchen-this-month-2.html
 tags:
   - berlin
@@ -55,7 +55,7 @@ Ingredients for a simple pasta dish:
 
 &nbsp;
 
-I also made my own hot cross buns. You can find my recipe [here](http://atravellingcook.com/2015/03/hot-cross-buns.html "Vegan hot cross buns"):
+I also made my own hot cross buns. You can find my recipe [here](https://atravellingcook.com/2015/03/hot-cross-buns.html "Vegan hot cross buns"):
 
 [<img class="alignnone size-full wp-image-650" src="/images/atc-migrate/2015/03/800px-Hot_Cross_Buns_on_a_wire_rack_2_April_2010.jpg" alt="800px-Hot_Cross_Buns_on_a_wire_rack_(2),_April_2010" width="800" height="600" />](/images/atc-migrate/2015/03/800px-Hot_Cross_Buns_on_a_wire_rack_2_April_2010.jpg)
 
@@ -63,6 +63,6 @@ I also made my own hot cross buns. You can find my recipe [here](http://atravell
 
 So yes, it&#8217;s been a rather big month. Can&#8217;t wait to spend more time cooking.
 
-This post is part of Fig and Lime Cordial&#8217;s Monthly [In My Kitchen](http://figjamandlimecordial.com/2015/04/01/in-my-kitchen-april-2015/)
+This post is part of Fig and Lime Cordial&#8217;s Monthly [In My Kitchen](https://figjamandlimecordial.com/2015/04/01/in-my-kitchen-april-2015/)
 
 &nbsp;

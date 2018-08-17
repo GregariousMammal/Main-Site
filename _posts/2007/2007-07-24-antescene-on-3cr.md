@@ -10,6 +10,6 @@ I shall be on 3CR radio tomorrow afternoon to talk about my Antescene nights, it
 
 Have a listen, drop the studio a line etc...
 
-[www.3cr.org.au](http://www.3cr.org.au)
+[www.3cr.org.au](https://www.3cr.org.au)
 
 855am (Melbourne)

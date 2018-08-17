@@ -59,14 +59,14 @@ what would happen?"*
 In an era where robots like
 [Nao](https://www.ald.softbankrobotics.com/en/cool-robots/nao),
 [Pepper](https://www.ald.softbankrobotics.com/en/cool-robots/pepper),
-[Sophia](http://www.hansonrobotics.com/robot/sophia/) and
+[Sophia](https://www.hansonrobotics.com/robot/sophia/) and
 [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY) manage to amaze us
 with their respective abilities to walk, learn, communicate in different
 languages,  recognize different people and partake in heavy lifting,
 another suite of robots is hard at work lowering the bar of robotic
 achievement.
 
-[Hebocon](http://portal.nifty.com/hebocon/) is an annual robot
+[Hebocon](https://portal.nifty.com/hebocon/) is an annual robot
 competition for the technically ungifted where 31 robots compete in sumo
 style wrestling matches where the robots try to push their competitors
 off a board through a combination of pushing, shoving, whirring and
@@ -127,7 +127,7 @@ blocked. As the creators encourage:
 > <div id="TidyhihJ" style="width: 213px">
 >
 > [side effects of viagra and
-> alcohol](http://www.viagragenericoes24.com/side-effects-of-viagra-and-alcohol/)
+> alcohol](https://www.viagragenericoes24.com/side-effects-of-viagra-and-alcohol/)
 >
 > </div>
 >

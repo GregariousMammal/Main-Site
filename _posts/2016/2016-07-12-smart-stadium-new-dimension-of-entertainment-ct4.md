@@ -83,10 +83,10 @@ sell parking spaces and guide you not only to the stadium but your seat.
 Fans no longer need to jostle overfilled cups of beer and messy hot dogs
 between the kiosk and your seat, risking a spill with every step. Many
 stadiums have rolled out [mobile point of service
-systems](http://www.emobilepos.com/solutions/stadium-arena-pos/) to
+systems](https://www.emobilepos.com/solutions/stadium-arena-pos/) to
 enable fans to buy food, beverages, merchandise and team
 memberships [without even leaving their
-seat](http://www.bypassmobile.com/) through a combination of mobile and
+seat](https://www.bypassmobile.com/) through a combination of mobile and
 beacon technology.
 
 It not only saves time, but also lowers staffing needs. Along with
@@ -100,12 +100,12 @@ via mobile app on the nearest bathrooms and the expected wait time.
 Cisco's real-time live feeds
 ----------------------------
 
-Cisco's [StadiumVision](http://www.cisco.com/c/dam/en_us/solutions/industries/docs/sports/broncos-sports.pdf)
+Cisco's [StadiumVision](https://www.cisco.com/c/dam/en_us/solutions/industries/docs/sports/broncos-sports.pdf)
 initiative delivers real-time, live HD video from any source and can
 include content from in-house feeds and external local and national
 channels create an exciting, immersive experience for fans throughout
 the venue. An example is the [Sports Authority
-Field](http://www.sportsauthorityfieldatmilehigh.com/) at Mile High in
+Field](https://www.sportsauthorityfieldatmilehigh.com/) at Mile High in
 Denver which hosts 1,200 displays. Large video walls offer a lasting
 impression and support complementary sidebar promotions and ads for the
 local team, the Broncos. Fans can also access a range of tools such as
@@ -126,7 +126,7 @@ Getting to know your fans
 -------------------------
 
 Smart stadiums can personalize the fan experience through [loyalty
-programs](http://www.rippleffect.com/news-views/the-connected-stadium-what-can-football-learn-from-erm-football/)
+programs](https://www.rippleffect.com/news-views/the-connected-stadium-what-can-football-learn-from-erm-football/)
 based on their purchase history and through data analytics software that
 is used to predict future behavior - - what they buy and when. Retail
 franchises can maximize on this information as they are able to
@@ -136,9 +136,9 @@ messaging.
 
 Goal-line technology  is an integral part of match officiating at smart
 stadiums and is used in events such as the [2016 Euro
-Cup.](http://www.uefa.org/mediaservices/mediareleases/newsid=2354960.html) One
+Cup.](https://www.uefa.org/mediaservices/mediareleases/newsid=2354960.html) One
 example is the the
-[Hawk-Eye](http://www.hawkeyeinnovations.co.uk/sports/football) system
+[Hawk-Eye](https://www.hawkeyeinnovations.co.uk/sports/football) system
 that deploys seven cameras per goal, using control software to track the
 ball within the goal area. Using vision-processing techniques and
 software, Hawk-Eye indicates whether or not a goal has been scored
@@ -151,7 +151,7 @@ Stadium crowd management
 
 Smart stadiums can also benefit staff and officials through[accurate
 real time
-data](http://www.forbes.com/sites/ibm/2015/05/04/how-smart-digital-stadiums-are-changing-the-way-we-watch-sports/#57787cf4c1c2)
+data](https://www.forbes.com/sites/ibm/2015/05/04/how-smart-digital-stadiums-are-changing-the-way-we-watch-sports/#57787cf4c1c2)
 such as the number of people present and their locations, tools that are
 useful in case of an emergency or a missing child. Smart surveillance
 can also be utilized to provide safety evacuation information such as

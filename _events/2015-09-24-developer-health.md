@@ -6,7 +6,7 @@ categories: Chris
 title: Developer Health
 event: Reject.JS - Berlin
 pres_url: 'https://www.youtube.com/watch?v=-AlmhhnfJ-E'
-pres_source: 'http://chrischinchilla.github.io/Presentations/geek_health'
+pres_source: 'https://chrischinchilla.github.io/Presentations/geek_health'
 date: 2015-09-24T00:00:00.000Z
 ---
 

@@ -4,7 +4,7 @@ title: Cheesy potato balls
 date: 2015-11-25T13:00:52.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/?p=1466'
+guid: 'https://atravellingcook.com/?p=1466'
 permalink: /2015/11/cheesy-potato-balls.html
 tags:
   - cooking

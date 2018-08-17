@@ -4,7 +4,7 @@ title: 'Catching up&#8230;'
 date: 2014-06-05T05:12:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/06/catching-up.html
+guid: https://atravellingcook.com/2014/06/catching-up.html
 permalink: /2014/06/catching-up.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -31,14 +31,14 @@ The surgery knocked me around a bit.  I ended up with an infection in my right 
 
 
 
-I&#8217;ve been struggling terribly with a spot of plantar fascitis (the condition is a bitch to treat effectively) but besides that my leg pain is gone. It&#8217;s very strange, my body keeps tensing waiting for the pain and being able to walk differently takes a lot of getting used to!                                  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-iItjfkrCFLM/U4_pDfV3ygI/AAAAAAAAIwg/xIkHL82EZCA/s1600/10336639_10152048156036249_3859044767034588079_n.jpg"><img src="http://1.bp.blogspot.com/-iItjfkrCFLM/U4_pDfV3ygI/AAAAAAAAIwg/xIkHL82EZCA/s1600/10336639_10152048156036249_3859044767034588079_n.jpg" alt="" width="320" height="320" border="0" /></a>
+I&#8217;ve been struggling terribly with a spot of plantar fascitis (the condition is a bitch to treat effectively) but besides that my leg pain is gone. It&#8217;s very strange, my body keeps tensing waiting for the pain and being able to walk differently takes a lot of getting used to!                                  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-iItjfkrCFLM/U4_pDfV3ygI/AAAAAAAAIwg/xIkHL82EZCA/s1600/10336639_10152048156036249_3859044767034588079_n.jpg"><img src="https://1.bp.blogspot.com/-iItjfkrCFLM/U4_pDfV3ygI/AAAAAAAAIwg/xIkHL82EZCA/s1600/10336639_10152048156036249_3859044767034588079_n.jpg" alt="" width="320" height="320" border="0" /></a>
 
 <span style="font-size: x-small;"><i>One happy leg</i>
 
 We&#8217;ve just under a month before we leave for Leipzig. We&#8217;re frantically clearing out the house, selling  and donating bits and pieces. It&#8217;s quite a large job, especially once you start selling off furniture and end up living out of boxes and using the laundromat. But it&#8217;s all part of the adventure!
 
 
-  <a  href="http://3.bp.blogspot.com/-WC86gJRUB3o/U4_sMS5gqgI/AAAAAAAAIws/mhbf7XsC03k/s1600/14162088689_28aa537d69_z.jpg"><img src="http://3.bp.blogspot.com/-WC86gJRUB3o/U4_sMS5gqgI/AAAAAAAAIws/mhbf7XsC03k/s1600/14162088689_28aa537d69_z.jpg" alt="" width="400" height="253" border="0" /></a>
+  <a  href="https://3.bp.blogspot.com/-WC86gJRUB3o/U4_sMS5gqgI/AAAAAAAAIws/mhbf7XsC03k/s1600/14162088689_28aa537d69_z.jpg"><img src="https://3.bp.blogspot.com/-WC86gJRUB3o/U4_sMS5gqgI/AAAAAAAAIws/mhbf7XsC03k/s1600/14162088689_28aa537d69_z.jpg" alt="" width="400" height="253" border="0" /></a>
 
 
 _<span style="font-size: x-small;"> Getting rid of my succulents, I really enjoyed finding the little teapots and teacups_
@@ -46,7 +46,7 @@ _<span style="font-size: x-small;"> Getting rid of my succulents, I really enjo
 I did my last preserving class in Australia. It was a great day and there was quite a haul (apologies for a somewhat blurry phone pic):
 
 
-  <a  href="http://2.bp.blogspot.com/-La25c6GvtII/U4_sNMto4yI/AAAAAAAAIww/cvHB5jUtpUY/s1600/14163117727_0d438309b0_z.jpg"><img src="http://2.bp.blogspot.com/-La25c6GvtII/U4_sNMto4yI/AAAAAAAAIww/cvHB5jUtpUY/s1600/14163117727_0d438309b0_z.jpg" alt="" width="400" height="177" border="0" /></a>
+  <a  href="https://2.bp.blogspot.com/-La25c6GvtII/U4_sNMto4yI/AAAAAAAAIww/cvHB5jUtpUY/s1600/14163117727_0d438309b0_z.jpg"><img src="https://2.bp.blogspot.com/-La25c6GvtII/U4_sNMto4yI/AAAAAAAAIww/cvHB5jUtpUY/s1600/14163117727_0d438309b0_z.jpg" alt="" width="400" height="177" border="0" /></a>
 
 
 
@@ -63,7 +63,7 @@ I did my last preserving class in Australia. It was a great day and there was qu
 
 
 
-  <a  href="http://2.bp.blogspot.com/-CJcWccNiAPk/U5ALnlmXuHI/AAAAAAAAIxE/ei7u54Is_ek/s1600/10363768_10152055569986249_4204626736318426961_n.jpg"><img src="http://2.bp.blogspot.com/-CJcWccNiAPk/U5ALnlmXuHI/AAAAAAAAIxE/ei7u54Is_ek/s1600/10363768_10152055569986249_4204626736318426961_n.jpg" alt="" width="400" height="400" border="0" /></a>
+  <a  href="https://2.bp.blogspot.com/-CJcWccNiAPk/U5ALnlmXuHI/AAAAAAAAIxE/ei7u54Is_ek/s1600/10363768_10152055569986249_4204626736318426961_n.jpg"><img src="https://2.bp.blogspot.com/-CJcWccNiAPk/U5ALnlmXuHI/AAAAAAAAIxE/ei7u54Is_ek/s1600/10363768_10152055569986249_4204626736318426961_n.jpg" alt="" width="400" height="400" border="0" /></a>
 
 
 

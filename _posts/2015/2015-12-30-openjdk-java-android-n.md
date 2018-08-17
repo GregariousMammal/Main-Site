@@ -45,9 +45,9 @@ excerpt: Google replaces JDK with Open JDK
 News from a “mysterious Android codebase commit” has revealed that
 Google is replacing its implementation of the Java application
 programming interfaces (APIs) in Android N with
-[OpenJDK](http://openjdk.java.net/), the open source version of Oracle’s
+[OpenJDK](https://openjdk.java.net/), the open source version of Oracle’s
 Java Development Kit
-([JDK](http://www.oracle.com/technetwork/java/javase/downloads/index.html)). 
+([JDK](https://www.oracle.com/technetwork/java/javase/downloads/index.html)). 
 
 The news came to light in an article last month in [Hacker
 News](https://news.ycombinator.com/item?id=10803775) with news of
@@ -88,7 +88,7 @@ closure.
 In light of the recent news, it's easy to wonder if the legal dispute
 between Oracle and Google has been settled out of court, or if it's a
 coincidence that Google is adopting OpenJDK. Google told
-[VentureBeat](http://venturebeat.com/2015/12/29/google-confirms-next-android-version-wont-use-oracles-proprietary-java-apis/)that
+[VentureBeat](https://venturebeat.com/2015/12/29/google-confirms-next-android-version-wont-use-oracles-proprietary-java-apis/)that
 the legal dispute is still ongoing, so it couldn't comment on whether
 the code change is related to the dispute.
 

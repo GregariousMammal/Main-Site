@@ -65,7 +65,7 @@ of conceivable.
 Rajshekar Dass is a car designer from Mumbai, India currently based in
 Turkey. He has an impressive design history which includes fronting a
 winner team of the 2016 [Michelin Challenge
-Design](http://www.michelinchallengedesign.com/the-challenge-archives/2016-mobility-for-all/2016-showcase-of-selected-entrants/) for
+Design](https://www.michelinchallengedesign.com/the-challenge-archives/2016-mobility-for-all/2016-showcase-of-selected-entrants/) for
 the [Google Community
 Vehicle](https://www.behance.net/gallery/30421703/Google-Community-Vehicle-Michelin-Challenge-Design) and  Winner
 of the  Vehicle, Mobility and Transport Design 2014-15 A'Design Award
@@ -106,8 +106,8 @@ with  augmented reality made his design more than a well intentioned
 concept.
 
 There's precedence here. For example, in
-2010 [ Emotiv](http://emotiv.com/) released the [Emotiv
-Epoch+](http://emotiv.com/epoc/), a commercial wearable device designed
+2010 [ Emotiv](https://emotiv.com/) released the [Emotiv
+Epoch+](https://emotiv.com/epoc/), a commercial wearable device designed
 to enable users to play computer games on a screen through functioning
 as a brain-computer interface device (Admittedly the design was not
 without it's challenges as [this
@@ -115,7 +115,7 @@ review ](https://www.engadget.com/2010/01/27/review-emotiv-epoc-tough-thoughts-
 
 Then in 2014, Ian Burkhart became the first paralyzed person to use
 neural bypass technology [to pick up and hold a
-spoon](http://www.cbsnews.com/news/paralyzed-patient-regains-hand-movement-using-own-brain-signals/) using
+spoon](https://www.cbsnews.com/news/paralyzed-patient-regains-hand-movement-using-own-brain-signals/) using
 his own brainpower, with his abilities increasing overtime.
 
 <div>

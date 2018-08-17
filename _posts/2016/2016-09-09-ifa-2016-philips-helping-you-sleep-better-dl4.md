@@ -56,14 +56,14 @@ With more patients seeking medical care for sleep disorders, the world
 is waking up to the challenge of healthy sleep, its impact on overall
 health and the need for a good’s night rest.
 
-During the recent [IFA](http://www.ifa-berlin.de/) conference here in
+During the recent [IFA](https://www.ifa-berlin.de/) conference here in
 Berlin, Philips presented the Dream Family solution designed to improve
 the sleep therapy experience for people with [obstructive sleep
 apnea](https://en.wikipedia.org/wiki/Obstructive_sleep_apnea) (OSA).
 More than 100 million people worldwide are estimated to have OSA, a
 serious condition that is treated with positive airway pressure (PAP)
 therapy. [The Dream
-Family](http://www.usa.philips.com/healthcare/solutions/sleep-and-respiratory-care/dream-family),
+Family](https://www.usa.philips.com/healthcare/solutions/sleep-and-respiratory-care/dream-family),
 comprised of the DreamWear mask, DreamStation PAP device, and
 DreamMapper patient engagement app, is designed to engage sleep apnea
 patients with one of the most comfortable and effective therapies
@@ -90,7 +90,7 @@ Core77 accolades.
 >
 > <div id="GezeoY" style="width: 358px">
 >
-> [achatcialisfrance24.com/](http://achatcialisfrance24.com/)
+> [achatcialisfrance24.com/](https://achatcialisfrance24.com/)
 >
 > </div>
 >
@@ -98,7 +98,7 @@ Core77 accolades.
 
 It's interesting that they've stuck to the design of a mask for treating
 sleep apnea. This year, Startup
-[Airing](http://www.fundairing.com/#first-ever-micro-cpap) raised more
+[Airing](https://www.fundairing.com/#first-ever-micro-cpap) raised more
 than \$1.5 million
 on[Indiegogo](https://www.indiegogo.com/projects/airing-the-first-hoseless-maskless-micro-cpap-sleep-technology#/)
 for its creation of a far cheaper, mask-less, cordless, continuous
@@ -118,7 +118,7 @@ Philips also showcased two light therapy solutions designed to improve
 the experience of getting out of bed.
 
 Philips' [EnergyUp Energy
-Lights](http://www.philips-store.com/store/catalog/light-therapy/energy-light/golite-blu-energy-light/productdetail/HF3429_60_US_SHOPPUB/US/en "Opens in a new window") lights
+Lights](https://www.philips-store.com/store/catalog/light-therapy/energy-light/golite-blu-energy-light/productdetail/HF3429_60_US_SHOPPUB/US/en "Opens in a new window") lights
 help combat energy dips caused by jet lag, long hours inside an office,
 or general fatigue. A white light mimics the natural energizing power of
 daylight, and is clinically proven to increase energy levels and
@@ -126,7 +126,7 @@ mood[.]{style="font-size: 13.3333px;line-height: 20px"}  There's also a
 blue light for people to use when traveling or at the office.
 
 There's also [Wake-up
-Light](http://www.philips-store.com/store/catalog/light-therapy/wake-up-light/wake-up-light/productdetail/HF3520_60_US_SHOPPUB/US/en "Opens in a new window"), clinically
+Light](https://www.philips-store.com/store/catalog/light-therapy/wake-up-light/wake-up-light/productdetail/HF3520_60_US_SHOPPUB/US/en "Opens in a new window"), clinically
 proven to provide a more energetic wake-up in the morning and reduces
 sleepiness after waking up. The technology allows users to simulate the
 sunrise and choose the preferred sound for their wake up. They aren't

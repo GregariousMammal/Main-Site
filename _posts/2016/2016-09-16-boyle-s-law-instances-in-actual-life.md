@@ -74,7 +74,7 @@ As a way to create sentences which are punctuated properly, the author
 should follow a couple basic guidelines. Despite the fact that this
 might encourage some vagueness, moreover it may enable a simpler period
 of replying the particular fast, which really is an excellent
-http://ledesd.com/on-you-need-to-be-picked-how-to-compose-a-powerful/
+https://ledesd.com/on-you-need-to-be-picked-how-to-compose-a-powerful/
 point for a timed writing exercise. Moreover, training composing some
 easy sentences. As well as variety predicated on structure, an excellent
 section contains sentences that differ in total.
@@ -103,7 +103,7 @@ Eral is trying to become well known overseas model.
 
 The major intention of this lesson is for the pupils to start
 considering difficulties they may need to write about inside their
-http://thanhnienviet.vn/college-paper-topics/ essay. This actually is an
+https://thanhnienviet.vn/college-paper-topics/ essay. This actually is an
 excellent reflective exercise for learners to assess by themselves if
 they're writing well - created paragraphs. The method the record
 provides is intentionally produced to connect with any article subject

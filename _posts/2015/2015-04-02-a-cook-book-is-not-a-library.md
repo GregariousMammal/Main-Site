@@ -4,7 +4,7 @@ title: A cook book is not your personal recipe file
 date: 2015-04-02T12:37:45+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=662
+guid: https://atravellingcook.com/?p=662
 permalink: /2015/04/a-cook-book-is-not-a-library.html
 tags:
   - activism
@@ -17,7 +17,7 @@ format: image
 ---
 [<img class=" size-full wp-image-665 aligncenter" src="/images/atc-migrate/2015/04/3033725490_5f9e111578.jpg" alt="3033725490_5f9e111578" width="333" height="500" />](/images/atc-migrate/2015/04/3033725490_5f9e111578.jpg)
 
-_Image from [here](http://vegdo.com/images/pile-of-cookbooks/)_
+_Image from [here](https://vegdo.com/images/pile-of-cookbooks/)_
 
 I belong to lots of vegan food related facebook groups and recently I came across a practice which has really bothered me. A member of the group had photographed the page of a recipe book and posted it in the group. The group consists of over 9000 people.
 
@@ -43,15 +43,15 @@ It made me think about a lot of things, including the place of books in our live
 
 I&#8217;ve always derived great satisfaction from being a member of a local public library and visiting a library has always been something of a ritual that I&#8217;ve really enjoyed. (Its made me a little sad that libraries are now louder places with events which make story time seem like a whisper but that&#8217;s a post for another time). Libraries aren&#8217;t as prolific as they once were.
 
-The funding of public libraries is in decline in [England](http://lj.libraryjournal.com/blogs/annoyedlibrarian/2015/02/09/the-decline-and-fall-of-british-libraries/) and [America](http://www.ala.org/news/sites/ala.org.news/files/content/2014-State-of-Americas-Libraries-Report.pdf). If you combine this with the brick and mortar bookshops especially those not part of a chain) that are closing, it may be easy to think that people are reading less. I know that personally I can&#8217;t remember the last time I bought a physical paper in hand book (with the except of the Deutsch sprach schule texts).  Books are expensive to buy, especially in Australia. When I lived there I often just couldn&#8217;t afford to buy books in bookshops very often, opting for more affordable options like [_Book Depository_](http://www.bookdepository.com/), buying a second hand book or yes, borrowing the book from the library. In doing so, was I too, complicit in depriving an author or in-store book seller of a reputable income? In the same vein,  is taking a picture of a recipe and sharing it not really any worse than ripping a page out of a magazine or borrowing a book from a friend?
+The funding of public libraries is in decline in [England](https://lj.libraryjournal.com/blogs/annoyedlibrarian/2015/02/09/the-decline-and-fall-of-british-libraries/) and [America](https://www.ala.org/news/sites/ala.org.news/files/content/2014-State-of-Americas-Libraries-Report.pdf). If you combine this with the brick and mortar bookshops especially those not part of a chain) that are closing, it may be easy to think that people are reading less. I know that personally I can&#8217;t remember the last time I bought a physical paper in hand book (with the except of the Deutsch sprach schule texts).  Books are expensive to buy, especially in Australia. When I lived there I often just couldn&#8217;t afford to buy books in bookshops very often, opting for more affordable options like [_Book Depository_](https://www.bookdepository.com/), buying a second hand book or yes, borrowing the book from the library. In doing so, was I too, complicit in depriving an author or in-store book seller of a reputable income? In the same vein,  is taking a picture of a recipe and sharing it not really any worse than ripping a page out of a magazine or borrowing a book from a friend?
 
-[Collaborative consumption](http://en.wikipedia.org/wiki/Sharing_economy) may be considered a hip, post 2000&#8217;s movement, but it&#8217;s always been around in one form or another. I can even remember my Mum swapping once read books and magazines with friends.
+[Collaborative consumption](https://en.wikipedia.org/wiki/Sharing_economy) may be considered a hip, post 2000&#8217;s movement, but it&#8217;s always been around in one form or another. I can even remember my Mum swapping once read books and magazines with friends.
 
-I guess I&#8217;d like to think that a physical product when shared like a magazine or book (whether borrowed from a library or friend or bought from a cheaper source or second hand) can be an opportunity for a bigger, expanded audience which will read more of the author&#8217;s work, creating a fan base of sorts. But to me, sharing a book between friends pales in comparison to massive sharing of published editions. I can even remember years ago when a &#8216;bootleg&#8217; Jamie Oliver book was leaked in a word document and emailed around the University I worked at. (And to millions of other people according to [this](http://www.telegraph.co.uk/news/uknews/1437850/Bootleg-Jamie-Oliver-emailed-free-to-millions-worldwide.html) article).
+I guess I&#8217;d like to think that a physical product when shared like a magazine or book (whether borrowed from a library or friend or bought from a cheaper source or second hand) can be an opportunity for a bigger, expanded audience which will read more of the author&#8217;s work, creating a fan base of sorts. But to me, sharing a book between friends pales in comparison to massive sharing of published editions. I can even remember years ago when a &#8216;bootleg&#8217; Jamie Oliver book was leaked in a word document and emailed around the University I worked at. (And to millions of other people according to [this](https://www.telegraph.co.uk/news/uknews/1437850/Bootleg-Jamie-Oliver-emailed-free-to-millions-worldwide.html) article).
 
 There seems to be an assumption inherent in these kind of acts  that sit somewhere between &#8220;All publicity is good publicity&#8221; vs. &#8220;Why shouldn&#8217;t I get it for free? He/they can afford it!&#8221;.
 
-The reality is that anyone who thinks that authors are rich from writing a cook book alone are sadly mistaken. Food writer and cookbook author Heather McLean has written a detailed post about it [here](http://heather-maclean.com/how-much-do-cookbook-authors-make/), providing an example of the experience of a cookbook author with an agent and publisher. In contrast, Jill Nussinnow is interviewed and does a great rundown on the costs associated with self publishing a physical cookbook [here](http://happyherbivore.com/2012/07/self-publishing-cookbook-best-avenue-you/).  Whilst not a recent article, it&#8217;s a good look into the work involved in writing, publishing and selling a cook book.
+The reality is that anyone who thinks that authors are rich from writing a cook book alone are sadly mistaken. Food writer and cookbook author Heather McLean has written a detailed post about it [here](https://heather-maclean.com/how-much-do-cookbook-authors-make/), providing an example of the experience of a cookbook author with an agent and publisher. In contrast, Jill Nussinnow is interviewed and does a great rundown on the costs associated with self publishing a physical cookbook [here](https://happyherbivore.com/2012/07/self-publishing-cookbook-best-avenue-you/).  Whilst not a recent article, it&#8217;s a good look into the work involved in writing, publishing and selling a cook book.
 
 Ok, so maybe you&#8217;ve been guilty of a mindlessly shared book or recipe. Somethings you might like to do:
 

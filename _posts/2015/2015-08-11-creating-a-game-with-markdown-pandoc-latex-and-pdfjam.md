@@ -11,7 +11,7 @@ The main reason for a lack of small posts on the progress of Chip Shop is that b
 
 ## New and Improved Cards
 
-We have added a lot of [new cards](http://chipshopgame.com/cards/) but also spent time fleshing out the existing ones with flavour text, images, legal information and removing as much extraneous text as possible. I have always wanted the game to be as un-reliant on text as possible to allow for simpler translation and understanding for non-English speakers. This is hard work and the process is not complete, but we're getting there. We have accomplished this through the '[concepts](http://chipshopgame.com/manual/)' concept(!) and eventually these will be replaced with icons.
+We have added a lot of [new cards](https://chipshopgame.com/cards/) but also spent time fleshing out the existing ones with flavour text, images, legal information and removing as much extraneous text as possible. I have always wanted the game to be as un-reliant on text as possible to allow for simpler translation and understanding for non-English speakers. This is hard work and the process is not complete, but we're getting there. We have accomplished this through the '[concepts](https://chipshopgame.com/manual/)' concept(!) and eventually these will be replaced with icons.
 
 ## Printing Cards
 
@@ -43,7 +43,7 @@ rm -dfr _site
 rm -dfr pod
 ```
 
-The Chip Chop website is powered by [Jekyll](http://jekyllrb.com) and these commands ensure that all of the ruby dependencies Jekyll needs to build the website are up-to-date and we remove any existing website and print on demand folders.
+The Chip Chop website is powered by [Jekyll](https://jekyllrb.com) and these commands ensure that all of the ruby dependencies Jekyll needs to build the website are up-to-date and we remove any existing website and print on demand folders.
 
 ### Build the website
 
@@ -63,7 +63,7 @@ for filename in _cards/*.md; do
 done
 ```
 
-Then the script processes every markdown file in the _\_cards_ directory ensuring that the markdown [front matter](http://jekyllrb.com/docs/frontmatter/) fields are observed (used for the game scores, costs and other meta data), using the _cards.latex_ template (we'll look at that later) and outputs a PDF with an appropriate name.
+Then the script processes every markdown file in the _\_cards_ directory ensuring that the markdown [front matter](https://jekyllrb.com/docs/frontmatter/) fields are observed (used for the game scores, costs and other meta data), using the _cards.latex_ template (we'll look at that later) and outputs a PDF with an appropriate name.
 
 Finally:
 
@@ -72,7 +72,7 @@ pdfjam pod/pdf/cards/*.pdf --no-landscape --frame true --nup 3x3 --suffix comple
 mv cards pod/cards_complete.pdf
 ```
 
-I use [pdfjam](http://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/software/pdfjam/) (after research it seemed the best option) to create a 3x3 9up document of all the card pdfs in one printable document. pdfjam gives an error if you don't output into it's working directory, so then I move the file to where I actually want it (hopefully that's solveable).
+I use [pdfjam](https://www2.warwick.ac.uk/fac/sci/statistics/staff/academic-research/firth/software/pdfjam/) (after research it seemed the best option) to create a 3x3 9up document of all the card pdfs in one printable document. pdfjam gives an error if you don't output into it's working directory, so then I move the file to where I actually want it (hopefully that's solveable).
 
 And that's it, we have a website and printable PDFs of the game cards.
 
@@ -80,7 +80,7 @@ And that's it, we have a website and printable PDFs of the game cards.
 
 ### The Latex file
 
-A lot of the more complex magic for generating the card files from [Pandoc](http://pandoc.org/) takes place in a [latex](http://www.latex-project.org/) template.
+A lot of the more complex magic for generating the card files from [Pandoc](https://pandoc.org/) takes place in a [latex](https://www.latex-project.org/) template.
 
 [View the latex template on GitHub](https://github.com/GregariousMammal/Chip-Shop/blob/master/_layouts/cards.latex).
 

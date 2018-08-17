@@ -4,7 +4,7 @@ title: Moving to Berlin Part 2
 date: 2015-03-18T16:52:59+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=377
+guid: https://atravellingcook.com/?p=377
 permalink: /2015/03/moving-to-berlin-part-2.html
 tags:
   - berlin

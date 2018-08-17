@@ -4,7 +4,7 @@ title: Chocolate and custard wontons
 date: 2015-02-23T19:58:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/02/chocolate-and-custard-wontons.html
+guid: https://atravellingcook.com/2015/02/chocolate-and-custard-wontons.html
 permalink: /2015/02/chocolate-and-custard-wontons.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -21,7 +21,7 @@ tags:
   - recipe
   - vegan
 ---
-                       <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-5QzYlafOtng/VOty-0zlCWI/AAAAAAAAKss/k9g4Eghe5go/s1600/_DSC0131.JPG"><img src="http://4.bp.blogspot.com/-5QzYlafOtng/VOty-0zlCWI/AAAAAAAAKss/k9g4Eghe5go/s1600/_DSC0131.JPG" alt="" width="400" height="333" border="0" /></a>
+                       <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-5QzYlafOtng/VOty-0zlCWI/AAAAAAAAKss/k9g4Eghe5go/s1600/_DSC0131.JPG"><img src="https://4.bp.blogspot.com/-5QzYlafOtng/VOty-0zlCWI/AAAAAAAAKss/k9g4Eghe5go/s1600/_DSC0131.JPG" alt="" width="400" height="333" border="0" /></a>
   
 <br /> Nutella and other types of chocolate spread are very popular here in Germany. Spread over fresh bread or toast, its a rich, sweet delight that is liable to leave someone in a food coma, especially if the chocolate spread is eaten directly from a jar, not that I would do anything like that, ahem&#8230; You can buy vegan versions (as most chocolate spreads contain milk powder) but it&#8217;s actually really easy to make your own if you can get nuts affordably, I&#8217;ve even made it before with sunflower seeds with good results. 
 
@@ -35,11 +35,11 @@ tags:
 
   * 1 packet of wonton wrappers
   * &#8216;Nutella&#8217; (see below)
-  * Custard ( I used <a href="http://atravellingcook.com/2015/02/veganised-portuguese-custard-tarts.html">this </a>custard recipe from my portuguese custard tarts)
+  * Custard ( I used <a href="https://atravellingcook.com/2015/02/veganised-portuguese-custard-tarts.html">this </a>custard recipe from my portuguese custard tarts)
   * Oil for frying
 
 
-                        <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-ueCEagUeV8k/VOtzJiCEqQI/AAAAAAAAKs4/uyvnnOo4PO0/s1600/won.jpg"><img src="http://1.bp.blogspot.com/-ueCEagUeV8k/VOtzJiCEqQI/AAAAAAAAKs4/uyvnnOo4PO0/s1600/won.jpg" alt="" width="360" height="400" border="0" /></a>
+                        <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-ueCEagUeV8k/VOtzJiCEqQI/AAAAAAAAKs4/uyvnnOo4PO0/s1600/won.jpg"><img src="https://1.bp.blogspot.com/-ueCEagUeV8k/VOtzJiCEqQI/AAAAAAAAKs4/uyvnnOo4PO0/s1600/won.jpg" alt="" width="360" height="400" border="0" /></a>
 
 
 
@@ -106,4 +106,4 @@ tags:
 
 
 
-  <a  href="http://4.bp.blogspot.com/-vUEvyIusBKQ/VOty-Ucb3xI/AAAAAAAAKso/MbZAGwZYX-w/s1600/_DSC0134.JPG"><img src="http://4.bp.blogspot.com/-vUEvyIusBKQ/VOty-Ucb3xI/AAAAAAAAKso/MbZAGwZYX-w/s1600/_DSC0134.JPG" alt="" width="400" height="315" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-vUEvyIusBKQ/VOty-Ucb3xI/AAAAAAAAKso/MbZAGwZYX-w/s1600/_DSC0134.JPG"><img src="https://4.bp.blogspot.com/-vUEvyIusBKQ/VOty-Ucb3xI/AAAAAAAAKso/MbZAGwZYX-w/s1600/_DSC0134.JPG" alt="" width="400" height="315" border="0" /></a>

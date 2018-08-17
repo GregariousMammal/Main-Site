@@ -43,7 +43,7 @@ Pillow Talk
 
 ![](rw-import/MTM2NDc5MzI4MTIzNzU4MTc3.jpg)
 
-[Pillow Talk](http://www.littleriot.com/pillow-talk/) brings back the
+[Pillow Talk](https://www.littleriot.com/pillow-talk/) brings back the
 intimacy to long-distance relationships through the use of a wristband
 that picks up your heartbeat and sends it, in real time, to your loved
 one. They can listen to your heartbeat in your pillow and they can hear
@@ -61,7 +61,7 @@ The Hug Shirt
 
 ![](rw-import/MTM2NDc5OTQ2ODY3NDg0MjU1.jpg)
 
-The [HugShirt](http://cutecircuit.com/the-hug-shirt/) was invented by
+The [HugShirt](https://cutecircuit.com/the-hug-shirt/) was invented by
 Francesca Rosella and Ryan Genz, the co-founders of wearables fashion
 house CuteCircuit.The shirt is embedded with sensors that feel the
 strength, duration, and location of the touch, the skin warmth and the
@@ -104,7 +104,7 @@ Kissenger
 
 ![](rw-import/MTM2NDc5NzQyODU2NTM3Njk1.jpg)
 
-[Kissenger](http://www.kissengers.com/) is possibly the weirdest
+[Kissenger](https://www.kissengers.com/) is possibly the weirdest
 connected device I've seen yet. It's what the company likes to call
 "embodied emotional communication hardware." The idea is that you kiss
 away on your Kissinger and the touch-sensitive device sends the
@@ -124,7 +124,7 @@ Eternity Wall
 Want to make your message last forever? Whilst there's a certain romance
 in carving your initials in a tree or naming a star after your beloved,
 another way to declare your love is to embed in the block chain.
-[Eternity Wall](http://eternitywall.it/) is a ledger of messages
+[Eternity Wall](https://eternitywall.it/) is a ledger of messages
 embedded in the blockchain. There are over 5 thousands copies of this
 ledger all around the world and soon it will also be in space. Even if
 this site goes down or disappears, your message is guaranteed to persist
@@ -135,7 +135,7 @@ Klikaklu
 
 ![](rw-import/MTM2NDg0NTA4NjU5NjIzNTIx.jpg)
 
-The awkwardly phonetically named [Klikaklu](http://www.klikaklu.com/)
+The awkwardly phonetically named [Klikaklu](https://www.klikaklu.com/)
 app enables you to create a fun treasure hunt or geocaching event for
 your partner without too much hard work. Include fun places you've spent
 time together, some thoughtful clues and small gifts and end it with a
@@ -149,7 +149,7 @@ Single And Looking For Love?
 My friends tell me how hard it is being single in the age of Tinder. All
 that time getting your hopes up for someone who is flaky or
 unavailable...For those still looking for love, app
-[Whim](http://joinwhim.com/) cuts to the chase and sets up actual dates
+[Whim](https://joinwhim.com/) cuts to the chase and sets up actual dates
 avoiding the risk of endless texting without ever meeting. Users plug in
 when they’re free, who they like on the app, and when Whim finds two
 mutually interested daters it arranges the meet. Only when users are set

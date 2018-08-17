@@ -13,4 +13,4 @@ I loved the Amiga when I was a child anyway, but this was also a perfect researc
 
 If you do take the time to read the game, studio and personality descriptions you will uncover great stories from the history of Amiga and it's developers. One of the most memorable aspects of these stories are where people are now. Some companies moved on to bigger and better things, most vanished without a trace, but it was amazing how many personalities who were so (in)famous at the time are now just freelancers. This is one aspect of the industry I have always wanted to attempt to capture in Chip Shop and some of the changes I am working on from play testing will hopefully represent this potential for loyalty or legacy better.
 
-[Buy a copy of the book here](http://www.bitmapbooks.co.uk/collections/all/products/commodore-amiga-a-visual-commpendium).
+[Buy a copy of the book here](https://www.bitmapbooks.co.uk/collections/all/products/commodore-amiga-a-visual-commpendium).

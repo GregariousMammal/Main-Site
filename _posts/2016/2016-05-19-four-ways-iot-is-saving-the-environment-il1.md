@@ -76,9 +76,9 @@ The problem of e-waste is familiar to anyone with old devices. Once a
 device becomes obsolete or beyond repair, it invariably ends up in
 landfill, often in another country. While there have been schemes to
 [refurnish
-phones](http://www.zoo.org.au/get-involved/act-for-wildlife/theyre-calling-on-you)
+phones](https://www.zoo.org.au/get-involved/act-for-wildlife/theyre-calling-on-you)
 and
-[computers](http://www.apple.com/shop/browse/home/specialdeals/mac), the
+[computers](https://www.apple.com/shop/browse/home/specialdeals/mac), the
 sheer scale of e-waste is a complex problem. Many sustainability experts
 have suggested that the tech industry should take some responsibility as
 the enablers of the problem in the first place, and through this
@@ -89,7 +89,7 @@ and regenerative by design and which aims to keep products, components
 and materials at their highest utility and value at all times."
 
 [Project
-Mainstream](http://www.weforum.org/reports/project-mainstream-global-collaboration-accelerate-transition-towards-circular-economy) is
+Mainstream](https://www.weforum.org/reports/project-mainstream-global-collaboration-accelerate-transition-towards-circular-economy) is
 global project targeting areas of sustainability thwarted by
 complexities such as e-waste, using a circular economy model. As
 connected devices are embedded with chips and sensors, they can be
@@ -117,7 +117,7 @@ charging facilities. The tracking enables conservationists to lobby for
 appropriate sea protections where dugongs are situated.
 
 In Australia honey bees are fitted with tiny micro censors by the
-[CSIRO](http://www.csiro.au/en/Research/BF/Areas/Protecting-Australias-agricultural-industries/Robot-technology/Swarm-sensing) to
+[CSIRO](https://www.csiro.au/en/Research/BF/Areas/Protecting-Australias-agricultural-industries/Robot-technology/Swarm-sensing) to
 monitor bee movements. The research is being led by CSIRO and aims to
 improve honey bee pollination and productivity on farms, as well as help
 understand the drivers of bee Colony Collapse Disorder (CCD), a
@@ -137,9 +137,9 @@ generate power from insect movement and store energy in batteries.
 .aligncenter width="643" height="857"}
 
 The use of drones to [monitor
-deforestation](http://www.treehugger.com/gadgets/conservationists-launch-cheap-drone-monitor-deforestation-and-endangered-species.html)
+deforestation](https://www.treehugger.com/gadgets/conservationists-launch-cheap-drone-monitor-deforestation-and-endangered-species.html)
 is nothing new, but U.K.-based company [BioCarbon
-Engineering](http://www.biocarbonengineering.com/) is working to use
+Engineering](https://www.biocarbonengineering.com/) is working to use
 drones in the fight against deforestation. In an effort to plant a
 billion trees a year, drones take detailed 3D images of the landscape to
 determine the nutrients, biodiversity and topology. This is followed by
@@ -150,7 +150,7 @@ provide fast and accurate reforestation.
 
 In many tropical countries, there's a thriving black market for
 illegally cut timber. [Earth
-Observation](http://www.earthobservation.com/what-we-do-1), a provider
+Observation](https://www.earthobservation.com/what-we-do-1), a provider
 of forest and marine monitoring solutions, has developed an infrared and
 GPS-based system that creates a unique biometric record of individual
 trees that have been legally authorized for harvest and uses a
@@ -168,7 +168,7 @@ system will not generate a “tag.”
 
 Where you start thinking about the internet in the ocean you know the
 possibilities of technology are getting very big. [Catalina Sea
-Ranch](http://www.catalinasearanch.com/Catalinasearanch.com/Monitoring.html)
+Ranch](https://www.catalinasearanch.com/Catalinasearanch.com/Monitoring.html)
 is an America's first off shore shellfish ranch. Besides fishing, they
 are also working on creating a wireless data capturing system for the
 ocean.
@@ -177,7 +177,7 @@ As CEO Phil Cruver
 [explains](https://agfundernews.com/how-to-build-a-data-capturing-internet-of-things-for-the-ocean5478.html):
 
 > "[The National Oceanic and Atmospheric Administration (NOAA)
-> Integrated Ocean Observation System](http://www.ioos.noaa.gov/) (IOOS)
+> Integrated Ocean Observation System](https://www.ioos.noaa.gov/) (IOOS)
 > provided a NOMAD buoy that will be anchored at our ranch and equipped
 > numerous marine embedded sensors at strategic positions in the
 > horizontal and vertical water plane. The wireless sensor network will
@@ -185,7 +185,7 @@ As CEO Phil Cruver
 > the cloud for remote and independent analysis by research institutions
 > and to offer insights for offshore aquaculture operations."
 
-In Italy, researchers at [SUNRISE](http://fp7-sunrise.eu/index.php) are
+In Italy, researchers at [SUNRISE](https://fp7-sunrise.eu/index.php) are
 also working to enable seas, lakes and rivers to be digital highways for
 data transfer from sensors, robots, and underwater vehicles capable of
 performing tasks too dangerous for humans. These include environmental

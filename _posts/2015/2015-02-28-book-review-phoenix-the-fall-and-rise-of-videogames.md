@@ -14,4 +14,4 @@ In terms of content, the book is phenomenal. I think you would struggle to find 
 
 If you are a fan of video games from any era since their inception then consider picking up a copy and lose yourself in a wonderful history lesson.
 
-[Buy a copy here from Amazon](http://www.amazon.com/gp/product/0964384825/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0964384825&linkCode=as2&tag=gregamamma-20&linkId=LR4PZBSD5ERXULIE)<img alt="" border="0" height="1" src="http://ir-na.amazon-adsystem.com/e/ir?t=gregamamma-20&l=as2&o=1&a=0964384825" style="border:none !important; margin:0px !important;" width="1" /> and earn me a few cents to!
+[Buy a copy here from Amazon](https://www.amazon.com/gp/product/0964384825/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0964384825&linkCode=as2&tag=gregamamma-20&linkId=LR4PZBSD5ERXULIE)<img alt="" border="0" height="1" src="https://ir-na.amazon-adsystem.com/e/ir?t=gregamamma-20&l=as2&o=1&a=0964384825" style="border:none !important; margin:0px !important;" width="1" /> and earn me a few cents to!

@@ -4,7 +4,7 @@ title: 'Moving to Germany: Some of the differences between Melbourne and Leipzig
 date: 2014-08-06T15:46:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/08/moving-to-germany-some-of-the-differences-between-melbourne-and-leipzig-part-one.html
+guid: https://atravellingcook.com/2014/08/moving-to-germany-some-of-the-differences-between-melbourne-and-leipzig-part-one.html
 permalink: /2014/08/moving-to-germany-some-of-the-differences-between-melbourne-and-leipzig-part-one.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -28,11 +28,11 @@ There are many differences between Melbourne and Leipzig. Some are obvious, some
 
 
 
-  <a  href="http://2.bp.blogspot.com/-7x5yOKscOfw/U-I9wsZHw_I/AAAAAAAAJG8/ff6fBxTRi8g/s1600/wnbrleklein-575x813.jpg"><img src="http://2.bp.blogspot.com/-7x5yOKscOfw/U-I9wsZHw_I/AAAAAAAAJG8/ff6fBxTRi8g/s1600/wnbrleklein-575x813.jpg" alt="" width="226" height="320" border="0" /></a>
+  <a  href="https://2.bp.blogspot.com/-7x5yOKscOfw/U-I9wsZHw_I/AAAAAAAAJG8/ff6fBxTRi8g/s1600/wnbrleklein-575x813.jpg"><img src="https://2.bp.blogspot.com/-7x5yOKscOfw/U-I9wsZHw_I/AAAAAAAAJG8/ff6fBxTRi8g/s1600/wnbrleklein-575x813.jpg" alt="" width="226" height="320" border="0" /></a>
 
 
 
-  <i><span style="font-size: x-small;">Image from <a href="http://www.google.de/imgres?imgurl=http%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2013%2F7%2F12%2F1373616367776%2FCigarette-packages-010.jpg&imgrefurl=http%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2013%2Fjul%2F12%2Fplans-plain-cigarette-packaging-shelved&h=276&w=460&tbnid=5lObSqWaJ4z-DM%3A&zoom=1&docid=tWtRp_1c4bz5LM&ei=SDziU7GKM4j7oATQt4GwBg&tbm=isch&iact=rc&uact=3&dur=559&page=1&start=0&ndsp=26&ved=0CCgQrQMwAg">here</a></i>
+  <i><span style="font-size: x-small;">Image from <a href="https://www.google.de/imgres?imgurl=http%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2013%2F7%2F12%2F1373616367776%2FCigarette-packages-010.jpg&imgrefurl=http%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2013%2Fjul%2F12%2Fplans-plain-cigarette-packaging-shelved&h=276&w=460&tbnid=5lObSqWaJ4z-DM%3A&zoom=1&docid=tWtRp_1c4bz5LM&ei=SDziU7GKM4j7oATQt4GwBg&tbm=isch&iact=rc&uact=3&dur=559&page=1&start=0&ndsp=26&ved=0CCgQrQMwAg">here</a></i>
 
 
 **Bike riding**
@@ -47,7 +47,7 @@ Supermarkets in Leipzig tend to have a separate attached bakery and shop selling
 
 Portion sizes are far smaller in food. You can get mini watermelons. Flour and sugar come in 1kg packets, no bigger. You can buy half a loaf of bread and icecream comes in little containers. Part of the obvious reason for this is that apartments and fridges are far smaller. It&#8217;s a real mental shift, I&#8217;m used to have a big fridge and shopping in bulk and freezing. Here I can&#8217;t do that so much.
 
-There&#8217;s no green shopping bags like we have in Australia. Not a bad thing as [they aren&#8217;t great for the environment](http://www.smh.com.au/news/environment/how-green-is-your-bag/2005/04/24/1114281452076.html). We bought cloth bags with us from Australia.
+There&#8217;s no green shopping bags like we have in Australia. Not a bad thing as [they aren&#8217;t great for the environment](https://www.smh.com.au/news/environment/how-green-is-your-bag/2005/04/24/1114281452076.html). We bought cloth bags with us from Australia.
 
 Supermarkets and almost all businesses are closed on sundays. The exception is the shops at the main train station.
 
@@ -61,7 +61,7 @@ People buy a lot of bottled mineral water in bulk packs in Leipzig, where as bac
   
 Seriously I have never seen so many smokers! I say that as someone who used to smoke myself for 10 years. Here every time i turn around someone is puffing away. I really struggled with it when i was ill with the lurgy as I couldn&#8217;t stop coughing. You can smoke inside most restaurants and bars too.
 
-By comparison I believe the rate is smoking in Australia is declining. In part due to the sheer cost of smoking (over [$16 for a pack of cigarettes compared to $6 in Germany](http://www.nationmaster.com/country-info/stats/Cost-of-living/Prices-at-markets/Cigarettes/Pack-of-Marlboro)) but I also couldn&#8217;t help feeling that smoking had become in many instances, very socially undesirable. Plus of course there are messages like [these](http://www.google.de/imgres?imgurl=http%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2013%2F7%2F12%2F1373616367776%2FCigarette-packages-010.jpg&imgrefurl=http%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2013%2Fjul%2F12%2Fplans-plain-cigarette-packaging-shelved&h=276&w=460&tbnid=5lObSqWaJ4z-DM%3A&zoom=1&docid=tWtRp_1c4bz5LM&ei=SDziU7GKM4j7oATQt4GwBg&tbm=isch&iact=rc&uact=3&dur=559&page=1&start=0&ndsp=26&ved=0CCgQrQMwAg) on cigarette packets in Australia. Of course culture, socioeconomic status, gender, age etc all have a part to play&#8230;
+By comparison I believe the rate is smoking in Australia is declining. In part due to the sheer cost of smoking (over [$16 for a pack of cigarettes compared to $6 in Germany](https://www.nationmaster.com/country-info/stats/Cost-of-living/Prices-at-markets/Cigarettes/Pack-of-Marlboro)) but I also couldn&#8217;t help feeling that smoking had become in many instances, very socially undesirable. Plus of course there are messages like [these](https://www.google.de/imgres?imgurl=http%3A%2F%2Fstatic.guim.co.uk%2Fsys-images%2FGuardian%2FPix%2Fpictures%2F2013%2F7%2F12%2F1373616367776%2FCigarette-packages-010.jpg&imgrefurl=http%3A%2F%2Fwww.theguardian.com%2Fsociety%2F2013%2Fjul%2F12%2Fplans-plain-cigarette-packaging-shelved&h=276&w=460&tbnid=5lObSqWaJ4z-DM%3A&zoom=1&docid=tWtRp_1c4bz5LM&ei=SDziU7GKM4j7oATQt4GwBg&tbm=isch&iact=rc&uact=3&dur=559&page=1&start=0&ndsp=26&ved=0CCgQrQMwAg) on cigarette packets in Australia. Of course culture, socioeconomic status, gender, age etc all have a part to play&#8230;
 
 **Food**
   
@@ -70,7 +70,7 @@ Vegan and vegetarian food haven&#8217;t been hard to find at all. There&#8217;s 
 **Alcohol**
 
 
-  <a  href="http://1.bp.blogspot.com/-y3HojhchPkE/U-JBIgewIxI/AAAAAAAAJHI/1JnfDoq_tKQ/s1600/220px-Gin_and_Tonic_with_ingredients.jpg"><img src="http://1.bp.blogspot.com/-y3HojhchPkE/U-JBIgewIxI/AAAAAAAAJHI/1JnfDoq_tKQ/s1600/220px-Gin_and_Tonic_with_ingredients.jpg" alt="" border="0" /></a>
+  <a  href="https://1.bp.blogspot.com/-y3HojhchPkE/U-JBIgewIxI/AAAAAAAAJHI/1JnfDoq_tKQ/s1600/220px-Gin_and_Tonic_with_ingredients.jpg"><img src="https://1.bp.blogspot.com/-y3HojhchPkE/U-JBIgewIxI/AAAAAAAAJHI/1JnfDoq_tKQ/s1600/220px-Gin_and_Tonic_with_ingredients.jpg" alt="" border="0" /></a>
 
 
 **

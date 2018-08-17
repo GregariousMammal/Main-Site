@@ -4,7 +4,7 @@ title: Make your own washing powder
 date: 2014-05-08T07:08:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/05/make-your-own-washing-powder.html
+guid: https://atravellingcook.com/2014/05/make-your-own-washing-powder.html
 permalink: /2014/05/make-your-own-washing-powder.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -19,14 +19,14 @@ blogger_internal:
 tags:
   - Uncategorized
 ---
-                         <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-a0CmSZ3FNlU/U2rQ-jZAyLI/AAAAAAAAIrE/mm8PeJMlKAQ/s1600/s10541751-300x225.jpg"><img src="http://2.bp.blogspot.com/-a0CmSZ3FNlU/U2rQ-jZAyLI/AAAAAAAAIrE/mm8PeJMlKAQ/s1600/s10541751-300x225.jpg" alt="" width="400" height="300" border="0" /></a>
+                         <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-a0CmSZ3FNlU/U2rQ-jZAyLI/AAAAAAAAIrE/mm8PeJMlKAQ/s1600/s10541751-300x225.jpg"><img src="https://2.bp.blogspot.com/-a0CmSZ3FNlU/U2rQ-jZAyLI/AAAAAAAAIrE/mm8PeJMlKAQ/s1600/s10541751-300x225.jpg" alt="" width="400" height="300" border="0" /></a>
   
 <br /> I&#8217;ve taught over 50 natural cleaning workshops. Probably closer to 100. I think it&#8217;s great that people want to make their homes more sustainable and avoid to use of toxic chemicals, making the space kinder to people, pets and plants to boot. I<span style="color: #212121; font-family: Arial, Helvetica, sans-serif; line-height: 21px;">f like me, you may find the $10+ costs for a container of &#8216;enviro friendly&#8217; washing machine powder a bit prohibitive making your own is a great option. 
   
 So, here&#8217;s what I make&#8230;I get all the &#8216;ingredients&#8217; from plain old supermarket. I don&#8217;t have time to go to a co-op or health food shop for expensive products. This recipe works on front and top loaders with hot or cold water.
 
 
-  <a  href="http://2.bp.blogspot.com/-omTbSLuT64Q/U2rQMM09vzI/AAAAAAAAIq0/h5uqDlcQaF0/s1600/s10541792-300x225.jpg"><img src="http://2.bp.blogspot.com/-omTbSLuT64Q/U2rQMM09vzI/AAAAAAAAIq0/h5uqDlcQaF0/s1600/s10541792-300x225.jpg" alt="" width="400" height="300" border="0" /></a>
+  <a  href="https://2.bp.blogspot.com/-omTbSLuT64Q/U2rQMM09vzI/AAAAAAAAIq0/h5uqDlcQaF0/s1600/s10541792-300x225.jpg"><img src="https://2.bp.blogspot.com/-omTbSLuT64Q/U2rQMM09vzI/AAAAAAAAIq0/h5uqDlcQaF0/s1600/s10541792-300x225.jpg" alt="" width="400" height="300" border="0" /></a>
 
 
 
@@ -37,7 +37,7 @@ So, here&#8217;s what I make&#8230;I get all the &#8216;ingredients&#8217; from 
 
 
 
-  <a  href="http://4.bp.blogspot.com/-ttw38AlePUE/U2rQMEaGSKI/AAAAAAAAIqs/wuxlNc33m8s/s1600/s10541782-300x225.jpg"><img src="http://4.bp.blogspot.com/-ttw38AlePUE/U2rQMEaGSKI/AAAAAAAAIqs/wuxlNc33m8s/s1600/s10541782-300x225.jpg" alt="" width="400" height="300" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-ttw38AlePUE/U2rQMEaGSKI/AAAAAAAAIqs/wuxlNc33m8s/s1600/s10541782-300x225.jpg"><img src="https://4.bp.blogspot.com/-ttw38AlePUE/U2rQMEaGSKI/AAAAAAAAIqs/wuxlNc33m8s/s1600/s10541782-300x225.jpg" alt="" width="400" height="300" border="0" /></a>
 
 
 <div style="color: #212121; line-height: 21px; margin-bottom: 1.5em; padding: 0px;">
@@ -77,7 +77,7 @@ So, here&#8217;s what I make&#8230;I get all the &#8216;ingredients&#8217; from 
 
 
 <div style="color: #212121; line-height: 21px; margin-bottom: 1.5em; padding: 0px;">
-  <a style="line-height: normal; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-44ZiqVL6xag/U2rQMQM_T8I/AAAAAAAAIqw/pfWbdBhyg9c/s1600/s10541811-300x225.jpg"><img src="http://3.bp.blogspot.com/-44ZiqVL6xag/U2rQMQM_T8I/AAAAAAAAIqw/pfWbdBhyg9c/s1600/s10541811-300x225.jpg" alt="" width="400" height="300" border="0" /></a>
+  <a style="line-height: normal; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-44ZiqVL6xag/U2rQMQM_T8I/AAAAAAAAIqw/pfWbdBhyg9c/s1600/s10541811-300x225.jpg"><img src="https://3.bp.blogspot.com/-44ZiqVL6xag/U2rQMQM_T8I/AAAAAAAAIqw/pfWbdBhyg9c/s1600/s10541811-300x225.jpg" alt="" width="400" height="300" border="0" /></a>
 
 
 <div style="color: #212121; line-height: 21px; margin-bottom: 1.5em; padding: 0px;">

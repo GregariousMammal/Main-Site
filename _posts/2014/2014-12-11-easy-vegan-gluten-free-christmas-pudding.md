@@ -4,7 +4,7 @@ title: Easy vegan gluten free Christmas pudding
 date: 2014-12-11T15:46:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/12/easy-vegan-gluten-free-christmas-pudding.html
+guid: https://atravellingcook.com/2014/12/easy-vegan-gluten-free-christmas-pudding.html
 permalink: /2014/12/easy-vegan-gluten-free-christmas-pudding.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -26,7 +26,7 @@ tags:
   - vegetarian
 ---
 
-  <a  href="http://1.bp.blogspot.com/-XDGomffVbNo/VImt1pMvyoI/AAAAAAAAKRE/egjIvVpiP9w/s1600/15997752015_c3f3583fa1_o.jpg"><img src="http://1.bp.blogspot.com/-XDGomffVbNo/VImt1pMvyoI/AAAAAAAAKRE/egjIvVpiP9w/s1600/15997752015_c3f3583fa1_o.jpg" alt="" width="400" height="315" border="0" /></a>
+  <a  href="https://1.bp.blogspot.com/-XDGomffVbNo/VImt1pMvyoI/AAAAAAAAKRE/egjIvVpiP9w/s1600/15997752015_c3f3583fa1_o.jpg"><img src="https://1.bp.blogspot.com/-XDGomffVbNo/VImt1pMvyoI/AAAAAAAAKRE/egjIvVpiP9w/s1600/15997752015_c3f3583fa1_o.jpg" alt="" width="400" height="315" border="0" /></a>
 
 
 
@@ -105,7 +105,7 @@ tags:
 
 
 
-  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-SNWIN4qOY_k/VImqq35r8xI/AAAAAAAAKQ4/jv7pyUta3SE/s1600/4231586321_67b372bd1d_z.jpg"><img src="http://1.bp.blogspot.com/-SNWIN4qOY_k/VImqq35r8xI/AAAAAAAAKQ4/jv7pyUta3SE/s1600/4231586321_67b372bd1d_z.jpg" alt="" width="400" height="265" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-SNWIN4qOY_k/VImqq35r8xI/AAAAAAAAKQ4/jv7pyUta3SE/s1600/4231586321_67b372bd1d_z.jpg"><img src="https://1.bp.blogspot.com/-SNWIN4qOY_k/VImqq35r8xI/AAAAAAAAKQ4/jv7pyUta3SE/s1600/4231586321_67b372bd1d_z.jpg" alt="" width="400" height="265" border="0" /></a>
 
 
 

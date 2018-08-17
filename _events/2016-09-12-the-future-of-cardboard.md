@@ -7,7 +7,7 @@ event: Ignite Berlin
 date: 2016-09-12T19:00:00.000Z
 venue: 'RADIALSYSTEM V, Holzmarktstraße 33, 10243 Berlin'
 pres_source: null
-pres_url: 'http://igniteberlin.com/'
+pres_url: 'https://igniteberlin.com/'
 ---
 
 Games have been with us for centuries, from those that emulate battles like Chess and Risk, to the intricate mysteries of Go.

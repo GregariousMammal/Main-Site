@@ -74,9 +74,9 @@ provide new insights and improve decision making.
 
 An interesting area where this is occurring is in the business of
 winemaking. German company
-[MyOmega](http://www.myomegasys.com/index.php/mynxg/mynxg-iot-architecture)
+[MyOmega](https://www.myomegasys.com/index.php/mynxg/mynxg-iot-architecture)
 has created  the solar powered [ IoT device
-]{.goog-text-highlight}[TracoVino](http://www.myomegasys.com/index.php/new/178-tracovino),
+]{.goog-text-highlight}[TracoVino](https://www.myomegasys.com/index.php/new/178-tracovino),
 with incorporates an  MYNXG controller and corresponding app to support
 winemakers to improve the quality of their wines, optimize workflows and
 to monitor vineyards remotely.
@@ -105,7 +105,7 @@ being trialled at a four Bavarian vineyards.
 .wp-image-318 .aligncenter width="400" height="602"}
 
 Agricultural innovation is not limited to wine making. Rural start up
-[Rowbot](http://rowbot.com/) has created a team of small robots to help
+[Rowbot](https://rowbot.com/) has created a team of small robots to help
 Corn growers.The problem facing many growers is that a rapidly growing
 crop, mixed with uncertain field conditions, leads to situations where
 in-season applications of nitrogen cannot be carried out as planned.
@@ -119,7 +119,7 @@ to inform both current and future work.
 
 **Deepfield Robots**
 
-[Deepfield Robotics](http://www.deepfield-robotics.com/), a start up
+[Deepfield Robotics](https://www.deepfield-robotics.com/), a start up
 under Bosch has been working hard in Germany to solve the problems faced
 by asparagus farmers.
 
@@ -181,7 +181,7 @@ to farming.
 ![lg\_map-903x1024](rw-import/lg_map-903x1024.png){.alignnone
 .size-full .wp-image-321 width="903" height="1024"}
 
-[OnFarm](http://www.onfarm.com/) is part of a suite of  IoT technology
+[OnFarm](https://www.onfarm.com/) is part of a suite of  IoT technology
 platforms aimed at the farming industry. OnFarm’s software integrates
 nearly any type of data from any provider; from real-time soil moisture
 data to weather data, to image data. Users gain insight and guidance

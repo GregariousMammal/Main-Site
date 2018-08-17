@@ -4,7 +4,7 @@ title: 'Moving to Germany: Greetings from Leipzig'
 date: 2014-07-20T16:08:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/07/moving-to-germany-greetings-from-leipzig.html
+guid: https://atravellingcook.com/2014/07/moving-to-germany-greetings-from-leipzig.html
 permalink: /2014/07/moving-to-germany-greetings-from-leipzig.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -64,7 +64,7 @@ How&#8217;s it all going? I&#8217;ll divide into good and bad in dot point form 
   </ul>
   
   
-    <span style="color: #37404e; line-height: 20px;"><i>(these things)</i><a style="line-height: 20px; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/--7XxyMHTOeI/U8vVAtKbdfI/AAAAAAAAI8Q/8cQw_S_884g/s1600/Bath-Puffs-20901.jpg"><img src="http://2.bp.blogspot.com/--7XxyMHTOeI/U8vVAtKbdfI/AAAAAAAAI8Q/8cQw_S_884g/s1600/Bath-Puffs-20901.jpg" alt="" width="320" height="239" border="0" /></a><span style="color: #37404e; line-height: 20px;"> <br /> <span style="color: #37404e; font-family: Arial, Helvetica, sans-serif; line-height: 20px;">I am debating whether to wait until I go to the UK next or buy all of the above on ebay. 
+    <span style="color: #37404e; line-height: 20px;"><i>(these things)</i><a style="line-height: 20px; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/--7XxyMHTOeI/U8vVAtKbdfI/AAAAAAAAI8Q/8cQw_S_884g/s1600/Bath-Puffs-20901.jpg"><img src="https://2.bp.blogspot.com/--7XxyMHTOeI/U8vVAtKbdfI/AAAAAAAAI8Q/8cQw_S_884g/s1600/Bath-Puffs-20901.jpg" alt="" width="320" height="239" border="0" /></a><span style="color: #37404e; line-height: 20px;"> <br /> <span style="color: #37404e; font-family: Arial, Helvetica, sans-serif; line-height: 20px;">I am debating whether to wait until I go to the UK next or buy all of the above on ebay. 
   
   
   <ul>
@@ -85,7 +85,7 @@ How&#8217;s it all going? I&#8217;ll divide into good and bad in dot point form 
 
 
 
-  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-qpiobyWcP5s/U8vZsz5RybI/AAAAAAAAI8c/RH958a0agjE/s1600/14455452488_92bb19b294_z.jpg"><img src="http://1.bp.blogspot.com/-qpiobyWcP5s/U8vZsz5RybI/AAAAAAAAI8c/RH958a0agjE/s1600/14455452488_92bb19b294_z.jpg" alt="" width="400" height="283" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-qpiobyWcP5s/U8vZsz5RybI/AAAAAAAAI8c/RH958a0agjE/s1600/14455452488_92bb19b294_z.jpg"><img src="https://1.bp.blogspot.com/-qpiobyWcP5s/U8vZsz5RybI/AAAAAAAAI8c/RH958a0agjE/s1600/14455452488_92bb19b294_z.jpg" alt="" width="400" height="283" border="0" /></a>
 
 
 
@@ -144,7 +144,7 @@ How&#8217;s it all going? I&#8217;ll divide into good and bad in dot point form 
 
 
 
-  <a  href="http://2.bp.blogspot.com/-6auwzE8M9q8/U8vZtGr4URI/AAAAAAAAI8g/zC6OB50qV64/s1600/14455657807_9a67b097b6_z.jpg"><img src="http://2.bp.blogspot.com/-6auwzE8M9q8/U8vZtGr4URI/AAAAAAAAI8g/zC6OB50qV64/s1600/14455657807_9a67b097b6_z.jpg" alt="" width="400" height="300" border="0" /></a>
+  <a  href="https://2.bp.blogspot.com/-6auwzE8M9q8/U8vZtGr4URI/AAAAAAAAI8g/zC6OB50qV64/s1600/14455657807_9a67b097b6_z.jpg"><img src="https://2.bp.blogspot.com/-6auwzE8M9q8/U8vZtGr4URI/AAAAAAAAI8g/zC6OB50qV64/s1600/14455657807_9a67b097b6_z.jpg" alt="" width="400" height="300" border="0" /></a>
 
 
 

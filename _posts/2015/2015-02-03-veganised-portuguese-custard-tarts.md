@@ -4,7 +4,7 @@ title: Veganised Portuguese custard tarts
 date: 2015-02-03T14:59:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/02/veganised-portuguese-custard-tarts.html
+guid: https://atravellingcook.com/2015/02/veganised-portuguese-custard-tarts.html
 permalink: /2015/02/veganised-portuguese-custard-tarts.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -24,7 +24,7 @@ tags:
   - vegan
 ---
 
-  <a  href="http://2.bp.blogspot.com/-hlq7yryQIyU/VNDUB8h9CDI/AAAAAAAAKlY/v-2u7_o_kqc/s1600/10801746_10152494642581249_459447651481158898_n.jpg"><img src="http://2.bp.blogspot.com/-hlq7yryQIyU/VNDUB8h9CDI/AAAAAAAAKlY/v-2u7_o_kqc/s1600/10801746_10152494642581249_459447651481158898_n.jpg" alt="" width="400" height="400" border="0" /></a>
+  <a  href="https://2.bp.blogspot.com/-hlq7yryQIyU/VNDUB8h9CDI/AAAAAAAAKlY/v-2u7_o_kqc/s1600/10801746_10152494642581249_459447651481158898_n.jpg"><img src="https://2.bp.blogspot.com/-hlq7yryQIyU/VNDUB8h9CDI/AAAAAAAAKlY/v-2u7_o_kqc/s1600/10801746_10152494642581249_459447651481158898_n.jpg" alt="" width="400" height="400" border="0" /></a>
 
 
 <br /> Portuguese custard tarts are something I used to quite enjoy even though I&#8217;ve never liked eggs per se. Vegan cooking has not been shy of providing alternatives to eggs in recipes, from tofu scrambles and chickpea flour omelettes to commercial egg replacers. Thus, a vegan variety of Portuguese tarts is not difficult however there is one caveat. Kala Namak is used a lot in vegan &#8216;egg&#8217; dishes to impart an egg like flavour.

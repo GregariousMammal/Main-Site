@@ -17,7 +17,7 @@ I've been using the device for a couple of weeks now, at home and on the road, s
 
 ## Physical dimensions
 
-The yoga book is wonderfully light and easy to carry, with a slightly peculiar sticky plastic feel to the casing. It has Lenovo's 'watch band' hinge [seen on other Yoga models](http://blog.lenovo.com/en/blog/yoga-laptop-tough-hinge-test). Open the Yoga book at 'Laptop' angle and the keyboard lights up, open it more than 90° and the keyboard switches off, to become a 'normal' tablet.
+The yoga book is wonderfully light and easy to carry, with a slightly peculiar sticky plastic feel to the casing. It has Lenovo's 'watch band' hinge [seen on other Yoga models](https://blog.lenovo.com/en/blog/yoga-laptop-tough-hinge-test). Open the Yoga book at 'Laptop' angle and the keyboard lights up, open it more than 90° and the keyboard switches off, to become a 'normal' tablet.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O3QSwB02ppE" frameborder="0" allowfullscreen></iframe>
 

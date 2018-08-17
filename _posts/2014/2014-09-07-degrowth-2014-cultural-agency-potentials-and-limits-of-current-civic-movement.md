@@ -10,15 +10,15 @@ tags: politics degrowth activism
 
 A valid discussion, but what will the limitations and potentials be.
 
-**[Friederike Habermann](http://www.leuphana.de/nage-tagung/programm/referierende/friederike-habermann.html)**
+**[Friederike Habermann](https://www.leuphana.de/nage-tagung/programm/referierende/friederike-habermann.html)**
 
 As an economist, she has always been interested in alternative economies for many decades. She mentions that sometimes it's hard to live the principles you preach in everyday life, more-so than in other alternative lifestyles. Demonstrations don't work in the long term, they are to make your demands but in the long run you need to show why the common people should change.
 
 **Leonidas Martin**
 
-Is a proponent of '[artivism](http://artisticactivism.org/)' (Art meets Activism). Political change isn't all that is needed, in fact many don't understand or appreciate this. Political is the application of a change that is required or demanded. He likes to try and demonstrate what 'The Good Life' means outside of Capitalism is. An example was running a party in an Employment office to demonstrate the potential 'positivity' of this time and the system's flaws.
+Is a proponent of '[artivism](https://artisticactivism.org/)' (Art meets Activism). Political change isn't all that is needed, in fact many don't understand or appreciate this. Political is the application of a change that is required or demanded. He likes to try and demonstrate what 'The Good Life' means outside of Capitalism is. An example was running a party in an Employment office to demonstrate the potential 'positivity' of this time and the system's flaws.
 
-**Micha Narberhaus, [Smart CSOs](http://www.smart-csos.org/)**
+**Micha Narberhaus, [Smart CSOs](https://www.smart-csos.org/)**
 
 Was motivated by attending many inspirational discussions but there was never a follow up discussion on 'where next' and 'how'. The research project started to bring together people from NGOs and grass roots organisations from many different sources, but with a focus on people who have the energy to actually do _something_. The aim over the past three years is to have a more structured, 'professional' space.
 

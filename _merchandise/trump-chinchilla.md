@@ -6,7 +6,7 @@ date: 2016-11-28T00:00:00.000Z
 image: podcast/trump-chinchilla.png
 store_links:
  - store: Red Bubble
-   link: http://www.redbubble.com/people/chrischinchilla/works/24064211-trump-chinchilla
+   link: https://www.redbubble.com/people/chrischinchilla/works/24064211-trump-chinchilla
  - store: Threadless
    link: https://chrischinchilla.threadless.com/designs/trump-chinchilla
 ---

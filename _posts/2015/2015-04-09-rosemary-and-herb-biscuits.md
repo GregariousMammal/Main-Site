@@ -4,7 +4,7 @@ title: Rosemary and sea salt biscuits
 date: 2015-04-09T12:40:47+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=720
+guid: https://atravellingcook.com/?p=720
 permalink: /2015/04/rosemary-and-herb-biscuits.html
 tags:
   - baking
@@ -20,7 +20,7 @@ format: image
   
   
   
-    Crackers and biscuits are quick and easy to make and are a great change to the store bought variety. They can be served as a side with soup, dipped in olive oil and sprinkled with <a title="Dukkah" href="http://atravellingcook.com/2014/03/sunday-cooking-dukkah.html">dukkah</a> or be part of a sumptuous cheese plate. Over the next few weeks, I&#8217;m going to be posting up some of my favourite varieties.
+    Crackers and biscuits are quick and easy to make and are a great change to the store bought variety. They can be served as a side with soup, dipped in olive oil and sprinkled with <a title="Dukkah" href="https://atravellingcook.com/2014/03/sunday-cooking-dukkah.html">dukkah</a> or be part of a sumptuous cheese plate. Over the next few weeks, I&#8217;m going to be posting up some of my favourite varieties.
   
   
   
@@ -100,6 +100,6 @@ format: image
       Let crackers the cool fully then break apart and store in an air tight container.
     </li>
     <li class="ERSInstructionsHeader ERSHeading">
-      Serve with your favourite toppings, I like <a title="Tomato kasundi" href="http://atravellingcook.com/2014/11/tomato-kasundi.html">tomato kasundi</a> and <a title="Onion jam" href="http://atravellingcook.com/2014/02/edible-gifts-onion-jam.html">onion jam</a> with mine.
+      Serve with your favourite toppings, I like <a title="Tomato kasundi" href="https://atravellingcook.com/2014/11/tomato-kasundi.html">tomato kasundi</a> and <a title="Onion jam" href="https://atravellingcook.com/2014/02/edible-gifts-onion-jam.html">onion jam</a> with mine.
     </li>
   </ol>

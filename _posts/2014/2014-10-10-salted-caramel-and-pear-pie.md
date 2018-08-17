@@ -4,7 +4,7 @@ title: Salted caramel and pear pie
 date: 2014-10-10T19:12:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/10/salted-caramel-and-pear-pie.html
+guid: https://atravellingcook.com/2014/10/salted-caramel-and-pear-pie.html
 permalink: /2014/10/salted-caramel-and-pear-pie.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -21,11 +21,11 @@ tags:
   - recipe
   - vegan
 ---
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-BuKlJiJyCGQ/VDghIQoEb9I/AAAAAAAAJrA/PvRM7VwC8G0/s1600/15474108296_3868ba824f_b.jpg"><img class=" aligncenter" src="http://1.bp.blogspot.com/-BuKlJiJyCGQ/VDghIQoEb9I/AAAAAAAAJrA/PvRM7VwC8G0/s1600/15474108296_3868ba824f_b.jpg" alt="" width="400" height="251" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-BuKlJiJyCGQ/VDghIQoEb9I/AAAAAAAAJrA/PvRM7VwC8G0/s1600/15474108296_3868ba824f_b.jpg"><img class=" aligncenter" src="https://1.bp.blogspot.com/-BuKlJiJyCGQ/VDghIQoEb9I/AAAAAAAAJrA/PvRM7VwC8G0/s1600/15474108296_3868ba824f_b.jpg" alt="" width="400" height="251" border="0" /></a>
   
 <br /> I realised I had some soy milk in the fridge that was about to go off. I don&#8217;t like soy milk to drink but I like to cook with it. So I decided to make some caramel. Depending on thickness and how long you cook it, this recipe can make either a caramel sauce or more like a caramel custard or <span style="background-color: white; color: #222222; line-height: 16.1200008392334px;">Dulce de leche. I wanted to use it as a pie filling so I opted for the latter. I want to make a tart using some tinned pears (as the fresh ones aren&#8217;t quite ripe yet). But I realised I didn&#8217;t have a pie dish or tins! I didn&#8217;t want to use a cake tin as the square shapes were quite unwieldy and I didn&#8217;t have quite enough filling for a galette. So I used an oven proof ceramic bowl. It doesn&#8217;t look the prettiest as a result, but the taste is divine! I used a sweet shortcrust pastry but a biscuit base or even puff pastry would work really well.
   
-<span style="background-color: white; color: #222222; line-height: 16.1200008392334px;"><br /> <span style="background-color: white; color: #222222; line-height: 16.1200008392334px;"><br />            <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-a7rI1wdFTaU/VDfWj_lrF1I/AAAAAAAAJqw/5yESR8S_gaY/s1600/15308831137_068bd86155_o.jpg"><img class=" aligncenter" src="http://4.bp.blogspot.com/-a7rI1wdFTaU/VDfWj_lrF1I/AAAAAAAAJqw/5yESR8S_gaY/s1600/15308831137_068bd86155_o.jpg" alt="" width="385" height="400" border="0" /></a>
+<span style="background-color: white; color: #222222; line-height: 16.1200008392334px;"><br /> <span style="background-color: white; color: #222222; line-height: 16.1200008392334px;"><br />            <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-a7rI1wdFTaU/VDfWj_lrF1I/AAAAAAAAJqw/5yESR8S_gaY/s1600/15308831137_068bd86155_o.jpg"><img class=" aligncenter" src="https://4.bp.blogspot.com/-a7rI1wdFTaU/VDfWj_lrF1I/AAAAAAAAJqw/5yESR8S_gaY/s1600/15308831137_068bd86155_o.jpg" alt="" width="385" height="400" border="0" /></a>
   
 <span style="background-color: white; color: #222222; line-height: 16.1200008392334px;"><br /> <span style="background-color: white; color: #222222; line-height: 16.1200008392334px;">To make salted caramel:
   

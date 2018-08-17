@@ -6,7 +6,7 @@ categories: Chris writing chrischinchilla
 tags: australia environment
 ---
 
-Tuesday was World Environment Day, I took part in a protest on excess logging, see some photos here <a href="http://www.flickr.com/photos/chrischinchilla/sets/72157600322402682" target="_blank">www.flickr.com/photos/chrischinchilla/sets/72157600322402682</a>
+Tuesday was World Environment Day, I took part in a protest on excess logging, see some photos here <a href="https://www.flickr.com/photos/chrischinchilla/sets/72157600322402682" target="_blank">www.flickr.com/photos/chrischinchilla/sets/72157600322402682</a>
 
 It was in an area about two hours from Melbourne, my Geography is a little poor, but here's a few name places I overheard that might give it some relevance... The Yarra Ranges, The Upper Taggerty, Whitehorse River and the Central Highlands.
 

@@ -8,7 +8,7 @@ event: Devoxx Poland
 date: 2017-06-22T18:10:00.000Z
 venue: ICE Krakow Congress Centre
 pres_source:
-pres_url: http://cfp.devoxx.pl/2017/talk/SLJ-3392/Automate_your_docs,_automate_yourself
+pres_url: https://cfp.devoxx.pl/2017/talk/SLJ-3392/Automate_your_docs,_automate_yourself
 ---
 
 Documentation is essential for potential users to understand your awesome coding efforts.

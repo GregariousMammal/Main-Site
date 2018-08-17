@@ -12,4 +12,4 @@ So i'm giving you a double whammy this week as I have loads of great articles ba
 
 I'll also get my latest music news in here sometime soon...
 
-Firstly we have [Children Collide](http://www.indieoma.com/public_journal.php?d=432aca3a1e345e339f35a30c8f65edce) and then we have [Clutch](http://www.indieoma.com/public_journal.php?d=8d3bba7425e7c98c50f52ca1b52d3735) (US)
+Firstly we have [Children Collide](https://www.indieoma.com/public_journal.php?d=432aca3a1e345e339f35a30c8f65edce) and then we have [Clutch](https://www.indieoma.com/public_journal.php?d=8d3bba7425e7c98c50f52ca1b52d3735) (US)

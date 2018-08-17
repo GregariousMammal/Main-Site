@@ -4,7 +4,7 @@ title: Food for thought
 date: 2014-10-16T17:31:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/10/food-for-thought-5.html
+guid: https://atravellingcook.com/2014/10/food-for-thought-5.html
 permalink: /2014/10/food-for-thought-5.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -21,14 +21,14 @@ tags:
   - leipzig
 ---
 
-  Life goes on busy, busy in Deutschland. It gets dark earlier in the evening and I wake up in the dark each morning. Last week we celebrated <a href="http://www.lichtfest.leipziger-freiheit.de/">Lichtfest Leipzig</a>, 25 years since reunification. It was a great event with a light festival, public buildings open including the archives of the records the Stasi had kept of the people of Leipzig (these are open anytime, you just make an appointment), public theatre and a ballet performance.
+  Life goes on busy, busy in Deutschland. It gets dark earlier in the evening and I wake up in the dark each morning. Last week we celebrated <a href="https://www.lichtfest.leipziger-freiheit.de/">Lichtfest Leipzig</a>, 25 years since reunification. It was a great event with a light festival, public buildings open including the archives of the records the Stasi had kept of the people of Leipzig (these are open anytime, you just make an appointment), public theatre and a ballet performance.
 
 
 
 
 
 
-  <a  href="http://3.bp.blogspot.com/-i6bxVeWzl8k/VD_xCSXcRkI/AAAAAAAAJsI/M_tzC3Jdxkk/s1600/1010485_10152303413611249_4747193730304808659_n.jpg"><img src="http://3.bp.blogspot.com/-i6bxVeWzl8k/VD_xCSXcRkI/AAAAAAAAJsI/M_tzC3Jdxkk/s1600/1010485_10152303413611249_4747193730304808659_n.jpg" alt="" width="400" height="300" border="0" /></a>
+  <a  href="https://3.bp.blogspot.com/-i6bxVeWzl8k/VD_xCSXcRkI/AAAAAAAAJsI/M_tzC3Jdxkk/s1600/1010485_10152303413611249_4747193730304808659_n.jpg"><img src="https://3.bp.blogspot.com/-i6bxVeWzl8k/VD_xCSXcRkI/AAAAAAAAJsI/M_tzC3Jdxkk/s1600/1010485_10152303413611249_4747193730304808659_n.jpg" alt="" width="400" height="300" border="0" /></a>
 
 
 
@@ -40,11 +40,11 @@ tags:
 
 
 
-  <a  href="http://2.bp.blogspot.com/-AQV3uBIPA1s/VD_xCZ1qUQI/AAAAAAAAJsQ/FGbZ6pZV3-0/s1600/10653754_10152303413976249_3518111748940090396_n.jpg"><img src="http://2.bp.blogspot.com/-AQV3uBIPA1s/VD_xCZ1qUQI/AAAAAAAAJsQ/FGbZ6pZV3-0/s1600/10653754_10152303413976249_3518111748940090396_n.jpg" alt="" width="400" height="300" border="0" /></a>
+  <a  href="https://2.bp.blogspot.com/-AQV3uBIPA1s/VD_xCZ1qUQI/AAAAAAAAJsQ/FGbZ6pZV3-0/s1600/10653754_10152303413976249_3518111748940090396_n.jpg"><img src="https://2.bp.blogspot.com/-AQV3uBIPA1s/VD_xCZ1qUQI/AAAAAAAAJsQ/FGbZ6pZV3-0/s1600/10653754_10152303413976249_3518111748940090396_n.jpg" alt="" width="400" height="300" border="0" /></a>
 
 
 
-  <a  href="http://3.bp.blogspot.com/-oJFtxxcPRvs/VD_xCZJPbLI/AAAAAAAAJsM/0zt7kQBBJSU/s1600/10710624_10152303413176249_9119429180422269560_n.jpg"><img src="http://3.bp.blogspot.com/-oJFtxxcPRvs/VD_xCZJPbLI/AAAAAAAAJsM/0zt7kQBBJSU/s1600/10710624_10152303413176249_9119429180422269560_n.jpg" alt="" width="300" height="400" border="0" /></a>
+  <a  href="https://3.bp.blogspot.com/-oJFtxxcPRvs/VD_xCZJPbLI/AAAAAAAAJsM/0zt7kQBBJSU/s1600/10710624_10152303413176249_9119429180422269560_n.jpg"><img src="https://3.bp.blogspot.com/-oJFtxxcPRvs/VD_xCZJPbLI/AAAAAAAAJsM/0zt7kQBBJSU/s1600/10710624_10152303413176249_9119429180422269560_n.jpg" alt="" width="300" height="400" border="0" /></a>
 
 
 
@@ -97,19 +97,19 @@ tags:
 
 
 
-  <span style="color: black;"><a href="http://www.nytimes.com/2014/10/12/magazine/what-if-you-just-hate-making-dinner.html?ref=magazine&_r=0">What if you just hate making dinner,</a> Virginia Heffernan, <i>New York Times Magazine</i><br /> <span style="color: black;"><i><br /> </i>
+  <span style="color: black;"><a href="https://www.nytimes.com/2014/10/12/magazine/what-if-you-just-hate-making-dinner.html?ref=magazine&_r=0">What if you just hate making dinner,</a> Virginia Heffernan, <i>New York Times Magazine</i><br /> <span style="color: black;"><i><br /> </i>
 
 
 
-  <span style="color: black;"><a href="http://heartifb.com/2014/10/01/why-personal-blogs-can-never-really-survive-monetization/">Why personal blogs can never really survive monetization</a>, Jennine Jacob,<i> Independent Fashion Bloggers</i>
+  <span style="color: black;"><a href="https://heartifb.com/2014/10/01/why-personal-blogs-can-never-really-survive-monetization/">Why personal blogs can never really survive monetization</a>, Jennine Jacob,<i> Independent Fashion Bloggers</i>
 
 
 
-  <span style="color: black;"><a href="http://www.spiegel.de/international/the-germanic-stare-down-watcha-lookin-at-granny-a-418068.html">The Germanic stare down: Watcha lookin at Granny?</a><i>, Die Spiegel</i><br /> <span style="color: black;"><i><br /> </i>
+  <span style="color: black;"><a href="https://www.spiegel.de/international/the-germanic-stare-down-watcha-lookin-at-granny-a-418068.html">The Germanic stare down: Watcha lookin at Granny?</a><i>, Die Spiegel</i><br /> <span style="color: black;"><i><br /> </i>
 
 
 
-  <span style="color: black;"><a href="http://www.theguardian.com/lifeandstyle/wordofmouth/2014/oct/10/my-homemade-cronut-made-to-be-instagrammed">My homemade Cronut hell: three days for three greasy lumps, </a>Rhik Samadder,  <i style="mso-bidi-font-style: normal;">The Guardian</i><br /> <span style="color: black;"><i style="mso-bidi-font-style: normal;"><br /> </i>
+  <span style="color: black;"><a href="https://www.theguardian.com/lifeandstyle/wordofmouth/2014/oct/10/my-homemade-cronut-made-to-be-instagrammed">My homemade Cronut hell: three days for three greasy lumps, </a>Rhik Samadder,  <i style="mso-bidi-font-style: normal;">The Guardian</i><br /> <span style="color: black;"><i style="mso-bidi-font-style: normal;"><br /> </i>
 
 
 <!-- [if gte mso 9]><xml> <o:OfficeDocumentSettings>  <o:AllowPNG/> </o:OfficeDocumentSettings></xml><![endif]-->
@@ -125,4 +125,4 @@ tags:
 <!--EndFragment-->
 
 
-  <span style="color: black;"><a href="http://www.motherjones.com/politics/2014/10/mexican-students-disappeared-guerrero-mass-graves">43 Mexican CollegeStudents disappeared weeks ago. What happened to them? </a>, AJ Vicens, <i style="mso-bidi-font-style: normal;">Mother Jones</i>
+  <span style="color: black;"><a href="https://www.motherjones.com/politics/2014/10/mexican-students-disappeared-guerrero-mass-graves">43 Mexican CollegeStudents disappeared weeks ago. What happened to them? </a>, AJ Vicens, <i style="mso-bidi-font-style: normal;">Mother Jones</i>

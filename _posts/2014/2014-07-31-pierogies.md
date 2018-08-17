@@ -4,7 +4,7 @@ title: Pierogies
 date: 2014-07-31T09:41:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/07/pierogies.html
+guid: https://atravellingcook.com/2014/07/pierogies.html
 permalink: /2014/07/pierogies.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -26,7 +26,7 @@ tags:
 
 
 
-  <a  href="http://3.bp.blogspot.com/-wygw1fa5XJI/U9oCVtaq3DI/AAAAAAAAJDo/wnB7HLSQnRc/s1600/14600581727_d9bfdd91fd_b.jpg"><img src="http://3.bp.blogspot.com/-wygw1fa5XJI/U9oCVtaq3DI/AAAAAAAAJDo/wnB7HLSQnRc/s1600/14600581727_d9bfdd91fd_b.jpg" alt="" width="400" height="390" border="0" /></a>
+  <a  href="https://3.bp.blogspot.com/-wygw1fa5XJI/U9oCVtaq3DI/AAAAAAAAJDo/wnB7HLSQnRc/s1600/14600581727_d9bfdd91fd_b.jpg"><img src="https://3.bp.blogspot.com/-wygw1fa5XJI/U9oCVtaq3DI/AAAAAAAAJDo/wnB7HLSQnRc/s1600/14600581727_d9bfdd91fd_b.jpg" alt="" width="400" height="390" border="0" /></a>
 
 
 
@@ -59,7 +59,7 @@ tags:
 
 <span style="color: #707271;"><span style="background-color: white; line-height: 18px;">Filling 1
 
-  * <span style="background-color: white; color: #707271; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">2 tablespoon <a style="font-family: Arial, Helvetica, sans-serif; line-height: 18px;" href="http://consumingcate.blogspot.de/2014/02/edible-gifts-onion-jam.html">onion jam</a>
+  * <span style="background-color: white; color: #707271; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">2 tablespoon <a style="font-family: Arial, Helvetica, sans-serif; line-height: 18px;" href="https://consumingcate.blogspot.de/2014/02/edible-gifts-onion-jam.html">onion jam</a>
   * <span style="background-color: white; color: #707271; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">3 potatoes
   * <span style="background-color: white; color: #707271; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">1 tablespoon nutritional yeast mixed with 1/2 cup hot water (or 1 veggie stock cube)
   * <span style="background-color: white; color: #707271; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">Salt and pepper to taste
@@ -69,11 +69,11 @@ tags:
   * <span style="background-color: white; color: #707271; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">1 cup mushrooms, diced in small pieces
   * <span style="background-color: white; color: #707271; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">2 cloves garlic, diced
   * <span style="background-color: white; color: #707271; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">1 cup cabbage, diced finely
-  * <span style="background-color: white; color: #707271; line-height: 18px;">1 tablespoon <a style="line-height: 18px;" href="http://consumingcate.blogspot.de/2014/02/edible-gifts-onion-jam.html">onion jam</a>
+  * <span style="background-color: white; color: #707271; line-height: 18px;">1 tablespoon <a style="line-height: 18px;" href="https://consumingcate.blogspot.de/2014/02/edible-gifts-onion-jam.html">onion jam</a>
   * 1/2 teaspoon dried thyme
   * <span style="background-color: white; color: #707271; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">Salt and pepper to taste
 
-<br />                            <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-wZsAoauxhOc/U9kaNmq7xkI/AAAAAAAAJCs/iVheZO0CEXc/s1600/14600463038_b2dc3cedae_b.jpg"><img src="http://3.bp.blogspot.com/-wZsAoauxhOc/U9kaNmq7xkI/AAAAAAAAJCs/iVheZO0CEXc/s1600/14600463038_b2dc3cedae_b.jpg" alt="" width="320" height="272" border="0" /></a><span style="color: #707271;"><span style="background-color: white; line-height: 18px;"><br /> <span style="color: #707271;"><span style="background-color: white; line-height: 18px;"><br /> <span style="color: #707271;"><span style="background-color: white; line-height: 18px;">Pastry
+<br />                            <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-wZsAoauxhOc/U9kaNmq7xkI/AAAAAAAAJCs/iVheZO0CEXc/s1600/14600463038_b2dc3cedae_b.jpg"><img src="https://3.bp.blogspot.com/-wZsAoauxhOc/U9kaNmq7xkI/AAAAAAAAJCs/iVheZO0CEXc/s1600/14600463038_b2dc3cedae_b.jpg" alt="" width="320" height="272" border="0" /></a><span style="color: #707271;"><span style="background-color: white; line-height: 18px;"><br /> <span style="color: #707271;"><span style="background-color: white; line-height: 18px;"><br /> <span style="color: #707271;"><span style="background-color: white; line-height: 18px;">Pastry
 
 <ol style="color: #707271; line-height: 18px;">
   <li>
@@ -102,11 +102,11 @@ tags:
   </li>
 </ol>
 
-                                 <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-oza43sooOOI/U9kaOAghWOI/AAAAAAAAJC0/mNHpRy8YkMg/s1600/14787096815_9573bab197_k.jpg"><img src="http://2.bp.blogspot.com/-oza43sooOOI/U9kaOAghWOI/AAAAAAAAJC0/mNHpRy8YkMg/s1600/14787096815_9573bab197_k.jpg" alt="" width="300" height="400" border="0" /></a>
+                                 <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-oza43sooOOI/U9kaOAghWOI/AAAAAAAAJC0/mNHpRy8YkMg/s1600/14787096815_9573bab197_k.jpg"><img src="https://2.bp.blogspot.com/-oza43sooOOI/U9kaOAghWOI/AAAAAAAAJC0/mNHpRy8YkMg/s1600/14787096815_9573bab197_k.jpg" alt="" width="300" height="400" border="0" /></a>
   
 <br /> <span style="background-color: white; color: #333333; line-height: 22.100000381469727px;">9. Put some of the filling onto the dough circle and fold it in half.
   
-<span style="background-color: white; color: #333333; line-height: 22.100000381469727px;"><br />                                  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-IYax4hoFvAM/U9kaNt6vviI/AAAAAAAAJCo/c07ja_BCYAM/s1600/14600576037_3ea51102e6_k.jpg"><img src="http://2.bp.blogspot.com/-IYax4hoFvAM/U9kaNt6vviI/AAAAAAAAJCo/c07ja_BCYAM/s1600/14600576037_3ea51102e6_k.jpg" alt="" width="300" height="400" border="0" /></a><span style="line-height: 22.100000381469727px;"><br /> <span style="background-color: white; color: #333333; line-height: 22.100000381469727px;">10. Close it with your fingers and some water around the edges to seal
+<span style="background-color: white; color: #333333; line-height: 22.100000381469727px;"><br />                                  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-IYax4hoFvAM/U9kaNt6vviI/AAAAAAAAJCo/c07ja_BCYAM/s1600/14600576037_3ea51102e6_k.jpg"><img src="https://2.bp.blogspot.com/-IYax4hoFvAM/U9kaNt6vviI/AAAAAAAAJCo/c07ja_BCYAM/s1600/14600576037_3ea51102e6_k.jpg" alt="" width="300" height="400" border="0" /></a><span style="line-height: 22.100000381469727px;"><br /> <span style="background-color: white; color: #333333; line-height: 22.100000381469727px;">10. Close it with your fingers and some water around the edges to seal
   
 <span style="background-color: white; color: #333333; line-height: 22.100000381469727px;"><br /> <i>Now it&#8217;s time to cook your pierogies. I like mine boiled and then lightly fried. You could no doubt try baking them also.</i>
   
@@ -119,7 +119,7 @@ tags:
   
 Warm some olive oil or dairy free spread and cook on both sides until brown
   
-<br /> <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-I4_XM4aGFyA/U9kaO1G2QPI/AAAAAAAAJDA/JnvaaxtMwSk/s1600/14806951233_d58888b8f7_z.jpg"><img src="http://2.bp.blogspot.com/-I4_XM4aGFyA/U9kaO1G2QPI/AAAAAAAAJDA/JnvaaxtMwSk/s1600/14806951233_d58888b8f7_z.jpg" alt="" width="300" height="400" border="0" /></a>
+<br /> <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-I4_XM4aGFyA/U9kaO1G2QPI/AAAAAAAAJDA/JnvaaxtMwSk/s1600/14806951233_d58888b8f7_z.jpg"><img src="https://2.bp.blogspot.com/-I4_XM4aGFyA/U9kaO1G2QPI/AAAAAAAAJDA/JnvaaxtMwSk/s1600/14806951233_d58888b8f7_z.jpg" alt="" width="300" height="400" border="0" /></a>
   
 <br /> <span style="background-color: white; color: #666666;"><br /> <span style="color: #666666;">Once browned, removed from the pan and serve with salad, soy sour cream and a shot of your favourite vodka. 
   

@@ -5,7 +5,7 @@ categories: Chris
 title: your ideas and projects
 event: DAppCon
 venue: Säälchen, Berlin
-pres_url: http://blockchainvis.co
+pres_url: https://blockchainvis.co
 pres_source:
 date: 2018-07-23
 ---

@@ -123,7 +123,7 @@ growing tree only to have it die on you, too?
 ![4-11](rw-import/4-11.jpg){.wp-image-1407
 .aligncenter width="549" height="549"}
 
-*[The Cloud](http://www.richardclarkson.com/shop/cloud)* is "an
+*[The Cloud](https://www.richardclarkson.com/shop/cloud)* is "an
 interactive speaker/lamp designed to mimic a thunderstorm in both sound
 and light. Functions include: streaming music via Bluetooth, music
 visualization, motion sensing & creating ambient light displays." Think
@@ -140,7 +140,7 @@ of it as a self-indulgent piece of interactive art. That makes the
 When you're from a family of chronic snorers and you've all spent time
 in sleep clinics to no avail, a product that not only aims to prevent
 snoring  but is also backed by sleep scientists is very appealing.
-[Nora](http://www.smartnora.com/) is a wireless device that detects the
+[Nora](https://www.smartnora.com/) is a wireless device that detects the
 early sounds of snoring then gently moves your head by activating a
 padded insert in your pillow case. The insert is inflated and the
 movement treats the cause of snoring, the relaxed throat muscles,
@@ -197,7 +197,7 @@ cutting an orange in half become too hard?
 The mere name of this product makes me think of A-type personalities who
 use their kitchen more for storing take-out sushi chopsticks than actual
 food prep. Yes, [The Control
-Freak](http://polyscienceculinary.com/products/the-control-freak) is
+Freak](https://polyscienceculinary.com/products/the-control-freak) is
 actually the name of this stove top, a collaboration between Breville
 and Polyscience, who assert:
 

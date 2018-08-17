@@ -84,7 +84,7 @@ Tzukuri
 
 If you're the kind of person who likes to wear expensive designer
 sunglasses, then these smart sunglasses by Sydney
-company [Tzukuri](http://www.tzukuri.com/) are for you.  The
+company [Tzukuri](https://www.tzukuri.com/) are for you.  The
 Bluetooth-powered sunglasses are embedded with a tiny beacon on one arm
 and connected to an app which will send you a series of notifications if
 your sunglasses are away from you - unless you clear the notifications -
@@ -126,7 +126,7 @@ the initial period post purchase. It's reminiscent of the earlier the
 [Hapifork](https://www.hapi.com/product/hapifork) in using connected
 technology to manage eating. It's success is relying on the consumer to
 want to continue to count calories, a method that has been[bought into
-question](http://www.npr.org/sections/thesalt/2016/06/07/481094825/a-neuroscientist-tackles-why-diets-make-us-fat)by
+question](https://www.npr.org/sections/thesalt/2016/06/07/481094825/a-neuroscientist-tackles-why-diets-make-us-fat)by
 a range of obesity experts. It retails at \$120 and it is perhaps a
 precursor of future products that integrate a more inclusive notion of
 health including psychological support.
@@ -182,7 +182,7 @@ The SubPac
 
 Thanks to [recent exposure in the NBA
 playoffs](https://readwrite.com/2016/06/22/subpac-nba-promo-vt4/), t[he
-Subpack](http://thesubpac.com/subpac-m2/) may be about to take off. It's
+Subpack](https://thesubpac.com/subpac-m2/) may be about to take off. It's
 a wearable audio device worn like a backpack. It weighs just over two
 kilos (4.5 pounds) with a SubPac bass thumper that sits on your back.
 It's marketed as delivering a great music experience through the unit's
@@ -212,7 +212,7 @@ Series Commitment Rings
 <div class="panel">
 
 Ice cream company Cornetto has created an interesting gimmick product,
-the [Series Commitment Rings](http://seriescommitment.com/#), aimed at
+the [Series Commitment Rings](https://seriescommitment.com/#), aimed at
 preventing one half of a relationship from forging ahead with a shared
 television program without the company of the other.
 
@@ -237,7 +237,7 @@ Smarttress
 
 Another connected device with the theme of infidelity, Smarttress - -
 made by Spain's Durmet - - is a [smart
-mattress](http://www.smarttress.com/en/) designed to keep an eye on your
+mattress](https://www.smarttress.com/en/) designed to keep an eye on your
 spouse. Based on the assumption of a cheating partner, the mattress
 contains a "lover detection system" of vibration censors and a “contact
 zones detector" that is able to send an alert to your mobile phone when

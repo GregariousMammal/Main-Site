@@ -5,7 +5,7 @@ categories: Chris
 
 title: Powering the Internet of Things with Distributed Databases
 event: Internet of Things Meet up Helsinki
-pres_url: 'http://www.meetup.com/Internet-of-Things-Helsinki/events/221317511/'
+pres_url: 'https://www.meetup.com/Internet-of-Things-Helsinki/events/221317511/'
 date: 2015-05-28T00:00:00.000Z
 pres_source: null
 ---

@@ -4,7 +4,7 @@ title: Pickled beetroots and beetroot bread
 date: 2014-08-12T11:44:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/08/pickled-beetroots-and-beetroot-bread.html
+guid: https://atravellingcook.com/2014/08/pickled-beetroots-and-beetroot-bread.html
 permalink: /2014/08/pickled-beetroots-and-beetroot-bread.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -31,7 +31,7 @@ tags:
       
       
       
-        <a  href="http://2.bp.blogspot.com/-gxusRoguZ-U/U-np9RJQ-AI/AAAAAAAAJJ4/gqjzAztu0Jk/s1600/14708314599_7d4d1e1154_z.jpg"><img src="http://2.bp.blogspot.com/-gxusRoguZ-U/U-np9RJQ-AI/AAAAAAAAJJ4/gqjzAztu0Jk/s1600/14708314599_7d4d1e1154_z.jpg" alt="" width="400" height="246" border="0" /></a>
+        <a  href="https://2.bp.blogspot.com/-gxusRoguZ-U/U-np9RJQ-AI/AAAAAAAAJJ4/gqjzAztu0Jk/s1600/14708314599_7d4d1e1154_z.jpg"><img src="https://2.bp.blogspot.com/-gxusRoguZ-U/U-np9RJQ-AI/AAAAAAAAJJ4/gqjzAztu0Jk/s1600/14708314599_7d4d1e1154_z.jpg" alt="" width="400" height="246" border="0" /></a>
       
       
       
@@ -39,7 +39,7 @@ tags:
       
       
       
-        <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-tKZWsn1WSno/U-np9Syqw2I/AAAAAAAAJJ8/-xIbC7FPI2I/s1600/14708307639_9c7b005d1c_z.jpg"><img src="http://4.bp.blogspot.com/-tKZWsn1WSno/U-np9Syqw2I/AAAAAAAAJJ8/-xIbC7FPI2I/s1600/14708307639_9c7b005d1c_z.jpg" alt="" width="400" height="265" border="0" /></a>
+        <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-tKZWsn1WSno/U-np9Syqw2I/AAAAAAAAJJ8/-xIbC7FPI2I/s1600/14708307639_9c7b005d1c_z.jpg"><img src="https://4.bp.blogspot.com/-tKZWsn1WSno/U-np9Syqw2I/AAAAAAAAJJ8/-xIbC7FPI2I/s1600/14708307639_9c7b005d1c_z.jpg" alt="" width="400" height="265" border="0" /></a>
       
       
       
@@ -85,7 +85,7 @@ tags:
       </ol>
       
       <div style="background-color: white; clear: both; color: #333333; line-height: 20.790000915527344px; text-align: center;">
-        <a style="color: #6699cc; line-height: 21px; margin-left: 1em; margin-right: 1em; text-decoration: none;" href="http://1.bp.blogspot.com/-p3DwD3qtvlo/UxVlr5VhWMI/AAAAAAAAIL4/FRrt2hqBTRE/s1600/Image+2.jpg"><span style="font-family: Georgia, Times New Roman, serif;"><img style="border: none; position: relative;" src="http://1.bp.blogspot.com/-p3DwD3qtvlo/UxVlr5VhWMI/AAAAAAAAIL4/FRrt2hqBTRE/s1600/Image+2.jpg" alt="" width="298" height="400" border="0" /></a>
+        <a style="color: #6699cc; line-height: 21px; margin-left: 1em; margin-right: 1em; text-decoration: none;" href="https://1.bp.blogspot.com/-p3DwD3qtvlo/UxVlr5VhWMI/AAAAAAAAIL4/FRrt2hqBTRE/s1600/Image+2.jpg"><span style="font-family: Georgia, Times New Roman, serif;"><img style="border: none; position: relative;" src="https://1.bp.blogspot.com/-p3DwD3qtvlo/UxVlr5VhWMI/AAAAAAAAIL4/FRrt2hqBTRE/s1600/Image+2.jpg" alt="" width="298" height="400" border="0" /></a>
       
       
       <div style="background-color: white; color: #333333; line-height: 20.790000915527344px;">
@@ -147,7 +147,7 @@ tags:
       
       
       
-        <a  href="http://3.bp.blogspot.com/-jx9AB5rOV_E/U-nwAT6VJCI/AAAAAAAAJKQ/9UcwHZtyRu8/s1600/14892086671_e340aea9fa_z.jpg"><img src="http://3.bp.blogspot.com/-jx9AB5rOV_E/U-nwAT6VJCI/AAAAAAAAJKQ/9UcwHZtyRu8/s1600/14892086671_e340aea9fa_z.jpg" alt="" width="400" height="265" border="0" /></a>
+        <a  href="https://3.bp.blogspot.com/-jx9AB5rOV_E/U-nwAT6VJCI/AAAAAAAAJKQ/9UcwHZtyRu8/s1600/14892086671_e340aea9fa_z.jpg"><img src="https://3.bp.blogspot.com/-jx9AB5rOV_E/U-nwAT6VJCI/AAAAAAAAJKQ/9UcwHZtyRu8/s1600/14892086671_e340aea9fa_z.jpg" alt="" width="400" height="265" border="0" /></a>
       
       
       

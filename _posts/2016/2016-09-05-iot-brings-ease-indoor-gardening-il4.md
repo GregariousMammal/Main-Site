@@ -59,12 +59,12 @@ needs of the farmer and the growing environment. Around 20% of the
 world's food production is grown within cities rather rural areas and
 inherent in this is the[multi-billion dollar industry of indoor growing
 and
-hydroponics](http://www.prnewswire.com/news-releases/growth-in-the-hydroponics-food-industry-set-to-outpace-global-markets-by-80-241264701.html).
+hydroponics](https://www.prnewswire.com/news-releases/growth-in-the-hydroponics-food-industry-set-to-outpace-global-markets-by-80-241264701.html).
 
 The industry includes \$5 billion in urban farming in the US and \$5.7
 billion for legal cannabis production.
 
-Agtech company [motorleaf](http://www.motorleaf.com/) have released the
+Agtech company [motorleaf](https://www.motorleaf.com/) have released the
 world's first wireless monitoring, motion detection and automated
 growing system for hobby and industrial growers. I spoke to CEO and
 co-founder Ally Monk to learn more.
@@ -86,7 +86,7 @@ holidays and needed a system to take care of his plants in his absence:
 > <div id="TYQqUJbBZXNg6Y9NT3" style="width: 230px">
 >
 > [viagra para las
-> marcas](http://www.viagragenericoes24.com/viagra-para-las-marcas/)
+> marcas](https://www.viagragenericoes24.com/viagra-para-las-marcas/)
 >
 > </div>
 >

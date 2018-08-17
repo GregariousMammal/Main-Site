@@ -4,7 +4,7 @@ title: Ethiopian chickpeas
 date: 2015-08-04T07:23:04.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/?p=1155'
+guid: 'https://atravellingcook.com/?p=1155'
 permalink: /2015/08/ethiopean-chickpeas.html
 tags:
   - food
@@ -14,7 +14,7 @@ format: image
 image: atc-migrate/2015/08/dreamstime_xl_38745709.jpg
 ---
 
-Since using chickpea brine to make [egg free lemon butter](http://atravellingcook.com/2015/05/egg-free-lemon-butter.html) and [meringues](http://atravellingcook.com/2015/05/egg-free-meringues.html), I find myself with lots of chickpeas to cook. I make lots of [hummus](http://atravellingcook.com/2015/04/smoky-hummus.html) but I also enjoy chickpeas in salads and one pot dishes. Here's one I used to make back in Australia when I was teaching cooking to Chinese migrants and their kids. We'd add whatever veggies were in season to bulk it up, and everyone enjoyed it, even the kids who claimed they didn't like vegetables!
+Since using chickpea brine to make [egg free lemon butter](https://atravellingcook.com/2015/05/egg-free-lemon-butter.html) and [meringues](https://atravellingcook.com/2015/05/egg-free-meringues.html), I find myself with lots of chickpeas to cook. I make lots of [hummus](https://atravellingcook.com/2015/04/smoky-hummus.html) but I also enjoy chickpeas in salads and one pot dishes. Here's one I used to make back in Australia when I was teaching cooking to Chinese migrants and their kids. We'd add whatever veggies were in season to bulk it up, and everyone enjoyed it, even the kids who claimed they didn't like vegetables!
 
 ![](/images/atc-migrate/2015/08/dreamstime_xl_38745709.jpg)
 
@@ -48,5 +48,5 @@ _Instructions:_
 
 This recipe is shared with:
 
--   [Meat free Mondays](http://www.tinnedtomatoes.com/2015/08/meat-free-mondays-7-recipes-for-week.html) by Tinned tomatoes
--   [Your weekly feed](http://www.landofzonkt.com.au/2015/08/your-weekly-feed-14-link-up/) by Land of Zonkt and [Boiled Eggs and Soldiers](http://boiledeggsandsoldiers.com.au/)
+-   [Meat free Mondays](https://www.tinnedtomatoes.com/2015/08/meat-free-mondays-7-recipes-for-week.html) by Tinned tomatoes
+-   [Your weekly feed](https://www.landofzonkt.com.au/2015/08/your-weekly-feed-14-link-up/) by Land of Zonkt and [Boiled Eggs and Soldiers](https://boiledeggsandsoldiers.com.au/)

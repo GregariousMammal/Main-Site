@@ -50,9 +50,9 @@ author:
   last_name: Lawrence
 ---
 A recent
-[report](http://www.citihorizons.com/resources/lucy-zodion-white-paper)commissioned
+[report](https://www.citihorizons.com/resources/lucy-zodion-white-paper)commissioned
 by streetlight design and manufacturing company
-[Lucy Zodion](http://www.lucyzodion.com/) has found significant barriers
+[Lucy Zodion](https://www.lucyzodion.com/) has found significant barriers
 to smart city development in the UK.
 
 The report contains research into the opinions on smart cities of senior
@@ -101,7 +101,7 @@ strategic aims.
 > and finding our own resources from government too.”
 
 This is significant as the outcome of the [recent Brexit
-referendum](http://www.bbc.co.uk/news/uk-politics-32810887) may make UK
+referendum](https://www.bbc.co.uk/news/uk-politics-32810887) may make UK
 councils ineligible to receive EU funding.
 
 UK projects need councils' buy-in

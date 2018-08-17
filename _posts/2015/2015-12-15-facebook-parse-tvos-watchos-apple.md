@@ -34,17 +34,17 @@ excerpt: Facebook devs can start greeting Apple's latest gizmos.
 ---
 ![](rw-import/MTM1MTYzMzc2NDUwOTY4MDMw.png)
 
-This week Facebook company [Parse](http://www.parse.com) announced the
+This week Facebook company [Parse](https://www.parse.com) announced the
 launch of new Parse software development kits (SDKs) for [Apple’s
 tvOS](https://developer.apple.com/tvos/) and[ watchOS
-2](http://www.apple.com/watchos-2/), so Facebook developers can build
+2](https://www.apple.com/watchos-2/), so Facebook developers can build
 immersive apps for the Apple TV and the Apple Watch. 
 
 Parse previously released support for the Apple Watch and App Extensions
 in April, which enabled developers to build apps with extensions running
 on Apple Watch alone—without having to rely on a constant connection to
 an iPhone. More recently, the company announced the [open sourcing of
-its SDKs](http://blog.parse.com/announcements/open-sourcing-our-sdks/)
+its SDKs](https://blog.parse.com/announcements/open-sourcing-our-sdks/)
 in August. 
 
 A major challenge  faced  by Parse was local storage with tvOS, and it

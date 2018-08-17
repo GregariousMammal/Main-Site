@@ -60,7 +60,7 @@ automation system, at the firm's annual developer's conference, [Google
 I/O 2016](https://events.google.com/io2016/).
 
 We've had a few teasers over the last few months
-and [Recode](http://www.recode.net/2016/5/11/11658432/google-chirp-amazon-echo-rival) previously
+and [Recode](https://www.recode.net/2016/5/11/11658432/google-chirp-amazon-echo-rival) previously
 reported that Google has been working on a portable speaker containing a
 built-in voice-activated assistant for the whole family in a prototype
 called "Chirp."

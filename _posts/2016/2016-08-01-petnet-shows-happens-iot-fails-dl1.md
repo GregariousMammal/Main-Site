@@ -48,7 +48,7 @@ author:
   last_name: Lawrence
 ---
 News sites  and social media has been abuzz the last few days with the
-situation that the[Petnet](http://www.petnet.io/) automated pet feeder
+situation that the[Petnet](https://www.petnet.io/) automated pet feeder
 was experiencing [system
 failure](https://twitter.com/petnetiosupport/status/758149586829529088) raising
 significant questions about the reliability of connected devices.
@@ -63,7 +63,7 @@ email from Petnet to Twitter which advised them:
 ![CoWz1YJUEAA2KuN](rw-import/CoWz1YJUEAA2KuN-1024x429.jpg){.size-large
 .wp-image-5184 .aligncenter width="1024" height="429"}
 
-The [Petnet](http://www.petnet.io/)is a smart pet feeder with features
+The [Petnet](https://www.petnet.io/)is a smart pet feeder with features
 including "“intelligent sensor technology, learning algorithms, and
 processing power that assesses the dietary requirements of a pet" and a
 custom feeding schedule via a [corresponding
@@ -98,10 +98,10 @@ their furriest family members. Automated pet feeders of old are becoming
 replaced by digitised versions that claim to (depending on brand) not
 only supply feed and water on a regular basis but also check the
 quantity of food and water consumed;  notify you when pet [food is
-running low](http://getnibbles.com/); provide camera shots and video
+running low](https://getnibbles.com/); provide camera shots and video
 footage of your pets; enable you to talk to your pet via your phone or
 laptop and distinguish your cats from each other through [facial
-recognition technology](http://catfi.com/pro.html). You can even get
+recognition technology](https://catfi.com/pro.html). You can even get
 specific [RFID tagged
 devices](https://www.sureflap.com/en-us/pet-feeder/microchip-pet-feeder)
 to stop your pets from stealing each others food. At any time there's an

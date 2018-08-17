@@ -15,7 +15,7 @@ In this episode, we're joined by Beth Aitman to talk about what happened with th
 
 -   [Sunsetting Documentation](https://meta.stackoverflow.com/questions/354217/sunsetting-documentation)
 -   [Thoughts on Stack Overflow's Documentation beta](https://medium.com/@beth.aitman/thoughts-on-stack-overflows-documentation-beta-f5a8b7f10c8)
--   [Why Stack Overflow's Documentation effort failed – a few thoughts from a technical writer's perspective](http://idratherbewriting.com/2017/08/05/why-stack-overflow-documentation-effort-failed/)
+-   [Why Stack Overflow's Documentation effort failed – a few thoughts from a technical writer's perspective](https://idratherbewriting.com/2017/08/05/why-stack-overflow-documentation-effort-failed/)
 -   [Free software is suffering because coders don't know how to write documentation](https://thenextweb.com/dd/2017/06/02/free-software-is-suffering-because-coders-dont-know-how-to-write-documentation/#.tnw_xijs56yV)
--   [Open Source Survey](http://opensourcesurvey.org/2017/)
+-   [Open Source Survey](https://opensourcesurvey.org/2017/)
 -   [Why do people answer questions on Stack Overflow?](https://jericson.github.io/2016/07/13/QA_economics.html)

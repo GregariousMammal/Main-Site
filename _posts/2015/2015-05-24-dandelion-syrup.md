@@ -4,7 +4,7 @@ title: Dandelion syrup
 date: 2015-05-24T16:17:13+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=935
+guid: https://atravellingcook.com/?p=935
 permalink: /2015/05/dandelion-syrup.html
 tags:
   - berlin

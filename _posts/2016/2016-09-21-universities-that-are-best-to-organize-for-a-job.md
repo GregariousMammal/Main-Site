@@ -31,7 +31,7 @@ It just requires a couple bucks, or potentially several dollars per
 month, but the money will likely be well - valued by the world's bad.
 Possessing an essay that's nicely - written is today inside your reach.
 They purchase essay on-line aid. Picking an article theme is among the
-vital http://fosterhomoeopathic.org/?p=9277 portions of composing an
+vital https://fosterhomoeopathic.org/?p=9277 portions of composing an
 essay or paper.
 
 Office st allowing and beaming an erring colleagueis mistake move is admirable.
@@ -68,7 +68,7 @@ variety of them have additionally found help by using their assignments,
 especially by using their essays. Stress among university students may
 come from several sources. Forty of the students within the study came
 from schools within the drop-off SES segment, 47 from
-http://theworldaroundus.online/how-to-do-an-in-quotation-in-mla/
+https://theworldaroundus.online/how-to-do-an-in-quotation-in-mla/
 universities within the greater segment. A brief Guide for Students.
 
 However, google can just only help with a tiny amount of wording.

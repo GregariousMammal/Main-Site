@@ -4,7 +4,7 @@ title: Quinoa, eggplant and mushroom balls
 date: 2014-09-23T16:31:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/09/quinoa-eggplant-and-mushroom-balls.html
+guid: https://atravellingcook.com/2014/09/quinoa-eggplant-and-mushroom-balls.html
 permalink: /2014/09/quinoa-eggplant-and-mushroom-balls.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -24,7 +24,7 @@ tags:
   - vegmofo
 ---
 
-  <a  href="http://4.bp.blogspot.com/-jYyLdpq2s5o/VCGSJnHXSHI/AAAAAAAAJiM/At4ctGEyfE8/s1600/15145656739_a26576f706_b.jpg"><img src="http://4.bp.blogspot.com/-jYyLdpq2s5o/VCGSJnHXSHI/AAAAAAAAJiM/At4ctGEyfE8/s1600/15145656739_a26576f706_b.jpg" alt="" width="400" height="353" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-jYyLdpq2s5o/VCGSJnHXSHI/AAAAAAAAJiM/At4ctGEyfE8/s1600/15145656739_a26576f706_b.jpg"><img src="https://4.bp.blogspot.com/-jYyLdpq2s5o/VCGSJnHXSHI/AAAAAAAAJiM/At4ctGEyfE8/s1600/15145656739_a26576f706_b.jpg" alt="" width="400" height="353" border="0" /></a>
 
 
 I made up this recipe as I wanted to make something with eggplant. This is one of those recipes with a few steps but it would be a great way to use up any leftover roast veggies and quinoa. I originally intended on adding walnuts to the recipe, but I&#8217;ve not found a cheap source of nuts in Leipzig yet. In Australia I used to buy mine at a wholesalers in bulk but they don&#8217;t seem to be so easy to find. I had an opened packet of quinoa so I decided to use that instead to add bulk and crunch when baked. They are really tasty and work really well with a yogurt based or chilli dip.

@@ -12,16 +12,16 @@ In this episode Chris and Cate discuss our robot overlords and what our future w
 
 ## Articles mentioned
 
-- [Isaac Asimov's "Three Laws of Robotics"](http://www.auburn.edu/~vestmon/robotics.html)
-- [Is Pepper The Future Of Companionship And Customer Service?](http://readwrite.com/2016/03/10/pepper-robot-helper/)
-- [Are Robots Replacing Humans In Customer Care?](http://readwrite.com/2016/04/24/robots-replacing-humans-in-customer-care-pr1/)
-- [How can robotics bring real innovation to the warehouse experience?](http://readwrite.com/2016/10/04/how-robotics-bring-great-innovtion-toinnovation-il4/)
-- [British Standards Institute guidelines BS 8611 Ethics design and application robots](http://shop.bsigroup.com/ProductDetail?pid=000000000030320089)
-- [The Industrial Revolution](http://www.history.com/topics/industrial-revolution)
+- [Isaac Asimov's "Three Laws of Robotics"](https://www.auburn.edu/~vestmon/robotics.html)
+- [Is Pepper The Future Of Companionship And Customer Service?](https://readwrite.com/2016/03/10/pepper-robot-helper/)
+- [Are Robots Replacing Humans In Customer Care?](https://readwrite.com/2016/04/24/robots-replacing-humans-in-customer-care-pr1/)
+- [How can robotics bring real innovation to the warehouse experience?](https://readwrite.com/2016/10/04/how-robotics-bring-great-innovtion-toinnovation-il4/)
+- [British Standards Institute guidelines BS 8611 Ethics design and application robots](https://shop.bsigroup.com/ProductDetail?pid=000000000030320089)
+- [The Industrial Revolution](https://www.history.com/topics/industrial-revolution)
 
 ## Film and TV
 
-- [I, Robot](http://www.imdb.com/title/tt0343818/)
+- [I, Robot](https://www.imdb.com/title/tt0343818/)
 - [Humans](https://en.wikipedia.org/wiki/Humans_(TV_series))
-- [Westworld](http://www.imdb.com/title/tt0475784/)
+- [Westworld](https://www.imdb.com/title/tt0475784/)
 - [Battlestar Galactica](https://en.wikipedia.org/wiki/Battlestar_Galactica_(2004_TV_series))

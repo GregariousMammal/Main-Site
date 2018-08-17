@@ -52,7 +52,7 @@ author:
   first_name: Cate
   last_name: Lawrence
 ---
-A Silicon Valley company called [Knightscope](http://knightscope.com/)
+A Silicon Valley company called [Knightscope](https://knightscope.com/)
 has introduced a range of robots that eradicate the need for foot
 patrolling security guards in a range of workplaces and public
 spaces. These security robots are called the  K3 and K5 Autonomous Data
@@ -60,7 +60,7 @@ Machines. The robots resemble a "Doctor Who" dalek, or maybe a large
 mobile rubbish bin depending on your point of view. This is not
 surprising as when the idea of a security robot comes to mind, you are
 inclined to think of robots like
-[Robocop](http://www.imdb.com/title/tt0093870/) or
+[Robocop](https://www.imdb.com/title/tt0093870/) or
 [Atlas](https://www.youtube.com/watch?v=rVlhMGQgDkY)rather
 than[Pepper](https://readwrite.com/2016/03/10/pepper-robot-helper/).
 
@@ -105,7 +105,7 @@ robots at a cost of \$7 an hour, significantly less than a security
 guard would command in wages. However the robots are not without
 controversy with a recent case that a [robot on duty knocked over a
 small
-child](http://fusion.net/story/324731/security-robot-runs-over-child/).
+child](https://fusion.net/story/324731/security-robot-runs-over-child/).
  It's claimed that Harwin Cheng, 16-month-old, was walking ahead of his
 parents in the Stanford Shopping Centre when the security robot bumped
 into and knocked him down. According to the toddler's mother who
@@ -119,7 +119,7 @@ the left to avoid running into the toddler. It said that the young boy
 then ran backwards and consequentially directly in the front of the
 machine, which then caused it to knock him over. [Knightscope quickly
 moved to
-apologize](http://www.businesswire.com/news/home/20160713006532/en) to
+apologize](https://www.businesswire.com/news/home/20160713006532/en) to
 the parents and is keen to avoid a repeat occurrence.
 
 <div class="bk-body-sub">
@@ -141,7 +141,7 @@ Should robots be used in emergencies?
 The use of robots in safety situations requires some consideration
 before an extensive roll out, with a [study earlier this year by Georgia
 Tech Research
-Institute](http://www.gtri.gatech.edu/casestudy/emergencies-should-you-trust-robot) revealing
+Institute](https://www.gtri.gatech.edu/casestudy/emergencies-should-you-trust-robot) revealing
 that people are too trustworthy of robots in an emergency. In a mock
 building fire, test subjects followed instructions from an “Emergency
 Guide Robot” even after the machine had proven itself unreliable in

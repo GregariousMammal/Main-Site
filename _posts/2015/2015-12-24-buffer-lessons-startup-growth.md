@@ -104,7 +104,7 @@ a coffee shop, beach, or mountaintop. 
 So many voices to be heard 
 
 While the nomadic lifestyle has many merits, it also has a number of
-[challenges](http://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/).
+[challenges](https://qz.com/230998/how-to-run-a-team-of-people-who-never-see-each-other/).
 You'll need stellar communication to ensure that a workforce is able to
 operate as well as it would in a physical office. 
 
@@ -123,7 +123,7 @@ Make Rewards Meaningful
 
 Rethink perks. Buffer isn't the only company to use job titles like
 [Happiness
-Hero](http://www.theguardian.com/sustainable-business/2015/aug/26/chief-happiness-officer-cho-employee-workplace-woohoo-google).
+Hero](https://www.theguardian.com/sustainable-business/2015/aug/26/chief-happiness-officer-cho-employee-workplace-woohoo-google).
 But how do you define happiness? Is it the thrill of a zany costume
 party or a delicious catered lunch? Or is it when staff feel
 appreciated, communicate effectively, and get the opportunity to grow in
@@ -164,7 +164,7 @@ places like Lake Tahoe, Sydney, Thailand, Cape Town, and Iceland."
 Buffer decided early on to document its mission statement, work
 practices, and experiments. One such trial was a slightly odd journey
 into
-[self-management](http://www.theguardian.com/sustainable-business/2015/aug/26/chief-happiness-officer-cho-employee-workplace-woohoo-google).
+[self-management](https://www.theguardian.com/sustainable-business/2015/aug/26/chief-happiness-officer-cho-employee-workplace-woohoo-google).
 But Buffer also exposed its own failings, like a [major security breach
 in
 2014.](https://overflow.buffer.com/2014/06/11/how-to-think-about-security-at-startups-its-a-never-ending-job/)

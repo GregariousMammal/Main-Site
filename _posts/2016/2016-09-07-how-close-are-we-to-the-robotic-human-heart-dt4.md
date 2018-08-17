@@ -60,7 +60,7 @@ author:
 ---
 We live in a society where human health is increasingly enhanced by
 artificial augmentation and implantation including hip replacements and
-hearing aids. French company [Carmat](http://www.carmatsa.com/en/) have
+hearing aids. French company [Carmat](https://www.carmatsa.com/en/) have
 been working for 15 years on the artificial heart, a device that
 completely replaces the human heart in people with end stage heart
 disease and a life expectancy of less than two weeks without the
@@ -108,17 +108,17 @@ feasibility trial defined as survival at 30 days. Their model has been
 trialled on four people all of which have died.
 
 Carmat's
-[first](http://www.france24.com/en/20140303-first-patient-fitted-with-carmat-artificial-heart-dies)
+[first](https://www.france24.com/en/20140303-first-patient-fitted-with-carmat-artificial-heart-dies)
 transplant patient, died in March 2014, two-and-a-half months after his
 operation apparently due to a device failure. The
-[second ](http://www.qmed.com/news/fourth-patient-treated-carmat-artificial-heart-dies)[died
+[second ](https://www.qmed.com/news/fourth-patient-treated-carmat-artificial-heart-dies)[died
 in May 2015, nine months after
 ]{.goog-text-highlight}[having]{.goog-text-highlight}[ been
 grafted. These two deaths had been caused by "micro-leakage of the blood
 area to the operating liquid of the prosthesis" having created a
 "disturbance electronic engine control" of the artificial heart,
 according to the
-[analysis](http://www.lemonde.fr/analyses/ "All the analyzes news"){.lien_interne
+[analysis](https://www.lemonde.fr/analyses/ "All the analyzes news"){.lien_interne
 .rub} of Carmat.]{.goog-text-highlight}
 
 The
@@ -130,7 +130,7 @@ implantation of the prosthesis and warranting regular hospital visits.”
 It was also stated that the heart continued to beat after the patient
 had died and that “the medical team turned off the prosthetic device on
 confirmation of the patient’s death.” The
-[fourth](http://www.lemonde.fr/sante/article/2016/01/21/mort-du-quatrieme-patient-greffe-du-c-ur-artificiel-de-carmat_4850749_1651302.html)
+[fourth](https://www.lemonde.fr/sante/article/2016/01/21/mort-du-quatrieme-patient-greffe-du-c-ur-artificiel-de-carmat_4850749_1651302.html)
 and final patient died from medical complications associated with his
 critical pre - and post-operative state
 
@@ -151,7 +151,7 @@ their smartphone.  Transhumanist Zoltan Istvan  sees a future where
 "artificial hearts will be Wi-Fi-enabled and could be sped up with a
 smartphone to have wild sex when you want it and sped down to sleep
 better at night." according to the *[International Business
-Times](http://www.ibtimes.co.uk/brain-implants-robotic-hearts-transhumanist-zoltan-istvans-technology-predictions-2025-1533209). * He
+Times](https://www.ibtimes.co.uk/brain-implants-robotic-hearts-transhumanist-zoltan-istvans-technology-predictions-2025-1533209). * He
 goes on to concede that there's a potential risk that an artificial
 heart could be hacked.
 
@@ -164,7 +164,7 @@ due to[fears it might be hacked in an assassination
 attempt](https://www.washingtonpost.com/news/the-switch/wp/2013/10/21/yes-terrorists-could-have-hacked-dick-cheneys-heart/).
 Other research reveals that medical devices such as insulin pumps
 are[vulnerable to security
-breaches](http://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm446809.htm),
+breaches](https://www.fda.gov/MedicalDevices/Safety/AlertsandNotices/ucm446809.htm),
 which places connected biomechanic and robotic devices in a uneasy space
 considering their functional capabilities are to assist the health of
 the seriously ill.

@@ -37,16 +37,16 @@ new [PowerApps](https://powerapps.microsoft.com/en-us/), a new
 enterprise service to help workers create apps. 
 
 Introduced last week at its annual [Convergence
-MEA](http://news.microsoft.com/2015/11/30/microsoft-announces-solutions-to-help-businesses-modernize-in-the-digital-world/), Microsoft's
+MEA](https://news.microsoft.com/2015/11/30/microsoft-announces-solutions-to-help-businesses-modernize-in-the-digital-world/), Microsoft's
 Software as a Service (SaaS) PowerApps can also connect to business
 systems in a secure way and let employees share their apps with
 coworkers. The service was hinted at in April of this year, thanks to a
 leaked [job
-posting](http://www.winbeta.org/news/microsoft-mistakenly-reveals-plans-power-apps-new-job-listing-1) seeking
+posting](https://www.winbeta.org/news/microsoft-mistakenly-reveals-plans-power-apps-new-job-listing-1) seeking
 developers to create mobile-first, cloud-based apps. 
 
 The company's foray into business apps[ appears to be a
-response](http://blogs.microsoft.com/blog/2015/11/30/introducing-microsoft-powerapps/) to
+response](https://blogs.microsoft.com/blog/2015/11/30/introducing-microsoft-powerapps/) to
 what it cites as a lag in business apps at the expense of personal apps,
 compounded by a lack of skilled developers, a confusion of business data
 stored in a range of systems and difficulties getting apps onto employee

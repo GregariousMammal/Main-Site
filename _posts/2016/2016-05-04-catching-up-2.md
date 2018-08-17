@@ -4,7 +4,7 @@ title: 'Catching up&#8230;'
 date: 2016-05-04T14:52:41+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=1476
+guid: https://atravellingcook.com/?p=1476
 permalink: /2016/05/catching-up-2.html
 tags:
   - Uncategorized
@@ -16,7 +16,7 @@ I’m still happily living in Berlin. We’ve been here over a year now and stil
 
 **What I’ve been up to**
 
-I’ve been doing more tech writing, primariliy for [ReadWrite](http://readwrite.com) and periodically for [Sitepoint](http://sitepoint.com).  I really enjoy it, I get to research fascinating topics and talkt o many interesting people. Here’s a few of my favourite articles:
+I’ve been doing more tech writing, primariliy for [ReadWrite](https://readwrite.com) and periodically for [Sitepoint](https://sitepoint.com).  I really enjoy it, I get to research fascinating topics and talkt o many interesting people. Here’s a few of my favourite articles:
 
 Occasionally I get the urge to write something that doesn’t quite fit for the publications that pay me, so I’ll be adding some of those articles on medou
 
@@ -26,7 +26,7 @@ I still enjoy cooking though my next cookbook is on indefinite hiatus. The reali
 
 My health has been a bit odd. I’m facing another double fasciotomy due to [chronic compartment syndrome](https://medium.com/pain-talks/as-i-put-one-foot-in-front-of-another-my-heart-beat-faster-and-i-stiffened-as-my-feet-ankles-and-d9f9378becf8#.72pf0ka0t) which I’m not looking forward to so have been putting it off. It’s one of those things that doesn’t hurt too much unless I want to move around a lot so of course it’s easy to avoid exercise. Bad excuse really.
 
-I had a bit of a odd experience recently. I developed a brain infection from viral encephalitis. In my case this was caused by the chicken pox virus. If you ever have had the chicken pox or cold sores, a version of the virus sits dormant in your body then can decide to show it&#8217;s head when you have a lowered immune system. Most people get [shingles](http://www.mayoclinic.org/diseases-conditions/shingles/basics/definition/con-20019574), I got [encephalitis](https://en.wikipedia.org/wiki/Encephalitis). Basically i spent two weeks in hospital on a drip- 4 bags of drugs at once every 3 hours (so exciting). I was quite comfortable pain wise etc except for the woeful Deutsch tv and the food that was rather challenging at times. It was quite stressful yet boring being in hospital especially with the language barrier-medical terms are not something you learn at german school.<figure id="attachment_1477" style="width: 720px;" class="wp-caption aligncenter">
+I had a bit of a odd experience recently. I developed a brain infection from viral encephalitis. In my case this was caused by the chicken pox virus. If you ever have had the chicken pox or cold sores, a version of the virus sits dormant in your body then can decide to show it&#8217;s head when you have a lowered immune system. Most people get [shingles](https://www.mayoclinic.org/diseases-conditions/shingles/basics/definition/con-20019574), I got [encephalitis](https://en.wikipedia.org/wiki/Encephalitis). Basically i spent two weeks in hospital on a drip- 4 bags of drugs at once every 3 hours (so exciting). I was quite comfortable pain wise etc except for the woeful Deutsch tv and the food that was rather challenging at times. It was quite stressful yet boring being in hospital especially with the language barrier-medical terms are not something you learn at german school.<figure id="attachment_1477" style="width: 720px;" class="wp-caption aligncenter">
 
 <img class="wp-image-1477 size-full" src="/images/atc-migrate/2016/05/11139350_10153304664796249_2893840630615255119_n.jpg" alt="11139350_10153304664796249_2893840630615255119_n" width="720" height="960" /><figcaption class="wp-caption-text">Ahh the delights of hospital food</figcaption></figure> 
 

@@ -52,7 +52,7 @@ eye:
 **Path, which still has many users in Southeast Asia, has abandoned the
 Windows Phone platform. So, too, for that matter, has Microsoft. It is
 [moving on from its transitional mobile operating
-system](http://www.theverge.com/2015/7/8/8913365/microsoft-lumia-windows-phones-strategy-2015)
+system](https://www.theverge.com/2015/7/8/8913365/microsoft-lumia-windows-phones-strategy-2015)
 to going all-in on Windows 10, which is meant to run on devices from
 traditional PCs to smartphones.
 
@@ -94,9 +94,9 @@ will:
 
 Microsoft is still struggling to build some of its bridges. In November,
 the [Android
-bridge](http://tempest.saymedia.com/Microsoft%20also%20developed%20a%20Web%20bridge%20for%20Windows%2010%20(%22Westminster%22)%20and%20is%20working%20on%20a%20bridge%20to%20help%20developers%20package%20and%20publish%20existing%20.NET%20and%20Win32%20apps%20to%20the%20Windows%20Store%20(%22Centennial%22).%20Microsoft%20partner%20Mobilize.Net%20also%20developed%20a%20bridge%20to%20help%20Windows%20Phone%20Silverlight%20apps%20to%20the%20Universal%20Web%20Apps%20platform.),
+bridge](https://tempest.saymedia.com/Microsoft%20also%20developed%20a%20Web%20bridge%20for%20Windows%2010%20(%22Westminster%22)%20and%20is%20working%20on%20a%20bridge%20to%20help%20developers%20package%20and%20publish%20existing%20.NET%20and%20Win32%20apps%20to%20the%20Windows%20Store%20(%22Centennial%22).%20Microsoft%20partner%20Mobilize.Net%20also%20developed%20a%20bridge%20to%20help%20Windows%20Phone%20Silverlight%20apps%20to%20the%20Universal%20Web%20Apps%20platform.),
 also known as ** Project Astoria, was apparently[put on
-hold](http://www.gsmarena.com/microsoft_confirms_that_android_app_support_in_windows_10_is_on_hold-news-15053.php).
+hold](https://www.gsmarena.com/microsoft_confirms_that_android_app_support_in_windows_10_is_on_hold-news-15053.php).
 
 In better shape are a Web bridge for Windows 10, [Project
 Westminster](https://blogs.windows.com/buildingapps/2015/07/06/project-westminster-in-a-nutshell/),
@@ -112,4 +112,4 @@ on the other foot—and Microsoft is finding that porting is a hard task,
 indeed.
 
 *Photo by [Nicolas
-Raymond](http://freestock.ca/wishing_well_%e2%98%85_g103-golden_love_bridge__hdr_%e2%98%85_p5040.html)*
+Raymond](https://freestock.ca/wishing_well_%e2%98%85_g103-golden_love_bridge__hdr_%e2%98%85_p5040.html)*

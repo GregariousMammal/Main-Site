@@ -44,7 +44,7 @@ excerpt: IBM adds to their Cloud Data Services
 There are certain topics in B2B technology that have staying power.
  Cloud computing and big data are two of these. IBM today announced a
 broad expansion of its [Cloud Data
-Services](http://www.ibm.biz/open-for-data) portfolio with more than 25
+Services](https://www.ibm.biz/open-for-data) portfolio with more than 25
 services now available to developers and data scientists.These create
 a one-stop-shop for accessing and exploring data and for building and
 deploying applications. They can help developers build, deploy and
@@ -85,9 +85,9 @@ and freely move data in, across and out of the services.
 
 Derek Schoettle, General Manager, Analytics Platform and Cloud Data
 Services considers IBM's cloud data services to be a
-['one-stop-shop'](http://www.theverge.com/2016/2/4/10906882/gear-vr-altspacevr-social-virtual-world-launch) of  data
+['one-stop-shop'](https://www.theverge.com/2016/2/4/10906882/gear-vr-altspacevr-social-virtual-world-launch) of  data
 and analytics services, cloud development platform
-[Bluemix](http://www.ibm.com/developerworks/?lnk=fif); and Analytics
+[Bluemix](https://www.ibm.com/developerworks/?lnk=fif); and Analytics
 Exchange, a repository of more than 150 public and free data sources,
 everything from census data to government economics statistics. 
 

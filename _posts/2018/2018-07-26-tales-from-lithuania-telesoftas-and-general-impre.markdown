@@ -12,6 +12,6 @@ In this episode Cate and Chris discuss more of their recent trip to Lithuania. T
 
 The trip to Lithuania was sponsored by Telesoftas.
 
-http://gregariousmammal.com/podcast/
-http://gregariousmammal.com/support
-http://facebook.com/gregariousmammal/
+https://gregariousmammal.com/podcast/
+https://gregariousmammal.com/support
+https://facebook.com/gregariousmammal/

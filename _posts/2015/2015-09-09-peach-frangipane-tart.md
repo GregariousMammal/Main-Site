@@ -4,7 +4,7 @@ title: Peach frangipane tart
 date: 2015-09-09T11:05:35+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=1285
+guid: https://atravellingcook.com/?p=1285
 permalink: /2015/09/peach-frangipane-tart.html
 tags:
   - baking

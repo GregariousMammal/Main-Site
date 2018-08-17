@@ -4,7 +4,7 @@ title: Red beans, quinoa and jerk spice soup
 date: 2015-02-12T15:44:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/02/red-beans-quinoa-and-jerk-spice-soup.html
+guid: https://atravellingcook.com/2015/02/red-beans-quinoa-and-jerk-spice-soup.html
 permalink: /2015/02/red-beans-quinoa-and-jerk-spice-soup.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -23,7 +23,7 @@ tags:
   - winter
 ---
 
-  <a  href="http://1.bp.blogspot.com/-he97qNHnkhU/VNy7UECdgtI/AAAAAAAAKnw/X-2jgrm9HUk/s1600/2015-02-12%2B14.51.10.jpg"><img src="http://1.bp.blogspot.com/-he97qNHnkhU/VNy7UECdgtI/AAAAAAAAKnw/X-2jgrm9HUk/s1600/2015-02-12%2B14.51.10.jpg" alt="" width="400" height="342" border="0" /></a>
+  <a  href="https://1.bp.blogspot.com/-he97qNHnkhU/VNy7UECdgtI/AAAAAAAAKnw/X-2jgrm9HUk/s1600/2015-02-12%2B14.51.10.jpg"><img src="https://1.bp.blogspot.com/-he97qNHnkhU/VNy7UECdgtI/AAAAAAAAKnw/X-2jgrm9HUk/s1600/2015-02-12%2B14.51.10.jpg" alt="" width="400" height="342" border="0" /></a>
 
 
 <i><br /> </i>
@@ -59,7 +59,7 @@ In Melbourne we had dinner a few times at a Jamaican restaurant. One of the many
   2. Add spice mix, carrots and ginger and cook for 2 minutes
   3. Add capsicum, celery, quinoa, beans, peas, stock and coconut milk and simmer under the vegetables are tender and the barley is cooked (about 30 mins)
 
-                        <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-fPV1HW1R1Rc/VNy8IH16lCI/AAAAAAAAKoA/-FiCuqFOO50/s1600/IMG_4213.JPG"><img src="http://4.bp.blogspot.com/-fPV1HW1R1Rc/VNy8IH16lCI/AAAAAAAAKoA/-FiCuqFOO50/s1600/IMG_4213.JPG" alt="" width="400" height="300" border="0" /></a>
+                        <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-fPV1HW1R1Rc/VNy8IH16lCI/AAAAAAAAKoA/-FiCuqFOO50/s1600/IMG_4213.JPG"><img src="https://4.bp.blogspot.com/-fPV1HW1R1Rc/VNy8IH16lCI/AAAAAAAAKoA/-FiCuqFOO50/s1600/IMG_4213.JPG" alt="" width="400" height="300" border="0" /></a>
   
 <br /> Jerk spice mix:
 
@@ -94,4 +94,4 @@ In Melbourne we had dinner a few times at a Jamaican restaurant. One of the many
   2. Crush with a mortar and pestle if you have one then store in a dry jar. 
 
 
-  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-MMOGQlX0lXU/VNy7UBbNAoI/AAAAAAAAKn0/KKRagbyzLXM/s1600/2015-02-12%2B14.51.17.jpg"><img src="http://4.bp.blogspot.com/-MMOGQlX0lXU/VNy7UBbNAoI/AAAAAAAAKn0/KKRagbyzLXM/s1600/2015-02-12%2B14.51.17.jpg" alt="" width="400" height="237" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-MMOGQlX0lXU/VNy7UBbNAoI/AAAAAAAAKn0/KKRagbyzLXM/s1600/2015-02-12%2B14.51.17.jpg"><img src="https://4.bp.blogspot.com/-MMOGQlX0lXU/VNy7UBbNAoI/AAAAAAAAKn0/KKRagbyzLXM/s1600/2015-02-12%2B14.51.17.jpg" alt="" width="400" height="237" border="0" /></a>

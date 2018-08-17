@@ -66,7 +66,7 @@ The system is called [TankTaler](https://www.tanktaler.de/), and
 includes a hardware dongle  - - which includes a SIM card and GPS
 monitor - - and a corresponding smart phone app. The dongle plugs into
 the [OBD II
-interface](http://www.makeuseof.com/tag/obd-ii-port-used/),  the port
+interface](https://www.makeuseof.com/tag/obd-ii-port-used/),  the port
 located below the steering wheel that mechanics access to get diagnostic
 information about your car.
 

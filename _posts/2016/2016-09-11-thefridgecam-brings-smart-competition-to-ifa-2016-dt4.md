@@ -51,7 +51,7 @@ author:
   last_name: Lawrence
 ---
 Over the last week Berlin has been home to
-[IFA](http://www.ifa-berlin.de/), Europe's answer to the [Consumer
+[IFA](https://www.ifa-berlin.de/), Europe's answer to the [Consumer
 Electronics Show (CES)](https://www.ces.tech/). It features all the
 usual big name electronics that are household names internationally,
 along with brands you'll only be able to buy in Europe or Asia and a
@@ -59,14 +59,14 @@ smattering of smaller start-ups sharing booths with likeminded
 enterprises and a brand.
 
 It is amongst the latter that I came across
-[Smarter](http://smarter.am/), a UK-based business that is set to
+[Smarter](https://smarter.am/), a UK-based business that is set to
 disrupt the increasingly high-tech industry of refrigeration.
 
 ***See also:*** [*Are prices driving away smart home
 consumers?*](https://readwrite.com/2016/07/14/smart-home-gadgets-too-expensive-vl4/)
 
 Smarter used to show to launch their latest product
-[TheFridgeCam](http://fridgecam.squarespace.com/#details-1), a wireless
+[TheFridgeCam](https://fridgecam.squarespace.com/#details-1), a wireless
 fridge camera that allows users to see the contents of their
 [fridge]{.il} from wherever they are via the app. The camera takes a
 photo of the contents of the fridge every time the door is shut, which
@@ -156,7 +156,7 @@ securely mount an iPad to the fridge door - - or another flat surface -
 But back to Smarter,  they're not a one-trick pony with previous home
 appliances under the belt achieving a number of awards including
 the [Great British
-Entrepreneur](http://www.greatbritishentrepreneurawards.com/2015-winners/),
+Entrepreneur](https://www.greatbritishentrepreneurawards.com/2015-winners/),
 [London Design
 award](https://design100.com/LON15/winners_list.asp?studio=Smarter%20Applications%20Ltd)
 and Best Innovative Company.**\

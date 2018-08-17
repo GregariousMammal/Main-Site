@@ -88,18 +88,18 @@ have really put these APIs through their paces. Zuckerberg's
 high-profile promise could be the accelerant that forces companies to
 really test and improve their smart-home developer tools.
 
-[Amazon Echo](http://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E),
+[Amazon Echo](https://www.amazon.com/Amazon-SK705DI-Echo/dp/B00X4WHP5E),
 a voice-activated speaker, might be a place to start. There, Zuckerberg
 can use Amazon's Alexa Voice Service. It was [announced last
 July](https://readwrite.com/2015/07/31/amazon-alexa-voice-service-developer-preview-echo)
 and is—you guessed it—[still in "developer
 preview."](https://developer.amazon.com/public/solutions/alexa/alexa-voice-service)
 
-Then of course there's [Wink](http://www.wink.com/about/)and its
+Then of course there's [Wink](https://www.wink.com/about/)and its
 wall-mounted touchscreen home automation service for lighting, home
 security, temperature control, and so on. Its API—[which has changed
 since its initial launch, breaking older applications built on
-it](http://docs.winkapiv2.apiary.io/#)—has some interesting concepts,
+it](https://docs.winkapiv2.apiary.io/#)—has some interesting concepts,
 like Robots for automated tasks, which Zuckerberg might explore. Wink
 was recently sold out of bankruptcy to Flextronics, so it seems like a
 safe bet to build on.
@@ -114,13 +114,13 @@ Zuckerberg will use for a database. Before [Facebook bought Face.com in
 that startup offered a facial-recognition API. It will be intriguing to
 see if Zuckerberg uses a private Facebook API or [opts for one of the
 newer
-services](http://blog.mashape.com/list-of-10-face-detection-recognition-apis/).
+services](https://blog.mashape.com/list-of-10-face-detection-recognition-apis/).
 
 Were really curious how Zuckerberg will implement AI [robot
-childcare](http://www.washington.edu/news/2012/04/05/children-perceive-humanoid-robot-as-emotional-moral-being/).
+childcare](https://www.washington.edu/news/2012/04/05/children-perceive-humanoid-robot-as-emotional-moral-being/).
 Perhaps he'll take inspiration from Neal Stephenson's science-fiction
 novel *[The Diamond
-Age](http://www.goodreads.com/book/show/827.The_Diamond_Age)*, in which
+Age](https://www.goodreads.com/book/show/827.The_Diamond_Age)*, in which
 a young girl is raised by an artificially intelligent e-book.
 
 Ultimately the biggest challenge may well be cajoling devices to

@@ -53,7 +53,7 @@ It's clear that fans feel a real connection to their sports teams. What
 if a wearable device could celebrate that connection? One company,
 Wearable Experiments (We:eX), has created a new wearable just in time
 for the 2016 Euro Cup, the [Football Fan
-Shirt](http://wearableexperiments.com/football/).
+Shirt](https://wearableexperiments.com/football/).
 
 It's embedded with haptic technology that connects fans in real-time
 to action in the game through touch. According to the company:
@@ -105,7 +105,7 @@ Whitehouse explained her entree into connected clothing:
 > enough to drive us to create a business."
 
 The underwear was called
-[Fundawear](http://wearableexperiments.com/fundawear/)for condom brand
+[Fundawear](https://wearableexperiments.com/fundawear/)for condom brand
 Durex and it was a prototype that that allows physical touch to be
 transferred wirelessly between couples and recreated on their skin. It
 sends real touch from one smartphone to another and from there to mini
@@ -120,7 +120,7 @@ Everyday wearable clothes not yet the norm
 I was curious to see what developments Whitehouse had seen in the
 wearables sector since their first product was created. It's an space
 which is dominated by high fashion wearables for one-off events like the
-[Met Gala](http://www.vogue.com/tag/event/met-gala/) and clothing that
+[Met Gala](https://www.vogue.com/tag/event/met-gala/) and clothing that
 is more likely to be worn down a catwalk and never seen again, or hung
 to languish in a museum or gallery more for its creative capabilities
 than its purpose as a connected device. Few wearables go to market and
@@ -134,7 +134,7 @@ Whitehouse commented:
 > got to make it big to make people listen and thats what those products
 > are doing. They are building brand awareness, they’re building their
 > audience. There's one company making wearables called [Electro
-> Fur](http://electrofur.com/) targeting people that go to Burning Man.
+> Fur](https://electrofur.com/) targeting people that go to Burning Man.
 > People buy these hideous furry light up things and they are in this
 > respect extremely successful so depends what community you are looking
 > at for commerciality. But we do want to do a commercial product we
@@ -145,7 +145,7 @@ Whitehouse commented:
 <div>
 
 We:Ex have previously ventured into shirts for sports fans with the
-[Alert Shirt](http://wearableexperiments.com/alert-shirt/), a fan jersey
+[Alert Shirt](https://wearableexperiments.com/alert-shirt/), a fan jersey
 that uses wearable technology to take the experience into the physical
 world, allowing fans to feel what the players feel live as it happens
 during the game. It featured haptic feedback motors that were able to

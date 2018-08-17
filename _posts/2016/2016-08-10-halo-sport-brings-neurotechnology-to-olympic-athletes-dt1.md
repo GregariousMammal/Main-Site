@@ -82,9 +82,9 @@ skill. The United States Olympic Ski and Snowboard Association saw a
 
 The athletes using the device in preparation for the Rio Olympics
 include [Michael
-Tinsley](http://www.teamusa.org/usa-track-and-field/athletes/Michael-Tinsley),
+Tinsley](https://www.teamusa.org/usa-track-and-field/athletes/Michael-Tinsley),
 a 400m hurdler who won silver at the 2012 Olympics in London; [Mike
-Rodgers](http://www.teamusa.org/usa-track-and-field/athletes/Mike-Rodgers),
+Rodgers](https://www.teamusa.org/usa-track-and-field/athletes/Mike-Rodgers),
 who runs 100m sprints and will compete for gold on the relay
 team; [Mikel
 Thomas](https://www.iaaf.org/athletes/trinidad-and-tobago/mikel-thomas-237307),
@@ -93,7 +93,7 @@ a hurdler from Trinidad & Tobago who is competing in his third Olympics;
 Kamara](https://www.iaaf.org/athletes/sierra-leone/hafsatu-kamara-281637),
 a female sprinter from Sierra Leone who is competing in her first
 Olympics and [Samantha
-Achterberg](http://www.teamusa.org/usa-modern-pentathlon/athletes/Samantha-Achterberg),
+Achterberg](https://www.teamusa.org/usa-modern-pentathlon/athletes/Samantha-Achterberg),
 a modern pentathlete from the United States who won gold at the 2012
 U.S. Nationals.
 

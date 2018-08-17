@@ -10,5 +10,5 @@ layout: podcast
 ---
 This week Cate and Chris discuss the intersections of journalism, immortality, music, romance and government with technology.
 
-Show notes at http://gregariousmammal.com/podcast
-Support the show at http://gregariousmammal.com/support
+Show notes at https://gregariousmammal.com/podcast
+Support the show at https://gregariousmammal.com/support

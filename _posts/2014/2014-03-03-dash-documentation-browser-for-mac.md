@@ -14,4 +14,4 @@ Why is it awesome?<ul><li>It has heaps of documentation sets (that I need) inclu
 
 It's simple, but so well executed.
 
-<a href="http://kapeli.com/dash" target="_blank">kapeli.com/dash</a>
+<a href="https://kapeli.com/dash" target="_blank">kapeli.com/dash</a>

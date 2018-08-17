@@ -14,13 +14,13 @@ At the moment, unless you live in Berlin and want to meet me at a future play te
 
 ## Getting the Game components
 ### The Manual
-This is easy and there's no need to print it if you don't want to. [Download the complete manual here](http://chipshopgame.com/pod/pdf/manual/manual.pdf), it needs some work on formatting and page breaks, but is readable and hopefully understandable.
+This is easy and there's no need to print it if you don't want to. [Download the complete manual here](https://chipshopgame.com/pod/pdf/manual/manual.pdf), it needs some work on formatting and page breaks, but is readable and hopefully understandable.
 
 ### Game Concepts
-The cards mention concepts that are rules of a sort. This is an attempt to reduce the amount of text on each card and will be replaced with icons. You can [find a list of the game concepts here](http://chipshopgame.com/pod/concepts_complete.pdf). You don't need to print them.
+The cards mention concepts that are rules of a sort. This is an attempt to reduce the amount of text on each card and will be replaced with icons. You can [find a list of the game concepts here](https://chipshopgame.com/pod/concepts_complete.pdf). You don't need to print them.
 
 ### The Game Cards
-[Download the 3x3 sheets of game cards here](http://chipshopgame.com/pod/cards_complete.pdf). You will need to cut these out and divide them into respective piles. The card type is on the bottom of each card, but will eventually be double-sided.
+[Download the 3x3 sheets of game cards here](https://chipshopgame.com/pod/cards_complete.pdf). You will need to cut these out and divide them into respective piles. The card type is on the bottom of each card, but will eventually be double-sided.
 
 ## Scoring
 The manual notes a scoring board, this doesn't exist yet. For now, just note scores on paper.

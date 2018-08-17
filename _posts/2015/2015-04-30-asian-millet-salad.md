@@ -4,7 +4,7 @@ title: Asian millet salad
 date: 2015-04-30T09:43:39+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=834
+guid: https://atravellingcook.com/?p=834
 permalink: /2015/04/asian-millet-salad.html
 tags:
   - cooking
@@ -20,7 +20,7 @@ format: image
 
 
 
-  The salad was a result of accidentally buying millet instead of quinoa a few months ago and discovering I really like it! Millet and quinoa look very similar as you can see by <a href="http://ancientharvest.com/ancient-grains/organic-millet/">this</a> web page and the images below and the names are similar in Deutsch, especially when they are side by side in the supermarket and you are in a rush!
+  The salad was a result of accidentally buying millet instead of quinoa a few months ago and discovering I really like it! Millet and quinoa look very similar as you can see by <a href="https://ancientharvest.com/ancient-grains/organic-millet/">this</a> web page and the images below and the names are similar in Deutsch, especially when they are side by side in the supermarket and you are in a rush!
 
 
 

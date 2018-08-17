@@ -15,4 +15,4 @@ podcast_embed: <iframe src="https://anchor.fm/gregarious-mammal/embed/episodes/D
 
 Chris speaks with Sam Tabar, strategist at AirSwap about trading cryptocurrencies on decentralised exchanges and how we can solve the problems of VC backed startups.
 
-<http://airswap.io>
+<https://airswap.io>

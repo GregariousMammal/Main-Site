@@ -4,7 +4,7 @@ title: Smoky chickpea and sunflower hummus.
 date: 2015-04-17T17:06:53+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=766
+guid: https://atravellingcook.com/?p=766
 permalink: /2015/04/smoky-hummus.html
 tags:
   - cooking
@@ -19,7 +19,7 @@ My husband loves hummus, hommous, hummous or chickpea dip depending on your spel
 
 
 
-It&#8217;s a lovely recipe which is great with cut up veggies, bread, on sandwiches, with [dukkah](http://atravellingcook.com/2014/03/sunday-cooking-dukkah.html "Dukkah") and as a condiment to a middle eastern meal. I tend to make my recipe a little different to others, but i like it! You can omit the sunflower seeds, but I find they lend a lovely creamy texture to the dip.
+It&#8217;s a lovely recipe which is great with cut up veggies, bread, on sandwiches, with [dukkah](https://atravellingcook.com/2014/03/sunday-cooking-dukkah.html "Dukkah") and as a condiment to a middle eastern meal. I tend to make my recipe a little different to others, but i like it! You can omit the sunflower seeds, but I find they lend a lovely creamy texture to the dip.
 
 _Ingredients:_
 

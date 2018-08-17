@@ -4,7 +4,7 @@ title: Rejuvelac
 date: 2015-08-23T08:46:27.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/?p=1235'
+guid: 'https://atravellingcook.com/?p=1235'
 permalink: /2015/08/rejuvelac.html
 tags:
   - food

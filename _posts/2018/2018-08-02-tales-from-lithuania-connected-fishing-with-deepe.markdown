@@ -10,6 +10,6 @@ layout: podcast
 ---
 We speak with Donatas Malinauskas of deeper, a smart device for anglers to find the fish they are looking for.
 
-http://gregariousmammal.com/podcast/
-http://gregariousmammal.com/support
-http://facebook.com/gregariousmammal/
+https://gregariousmammal.com/podcast/
+https://gregariousmammal.com/support
+https://facebook.com/gregariousmammal/

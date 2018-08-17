@@ -7,8 +7,8 @@ title: Android Programming Without Java
 event: DroidCon Greece
 date: 2016-07-08T10:00:00.000Z
 venue: 'Noesis Thessaloniki Science Center & Technology Museum, 6ο χλμ. Οδού ς Τ.Θ. 60330 Θέρμη, Thermi 570 01, Greece'
-pres_source: 'http://www.slideshare.net/chrischinchilla/android-programming-without-java'
-pres_url: 'http://2016.droidcon.gr/speakers/chris-ward/'
+pres_source: 'https://www.slideshare.net/chrischinchilla/android-programming-without-java'
+pres_url: 'https://2016.droidcon.gr/speakers/chris-ward/'
 ---
 
 The battle between Google and Oracle may finally be over, but let's face it, the relationship between Android developers and Java is still a rocky one.

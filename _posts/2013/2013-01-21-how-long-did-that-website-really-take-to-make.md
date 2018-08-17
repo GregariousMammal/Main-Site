@@ -17,4 +17,4 @@ In more recent history, Drupal and WordPress have both been in existance for nea
 
 So next time you're browsing that site full of cute cat pictures, connecting with old friends, shopping online or sharing what you just ate for breakfast, remember there's nearly 30 years of work behind what you're looking at. show some appreciation.
 
-Image taken from <a href="http://en.wikipedia.org/wiki/History_of_the_Internet" target="_blank">here</a>, which is a fascinating read.
+Image taken from <a href="https://en.wikipedia.org/wiki/History_of_the_Internet" target="_blank">here</a>, which is a fascinating read.

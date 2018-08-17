@@ -6,7 +6,7 @@ date: 2016-12-11T00:00:00.000Z
 image: merchandise/christmas-chinchilla.png
 store_links:
  - store: Red Bubble
-   link: http://www.redbubble.com/people/chrischinchilla/works/24284450-christmas-chinchilla
+   link: https://www.redbubble.com/people/chrischinchilla/works/24284450-christmas-chinchilla
  - store: Threadless
    link: https://chrischinchilla.threadless.com/designs/christmas-chinchilla
 ---

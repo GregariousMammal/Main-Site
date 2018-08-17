@@ -71,16 +71,16 @@ increase interest.
 
 mi bands by Xiaomi
 
-[Xiaomi](http://www.mi.com/en/) comes in third and offers an interest
+[Xiaomi](https://www.mi.com/en/) comes in third and offers an interest
 contrast to Apple. The company, best known as the top Android smartphone
 maker in China, sells fitness bands for less than \$15. 
 
 "China has quickly emerged as the fastest-growing wearables market,
 attracting companies eager to compete on price and feature sets,"
 wrote [Ramon
-Llamas](http://www.idc.com/getdoc.jsp?containerId=PRF002081), research
+Llamas](https://www.idc.com/getdoc.jsp?containerId=PRF002081), research
 manager for IDC's
-[wearables](http://www.idc.com/getdoc.jsp?containerId=IDC_P29207)team,
+[wearables](https://www.idc.com/getdoc.jsp?containerId=IDC_P29207)team,
 in the report. But Chinese companies like Xiaomi have struggled to
 extend their reach outside China. An example is fifth-place seller XTC,
 producer of the Y01 children's phone watch.
@@ -97,7 +97,7 @@ smartwatch operating system just isn't taking off.
 
 It seems like the real challenge for Fitbit isn't coming from makers of
 other wrist-worn wearables. Instead, it's [the high drop-off
-rates](http://www.techrepublic.com/article/wearables-have-a-dirty-little-secret-most-people-lose-interest/) seen
+rates](https://www.techrepublic.com/article/wearables-have-a-dirty-little-secret-most-people-lose-interest/) seen
 by fitness trackers. Corporate wellness programs, which sometimes offer
 financial incentives to use the devices, might be an answer. For now,
 winning a market where people stop using devices after less than a year

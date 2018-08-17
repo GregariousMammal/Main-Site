@@ -94,7 +94,7 @@ and limited television access compared to the Olympic games.
 
 But one event is taking a different approach.
 
-The inaugural [Cybathlon](http://www.cybathlon.ethz.ch/) kicks off on
+The inaugural [Cybathlon](https://www.cybathlon.ethz.ch/) kicks off on
 October 8 in Zurich, Switzerand and will see 74 athletes from 25
 countries competing to show how robotic technology helps them in their
 daily lives. Competitors are referred to as "pilots" and depending on

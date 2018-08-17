@@ -4,7 +4,7 @@ title: Spiced fig and red wine jam
 date: 2014-04-01T06:25:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/04/figs-marvellous-figs.html
+guid: https://atravellingcook.com/2014/04/figs-marvellous-figs.html
 permalink: /2014/04/figs-marvellous-figs.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -22,7 +22,7 @@ tags:
   - produce
   - recipe
 ---
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-80KxwITL7KY/UzpIvy1_FUI/AAAAAAAAIhE/jXM485XXNkI/s1600/figs.jpeg"><img src="http://4.bp.blogspot.com/-80KxwITL7KY/UzpIvy1_FUI/AAAAAAAAIhE/jXM485XXNkI/s1600/figs.jpeg" alt="" width="320" height="261" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-80KxwITL7KY/UzpIvy1_FUI/AAAAAAAAIhE/jXM485XXNkI/s1600/figs.jpeg"><img src="https://4.bp.blogspot.com/-80KxwITL7KY/UzpIvy1_FUI/AAAAAAAAIhE/jXM485XXNkI/s1600/figs.jpeg" alt="" width="320" height="261" border="0" /></a>
 
 Figs are well loved in our home. Before I met my husband he was deliberating between moving to Italy or Australia. He spent time teaching and touring in Italy which included a momentous trip climbing a mountain. During the climb he came upon a fig tree. No fig has ever (or no doubt will ever) match the glory of this mythical fig!
 
@@ -30,7 +30,7 @@ But I was gifted a big box of figs recently that were a bit too ripe to eat unco
 
 **Spiced fig and red wine jam**
 
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-gEJtHAZBStQ/UzpNW1DyjdI/AAAAAAAAIhY/SfJHaVJgTDk/s1600/13532133044_19d6ce588b_z.jpg"><img src="http://4.bp.blogspot.com/-gEJtHAZBStQ/UzpNW1DyjdI/AAAAAAAAIhY/SfJHaVJgTDk/s1600/13532133044_19d6ce588b_z.jpg" alt="" width="272" height="320" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-gEJtHAZBStQ/UzpNW1DyjdI/AAAAAAAAIhY/SfJHaVJgTDk/s1600/13532133044_19d6ce588b_z.jpg"><img src="https://4.bp.blogspot.com/-gEJtHAZBStQ/UzpNW1DyjdI/AAAAAAAAIhY/SfJHaVJgTDk/s1600/13532133044_19d6ce588b_z.jpg" alt="" width="272" height="320" border="0" /></a>
 
 _Ingredients_
 
@@ -67,7 +67,7 @@ _Ingredients_
 
 
 
-                                           <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-K7oQzL4jPsE/UzpNY8_qDbI/AAAAAAAAIho/UfYUlHhE99o/s1600/13532138064_a7c5b40cf4_z.jpg"><img src="http://3.bp.blogspot.com/-K7oQzL4jPsE/UzpNY8_qDbI/AAAAAAAAIho/UfYUlHhE99o/s1600/13532138064_a7c5b40cf4_z.jpg" alt="" width="237" height="320" border="0" /></a>
+                                           <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-K7oQzL4jPsE/UzpNY8_qDbI/AAAAAAAAIho/UfYUlHhE99o/s1600/13532138064_a7c5b40cf4_z.jpg"><img src="https://3.bp.blogspot.com/-K7oQzL4jPsE/UzpNY8_qDbI/AAAAAAAAIho/UfYUlHhE99o/s1600/13532138064_a7c5b40cf4_z.jpg" alt="" width="237" height="320" border="0" /></a>
 
 
 
@@ -96,9 +96,9 @@ _Ingredients_
     
     
     
-      <a  href="http://3.bp.blogspot.com/-HvhHsZAURQo/UzpNW1GLFFI/AAAAAAAAIhc/PDPN7aHCRS4/s1600/13532124844_39550e08f8_z.jpg"><img src="http://3.bp.blogspot.com/-HvhHsZAURQo/UzpNW1GLFFI/AAAAAAAAIhc/PDPN7aHCRS4/s1600/13532124844_39550e08f8_z.jpg" alt="" width="283" height="320" border="0" /></a>
+      <a  href="https://3.bp.blogspot.com/-HvhHsZAURQo/UzpNW1GLFFI/AAAAAAAAIhc/PDPN7aHCRS4/s1600/13532124844_39550e08f8_z.jpg"><img src="https://3.bp.blogspot.com/-HvhHsZAURQo/UzpNW1GLFFI/AAAAAAAAIhc/PDPN7aHCRS4/s1600/13532124844_39550e08f8_z.jpg" alt="" width="283" height="320" border="0" /></a>
     
 
   4. Spoon into sterilised jars
 
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-s3QZ6_aPssM/UzpNWHRfP8I/AAAAAAAAIhQ/TBgohhsUWP4/s1600/13531882433_325183172a_z.jpg"><img src="http://2.bp.blogspot.com/-s3QZ6_aPssM/UzpNWHRfP8I/AAAAAAAAIhQ/TBgohhsUWP4/s1600/13531882433_325183172a_z.jpg" alt="" width="296" height="320" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-s3QZ6_aPssM/UzpNWHRfP8I/AAAAAAAAIhQ/TBgohhsUWP4/s1600/13531882433_325183172a_z.jpg"><img src="https://2.bp.blogspot.com/-s3QZ6_aPssM/UzpNWHRfP8I/AAAAAAAAIhQ/TBgohhsUWP4/s1600/13531882433_325183172a_z.jpg" alt="" width="296" height="320" border="0" /></a>

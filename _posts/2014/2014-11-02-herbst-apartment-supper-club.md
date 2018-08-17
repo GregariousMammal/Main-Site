@@ -4,7 +4,7 @@ title: Herbst Apartment Supper Club
 date: 2014-11-02T12:05:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/11/herbst-apartment-supper-club.html
+guid: https://atravellingcook.com/2014/11/herbst-apartment-supper-club.html
 permalink: /2014/11/herbst-apartment-supper-club.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -31,7 +31,7 @@ tags:
 
 
 
-  <a  href="http://3.bp.blogspot.com/-aHXNGfgLnK0/VFYOXS9a81I/AAAAAAAAJwU/BfcI-GoZPL8/s1600/7d0f7d7913703d6583d26565fb15c578.jpg"><img src="http://3.bp.blogspot.com/-aHXNGfgLnK0/VFYOXS9a81I/AAAAAAAAJwU/BfcI-GoZPL8/s1600/7d0f7d7913703d6583d26565fb15c578.jpg" alt="" width="266" height="400" border="0" /></a>
+  <a  href="https://3.bp.blogspot.com/-aHXNGfgLnK0/VFYOXS9a81I/AAAAAAAAJwU/BfcI-GoZPL8/s1600/7d0f7d7913703d6583d26565fb15c578.jpg"><img src="https://3.bp.blogspot.com/-aHXNGfgLnK0/VFYOXS9a81I/AAAAAAAAJwU/BfcI-GoZPL8/s1600/7d0f7d7913703d6583d26565fb15c578.jpg" alt="" width="266" height="400" border="0" /></a>
 
 
 <div style="text-align: center;">
@@ -68,7 +68,7 @@ tags:
 
 
 <div style="text-align: center;">
-  <a style="line-height: 19.3199996948242px; margin-left: 1em; margin-right: 1em;" href="http://3.bp.blogspot.com/-qpFF3rJxcQE/VFYPLBPiLoI/AAAAAAAAJwo/f7S_n4QHurk/s1600/10734051_1496159457300610_5454850374501679771_n.jpg"><img src="http://3.bp.blogspot.com/-qpFF3rJxcQE/VFYPLBPiLoI/AAAAAAAAJwo/f7S_n4QHurk/s1600/10734051_1496159457300610_5454850374501679771_n.jpg" alt="" width="320" height="170" border="0" /></a>
+  <a style="line-height: 19.3199996948242px; margin-left: 1em; margin-right: 1em;" href="https://3.bp.blogspot.com/-qpFF3rJxcQE/VFYPLBPiLoI/AAAAAAAAJwo/f7S_n4QHurk/s1600/10734051_1496159457300610_5454850374501679771_n.jpg"><img src="https://3.bp.blogspot.com/-qpFF3rJxcQE/VFYPLBPiLoI/AAAAAAAAJwo/f7S_n4QHurk/s1600/10734051_1496159457300610_5454850374501679771_n.jpg" alt="" width="320" height="170" border="0" /></a>
 
 
 <div style="text-align: center;">
@@ -85,7 +85,7 @@ tags:
   
   
   <div style="font-size: 14px; text-align: center;">
-    <a style="line-height: 19.3199996948242px; margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-jke8tHQDUAo/VFYOKUwHs9I/AAAAAAAAJv8/vsyEj0mIrlQ/s1600/Pea-and-Haloumi-Salad-.jpg"><img src="http://4.bp.blogspot.com/-jke8tHQDUAo/VFYOKUwHs9I/AAAAAAAAJv8/vsyEj0mIrlQ/s1600/Pea-and-Haloumi-Salad-.jpg" alt="" width="400" height="266" border="0" /></a>
+    <a style="line-height: 19.3199996948242px; margin-left: 1em; margin-right: 1em;" href="https://4.bp.blogspot.com/-jke8tHQDUAo/VFYOKUwHs9I/AAAAAAAAJv8/vsyEj0mIrlQ/s1600/Pea-and-Haloumi-Salad-.jpg"><img src="https://4.bp.blogspot.com/-jke8tHQDUAo/VFYOKUwHs9I/AAAAAAAAJv8/vsyEj0mIrlQ/s1600/Pea-and-Haloumi-Salad-.jpg" alt="" width="400" height="266" border="0" /></a>
   
   
   <div style="font-size: 14px; text-align: center;">
@@ -93,7 +93,7 @@ tags:
   
   
   <div style="font-size: 14px; text-align: center;">
-    <a style="line-height: 19.3199996948242px; margin-left: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/--6U3uUHegZU/VFYON-C0N3I/AAAAAAAAJwI/da_HxFdWg-s/s1600/Gourmet%2Bcheese-6626.jpg"><img src="http://4.bp.blogspot.com/--6U3uUHegZU/VFYON-C0N3I/AAAAAAAAJwI/da_HxFdWg-s/s1600/Gourmet%2Bcheese-6626.jpg" alt="" width="400" height="265" border="0" /></a>
+    <a style="line-height: 19.3199996948242px; margin-left: 1em; margin-right: 1em;" href="https://4.bp.blogspot.com/--6U3uUHegZU/VFYON-C0N3I/AAAAAAAAJwI/da_HxFdWg-s/s1600/Gourmet%2Bcheese-6626.jpg"><img src="https://4.bp.blogspot.com/--6U3uUHegZU/VFYON-C0N3I/AAAAAAAAJwI/da_HxFdWg-s/s1600/Gourmet%2Bcheese-6626.jpg" alt="" width="400" height="265" border="0" /></a>
   
   
   
@@ -132,7 +132,7 @@ tags:
   
   
   <div style="font-size: 14px; text-align: center;">
-    <a style="line-height: 19.3199996948242px; margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-YSCv3GIet4g/VFYOm6cKfyI/AAAAAAAAJwc/uOO-SuDJK4o/s1600/acb3bfc72d3739265f8c54864324de51.jpg"><img src="http://1.bp.blogspot.com/-YSCv3GIet4g/VFYOm6cKfyI/AAAAAAAAJwc/uOO-SuDJK4o/s1600/acb3bfc72d3739265f8c54864324de51.jpg" alt="" width="400" height="300" border="0" /></a>
+    <a style="line-height: 19.3199996948242px; margin-left: 1em; margin-right: 1em;" href="https://1.bp.blogspot.com/-YSCv3GIet4g/VFYOm6cKfyI/AAAAAAAAJwc/uOO-SuDJK4o/s1600/acb3bfc72d3739265f8c54864324de51.jpg"><img src="https://1.bp.blogspot.com/-YSCv3GIet4g/VFYOm6cKfyI/AAAAAAAAJwc/uOO-SuDJK4o/s1600/acb3bfc72d3739265f8c54864324de51.jpg" alt="" width="400" height="300" border="0" /></a>
   
   
   
@@ -155,7 +155,7 @@ tags:
   
   
   <div style="font-size: 14px; text-align: center;">
-    <a style="line-height: 19.3199996948242px; margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-e6fAjZaEKuU/VFYONo_Hz-I/AAAAAAAAJwE/K6Xg8yqwvVQ/s1600/main%2Bself%2Bsaucing%2Bchocolate%2Bpudding.jpg"><img src="http://1.bp.blogspot.com/-e6fAjZaEKuU/VFYONo_Hz-I/AAAAAAAAJwE/K6Xg8yqwvVQ/s1600/main%2Bself%2Bsaucing%2Bchocolate%2Bpudding.jpg" alt="" width="400" height="363" border="0" /></a>
+    <a style="line-height: 19.3199996948242px; margin-left: 1em; margin-right: 1em;" href="https://1.bp.blogspot.com/-e6fAjZaEKuU/VFYONo_Hz-I/AAAAAAAAJwE/K6Xg8yqwvVQ/s1600/main%2Bself%2Bsaucing%2Bchocolate%2Bpudding.jpg"><img src="https://1.bp.blogspot.com/-e6fAjZaEKuU/VFYONo_Hz-I/AAAAAAAAJwE/K6Xg8yqwvVQ/s1600/main%2Bself%2Bsaucing%2Bchocolate%2Bpudding.jpg" alt="" width="400" height="363" border="0" /></a>
   
   
   

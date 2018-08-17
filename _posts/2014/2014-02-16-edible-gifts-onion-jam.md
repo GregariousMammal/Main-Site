@@ -4,7 +4,7 @@ title: 'Edible gifts: Onion jam'
 date: 2014-02-16T08:56:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/02/edible-gifts-onion-jam.html
+guid: https://atravellingcook.com/2014/02/edible-gifts-onion-jam.html
 permalink: /2014/02/edible-gifts-onion-jam.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -27,7 +27,7 @@ tags:
 
 
 
-  <a  href="http://1.bp.blogspot.com/-gtfYkH1uykE/UwBw2AOqgWI/AAAAAAAAIDs/3RvXeMNedYU/s1600/IMG_20140216_185514.jpg"><img src="http://1.bp.blogspot.com/-gtfYkH1uykE/UwBw2AOqgWI/AAAAAAAAIDs/3RvXeMNedYU/s1600/IMG_20140216_185514.jpg" alt="" width="400" height="400" border="0" /></a>
+  <a  href="https://1.bp.blogspot.com/-gtfYkH1uykE/UwBw2AOqgWI/AAAAAAAAIDs/3RvXeMNedYU/s1600/IMG_20140216_185514.jpg"><img src="https://1.bp.blogspot.com/-gtfYkH1uykE/UwBw2AOqgWI/AAAAAAAAIDs/3RvXeMNedYU/s1600/IMG_20140216_185514.jpg" alt="" width="400" height="400" border="0" /></a>
 
 
 
@@ -75,11 +75,11 @@ I quite like caramelised onions and this recipe is a very popular one in my clas
 
   1. Dice onions thinly.
 
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-n0bq3yiIx9Y/UwBXl28CaaI/AAAAAAAAIC4/HOHmF90VOU8/s1600/12555986355_6b82ef31e8_c.jpg"><img src="http://1.bp.blogspot.com/-n0bq3yiIx9Y/UwBXl28CaaI/AAAAAAAAIC4/HOHmF90VOU8/s1600/12555986355_6b82ef31e8_c.jpg" alt="" width="340" height="400" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-n0bq3yiIx9Y/UwBXl28CaaI/AAAAAAAAIC4/HOHmF90VOU8/s1600/12555986355_6b82ef31e8_c.jpg"><img src="https://1.bp.blogspot.com/-n0bq3yiIx9Y/UwBXl28CaaI/AAAAAAAAIC4/HOHmF90VOU8/s1600/12555986355_6b82ef31e8_c.jpg" alt="" width="340" height="400" border="0" /></a>
 
   1. Heat pan to low heat. Add onions dry. This is the key. Cook them dry, stirring gently as needed so they don&#8217;t stick. They should brown lightly (see below).
 
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-H8BXE0aFE0c/UwBXnftY6hI/AAAAAAAAIDA/flWXT9ZdFZQ/s1600/12555997785_5f08cdfecc_c.jpg"><img src="http://4.bp.blogspot.com/-H8BXE0aFE0c/UwBXnftY6hI/AAAAAAAAIDA/flWXT9ZdFZQ/s1600/12555997785_5f08cdfecc_c.jpg" alt="" width="350" height="400" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-H8BXE0aFE0c/UwBXnftY6hI/AAAAAAAAIDA/flWXT9ZdFZQ/s1600/12555997785_5f08cdfecc_c.jpg"><img src="https://4.bp.blogspot.com/-H8BXE0aFE0c/UwBXnftY6hI/AAAAAAAAIDA/flWXT9ZdFZQ/s1600/12555997785_5f08cdfecc_c.jpg" alt="" width="350" height="400" border="0" /></a>
 
 
 
@@ -96,7 +96,7 @@ I quite like caramelised onions and this recipe is a very popular one in my clas
 
 
 
-  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-UpdaaJPGuLQ/UwBXpEDJTsI/AAAAAAAAIDQ/pxxNMoAu714/s1600/12556483574_0f76b40496_c.jpg"><img src="http://4.bp.blogspot.com/-UpdaaJPGuLQ/UwBXpEDJTsI/AAAAAAAAIDQ/pxxNMoAu714/s1600/12556483574_0f76b40496_c.jpg" alt="" width="300" height="400" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-UpdaaJPGuLQ/UwBXpEDJTsI/AAAAAAAAIDQ/pxxNMoAu714/s1600/12556483574_0f76b40496_c.jpg"><img src="https://4.bp.blogspot.com/-UpdaaJPGuLQ/UwBXpEDJTsI/AAAAAAAAIDQ/pxxNMoAu714/s1600/12556483574_0f76b40496_c.jpg" alt="" width="300" height="400" border="0" /></a>
 
 
 

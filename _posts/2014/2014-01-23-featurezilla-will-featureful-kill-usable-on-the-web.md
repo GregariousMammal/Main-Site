@@ -1,7 +1,7 @@
 ---
 title: 'Feature-zilla! Will Featureful Kill Usable on the Web?'
 created: 20140123
-publication_url: 'http://www.sitepoint.com/featureful-vs-usable/'
+publication_url: 'https://www.sitepoint.com/featureful-vs-usable/'
 categories: Chris writing sitepoint
 ---
 

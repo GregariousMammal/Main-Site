@@ -7,7 +7,7 @@ event: Write the Docs EU
 date: 2017-09-10T00:00:00.000Z
 venue: Autoclub of the Czech Republic, Opletalova 1337/29, 110 00 Praha 1-Nové Město, Czechia
 pres_source:
-pres_url: 'http://www.writethedocs.org/conf/eu/2017/speakers/'
+pres_url: 'https://www.writethedocs.org/conf/eu/2017/speakers/'
 ---
 
 In this presentation I will explore other ways to communicate concepts beyond words to show that documentation needn't just be about technical writing.

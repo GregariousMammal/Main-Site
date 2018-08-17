@@ -72,7 +72,7 @@ merchants to make data-driven decisions based on which offers resonate
 most with consumers.]{.s1}
 
 [The app grew out of research conducted at Xerox's storied R&D
-facility [[PARC]{.s2}](http://www.parc.com/), working in concert with
+facility [[PARC]{.s2}](https://www.parc.com/), working in concert with
 other Xerox
 [[innovation]{.s2}](https://www.xerox.com/en-us/innovation) efforts
 helping transportation customers integrate mobile technology into their
@@ -90,7 +90,7 @@ commuter’s destination. ]{.s1}
 
 [Belying their office product and photocopying history, Xerox is also a
 leading provider of [[transportation technology
-services]{.s2}](http://services.xerox.com/transportation-solutions/enus.html) worldwide,
+services]{.s2}](https://services.xerox.com/transportation-solutions/enus.html) worldwide,
 including tolling, parking, mass transit and photo enforcement services,
 supporting governments in more than 30 countries.]{.s1}
 

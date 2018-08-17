@@ -24,7 +24,7 @@ author:
 Composing an university degree article may be a challenging procedure
 but it does not must be. End through your thesis idea. The very first
 point you ought to generate a superb thesis is you've got to figure out
-most [buying essays online](http://buyessayfriend.com/) of your
+most [buying essays online](https://buyessayfriend.com/) of your
 justifications, which you have done while employed in your matter.
 Thinking about just how you can set this source in your paper is just
 about the most vital part this procedure There's numerous techniques to

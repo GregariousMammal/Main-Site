@@ -10,6 +10,6 @@ layout: podcast
 ---
 Chris speaks with Amanda Gutterman of Consensys and Thomas Schouten of Lisk about their projects and how to market something as complex as Blockchain.
 
-Previous episodes and show notes - http://gregariousmammal.com/podcast
-Support the show - http://gregariousmammal.com/podcast/
-Facebook - http://facebook.com/gregariousmammal/
+Previous episodes and show notes - https://gregariousmammal.com/podcast
+Support the show - https://gregariousmammal.com/podcast/
+Facebook - https://facebook.com/gregariousmammal/

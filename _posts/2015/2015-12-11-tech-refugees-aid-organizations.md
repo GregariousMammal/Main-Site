@@ -56,25 +56,25 @@ Developers Create Mobile Mapping
 Mobile mapping is a crucial element in the journey of refugees to
 safety. Having Google maps, GPS or other mapping devices can mean
 [contact with a rescue
-boat](http://www.huffingtonpost.com/entry/syrian-refugees-technology_560c13e2e4b07681270024d9).
+boat](https://www.huffingtonpost.com/entry/syrian-refugees-technology_560c13e2e4b07681270024d9).
 It can mean a refugee is able to [forgo the use of
-smugglers](http://uk.businessinsider.com/refugee-crisis-how-syrian-migrants-use-smartphones-avoid-traffickers-2015-9?IR=T)
+smugglers](https://uk.businessinsider.com/refugee-crisis-how-syrian-migrants-use-smartphones-avoid-traffickers-2015-9?IR=T)
 and take the journey alone. 
 
 Upon arrival, mapping apps like [Arriving in
-Berlin](http://arriving-in-berlin.de/) can offer ways to access local
+Berlin](https://arriving-in-berlin.de/) can offer ways to access local
 services, like free counseling, doctors who speak Farsi and libraries
 with Internet access. 
 
 Humanitarian organization [Global
-Initiative](http://www.globalinitiative.net/techfugees-mapping-smuggling-networks-for-better-responses/) has
+Initiative](https://www.globalinitiative.net/techfugees-mapping-smuggling-networks-for-better-responses/) has
 been working with UK volunteer developers from
-[Techfugees](http://www.techfugees.com/) to map smuggling networks and
+[Techfugees](https://www.techfugees.com/) to map smuggling networks and
 create a public database of routes. The intention is to identify future
 choke points or emerging smuggling markets, and to reduce the
 information advantage that smugglers hold over migrants. 
 
-[What3words](http://what3words.com/), winner of the Innovation Grand
+[What3words](https://what3words.com/), winner of the Innovation Grand
 Prix at the Cannes Lions festival of Creativity, was one of the most
 interesting mapping platforms to come out lately. 
 
@@ -99,7 +99,7 @@ mention overall integration. 
 Many developers are intent on creating apps and websites to aid the
 daily lives of refugees and those who work with them. While its focus
 was originally on African countries, Finnish startup
-[Funzi](http://funzi.mobi/)recognized the transferable nature of its
+[Funzi](https://funzi.mobi/)recognized the transferable nature of its
 program. So it created a series of learning packages to assist refugees
 in Finland, which includes resources on language and communication
 skills, everyday life and legal rights. 
@@ -131,17 +131,17 @@ What makes the tech sector distinct from other sectors is that skills
 are transferable across continents, unlike many professional industries.
 In response to the reality of employment challenges that displaced
 people can face, creatives from different parts of the world joined
-forces to launch [I Am Not a Refugee,](http://iamnotarefugee.com/) a
+forces to launch [I Am Not a Refugee,](https://iamnotarefugee.com/) a
 site designed to help them find work appropriate to their skills. 
 
 Finnish startups created [Startup
-Refugees](http://startuprefugees.com/), a network in conjunction with
+Refugees](https://startuprefugees.com/), a network in conjunction with
 government bodies to provide professional internships for asylum seekers
 who would otherwise be legally unable to work. Over 250 companies
 participate in the program. 
 
 In Berlin, volunteers are creating [Refugee on
-Rails](http://refugeesonrails.org/), a coding school for Berlin based
+Rails](https://refugeesonrails.org/), a coding school for Berlin based
 refugees. It offers classes for complete beginners, as well as those who
 have interrupted education or have been unable to work for safety
 reasons. 
@@ -165,12 +165,12 @@ As the vast majority of refugees from Syria are living in the Middle
 East—namely  Turkey, Lebanon, Jordan, Iraq and Egypt—I'd be remiss to
 neglect some of the interesting things happening there. 
 
-[Refugee Open Ware](http://www.row3d.org/) is a humanitarian
+[Refugee Open Ware](https://www.row3d.org/) is a humanitarian
 organization comprised of building Fab Labs in conflict-affected areas.
 They provide training to displaced persons and host communities, while
 building solutions to the problems facing victims of conflict. It
 currently has a Fab Lab in [Amman,
-Jordan](http://www.morethanshelters.org/eng/projects/jordan/) which
+Jordan](https://www.morethanshelters.org/eng/projects/jordan/) which
 trains locals in advanced manufacturing and creates 3D printed
 prosthetics. It's in the process of building a Fab Lab in Za'atari
 Refugee Camp, which lies on the Jordanian border with Syria and hosts

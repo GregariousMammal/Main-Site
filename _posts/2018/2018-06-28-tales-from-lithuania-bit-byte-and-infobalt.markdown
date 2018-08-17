@@ -10,6 +10,6 @@ layout: podcast
 ---
 We begin our series of interviews from our recent trip to Lithuania. First a coding school for children and the trade association for ICT. Thanks to telesoftas for sponsoring the trip.
 
-http://gregariousmammal.com/podcast/
-http://gregariousmammal.com/support
-http://facebook.com/gregariousmammal/
+https://gregariousmammal.com/podcast/
+https://gregariousmammal.com/support
+https://facebook.com/gregariousmammal/

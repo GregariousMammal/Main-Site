@@ -20,4 +20,4 @@ _Or is it that we simply don't have the resources to accomplish the polish found
 
 **What are your thoughts?**
 
-Image from <a href="http://thecollegestartup.com/" target="_blank">thecollegestartup.com</a>
+Image from <a href="https://thecollegestartup.com/" target="_blank">thecollegestartup.com</a>

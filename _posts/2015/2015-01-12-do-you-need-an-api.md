@@ -1,7 +1,7 @@
 ---
 title: Do You Need an API
 created: 20150112
-publication_url: 'http://www.sitepoint.com/do-you-need-an-api'
+publication_url: 'https://www.sitepoint.com/do-you-need-an-api'
 categories: Chris writing sitepoint
 ---
 

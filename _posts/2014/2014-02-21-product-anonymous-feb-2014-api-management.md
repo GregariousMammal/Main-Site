@@ -4,7 +4,7 @@ title: Product Anonymous Feb 2014 - API management
 created: 1392939764
 ---
 
-This was a great <a href="http://productanonymous.com/" target="_blank">Product Anonymous</a> session with <a href="http://au.linkedin.com/pub/jason-cormier/15/131/744" target="_blank">Jason Corimor</a> of <a href="http://www.mashery.com/" target="_blank">Mashery</a> that covered the business and commercialisation of using APIs, I intend to expand on a few of these topics in the future, so will touch upon them here.
+This was a great <a href="https://productanonymous.com/" target="_blank">Product Anonymous</a> session with <a href="https://au.linkedin.com/pub/jason-cormier/15/131/744" target="_blank">Jason Corimor</a> of <a href="https://www.mashery.com/" target="_blank">Mashery</a> that covered the business and commercialisation of using APIs, I intend to expand on a few of these topics in the future, so will touch upon them here.
 
 Jason likens discussing APIs with businesses to discussing websites a decades ago, people know what they are, kind of what they’re for and think they want it, but aren’t 100% sure why. Currently discussions around APIs are had with IT departments, when really they should start to be had with business and product owners, thus getting a different perspective and leading to new opportunities.
 

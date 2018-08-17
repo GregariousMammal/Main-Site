@@ -5,7 +5,7 @@ created_at: 2016-10-27 00:00:00 UTC
 author: ""
 categories: Chris media podcast
 tags: 
-orig_url: http://podcast.writethedocs.org/2016/10/27/github-for-docs-rhonda-glennon/
+orig_url: https://podcast.writethedocs.org/2016/10/27/github-for-docs-rhonda-glennon/
 layout: podcast
 ---
 

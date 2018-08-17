@@ -117,7 +117,7 @@ When you think healthcare data, the data for sale includes names, birth
 dates, policy numbers, diagnosis codes and billing information, all of
 which can be utilised to create fake identification to [buy medical
 equipment and drugs that can be resold or to lodge fraudulent Medicare
-claims ](http://www.reuters.com/article/us-cybersecurity-hospitals-idUSKCN0HJ21I20140924) This
+claims ](https://www.reuters.com/article/us-cybersecurity-hospitals-idUSKCN0HJ21I20140924) This
 is compounded by delays as data breaches and medical identify theft is
 not always immediately identified by a patient or their provider, giving
 criminals years to milk such credentials. That makes medical data more
@@ -140,8 +140,8 @@ that information."
 
 An everyday example of this is Apple's Health Kit. After the consumer
 outcry from its[ iCloud
-breach](http://www.wsj.com/articles/apple-celebrity-accounts-compromised-by-very-targeted-attack-1409683803) in
-2014, [Apple](http://www.apple.com/) came to understand the importance
+breach](https://www.wsj.com/articles/apple-celebrity-accounts-compromised-by-very-targeted-attack-1409683803) in
+2014, [Apple](https://www.apple.com/) came to understand the importance
 of trust.
 
 According the Accenture report:

@@ -12,18 +12,18 @@ In this episode Chris and Cate discuss their visits to IFA and long Night of Sta
 
 ## Topics Mentioned
 
-[Finally, a contest to reward the world’s crappiest fighting robots](http://readwrite.com/2016/09/01/hebocon-contest-to-reward-the-worlds-crappiest-fighting-robots-pl4/)
+[Finally, a contest to reward the world’s crappiest fighting robots](https://readwrite.com/2016/09/01/hebocon-contest-to-reward-the-worlds-crappiest-fighting-robots-pl4/)
 
-[Is the Cybathlon the future of the Paralympics?](http://readwrite.com/2016/08/28/cyborg-olympics-future-paralympics-hl1/)
+[Is the Cybathlon the future of the Paralympics?](https://readwrite.com/2016/08/28/cyborg-olympics-future-paralympics-hl1/)
 
-[The Internet of Packing? Meet Magic Add](http://readwrite.com/2016/05/06/the-internet-of-packaging-meet-magic-add-pl1/)
+[The Internet of Packing? Meet Magic Add](https://readwrite.com/2016/05/06/the-internet-of-packaging-meet-magic-add-pl1/)
 
-## [IFA](http://www.ifa-berlin.de) Conference
+## [IFA](https://www.ifa-berlin.de) Conference
 *Start ups/Products mentioned*
 
-[Smarter FridgeCam](http://fridgecam.squarespace.com/#details-1)
+[Smarter FridgeCam](https://fridgecam.squarespace.com/#details-1)
 
-[Beam Labs](http://beamlabsinc.com/)
+[Beam Labs](https://beamlabsinc.com/)
 
 [Plume Labs](https://plumelabs.com/en/)
 
@@ -31,12 +31,12 @@ In this episode Chris and Cate discuss their visits to IFA and long Night of Sta
 
 [SensorWake](https://sensorwake.com/)
 
-[Clyc](http://www.justclyc.com/)
+[Clyc](https://www.justclyc.com/)
 
-## [Lang Nacht der Start-Ups](http://www.startupnight.de/) Berlin
+## [Lang Nacht der Start-Ups](https://www.startupnight.de/) Berlin
 
 *Start ups/Products mentioned*
 
-[Mellow boards](http://www.mellowboards.com/)
+[Mellow boards](https://www.mellowboards.com/)
 
 [Debitoor](https://debitoor.de/)

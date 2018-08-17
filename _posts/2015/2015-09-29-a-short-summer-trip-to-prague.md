@@ -4,7 +4,7 @@ title: A short summer trip to Prague
 date: 2015-09-29T19:31:11.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/?p=1321'
+guid: 'https://atravellingcook.com/?p=1321'
 permalink: /2015/09/a-short-summer-trip-to-prague.html
 tags:
   - food
@@ -44,13 +44,13 @@ I had a quick look at the vegan options, more for curiousity than anything else:
 
 ![2015-08-31 11.25.49](/images/atc-migrate/2015/09/2015-08-31-11.25.49.jpg)
 
-![I](/images/atc-migrate/2015/09/2015-08-31-11.33.02.jpg) went to a couple of great veggie restaurants, [Country Life](http://www.happycow.net/reviews/country-life-melantrichova-prague-5924) and Clear Head-Lehka Hlava. Country Life is a cafeteria style restaurant with bain marie dishes of salads, pastas and cooked mains which is purchased by weight. I had a lovely plate of fresh salads, a delicious sunflower creme potato bake and soy medallions.
+![I](/images/atc-migrate/2015/09/2015-08-31-11.33.02.jpg) went to a couple of great veggie restaurants, [Country Life](https://www.happycow.net/reviews/country-life-melantrichova-prague-5924) and Clear Head-Lehka Hlava. Country Life is a cafeteria style restaurant with bain marie dishes of salads, pastas and cooked mains which is purchased by weight. I had a lovely plate of fresh salads, a delicious sunflower creme potato bake and soy medallions.
 
 ![2015-08-31 14.19.42](/images/atc-migrate/2015/09/2015-08-31-14.19.421.jpg)
 
 The restaurant is right near the tourist square which is oddly populated with recipes featuring traditional winter Czech fare (Pork knuckle and other pork dishes, stewed cabbage, potato dishes). I get the idea of eating locally when travelling, but surely seasonality and weather must come into it? Can't think of anything worse than a massive cooked, hot meal at lunch time with it's 38 degrees celsius! I actually gasped at the size of one woman's meal, it looked like what would serve a whole family in most homes!
 
-I've been to [Clear Head-Lehka Hlava](http://www.lehkahlava.cz/) before, but it was great to go there again and enjoy a big vegan antipasto platter with my friend. I didn't take any photos as the restaurant is quite dark, but it's a lovely place with different coloured rooms, gorgeous art and lovely staff. Definitely worth a visit.
+I've been to [Clear Head-Lehka Hlava](https://www.lehkahlava.cz/) before, but it was great to go there again and enjoy a big vegan antipasto platter with my friend. I didn't take any photos as the restaurant is quite dark, but it's a lovely place with different coloured rooms, gorgeous art and lovely staff. Definitely worth a visit.
 
 It was also quite odd to see how many English branded businesses had taken up residency in Prague.
 

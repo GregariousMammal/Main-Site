@@ -97,7 +97,7 @@ collecting, managing and analyzing IoT big data into a fast, simple and
 real-time process. Buddy’s customers are in a range of sectors —  from
 airline, agriculture and automotive to robotics, telecom and government.
 and include Sears, [Lono](https://lono.io/) and [Washington's
-Lottery](http://www.walottery.com/).
+Lottery](https://www.walottery.com/).
 
 As well as their key business they're building out a fully hosted, fully
 managed, auto-scaling implementation of Parse Server targeted at higher
@@ -160,7 +160,7 @@ Buddy also acquiring IoT buddies
 --------------------------------
 
 Not a company to rest on their laurels, Buddy also announced intent to
-acquire [Noveda](http://www.noveda.com/smart-buildings), a company
+acquire [Noveda](https://www.noveda.com/smart-buildings), a company
 that  develops and provides Web-based energy monitoring solutions for
 conventional and renewable energy systems.
 

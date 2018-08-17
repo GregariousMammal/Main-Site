@@ -77,9 +77,9 @@ Buyer Statistics Beware
 -----------------------
 
 Interestingly, considering the plethora of
-[apps](http://appcrawlr.com/ios-apps/best-apps-elderly-parents) and
+[apps](https://appcrawlr.com/ios-apps/best-apps-elderly-parents) and
 smart-home
-[devices](http://www.makeuseof.com/tag/8-devices-elderly-relatives-safe-at-home/)
+[devices](https://www.makeuseof.com/tag/8-devices-elderly-relatives-safe-at-home/)
 targeting the elderly, they are notably absent in Strategy Analytics'
 numbers. Could this be because they lack the technology know-how or
 interest—or that younger relatives typically purchase and install such
@@ -97,9 +97,9 @@ says: 
 > draw in the US market. We believe that this category will continue to
 > grow as companies offer low cost systems and services to attract a
 > broader market. Cable TV operators such as
-> [Comcast](http://corporate.comcast.com/news-information/news-feed/the-future-of-the-home-bringing-the-power-of-the-cloud-to-home-management)and
+> [Comcast](https://corporate.comcast.com/news-information/news-feed/the-future-of-the-home-bringing-the-power-of-the-cloud-to-home-management)and
 > [Time Warner
-> Cable](http://www.timewarnercable.com/en/intelligenthome/overview.html)
+> Cable](https://www.timewarnercable.com/en/intelligenthome/overview.html)
 > are healthy growth of their interactive security services as is market
 > leader ADT.
 

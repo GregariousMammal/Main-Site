@@ -7,8 +7,8 @@ title: Back To The Future With Static Site Generators
 event: DevWeek London
 date: 2016-04-21T14:00:00.000Z
 venue: 'Central Hall Westminster, London'
-pres_source: 'http://www.slideshare.net/chrischinchilla/back-to-the-future-with-static-site-generators'
-pres_url: 'http://devweek.com/agenda#back-to-the-future-with-static-site-generators'
+pres_source: 'https://www.slideshare.net/chrischinchilla/back-to-the-future-with-static-site-generators'
+pres_url: 'https://devweek.com/agenda#back-to-the-future-with-static-site-generators'
 ---
 
 If you remember when web sites were all created with plain HTML pages, then you'll know that CMSs and dynamic web frameworks saved us and solved all our problems. Or did they? In fact, we instead spend a lot of time customising existing code to meet our requirements, grappling with deployments and then whacking caching on top of over-powered servers to get an ounce of speed.

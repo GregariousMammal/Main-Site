@@ -2,7 +2,7 @@
 type: blogging
 
 title: Sitepoint
-company_url: 'http://sitepoint.com/'
+company_url: 'https://sitepoint.com/'
 image: sitepoint.png
 category: Chris writing editing
 start_date: 2014

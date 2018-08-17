@@ -187,12 +187,12 @@ Allowing people to grow, learn and expand their horizons can result in many posi
 
 ### Resources to find events, networking opportunities and stay current
 
-- [thefetch.com](http://thefetch.com) A weekly newsletter for events and thoughts
-- [connectingup.org](http://connectingup.org)  Conferences, Webinars and other resources for non-profits and their interactions with technology
-- [nten.org](http://nten.org) The global equivalent of ConnectingUp
-- [meetup.com](http://meetup.com) A global resource of community organised events covering a wide variety of topics
-- [socialtraders.com.au](http://socialtraders.com.au) A ground breaking organisation that provides a variety of resources for social entrepreneurs
-- [bethkanter.org](http://bethkanter.org) Beth's blog is a fantastic resource for nonprofits wishing to leverage data and networks.
+- [thefetch.com](https://thefetch.com) A weekly newsletter for events and thoughts
+- [connectingup.org](https://connectingup.org)  Conferences, Webinars and other resources for non-profits and their interactions with technology
+- [nten.org](https://nten.org) The global equivalent of ConnectingUp
+- [meetup.com](https://meetup.com) A global resource of community organised events covering a wide variety of topics
+- [socialtraders.com.au](https://socialtraders.com.au) A ground breaking organisation that provides a variety of resources for social entrepreneurs
+- [bethkanter.org](https://bethkanter.org) Beth's blog is a fantastic resource for nonprofits wishing to leverage data and networks.
 
 ## Organisational and personal health
 Driven and passionate individuals have a tendency to exploit themselves and to allow themselves to be exploited. There is also a slight attitude that permeates through the not-for-profit sector and that is a feeling of self-righteousness. Often people are doing great things of great benefit to many, but one can still be balanced whilst doing this.
@@ -255,8 +255,8 @@ If you would rather not use an existing social network, you still don't need to 
 
 Examples of these are:
 
-- [buddypress.org](http://buddypress.org) A plug-in for Wordpress sites that provides groups, messaging, profiles and more.
-- [drupal.org/project/og](http://drupal.org/project/og) Organic Groups is a Drupal Module that adds groups, messaging, subscriptions and much more.
+- [buddypress.org](https://buddypress.org) A plug-in for Wordpress sites that provides groups, messaging, profiles and more.
+- [drupal.org/project/og](https://drupal.org/project/og) Organic Groups is a Drupal Module that adds groups, messaging, subscriptions and much more.
 
 As your community grows, and depending on how central it is to your work, you may need to bring on board one or more members of staff to manage your community(s) or make it part of someone else's role. This person(s) helps encourage and regulate the community, but it should still from a distance obeying many of the principles above. This is especially true with association or club type organisations. One of your main activities is community management, so this work may be intrinsically part of many of your staff.
 

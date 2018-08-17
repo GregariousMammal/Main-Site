@@ -4,7 +4,7 @@ title: Apple custard danish
 date: 2014-09-15T13:57:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/09/apple-custard-danish.html
+guid: https://atravellingcook.com/2014/09/apple-custard-danish.html
 permalink: /2014/09/apple-custard-danish.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -22,7 +22,7 @@ tags:
   - recipe
   - vegan
 ---
-<a style="background-color: white; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 14px; line-height: 22px; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-fWHwBTQs5z4/VBbglyTdJZI/AAAAAAAAJfU/qEEvzS8Y3Qw/s1600/15059519460_b96de7d9da_z.jpg"><img src="http://4.bp.blogspot.com/-fWHwBTQs5z4/VBbglyTdJZI/AAAAAAAAJfU/qEEvzS8Y3Qw/s1600/15059519460_b96de7d9da_z.jpg" alt="" width="400" height="301" border="0" /></a>
+<a style="background-color: white; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 14px; line-height: 22px; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-fWHwBTQs5z4/VBbglyTdJZI/AAAAAAAAJfU/qEEvzS8Y3Qw/s1600/15059519460_b96de7d9da_z.jpg"><img src="https://4.bp.blogspot.com/-fWHwBTQs5z4/VBbglyTdJZI/AAAAAAAAJfU/qEEvzS8Y3Qw/s1600/15059519460_b96de7d9da_z.jpg" alt="" width="400" height="301" border="0" /></a>
 
 
 
@@ -218,7 +218,7 @@ _<span style="color: #555555; font-family: 'Helvetica Neue', Arial, Helvetica, s
     </ol>
     
     
-      <a style="background-color: white; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 14px; line-height: 22px; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-1CJHC5VEbP0/VBbhPgcTbqI/AAAAAAAAJfk/XS_qNqRneCM/s1600/15246133252_6641c85739_z.jpg"><img src="http://3.bp.blogspot.com/-1CJHC5VEbP0/VBbhPgcTbqI/AAAAAAAAJfk/XS_qNqRneCM/s1600/15246133252_6641c85739_z.jpg" alt="" width="400" height="308" border="0" /></a><span style="color: #555555; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><span style="line-height: 25.533332824707px;"><br /> <span style="color: #555555; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; line-height: 19.15pt; text-indent: -25.2pt;">7.  Spread half of the custard filling in the center of dough topped by the apples. Cut slanted strips along both sides. 
+      <a style="background-color: white; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 14px; line-height: 22px; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-1CJHC5VEbP0/VBbhPgcTbqI/AAAAAAAAJfk/XS_qNqRneCM/s1600/15246133252_6641c85739_z.jpg"><img src="https://3.bp.blogspot.com/-1CJHC5VEbP0/VBbhPgcTbqI/AAAAAAAAJfk/XS_qNqRneCM/s1600/15246133252_6641c85739_z.jpg" alt="" width="400" height="308" border="0" /></a><span style="color: #555555; font-family: Helvetica Neue, Arial, Helvetica, sans-serif;"><span style="line-height: 25.533332824707px;"><br /> <span style="color: #555555; font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; line-height: 19.15pt; text-indent: -25.2pt;">7.  Spread half of the custard filling in the center of dough topped by the apples. Cut slanted strips along both sides. 
     
   
   
@@ -249,5 +249,5 @@ _<span style="color: #555555; font-family: 'Helvetica Neue', Arial, Helvetica, s
 
 <div style="background-color: white; box-sizing: border-box; color: #555555; line-height: 25.5px; position: relative;">
   
-    <span style="text-indent: -2.1em;">                          <a style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 14px; line-height: 22px; margin-left: 1em; margin-right: 1em; text-align: center; text-indent: 0px;" href="http://2.bp.blogspot.com/--0yjvOMuUds/VBbgmFP_UOI/AAAAAAAAJfQ/XmNMN4SWc8A/s1600/15059644138_ec3a771f09_z.jpg"><img src="http://2.bp.blogspot.com/--0yjvOMuUds/VBbgmFP_UOI/AAAAAAAAJfQ/XmNMN4SWc8A/s1600/15059644138_ec3a771f09_z.jpg" alt="" width="400" height="296" border="0" /></a>
+    <span style="text-indent: -2.1em;">                          <a style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif; font-size: 14px; line-height: 22px; margin-left: 1em; margin-right: 1em; text-align: center; text-indent: 0px;" href="https://2.bp.blogspot.com/--0yjvOMuUds/VBbgmFP_UOI/AAAAAAAAJfQ/XmNMN4SWc8A/s1600/15059644138_ec3a771f09_z.jpg"><img src="https://2.bp.blogspot.com/--0yjvOMuUds/VBbgmFP_UOI/AAAAAAAAJfQ/XmNMN4SWc8A/s1600/15059644138_ec3a771f09_z.jpg" alt="" width="400" height="296" border="0" /></a>
   

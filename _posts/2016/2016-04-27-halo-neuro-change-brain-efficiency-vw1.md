@@ -62,12 +62,12 @@ author:
   first_name: Cate
   last_name: Lawrence
 ---
-In the era of [the quantified self](http://quantifiedself.com/) we are
+In the era of [the quantified self](https://quantifiedself.com/) we are
 able to use a range of trackers and monitors within the Internet of
 Things (IoT) to assess and monitor our health throughout each day and
 night. But a small suite of companies like
-[Thync](http://www.thync.com/) and [Fisher Wallace
-Laboratories](http://www.fisherwallace.com/?gclid=CPyOvdWMjswCFbgy0wodsS4AUg) have
+[Thync](https://www.thync.com/) and [Fisher Wallace
+Laboratories](https://www.fisherwallace.com/?gclid=CPyOvdWMjswCFbgy0wodsS4AUg) have
 extended this reach to the use of  wearables to transform the
 capabilities of the brain to manage conditions like mild fatigue,
 depression and insomnia.
@@ -151,7 +151,7 @@ up to announce a general availability preorder date this fall.
 
 In the first instance the pool of elite athletes seem an odd focus,
 given the size of the pool - particularly as Chao's previous business,
-[NeuroPace](http://www.neuropace.com/), developed an FDA-approved
+[NeuroPace](https://www.neuropace.com/), developed an FDA-approved
 implantable brain stimulator for epilepsy.
 
 Dr. Chao explained that the minutiae of improvement in elite sports is

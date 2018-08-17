@@ -4,7 +4,7 @@ title: Tomato and black pepper soup
 date: 2015-05-31T19:09:39+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=972
+guid: https://atravellingcook.com/?p=972
 permalink: /2015/05/tomato-and-black-pepper-soup.html
 tags:
   - cooking
@@ -49,4 +49,4 @@ _Instructions:_
   9. Blend with a stick blender (or leave in chunks if you prefer)
  10. Add 2 tablespoons butter, stir through and serve.
 
-I&#8217;ve added this post to [Land of Zonkt&#8217;s](http://www.landofzonkt.com.au/2015/05/your-weekly-feed-5-link-up/) weekly recipe link up and [Jen](http://fussfreeflavours.com/) and [Fuss Free Flavours](http://fussfreeflavours.com/credit-crunch-munch/) &#8216;[Credit Crunch Munch](http://jensfood.co.uk/2015/06/credit-crunch-munch-june.html/)&#8216;
+I&#8217;ve added this post to [Land of Zonkt&#8217;s](https://www.landofzonkt.com.au/2015/05/your-weekly-feed-5-link-up/) weekly recipe link up and [Jen](https://fussfreeflavours.com/) and [Fuss Free Flavours](https://fussfreeflavours.com/credit-crunch-munch/) &#8216;[Credit Crunch Munch](https://jensfood.co.uk/2015/06/credit-crunch-munch-june.html/)&#8216;

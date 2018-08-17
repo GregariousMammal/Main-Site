@@ -4,7 +4,7 @@ title: Jams, pickles and preserves masterclass Berlin
 date: 2015-04-14T10:28:22+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=736
+guid: https://atravellingcook.com/?p=736
 permalink: /2015/04/jams-pickles-and-preserves-masterclass-berlin.html
 tags:
   - cooking
@@ -30,7 +30,7 @@ Saturday May 23
   
 Cost: 30€
   
-Bookings: [http://www.eventbrite.com/e/jams-pickles-and-preserves-masterclass-tickets-16575580006#](http://www.eventbrite.com/e/jams-pickles-and-preserves-masterclass-tickets-16575580006# "Jams, pickles and preserves masterclass tickets")
+Bookings: [https://www.eventbrite.com/e/jams-pickles-and-preserves-masterclass-tickets-16575580006#](https://www.eventbrite.com/e/jams-pickles-and-preserves-masterclass-tickets-16575580006# "Jams, pickles and preserves masterclass tickets")
 
 This fun, hands-on workshop  extends over a day  incorporating our most popular workshops and techiques. You will learn the basics of pickling and preserving, including preparation, jar sterilisation, setting points and bottling.
 

@@ -12,4 +12,4 @@ Robots are appearing everywhere in our lives and workplaces, but how does a deve
 
 Chris spoke with Jans Lembrecht of Gestalt Robotics about his experience programming industrial robots designed for single purpose tasks that use their own programming languages to newer robots that use C++ or Python to handle broader tasks that humans throw at them.
 
-http://www.gestalt-robotics.com
+https://www.gestalt-robotics.com

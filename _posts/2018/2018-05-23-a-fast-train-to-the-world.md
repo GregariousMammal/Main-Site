@@ -25,5 +25,5 @@ In this episode Cate and Chris discuss their extensive travels, public transport
 -   [How riding Germany's local transport really helps you get under a city's skin](https://www.thelocal.de/20180507/how-riding-germanys-local-transport-really-helps-you-get-under-a-citys-skin)
 -   [Paranoia will destroy us: Why Huawei and other Chinese tech is not spying on Americans](https://www.zdnet.com/article/paranoia-will-destroy-you-why-chinese-tech-isnt-spying-on-us/)
 -   [RIP ZTE: Which Chinese smartphone company is next?](https://www.zdnet.com/article/rest-in-peace-zte-which-chinese-smartphone-company-is-next/)
--   [What everyone gets wrong about introverts — including why they are not antisocial or lazy](http://www.businessinsider.com/what-its-like-to-be-an-introvert-and-what-everyone-gets-wrong-2018-5?IR=T)
--   [The 25 Best Board-Game Mobile Apps](http://www.vulture.com/article/best-board-game-apps.html)
+-   [What everyone gets wrong about introverts — including why they are not antisocial or lazy](https://www.businessinsider.com/what-its-like-to-be-an-introvert-and-what-everyone-gets-wrong-2018-5?IR=T)
+-   [The 25 Best Board-Game Mobile Apps](https://www.vulture.com/article/best-board-game-apps.html)

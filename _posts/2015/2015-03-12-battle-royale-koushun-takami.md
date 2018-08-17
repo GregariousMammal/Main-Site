@@ -17,4 +17,4 @@ There are several twists I didn't see coming and plenty of exploration of the hu
 
 All in all, worth pushing through some of the odd language for a highly focussed work of dystopian shlock.
 
-[Want to earn me a few cents? Then buy a copy of the book on Amazon. ](http://www.amazon.com/gp/product/1421527723/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1421527723&linkCode=as2&tag=gregamamma-20&linkId=ANPGF5DGA4HJTLZB)<img alt="" border="0" height="1" src="http://ir-na.amazon-adsystem.com/e/ir?t=gregamamma-20&l=as2&o=1&a=1421527723" style="border:none !important; margin:0px !important;" width="1" />
+[Want to earn me a few cents? Then buy a copy of the book on Amazon. ](https://www.amazon.com/gp/product/1421527723/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1421527723&linkCode=as2&tag=gregamamma-20&linkId=ANPGF5DGA4HJTLZB)<img alt="" border="0" height="1" src="https://ir-na.amazon-adsystem.com/e/ir?t=gregamamma-20&l=as2&o=1&a=1421527723" style="border:none !important; margin:0px !important;" width="1" />

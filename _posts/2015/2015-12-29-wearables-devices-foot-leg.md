@@ -62,8 +62,8 @@ products designed for the feet. 
 Self-lacing Nike Mag Shoes
 
 Nike took futuristic footwear out of [Back to the
-Future](http://www.imdb.com/title/tt0088763/) and put it into prototype
-with the [Nike Mag](http://news.nike.com/news/nike-mag-2015),
+Future](https://www.imdb.com/title/tt0088763/) and put it into prototype
+with the [Nike Mag](https://news.nike.com/news/nike-mag-2015),
 advancing what was coined the Nike Mag’s “power laces,” with digital
 technology. The result is an individually responsive system that senses
 the wearer’s motion to provide adaptive on-demand comfort and support.
@@ -76,7 +76,7 @@ adaptive technology, it seems like the future has arrived.
 ![](rw-import/MTM1NTM2ODQ1MDYzNzU1MDI2.png)
 
 Anyone who has ever suffered from cold feet will be interested
-in [Digitsole](http://www.digitsole.com/), the first-ever connected,
+in [Digitsole](https://www.digitsole.com/), the first-ever connected,
 heated insole designed for athletes and anyone who gets cold feet. The
 temperature of the innersole is controlled via smartphone, which can
 also track calories and steps. I've tried it on, and it does indeed warm
@@ -99,7 +99,7 @@ injuries who may forget to wear a device. 
 
 Marketed to geriatric housing providers, adult children caring for
 parents and executives fearful of kidnapping, [GPS Smart
-Sole](http://www.gpssmartsole.com/) features a miniature embedded GPS
+Sole](https://www.gpssmartsole.com/) features a miniature embedded GPS
 tracking device and a rechargeable battery that lasts 2-3 days on a
 single charge. The device sends a signal to the central monitoring
 website, which shows the wearer's exact location. The retail price is
@@ -113,7 +113,7 @@ Shiftware Sneakers
 Change your shoes without removing your shoes
 
 Not all wearables have to be functional. Some can just be creative for
-creative's sake. [Shiftware sneakers](http://www.shiftwear.com/)offer
+creative's sake. [Shiftware sneakers](https://www.shiftwear.com/)offer
 the latest in bendable, wearable, waterproof HD displays, all in a pair
 of shoes featuring color e-paper displays in their sides. The wearer can
 use a corresponding app to display designs and animations, and even sell
@@ -129,7 +129,7 @@ Roller skating will never be the same.
 
 Roller skating is no longer a pastime enjoyed only by small children and
 roller derby aficionados. [Rocket
-Skates](http://www.actonglobal.com/) were launched launched at last
+Skates](https://www.actonglobal.com/) were launched launched at last
 year's CES, the world's first remote-free, strap-in, smart electric
 skates.
 
@@ -176,7 +176,7 @@ Electricity-Generating Socks
 Urine operating wearables
 
 This one sounds like something from an episode of a [Bear
-Grylls](http://www.beargrylls.com/) TV show: A team of researchers from
+Grylls](https://www.beargrylls.com/) TV show: A team of researchers from
 the University of West England has developed what it claims is the
 "first self-sufficient system powered by a wearable energy generator
 based on microbial fuel cell technology." 

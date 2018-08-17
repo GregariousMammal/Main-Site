@@ -59,7 +59,7 @@ excerpt: The robots sell out in minutes every time a new batch are built, and wi
 
 I was fortunate to meet Pepper at Mobile World Congress a few weeks ago
 in Barcelona. Pepper is a personable robot created
-by [SoftBank](http://www.softbank.jp/), one of Japan’s biggest
+by [SoftBank](https://www.softbank.jp/), one of Japan’s biggest
 telecommunications companies, in collaboration with its subsidiary, the
 Paris-based humanoid robotics experts
 [Aldebaran](https://www.aldebaran.com/en).

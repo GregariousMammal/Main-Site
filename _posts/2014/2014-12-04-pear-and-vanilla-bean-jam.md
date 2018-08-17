@@ -4,7 +4,7 @@ title: Pear and vanilla bean jam
 date: 2014-12-04T10:45:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/12/pear-and-vanilla-bean-jam.html
+guid: https://atravellingcook.com/2014/12/pear-and-vanilla-bean-jam.html
 permalink: /2014/12/pear-and-vanilla-bean-jam.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -32,7 +32,7 @@ tags:
 
 
 
-  <a  href="http://3.bp.blogspot.com/-UI-9PhCnKKI/VIAsweSXSHI/AAAAAAAAKLM/0z7zpMFUsg4/s1600/pear%2Bvanilla%2Bjam%2Bin%2Ba%2Bjar.jpg"><img src="http://3.bp.blogspot.com/-UI-9PhCnKKI/VIAsweSXSHI/AAAAAAAAKLM/0z7zpMFUsg4/s1600/pear%2Bvanilla%2Bjam%2Bin%2Ba%2Bjar.jpg" alt="" width="400" height="265" border="0" /></a>
+  <a  href="https://3.bp.blogspot.com/-UI-9PhCnKKI/VIAsweSXSHI/AAAAAAAAKLM/0z7zpMFUsg4/s1600/pear%2Bvanilla%2Bjam%2Bin%2Ba%2Bjar.jpg"><img src="https://3.bp.blogspot.com/-UI-9PhCnKKI/VIAsweSXSHI/AAAAAAAAKLM/0z7zpMFUsg4/s1600/pear%2Bvanilla%2Bjam%2Bin%2Ba%2Bjar.jpg" alt="" width="400" height="265" border="0" /></a>
 
 
 
@@ -66,7 +66,7 @@ tags:
 
 
 
-                    <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-WerU97hZ5oo/VIAr0otDn4I/AAAAAAAAKLE/qLJOmxnaqbE/s1600/7231908776_74b0fc1ff2_z.jpg"><img src="http://1.bp.blogspot.com/-WerU97hZ5oo/VIAr0otDn4I/AAAAAAAAKLE/qLJOmxnaqbE/s1600/7231908776_74b0fc1ff2_z.jpg" alt="" width="400" height="280" border="0" /></a>
+                    <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-WerU97hZ5oo/VIAr0otDn4I/AAAAAAAAKLE/qLJOmxnaqbE/s1600/7231908776_74b0fc1ff2_z.jpg"><img src="https://1.bp.blogspot.com/-WerU97hZ5oo/VIAr0otDn4I/AAAAAAAAKLE/qLJOmxnaqbE/s1600/7231908776_74b0fc1ff2_z.jpg" alt="" width="400" height="280" border="0" /></a>
 
 
   1. Core pears and dice into pieces. If your pears are the thin skinned yellow or green ones they shouldn’t need to be peeled.

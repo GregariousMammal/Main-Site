@@ -4,7 +4,7 @@ title: 'Everyday German conveniences you&#8217;ll miss in Australia'
 date: 2014-12-15T14:58:18+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=245
+guid: https://atravellingcook.com/?p=245
 permalink: /2014/12/everyday-german-conveniences-youll-miss-in-australia.html
 tags:
   - Uncategorized
@@ -24,7 +24,7 @@ tags:
 
 
 
-  <a href="http://4.bp.blogspot.com/-z3nr_MDk7d0/VI880XFqi-I/AAAAAAAAKSY/BtZsJgLBbrk/s1600/freiburgmarketpastries.jpg"><img src="http://4.bp.blogspot.com/-z3nr_MDk7d0/VI880XFqi-I/AAAAAAAAKSY/BtZsJgLBbrk/s1600/freiburgmarketpastries.jpg" alt="" width="400" height="228" border="0" /></a>
+  <a href="https://4.bp.blogspot.com/-z3nr_MDk7d0/VI880XFqi-I/AAAAAAAAKSY/BtZsJgLBbrk/s1600/freiburgmarketpastries.jpg"><img src="https://4.bp.blogspot.com/-z3nr_MDk7d0/VI880XFqi-I/AAAAAAAAKSY/BtZsJgLBbrk/s1600/freiburgmarketpastries.jpg" alt="" width="400" height="228" border="0" /></a>
 
 
 

@@ -4,7 +4,7 @@ title: Seedy flapjacks
 date: 2014-02-26T03:45:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/02/seedy-flapjacks.html
+guid: https://atravellingcook.com/2014/02/seedy-flapjacks.html
 permalink: /2014/02/seedy-flapjacks.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -23,7 +23,7 @@ tags:
   - vegan
 ---
 
-  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-R-lXHbk150E/U9ZnRrB47kI/AAAAAAAAJBU/DCW8w2T9UdQ/s1600/Fig-and-Date-Flapjacks.jpg"><img src="http://3.bp.blogspot.com/-R-lXHbk150E/U9ZnRrB47kI/AAAAAAAAJBU/DCW8w2T9UdQ/s1600/Fig-and-Date-Flapjacks.jpg" alt="" width="400" height="218" border="0" /></a>
+  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-R-lXHbk150E/U9ZnRrB47kI/AAAAAAAAJBU/DCW8w2T9UdQ/s1600/Fig-and-Date-Flapjacks.jpg"><img src="https://3.bp.blogspot.com/-R-lXHbk150E/U9ZnRrB47kI/AAAAAAAAJBU/DCW8w2T9UdQ/s1600/Fig-and-Date-Flapjacks.jpg" alt="" width="400" height="218" border="0" /></a>
 
 
 
@@ -34,7 +34,7 @@ tags:
 
 
 
-                         <a style="background-color: white; line-height: 16px; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-iesBtSKDrew/Uw1TxfQLxEI/AAAAAAAAIIM/LTnR-NAnnf8/s1600/12784137144_e2176deab7_c.jpg"><img src="http://3.bp.blogspot.com/-iesBtSKDrew/Uw1TxfQLxEI/AAAAAAAAIIM/LTnR-NAnnf8/s1600/12784137144_e2176deab7_c.jpg" alt="" width="400" height="343" border="0" /></a><br /> <i>Ingredients</i>
+                         <a style="background-color: white; line-height: 16px; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-iesBtSKDrew/Uw1TxfQLxEI/AAAAAAAAIIM/LTnR-NAnnf8/s1600/12784137144_e2176deab7_c.jpg"><img src="https://3.bp.blogspot.com/-iesBtSKDrew/Uw1TxfQLxEI/AAAAAAAAIIM/LTnR-NAnnf8/s1600/12784137144_e2176deab7_c.jpg" alt="" width="400" height="343" border="0" /></a><br /> <i>Ingredients</i>
 
 
 
@@ -88,7 +88,7 @@ tags:
 
 
 
-                      <a style="background-color: white; font-family: Times, 'Times New Roman', serif; line-height: 16px; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-LHXtu_PJr8U/Uw1Tu99NfvI/AAAAAAAAIH8/Snep7xwUyDo/s1600/12783702065_19e21d8ed7_c.jpg"><img src="http://4.bp.blogspot.com/-LHXtu_PJr8U/Uw1Tu99NfvI/AAAAAAAAIH8/Snep7xwUyDo/s1600/12783702065_19e21d8ed7_c.jpg" alt="" width="315" height="400" border="0" /></a>
+                      <a style="background-color: white; font-family: Times, 'Times New Roman', serif; line-height: 16px; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-LHXtu_PJr8U/Uw1Tu99NfvI/AAAAAAAAIH8/Snep7xwUyDo/s1600/12783702065_19e21d8ed7_c.jpg"><img src="https://4.bp.blogspot.com/-LHXtu_PJr8U/Uw1Tu99NfvI/AAAAAAAAIH8/Snep7xwUyDo/s1600/12783702065_19e21d8ed7_c.jpg" alt="" width="315" height="400" border="0" /></a>
 
 
 
@@ -100,7 +100,7 @@ tags:
 
 
 
-                      <a style="line-height: 16px; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-6i-tgCDad3A/Uw1TweQwgTI/AAAAAAAAIIE/P3lnRsEnIqc/s1600/12783805783_ec3ddb7873_c.jpg"><img src="http://3.bp.blogspot.com/-6i-tgCDad3A/Uw1TweQwgTI/AAAAAAAAIIE/P3lnRsEnIqc/s1600/12783805783_ec3ddb7873_c.jpg" alt="" width="310" height="400" border="0" /></a><span style="line-height: 16px;"><br /> <span style="background-color: white; color: #333333; line-height: 1em;">3. Transfer the oat mixture to the prepared cake tin and spread to about 2cm  thick.<br /> <span style="background-color: white; color: #333333; font-family: Arial, Helvetica, sans-serif; line-height: 1em;"><br /> 
+                      <a style="line-height: 16px; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-6i-tgCDad3A/Uw1TweQwgTI/AAAAAAAAIIE/P3lnRsEnIqc/s1600/12783805783_ec3ddb7873_c.jpg"><img src="https://3.bp.blogspot.com/-6i-tgCDad3A/Uw1TweQwgTI/AAAAAAAAIIE/P3lnRsEnIqc/s1600/12783805783_ec3ddb7873_c.jpg" alt="" width="310" height="400" border="0" /></a><span style="line-height: 16px;"><br /> <span style="background-color: white; color: #333333; line-height: 1em;">3. Transfer the oat mixture to the prepared cake tin and spread to about 2cm  thick.<br /> <span style="background-color: white; color: #333333; font-family: Arial, Helvetica, sans-serif; line-height: 1em;"><br /> 
 
 
 
@@ -112,7 +112,7 @@ tags:
 
 
 
-  <span style="background-color: white; color: #333333; font-family: Arial, Helvetica, sans-serif; line-height: 1em;">6. Let cool in the tin, then turn out and cut into squares.  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-R-lXHbk150E/U9ZnRrB47kI/AAAAAAAAJBU/DCW8w2T9UdQ/s1600/Fig-and-Date-Flapjacks.jpg"><img src="http://3.bp.blogspot.com/-R-lXHbk150E/U9ZnRrB47kI/AAAAAAAAJBU/DCW8w2T9UdQ/s1600/Fig-and-Date-Flapjacks.jpg" alt="" width="400" height="218" border="0" /></a>
+  <span style="background-color: white; color: #333333; font-family: Arial, Helvetica, sans-serif; line-height: 1em;">6. Let cool in the tin, then turn out and cut into squares.  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-R-lXHbk150E/U9ZnRrB47kI/AAAAAAAAJBU/DCW8w2T9UdQ/s1600/Fig-and-Date-Flapjacks.jpg"><img src="https://3.bp.blogspot.com/-R-lXHbk150E/U9ZnRrB47kI/AAAAAAAAJBU/DCW8w2T9UdQ/s1600/Fig-and-Date-Flapjacks.jpg" alt="" width="400" height="218" border="0" /></a>
 
 
 

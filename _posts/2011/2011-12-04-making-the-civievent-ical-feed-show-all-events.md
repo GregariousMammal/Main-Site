@@ -7,13 +7,13 @@ tags: civicrm php
 image: civicrm_logo.png
 ---
 
-With [Green Renters](http://greenrenters.org) we find the iCal feed from CiviEvent (part of [CiviCRM](http://civicrm.org)) invaluable to keep track of events and workshops we have coming up, generally we use the feed pulled into our personal iCal and Google calendars for internal organising, currently the feeds aren't available to anyone outside of staff.
+With [Green Renters](https://greenrenters.org) we find the iCal feed from CiviEvent (part of [CiviCRM](https://civicrm.org)) invaluable to keep track of events and workshops we have coming up, generally we use the feed pulled into our personal iCal and Google calendars for internal organising, currently the feeds aren't available to anyone outside of staff.
 
 We also have a variety of views feeds on our website pulling CiviEvents into several places based on various parameters, basically we have several things that need to be confirmed before we want events going live into public pages onto the website for people to view and register. Also, sometimes we have private events, that are only for a select group of people and not for the public to register. However, we would still like then to show up in our calendars so we know they're coming up, we usually do this through marking events as 'not active' or 'not public'.
 
 CiviEvent's default way of handling iCal feeds is to only show events that are public and active and I've been scratching around trying to fathom how to override this so we could get the information we need and continue working as we do.
 
-In the end, it was one of those stupidly simple solutions that takes advantage of [CiviCRMs php function override](http://wiki.civicrm.org/confluence/display/CRMDOC40/Directories) features, simply copy the '_sites/all/civicrm/CRM/Event/BAO/Event.php_' file into your custom php folder, in our case '_sites/drupal_site_folder/custom_php_folder/CRM/Event/BAO/Event.php_'.
+In the end, it was one of those stupidly simple solutions that takes advantage of [CiviCRMs php function override](https://wiki.civicrm.org/confluence/display/CRMDOC40/Directories) features, simply copy the '_sites/all/civicrm/CRM/Event/BAO/Event.php_' file into your custom php folder, in our case '_sites/drupal_site_folder/custom_php_folder/CRM/Event/BAO/Event.php_'.
 
 Then around line 754, depending on your CiviCRM version, find
 

@@ -25,10 +25,10 @@ I was always keen to make the products that players are working on secret and st
 
 Adding the worker placement mechanism means that players get the chance to look through a product deck, select a card, and add it to their factory, all in secret.
 
-A nice side effect of these mechanism changes is that I was able to remove a lot of rules, concepts and board elements, streamlining the game further. All these changes involved rewriting the [manual](http://chipshopgame.com/manual/), reorganising the board, and planning more play testing sessions.
+A nice side effect of these mechanism changes is that I was able to remove a lot of rules, concepts and board elements, streamlining the game further. All these changes involved rewriting the [manual](https://chipshopgame.com/manual/), reorganising the board, and planning more play testing sessions.
 
 All existing purchasers of the game can re-download the new version by using the link provided by SnappyCheckout when you first purchased the game. You will need to reprint the game as a lot has changed.
 
-If you're keen to get your own copy, [pay what you feel here](http://chipshopgame.com/buy/). If you want to test the game, I will be at Essen Spiele Messe, drop by booth A109 in hall 4. If you can't make Essen, or afford a copy of the game then [get in touch](/connect/) to arrange a play test.
+If you're keen to get your own copy, [pay what you feel here](https://chipshopgame.com/buy/). If you want to test the game, I will be at Essen Spiele Messe, drop by booth A109 in hall 4. If you can't make Essen, or afford a copy of the game then [get in touch](/connect/) to arrange a play test.
 
 After Essen, I will start planning the Kickstarter campaign for the boxed version of the game!

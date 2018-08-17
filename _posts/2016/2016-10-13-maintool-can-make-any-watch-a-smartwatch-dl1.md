@@ -55,7 +55,7 @@ of companies is offering an alternative to the standard designs by
 offering smart watch bands as an alternative to smartwatch faces.
 
 One of these is Madrid - and Paris-based
-startup [Maintool](http://maintool.me/), who have created the Classi
+startup [Maintool](https://maintool.me/), who have created the Classi
 watch band, a wearable which enables users to make their regular watches
 “smart."
 
@@ -95,7 +95,7 @@ by market researcher Strategy Analytics.
 This marked the first time the wearable tech devices have overtaken
 their luxurious counterparts. Much of the credit is attributed to the
 Apple smartwatch. Further, a [2015
-report](http://www2.deloitte.com/content/dam/Deloitte/ch/Documents/consumer-business/ch-en-consumer-business-deloitte-swiss-watch-study-2015.pdf)
+report](https://www2.deloitte.com/content/dam/Deloitte/ch/Documents/consumer-business/ch-en-consumer-business-deloitte-swiss-watch-study-2015.pdf)
 by Deloitte into the Swiss watch industry revealed a lack of
 appreciation of the challenges to the industry by smart watches with
 only 25% of Swiss watch executives considered smartwatches to be a
@@ -113,7 +113,7 @@ with Neil Mawston, Executive Director at Strategy Analytics stating:
 
 However, the upward trend of smart watches has begun to decline. IDC’s
 second quarter [wearable sales
-report](http://www.idc.com/tracker/showproductinfo.jsp?prod_id=962) for
+report](https://www.idc.com/tracker/showproductinfo.jsp?prod_id=962) for
 2016 revealed a 27 percent decline in smart wearables and during this
 time Apple had a significant decline in wearable sales. Sales dropped
 from 3.6 million in the same quarter last year to 1.6 million this year,

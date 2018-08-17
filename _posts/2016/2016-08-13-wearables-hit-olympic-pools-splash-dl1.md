@@ -73,7 +73,7 @@ The Misfit Shine
 .wp-image-5641 .aligncenter width="635" height="448"}
 
 In June, wearables company [Misfit](https://misfit.com/) and well know
-sports swimming brand[Speedo](http://www.speedo.com/) announced the
+sports swimming brand[Speedo](https://www.speedo.com/) announced the
 launch of their second Speedo-branded activity, swim, and sleep tracker,
 [Misfit Shine 2 Swimmers
 Edition](https://misfit.com/products/shine2-swimmer-edition). Misfit and
@@ -100,7 +100,7 @@ VTT wearable sensors
 
 In cooperation with Finland's national  swimming team and archery
 association, [VTT Technical Research
-Centre](http://www.vtt.fi/medialle/uutiset/suomalaisurheilijat-hakevat-%C3%A4lyteknologiasta-vauhtia-olympialaisiin-%E2%80%93-usa-n-olympiakomitea-etsii-kumppaneita-suomesta)
+Centre](https://www.vtt.fi/medialle/uutiset/suomalaisurheilijat-hakevat-%C3%A4lyteknologiasta-vauhtia-olympialaisiin-%E2%80%93-usa-n-olympiakomitea-etsii-kumppaneita-suomesta)
 of Finland has developed wearable technology for improving sports
 performance. Wearable sensors can be attached to, say, a swimmer's hand
 paddles or an archer's equipment. From there, data is wirelessly
@@ -175,7 +175,7 @@ Samsung blind cap
 
 Samsung's latest innovation is  a special swimming cap that vibrates to
 alert the swimmers precisely when to do their flip turn at the end of
-the pool. The [Blind Cap](http://www.blindcap.com/en/) eliminates the
+the pool. The [Blind Cap](https://www.blindcap.com/en/) eliminates the
 need for a coach or guide to physically tap the swimmer with a pole to
 indicate the lane coming to an end - - the method used since swimming
 for the blind was established as an official Paralympic sport in 1960.
@@ -204,7 +204,7 @@ them of which direction they need to swim in order to remain on course
 as well as the severity of deviation.
 
 These were predicted to be launched in the summer of 2016 but remain
-absent. Lebanon-based startup [Instabeat](http://www.instabeat.me/) has
+absent. Lebanon-based startup [Instabeat](https://www.instabeat.me/) has
 also created smart googles that specifically measure a swimmer's
 heartbeat. However they've been subject to significant delays of over
 two years and are pledging to go to retail in Q1 2017.

@@ -12,7 +12,7 @@ Firstly, I finally, after years of playing in bands, bought my own amp!
 
 It's a Fender Pro Junior and I got it $300 cheaper for some reason, so it cost $600, about £250\. It's 15 watt and all valve, so despite being only about 2 foot square it's bloody loud, surprising the soundmen we've worked with so far.
 
-![Fender Pro Junior](http://www.fender.com/products/prod_images/amplifiers/0213203000_md.png) I also bought a lovely Vox Overdrive pedal, so I finally have a guitar set up, I'm so professional! ![Vox Big Ben OD Pedal](http://www.voxamps.co.uk/pedals/images/CT02Big-Ben_SLANT.jpg)
+![Fender Pro Junior](https://www.fender.com/products/prod_images/amplifiers/0213203000_md.png) I also bought a lovely Vox Overdrive pedal, so I finally have a guitar set up, I'm so professional! ![Vox Big Ben OD Pedal](https://www.voxamps.co.uk/pedals/images/CT02Big-Ben_SLANT.jpg)
 
 Now, what else...
 

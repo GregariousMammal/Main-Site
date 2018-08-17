@@ -12,4 +12,4 @@ Then on Sunday after a very long walk and a visit to the national gallery I todd
 
 Anyway, I've started digging beneath the surface of the Australian fanzine scene, here's my first post on the subject...
 
-<a href="http://www.indieoma.com/public_journal.php?d=7f1de29e6da19d22b51c68001e7e0e54" target="_blank">Melbourne Fanzine Culture - Part 1</a>
+<a href="https://www.indieoma.com/public_journal.php?d=7f1de29e6da19d22b51c68001e7e0e54" target="_blank">Melbourne Fanzine Culture - Part 1</a>

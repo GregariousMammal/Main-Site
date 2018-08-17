@@ -54,14 +54,14 @@ author:
 [IBM]{.linkOnClick} announced recently that the professional division of
 Kimberly-Clark, maker of such household brands as Kleenex and Huggies,
 has adopted [IBM
-Cloud](http://www.ibm.com/cloud-computing/in/en/){.linkOnClick} to
+Cloud](https://www.ibm.com/cloud-computing/in/en/){.linkOnClick} to
 create a facilities management app that helps clients better monitor and
 manage restrooms remotely, lowering costs and improving consumer
 experiences.
 
 Kimberly-Clark Professional's new Intelligent Restroom app was built
 using [IBM
-Bluemix](http://www.ibm.com/cloud-computing/bluemix/?cm_mmc=Search_gsn-_-Cloud_Bluemix_Keyword-Branded_Try-_-WW_DE-_-ibm%20blue%20mix_Exact)
+Bluemix](https://www.ibm.com/cloud-computing/bluemix/?cm_mmc=Search_gsn-_-Cloud_Bluemix_Keyword-Branded_Try-_-WW_DE-_-ibm%20blue%20mix_Exact)
 development platform and through the use of the [IBM Internet of Things
 Foundation]{.linkOnClick} service, facilities managers collect data and
 alerts from sensors integrated into restroom amenities, from soap
@@ -130,7 +130,7 @@ Will the connected bathroom be coming to your home?
 
 If you are curious whether such technology extends to the home, the
 answer is yes...and no. IoT company
-[RollScout](http://www.rollscout.com/index.php/available-styles) launched
+[RollScout](https://www.rollscout.com/index.php/available-styles) launched
 a (failed)
 [crowdfunding](https://readwrite.com/2016/04/24/crowdfunding-iot-projects-watch-week-dl1/) effort
 in 2014 for a connected toilet roll holder, relying on sensor
@@ -146,17 +146,17 @@ An idea before its time?
 .aligncenter width="666" height="333"}
 
 Predictably, connected toilets also exist. In Japan, there's the
-[Satis](http://www.lixil.co.jp/lineup/toiletroom/satis/smartphone/), a
+[Satis](https://www.lixil.co.jp/lineup/toiletroom/satis/smartphone/), a
 connected toilet where an app can enable the lifting of the toilet seas
 or a flush. The app also lets the user maintain a diary of toilet use
 and even play music through built-in speakers.
 
 You can also buy  a toilet with all the bells and whistles courtesy of
-[Panasonic](http://www.panasonic.hk/english/products/living/bathroom-appliances/toilet-seat/dl-sz45hwm.aspx)
+[Panasonic](https://www.panasonic.hk/english/products/living/bathroom-appliances/toilet-seat/dl-sz45hwm.aspx)
 for around \$700, complete with a remote control seat lifter and self
 cleaner. Not surprisingly, there were reports in January this year of
 connected toilet hacking. According to the
-UK's[Mirror](http://www.mirror.co.uk/tech/hackers-take-control-toilet-using-7342662)newspaper,
+UK's[Mirror](https://www.mirror.co.uk/tech/hackers-take-control-toilet-using-7342662)newspaper,
 
 > "Researchers found that one of these high-tech toilets was protected
 > with only a basic password. This meant they could take control of the

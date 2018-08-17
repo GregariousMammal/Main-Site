@@ -4,7 +4,7 @@ title: Jamaican vegetable pasties
 date: 2015-05-18T15:41:12+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=875
+guid: https://atravellingcook.com/?p=875
 permalink: /2015/05/jamaican-vegetable-pasties.html
 tags:
   - australia
@@ -23,7 +23,7 @@ format: image
 
 Pastry is a fine thing, and is a great way to liven up any less than inspired veggies in the bottom of your fridge. Savoury Pasties and pies aren&#8217;t really a thing here in Germany. I thought for a little while about starting a little pie making enterprise upon moving to Berlin but discovered there are three here already started by Australians!
 
-I was lucky enough to find some sweet potatoes, they aren&#8217;t available all year round, so I decided to make some pasties using my [Jamaican spice mix](http://atravellingcook.com/2015/02/red-beans-quinoa-and-jerk-spice-soup.html). I&#8217;ve made this pastry quite a few times ( it was devised through trial and error a few years ago), if you want a really flaky pastry, feel free to double the amount of coconut oil.
+I was lucky enough to find some sweet potatoes, they aren&#8217;t available all year round, so I decided to make some pasties using my [Jamaican spice mix](https://atravellingcook.com/2015/02/red-beans-quinoa-and-jerk-spice-soup.html). I&#8217;ve made this pastry quite a few times ( it was devised through trial and error a few years ago), if you want a really flaky pastry, feel free to double the amount of coconut oil.
 
 These freeze beautifully and a great for lunch or with veggies, mash or a pasta dish for dinner.
 
@@ -33,7 +33,7 @@ _Ingredients_
   * 1 red onion
   * 2 cloves garlic
   * 2 cm ginger
-  * 2 teaspoons [Jamaican spice mix ](http://atravellingcook.com/2015/02/red-beans-quinoa-and-jerk-spice-soup.html)(you can certainly add more if you like it extra spicy)
+  * 2 teaspoons [Jamaican spice mix ](https://atravellingcook.com/2015/02/red-beans-quinoa-and-jerk-spice-soup.html)(you can certainly add more if you like it extra spicy)
   * 1 sweet potato
   * 1 carrot
   * 1 can corn kernels, drained (or corn fresh from the cob)

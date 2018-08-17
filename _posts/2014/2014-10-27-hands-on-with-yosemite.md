@@ -5,7 +5,7 @@ created: 1414400598
 categories: Chris writing chrischinchilla
 ---
 
-I have been Macs for a very long time, since the dark days of the mid 90s and the days of <a href="http://en.wikipedia.org/wiki/Macintosh_Performa" target="_blank">Performas</a>, <a href="http://en.wikipedia.org/wiki/System_7" target="_blank">System 7</a> and unremarkable CEOs. I have been through the massive change to OS X and processor changes from <a href="http://en.wikipedia.org/wiki/Motorola_68000" target="_blank">68000</a> the series to <a href="http://en.wikipedia.org/wiki/PowerPC" target="_blank">PowerPC</a> and then to Intel.
+I have been Macs for a very long time, since the dark days of the mid 90s and the days of <a href="https://en.wikipedia.org/wiki/Macintosh_Performa" target="_blank">Performas</a>, <a href="https://en.wikipedia.org/wiki/System_7" target="_blank">System 7</a> and unremarkable CEOs. I have been through the massive change to OS X and processor changes from <a href="https://en.wikipedia.org/wiki/Motorola_68000" target="_blank">68000</a> the series to <a href="https://en.wikipedia.org/wiki/PowerPC" target="_blank">PowerPC</a> and then to Intel.
 
 Last years Mavericks release was (in my opinion) a reasonably solid release, nothing groundbreaking but it worked well for me. Yosemite brings a lot of new changes and paradigm shifts, probably the greatest number in a Mac OS X release since the first one.
 
@@ -25,7 +25,7 @@ I have tried turning on the 'reduce transparency' option, but found that made th
 On the more positive side, here are a few of the new visual changes I really like:<ul><li>The new behaviour of the window maximise widget, that makes a window full stress. It surprised me on first usage, but now I really like it.</li><li>When transparent items overlay the right sort of items, it looks great.</li><li>I like the new calendar, but I wish it were possible to hide the new right hand side pane if you so wished.</li><li>The new look Apple Mail is growing on me.</li></ul>
 <h2 id="whatbroke">What Broke</h2>
 
-So far nothing seems to be completely unfunctional, even the stalwarts that usually break such as older versions of Adobe and Microsoft software. The only part of my workflow that really broke was Homebrew and thus all the tools associated with that. There are a few articles online that claim pulling from <a href="http://brew.sh/" target="_blank">Homebrew</a> repository will fix this. It didn't work for me, but as Homebrew is so containerised anyway, I had no real issue with just removing it and reinstalling it, in fact I wanted to have a clean out of Homebrew, node etc anyway.
+So far nothing seems to be completely unfunctional, even the stalwarts that usually break such as older versions of Adobe and Microsoft software. The only part of my workflow that really broke was Homebrew and thus all the tools associated with that. There are a few articles online that claim pulling from <a href="https://brew.sh/" target="_blank">Homebrew</a> repository will fix this. It didn't work for me, but as Homebrew is so containerised anyway, I had no real issue with just removing it and reinstalling it, in fact I wanted to have a clean out of Homebrew, node etc anyway.
 <h2 id="whatsnext">What’s next</h2>
 
 I need to buy an old iPhone for testing purposes, so I'm looking forward to trying some of the integration options there, especially making phone calls, which is something I have wanted out of the box (there are 3rd party options) for a long time.

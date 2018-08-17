@@ -14,4 +14,4 @@ podcast_embed: <iframe src="https://anchor.fm/gregarious-mammal/embed/episodes/P
 
 Chris speaks with Max Newton of BrainCo about how their brain-interfacing devices help people focus better.
 
-<http://www.brainco.tech/#/about>
+<https://www.brainco.tech/#/about>

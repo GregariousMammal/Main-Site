@@ -22,4 +22,4 @@ Apple was naturally also out in force at the Expo, with a frankly ridiculously s
 
 Language barriers aside, and with big thumbs up to Apple's vast advertising campaign which gave the impression they were sponsoring the city, this year's Expo was encouraging and innovative, effectively demonstrating that it's not always the big boys who produce the best software and hardware.
 
-Published in <a href="http://www.atpm.com" target="_blank">www.atpm.com</a>
+Published in <a href="https://www.atpm.com" target="_blank">www.atpm.com</a>

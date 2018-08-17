@@ -4,7 +4,7 @@ title: 'Strawberry fields forever: strawberry and rosewater jam &#038; strawberr
 date: 2014-07-28T10:29:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/07/strawberry-fields-forever-strawberry-and-rosewater-jam-strawberry-cordial.html
+guid: https://atravellingcook.com/2014/07/strawberry-fields-forever-strawberry-and-rosewater-jam-strawberry-cordial.html
 permalink: /2014/07/strawberry-fields-forever-strawberry-and-rosewater-jam-strawberry-cordial.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -32,7 +32,7 @@ tags:
 
 
 
-  <a  href="http://2.bp.blogspot.com/-QQWApEjGyrY/U9YVFJsZ9UI/AAAAAAAAJAc/-VdOD4XEPMw/s1600/dscn1429.jpg"><img src="http://2.bp.blogspot.com/-QQWApEjGyrY/U9YVFJsZ9UI/AAAAAAAAJAc/-VdOD4XEPMw/s1600/dscn1429.jpg" alt="" width="400" height="300" border="0" /></a>
+  <a  href="https://2.bp.blogspot.com/-QQWApEjGyrY/U9YVFJsZ9UI/AAAAAAAAJAc/-VdOD4XEPMw/s1600/dscn1429.jpg"><img src="https://2.bp.blogspot.com/-QQWApEjGyrY/U9YVFJsZ9UI/AAAAAAAAJAc/-VdOD4XEPMw/s1600/dscn1429.jpg" alt="" width="400" height="300" border="0" /></a>
 
 
 
@@ -62,7 +62,7 @@ tags:
 
 
 
-  <a  href="http://2.bp.blogspot.com/-g58QITRDHWc/U9YTYA1w8rI/AAAAAAAAJAI/EYcwVUWJV4o/s1600/540134_445924418780307_607739161_n.jpg"><img src="http://2.bp.blogspot.com/-g58QITRDHWc/U9YTYA1w8rI/AAAAAAAAJAI/EYcwVUWJV4o/s1600/540134_445924418780307_607739161_n.jpg" alt="" width="400" height="400" border="0" /></a>
+  <a  href="https://2.bp.blogspot.com/-g58QITRDHWc/U9YTYA1w8rI/AAAAAAAAJAI/EYcwVUWJV4o/s1600/540134_445924418780307_607739161_n.jpg"><img src="https://2.bp.blogspot.com/-g58QITRDHWc/U9YTYA1w8rI/AAAAAAAAJAI/EYcwVUWJV4o/s1600/540134_445924418780307_607739161_n.jpg" alt="" width="400" height="400" border="0" /></a>
 
 
 <br /> <b><br /> </b><b>Strawberry cordial</b>
@@ -75,7 +75,7 @@ tags:
       <span style="font-family: Arial, Helvetica, sans-serif; font-style: italic;">Ingredients<br /> • 2 cups water<br /> • 2 cups sugar<br /> • 1.5 cups strawberries <br /> • juice of 2 lemons<br /> <span style="font-family: Arial, Helvetica, sans-serif; font-style: italic;">Instructions <br /> 1. Put the sugar and water into a saucepan and boil for 10 minutes. <br /> 2. Add the Strawberries and lemon juice then simmer for 5 minutes. Stir well, mashing the fruit as it simmers. <br /> 3. Put the mixture through a strainer and allow to cool. <br /> 4. Bottle and store in the fridge for up to 2 weeks. <br /> 5. To serve, add to a glass and top with sparking or still water and ice.<br /> <br /> <i>(yes that was a Vegemite jar in the photo. I will have to order some from the online shop in Germany or UK. We&#8217;ve found Marmite in our local asian supermarket but Vegemite is sadly absent. Vegemite is actually cheaper in the UK than Australia)</i><br /> <i><br /> </i> 
       
       
-        <a  href="http://4.bp.blogspot.com/-vX7FNP2vZBY/U9YUsgawydI/AAAAAAAAJAU/FAEMtsJTibc/s1600/1901317_676069495765797_599644079_n.jpg"><img src="http://4.bp.blogspot.com/-vX7FNP2vZBY/U9YUsgawydI/AAAAAAAAJAU/FAEMtsJTibc/s1600/1901317_676069495765797_599644079_n.jpg" alt="" width="400" height="278" border="0" /></a>
+        <a  href="https://4.bp.blogspot.com/-vX7FNP2vZBY/U9YUsgawydI/AAAAAAAAJAU/FAEMtsJTibc/s1600/1901317_676069495765797_599644079_n.jpg"><img src="https://4.bp.blogspot.com/-vX7FNP2vZBY/U9YUsgawydI/AAAAAAAAJAU/FAEMtsJTibc/s1600/1901317_676069495765797_599644079_n.jpg" alt="" width="400" height="278" border="0" /></a>
       
       
       

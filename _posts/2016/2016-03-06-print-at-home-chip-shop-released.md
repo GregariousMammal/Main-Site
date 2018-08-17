@@ -7,7 +7,7 @@ tags: games
 image: card_previews.png
 ---
 
-[Chip Shop](http://chipshopgame.com) has been a labour of love for me over the past two years. It has been through many changes and revisions and isn't yet 100%, but I have always needed to get something live before it becomes a never ending process of 'polishing'.
+[Chip Shop](https://chipshopgame.com) has been a labour of love for me over the past two years. It has been through many changes and revisions and isn't yet 100%, but I have always needed to get something live before it becomes a never ending process of 'polishing'.
 
 After several play test sessions, I consider the game 'ready enough' to put up for sale and available to the public. It's not complete, there are still a couple of issues with the game that I want to iron out, but I feel that 'releasing' will help me get more players and more feedback on the path to near-perfection.
 
@@ -19,7 +19,7 @@ When I say the game is 'released', I mean that the print at home version is now 
 
 ### Profile and Finance Raising
 
-Have something available, even in a limited sense, means I can start raising awareness for the game and bringing in limited income to fund future improvements and versions. The [print at home version is pay-what-you-feel (a minimum of $1](http://chipshopgame.com/buy), but that's more the platform than my decision) and I feel that's fair for now. It's more about raising interest that money.
+Have something available, even in a limited sense, means I can start raising awareness for the game and bringing in limited income to fund future improvements and versions. The [print at home version is pay-what-you-feel (a minimum of $1](https://chipshopgame.com/buy), but that's more the platform than my decision) and I feel that's fair for now. It's more about raising interest that money.
 
 ### Constantly Iterating
 
@@ -49,4 +49,4 @@ I invested some time in trying to make Chip Shop playable on tabletop simulators
 
 If you like the idea(s) behind the game, please buy a copy. If you have comments, please let me know, I want to hear them. If you like the game and want it/me to succeed, share your thoughts on forums and social media. Tell games groups and podcasts about it, tell your friends about it. I promise to try and mention or include everyone who contributes to the game in some way and will also look for a way to offer major contributors kickstarter or publisher discounts when I get to that stage in production.
 
-Most crucially, [play the game and enjoy yourself](http://chipshopgame.com/buy). I think that Chip Shop is a fun, fast and enjoyable game and I hope you share those opinions.
+Most crucially, [play the game and enjoy yourself](https://chipshopgame.com/buy). I think that Chip Shop is a fun, fast and enjoyable game and I hope you share those opinions.

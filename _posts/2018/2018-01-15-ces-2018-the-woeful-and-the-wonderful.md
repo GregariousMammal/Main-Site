@@ -18,8 +18,8 @@ In this episode Cate and Chris tackle CES, a crazy show of more than 4,500 exhi
 -   [Pebby petsitter](https://www.getpebby.com/)
 -   [Elucidator smart sword](https://sao.cerevo.com/en/elucidator/)
 -   [Volo wireless hairdryer](https://volobeauty.com/)
--   [Square off](http://squareoffnow.com/)
--   [Wonderpainter](http://www.wonderpainter.net/)
+-   [Square off](https://squareoffnow.com/)
+-   [Wonderpainter](https://www.wonderpainter.net/)
 -   [Switchbot](https://www.switch-bot.com/)
 
 Discussed in more detail at [The Next Web](https://thenextweb.com/contributors/2018/01/12/wild-weird-wonderful-ces-2018/)

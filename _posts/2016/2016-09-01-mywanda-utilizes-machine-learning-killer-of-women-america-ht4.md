@@ -57,7 +57,7 @@ author:
   last_name: Lawrence
 ---
 According to the [Women's Heart
-Foundation](http://www.womensheart.org/content/HeartDisease/gender_differences.asp), coronary
+Foundation](https://www.womensheart.org/content/HeartDisease/gender_differences.asp), coronary
 artery disease is the leading cause of death in women. More than twice
 as many women die from cardiovascular disease as from all forms of
 cancer combined. Evaluation for suspected coronary disease differs in
@@ -66,13 +66,13 @@ testing without imaging. Gender differences have been observed in
 treatment practices, and the optimal approach for women has yet to be
 established.
 
-[Wanda Health](http://yourwanda.com/) is a predictive analytics firm
+[Wanda Health](https://yourwanda.com/) is a predictive analytics firm
 that focuses on the treatment and prevention of chronic disease such a
 heart disease, by developing
 
 <div id="kRy9OcUIp" style="width: 311px">
 
-<http://www.laviagraes.com/viagra-componentes-quimicos>
+<https://www.laviagraes.com/viagra-componentes-quimicos>
 
 </div>
 

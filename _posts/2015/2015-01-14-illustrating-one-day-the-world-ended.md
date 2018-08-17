@@ -13,7 +13,7 @@ After visiting the Tate Modern over Christmas and seeing these two images (I've 
 
 I came up with the idea of having illustrations accompanying the text in ODTWE. I'm not the best illustrator, but enjoy drawing and have been pondering on what form these illustrations could take and looking into inspiration for them.
 
-So today I took a trip to the monthly free day at [Leipzig's Museum of Modern Art](http://www.mdbk.de/) to get some ideas and inspiration.
+So today I took a trip to the monthly free day at [Leipzig's Museum of Modern Art](https://www.mdbk.de/) to get some ideas and inspiration.
 
 Here are my notes and visual doodling:
 

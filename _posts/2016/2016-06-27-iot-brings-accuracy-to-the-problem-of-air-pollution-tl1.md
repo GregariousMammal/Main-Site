@@ -62,7 +62,7 @@ biggest health problems: air pollution.
 
 A problem that is not limited to developing countries but stills plagues
 some of the biggest cities in Europe. Just last year the [UK High Court
-ruled](http://www.bbc.com/news/uk-35689427) that the government must
+ruled](https://www.bbc.com/news/uk-35689427) that the government must
 take action to cut pollution after being in breach of EU limits for
 pollutants for several years with nitrogen pollution from diesel
 vehicles a significant contributing factor.
@@ -88,11 +88,11 @@ end-to-end solution for collecting, displaying, and sharing health and
 environmental data using a smartphone. The platform consists of wearable
 sensors that detect changes in your environment and physiology,
 including a palm-sized air quality monitor called the
-[AirBeam](http://www.takingspace.org/aircasting/airbeam/), the
+[AirBeam](https://www.takingspace.org/aircasting/airbeam/), the
 [AirCasting Android
 app](https://play.google.com/store/apps/details?id=pl.llp.aircasting&hl=en),
 the AirCasting website, and [wearable LED
-accessories](http://www.instructables.com/id/AirCasting-LiteBeam/).
+accessories](https://www.instructables.com/id/AirCasting-LiteBeam/).
 
 Interestingly, as addition to measuring environmental levels such as
 Aircasting's wearable accessories can also measure the wearer's response
@@ -106,13 +106,13 @@ Idea 2: Airly
 (1)](rw-import/3-1-259x300.jpg){.wp-image-3603
 .aligncenter width="541" height="627"}
 
-Poland-based startup [Airly](http://airly.pl/) is working on hardware
+Poland-based startup [Airly](https://airly.pl/) is working on hardware
 that measures pollution (e.g. dust sensors, forest fires detectors,
 traffic management modules, water quality monitoring) so companies can
 deliver global solutions for Smart Cities. Their idea originated due to
 the founders' experiences the bad air of Krakow, considered the [most
 polluted city in
-Europe](http://energydesk.greenpeace.org/2015/06/25/polands-smog-crisis-europes-most-polluted-country-in-trouble-with-the-eu-but-wont-cut-coal-emissions/) due
+Europe](https://energydesk.greenpeace.org/2015/06/25/polands-smog-crisis-europes-most-polluted-country-in-trouble-with-the-eu-but-wont-cut-coal-emissions/) due
 to coal emissions.
 
 It's a made-to-order product that may be in its early days - - but
@@ -138,7 +138,7 @@ nitrogen dioxide and ozone gases - - produced mainly by diesel vehicles
 The campaign encourages Londoners to join the "Air Patrol" by becoming
 beta testers for a wearable version of Plume Labs’ ultra-light air
 pollution sensing device. A[crowdfunding
-campaign](http://www.crowdfunder.co.uk/crowdsource-air-pollution-in-london)
+campaign](https://www.crowdfunder.co.uk/crowdsource-air-pollution-in-london)
 aims at recruiting 100 beta testers in London to map out live air
 pollutant levels across the city. These personal wearable sensors will
 eventually complement Plume Labs’ flagship product, the Plume Air
@@ -159,7 +159,7 @@ atmosphere. Electric cars are one example of this technology, yet their
 adoption needs to move beyond financial incentives.
 
 Some researchers cautiously claim that [driverless cars will reduce
-pollution](http://www.scientificamerican.com/article/driverless-cars-may-slow-pollution/),
+pollution](https://www.scientificamerican.com/article/driverless-cars-may-slow-pollution/),
 with others cite [the popularity of the Tesla
 3](https://www.theguardian.com/money/2016/may/07/tesla-3-electric-car-affordable-worth-price)as
 an example that electric cars can be a viable consumer option. With all

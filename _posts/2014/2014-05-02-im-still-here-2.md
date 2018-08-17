@@ -4,7 +4,7 @@ title: 'I&#8217;m still here!'
 date: 2014-05-02T04:10:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/05/im-still-here-2.html
+guid: https://atravellingcook.com/2014/05/im-still-here-2.html
 permalink: /2014/05/im-still-here-2.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -26,12 +26,12 @@ tags:
     - writing
 ---
 
-  <a  href="http://4.bp.blogspot.com/-5m9ZZc5gu1E/U2MIud2tsDI/AAAAAAAAIp8/8HaPRM6Cgw4/s1600/feet-in-grass.jpg"><img src="http://4.bp.blogspot.com/-5m9ZZc5gu1E/U2MIud2tsDI/AAAAAAAAIp8/8HaPRM6Cgw4/s1600/feet-in-grass.jpg" alt="" width="320" height="274" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-5m9ZZc5gu1E/U2MIud2tsDI/AAAAAAAAIp8/8HaPRM6Cgw4/s1600/feet-in-grass.jpg"><img src="https://4.bp.blogspot.com/-5m9ZZc5gu1E/U2MIud2tsDI/AAAAAAAAIp8/8HaPRM6Cgw4/s1600/feet-in-grass.jpg" alt="" width="320" height="274" border="0" /></a>
 
 
-_                                          pic from [here](http://www.vivainstitute.com/2012/02/keep-on-walking/feet-in-grass-3/)_
+_                                          pic from [here](https://www.vivainstitute.com/2012/02/keep-on-walking/feet-in-grass-3/)_
 
-Sorry I&#8217;m a bit quiet at the moment. I went to see my surgeon yesterday for <a href="http://consumingcate.blogspot.com.au/2014/04/recuperation-and-pear-and-almond-muffins.html">post-op check up </a>. Unfortunately the first surgery has fixed one lower leg problem but has not solved the bigger problem of chronic compartment syndrome. As a consequence I need to have a double fasciotomy, which is surgery on each leg. To my knowledge it&#8217;s a fairly minor surgery but requires an overnight stay in hospital. Like the majority of surgeries of the lower limb, it&#8217;s considered elective. The timing financially isn&#8217;t great but it would be good to get it done before my sea change.
+Sorry I&#8217;m a bit quiet at the moment. I went to see my surgeon yesterday for <a href="https://consumingcate.blogspot.com.au/2014/04/recuperation-and-pear-and-almond-muffins.html">post-op check up </a>. Unfortunately the first surgery has fixed one lower leg problem but has not solved the bigger problem of chronic compartment syndrome. As a consequence I need to have a double fasciotomy, which is surgery on each leg. To my knowledge it&#8217;s a fairly minor surgery but requires an overnight stay in hospital. Like the majority of surgeries of the lower limb, it&#8217;s considered elective. The timing financially isn&#8217;t great but it would be good to get it done before my sea change.
   
 <br /> I saw a physio today who specialises in the condition and I have been given three things to do which will prepare me for surgery:<br /> 
 
@@ -44,33 +44,33 @@ Its all a bit nerve wracking, especially as the surgery doesn&#8217;t always wor
 <br /> **What else have I been up to?**<br /> I ran a Community Preserving day in Heidelberg. We made 6 recipes including Strawberry & Apple Jam, Tomato Kasundi and pickled Beetroot.<br /> 
 
 
-  <a  href="http://3.bp.blogspot.com/-kC7C_ZaqXac/U2Lig-qJ5gI/AAAAAAAAIpY/lbPPwBO8duM/s1600/2014-04-26+14.33.48.jpg"><img src="http://3.bp.blogspot.com/-kC7C_ZaqXac/U2Lig-qJ5gI/AAAAAAAAIpY/lbPPwBO8duM/s1600/2014-04-26+14.33.48.jpg" alt="" width="320" height="240" border="0" /></a>
+  <a  href="https://3.bp.blogspot.com/-kC7C_ZaqXac/U2Lig-qJ5gI/AAAAAAAAIpY/lbPPwBO8duM/s1600/2014-04-26+14.33.48.jpg"><img src="https://3.bp.blogspot.com/-kC7C_ZaqXac/U2Lig-qJ5gI/AAAAAAAAIpY/lbPPwBO8duM/s1600/2014-04-26+14.33.48.jpg" alt="" width="320" height="240" border="0" /></a>
 
 
 <br /> We&#8217;ve booked out overseas flights (including Mr Pablo&#8217;s journey).
   
 <br /> I&#8217;ve been working on a Community Leadership Program around themes of sustainability and food waste reduction since October last year, writing curriculum and training the participants. On Wednesday night three groups successfully pitched for seed funding for their projects which include a<span style="background-color: white; color: #37404e; line-height: 18px;"> no waste cooking program for kids and grandparents; a monthly meet up for foodies in the eastern suburbs and a permaculture primary school project. I feel so proud to know them all and we&#8217;ll be reporting on their progress (and helping their promotion) through Green Renters.
   
-<span style="background-color: white; color: #37404e; line-height: 18px;"><br /> <span style="background-color: white; color: #37404e; line-height: 18px;">I&#8217;ve also been making loads of <a href="http://greenrenters.org/product/double-sided-door-snake">double door snakes</a> for Green Renters online store. We use them at home in this cold weather and they really make a difference.<span style="background-color: white; color: #37404e; line-height: 18px;"><br /> 
+<span style="background-color: white; color: #37404e; line-height: 18px;"><br /> <span style="background-color: white; color: #37404e; line-height: 18px;">I&#8217;ve also been making loads of <a href="https://greenrenters.org/product/double-sided-door-snake">double door snakes</a> for Green Renters online store. We use them at home in this cold weather and they really make a difference.<span style="background-color: white; color: #37404e; line-height: 18px;"><br /> 
 
 
-  <a  href="http://1.bp.blogspot.com/-mFTQxfDVKmk/U2MMYh-A94I/AAAAAAAAIqU/iISjX6QKUc8/s1600/306215_381866981852718_1140774364_n.jpg"><img src="http://1.bp.blogspot.com/-mFTQxfDVKmk/U2MMYh-A94I/AAAAAAAAIqU/iISjX6QKUc8/s1600/306215_381866981852718_1140774364_n.jpg" alt="" width="300" height="320" border="0" /></a>
+  <a  href="https://1.bp.blogspot.com/-mFTQxfDVKmk/U2MMYh-A94I/AAAAAAAAIqU/iISjX6QKUc8/s1600/306215_381866981852718_1140774364_n.jpg"><img src="https://1.bp.blogspot.com/-mFTQxfDVKmk/U2MMYh-A94I/AAAAAAAAIqU/iISjX6QKUc8/s1600/306215_381866981852718_1140774364_n.jpg" alt="" width="300" height="320" border="0" /></a>
 
 
 <span style="background-color: white; color: #37404e; line-height: 18px;"><br /> 
   
 **Things I&#8217;ve been reading:**
 
-[This](http://www.adventures-in-cooking.com/2014/04/an-edible-flower-workshop-peach.html) account (and recipes) of an edible flowers cooking workshop featured on the blog _Adventures in Cooking. _I often use herbs and flowers in my cordial making so I was very enchanted.
+[This](https://www.adventures-in-cooking.com/2014/04/an-edible-flower-workshop-peach.html) account (and recipes) of an edible flowers cooking workshop featured on the blog _Adventures in Cooking. _I often use herbs and flowers in my cordial making so I was very enchanted.
 
 
-  <a  href="http://4.bp.blogspot.com/-S58XimVCbpY/U2MHa6ld86I/AAAAAAAAIpo/CzHgjxxJLRE/s1600/13899260404_df065f9dac_o.jpg"><img src="http://4.bp.blogspot.com/-S58XimVCbpY/U2MHa6ld86I/AAAAAAAAIpo/CzHgjxxJLRE/s1600/13899260404_df065f9dac_o.jpg" alt="" width="213" height="320" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-S58XimVCbpY/U2MHa6ld86I/AAAAAAAAIpo/CzHgjxxJLRE/s1600/13899260404_df065f9dac_o.jpg"><img src="https://4.bp.blogspot.com/-S58XimVCbpY/U2MHa6ld86I/AAAAAAAAIpo/CzHgjxxJLRE/s1600/13899260404_df065f9dac_o.jpg" alt="" width="213" height="320" border="0" /></a>
 
 
  
 
 
-  <a  href="http://3.bp.blogspot.com/-63baaV5br48/U2MHgb2cp7I/AAAAAAAAIpw/nbuntStXtl0/s1600/13898921013_bf75978d88_o.jpg"><img src="http://3.bp.blogspot.com/-63baaV5br48/U2MHgb2cp7I/AAAAAAAAIpw/nbuntStXtl0/s1600/13898921013_bf75978d88_o.jpg" alt="" width="213" height="320" border="0" /></a>
+  <a  href="https://3.bp.blogspot.com/-63baaV5br48/U2MHgb2cp7I/AAAAAAAAIpw/nbuntStXtl0/s1600/13898921013_bf75978d88_o.jpg"><img src="https://3.bp.blogspot.com/-63baaV5br48/U2MHgb2cp7I/AAAAAAAAIpw/nbuntStXtl0/s1600/13898921013_bf75978d88_o.jpg" alt="" width="213" height="320" border="0" /></a>
 
 
 
@@ -82,7 +82,7 @@ Its all a bit nerve wracking, especially as the surgery doesn&#8217;t always wor
 
 
 
-  I love <a href="http://clandestinecakeclub.co.uk/">this </a>idea of a <i>Clandestine Cake Club</i>. I might even start one in Leipzig! 
+  I love <a href="https://clandestinecakeclub.co.uk/">this </a>idea of a <i>Clandestine Cake Club</i>. I might even start one in Leipzig! 
 
 
 
@@ -101,7 +101,7 @@ Its all a bit nerve wracking, especially as the surgery doesn&#8217;t always wor
   <!--StartFragment--> 
   
   
-    <a href="http://www.motherjones.com/politics/2014/04/alcoholic-lawyer-botched-robert-wayne-holsey-death-penalty-trial?page=1">&#8220;This Man Is About to Die Because an Alcoholic Lawyer Botched His Case&#8221;</a>, by Marc Bookman in  Mother Jones. I majored in Criminology at University (one of those interested but non-vocational course if zillions of post graduate courses are not undertaken) and I&#8217;ve always had an interest in miscarriages of justice. I followed the case of the <a href="http://www.wm3.org/">West Memphis Three</a> with a sense of absolute horror and eventual relief at their release due to the Alford plea. Whilst the Australian judicial system is far from perfect, we fortunately no longer have the death penalty. 
+    <a href="https://www.motherjones.com/politics/2014/04/alcoholic-lawyer-botched-robert-wayne-holsey-death-penalty-trial?page=1">&#8220;This Man Is About to Die Because an Alcoholic Lawyer Botched His Case&#8221;</a>, by Marc Bookman in  Mother Jones. I majored in Criminology at University (one of those interested but non-vocational course if zillions of post graduate courses are not undertaken) and I&#8217;ve always had an interest in miscarriages of justice. I followed the case of the <a href="https://www.wm3.org/">West Memphis Three</a> with a sense of absolute horror and eventual relief at their release due to the Alford plea. Whilst the Australian judicial system is far from perfect, we fortunately no longer have the death penalty. 
   
   
   
@@ -109,7 +109,7 @@ Its all a bit nerve wracking, especially as the surgery doesn&#8217;t always wor
   
   
   
-    I&#8217;v also been doing some planning for my novel and upcoming events like our next <a href="http://greenrenters.org/civicrm/event/info?id=467&reset=1">Vegan cooking masterclass</a> in June. I&#8217;m making rejuvelac at the moment in preparation for some cashew mozzarella balls. I like to practice my recipes before classes! 
+    I&#8217;v also been doing some planning for my novel and upcoming events like our next <a href="https://greenrenters.org/civicrm/event/info?id=467&reset=1">Vegan cooking masterclass</a> in June. I&#8217;m making rejuvelac at the moment in preparation for some cashew mozzarella balls. I like to practice my recipes before classes! 
   
   
   
@@ -117,7 +117,7 @@ Its all a bit nerve wracking, especially as the surgery doesn&#8217;t always wor
   
   
   
-    <a  href="http://1.bp.blogspot.com/-GksFy9WxrO4/U2MKlOgykOI/AAAAAAAAIqI/OGy0VXYVU48/s1600/moz.jpeg"><img src="http://1.bp.blogspot.com/-GksFy9WxrO4/U2MKlOgykOI/AAAAAAAAIqI/OGy0VXYVU48/s1600/moz.jpeg" alt="" width="320" height="240" border="0" /></a>
+    <a  href="https://1.bp.blogspot.com/-GksFy9WxrO4/U2MKlOgykOI/AAAAAAAAIqI/OGy0VXYVU48/s1600/moz.jpeg"><img src="https://1.bp.blogspot.com/-GksFy9WxrO4/U2MKlOgykOI/AAAAAAAAIqI/OGy0VXYVU48/s1600/moz.jpeg" alt="" width="320" height="240" border="0" /></a>
   
   
   

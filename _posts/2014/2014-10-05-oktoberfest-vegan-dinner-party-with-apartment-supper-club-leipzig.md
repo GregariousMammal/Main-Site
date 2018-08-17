@@ -4,7 +4,7 @@ title: Oktoberfest Vegan Dinner Party with Apartment Supper Club Leipzig
 date: 2014-10-05T16:50:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/10/oktoberfest-vegan-dinner-party-with-apartment-supper-club-leipzig.html
+guid: https://atravellingcook.com/2014/10/oktoberfest-vegan-dinner-party-with-apartment-supper-club-leipzig.html
 permalink: /2014/10/oktoberfest-vegan-dinner-party-with-apartment-supper-club-leipzig.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -65,14 +65,14 @@ tags:
   
   
   <div style="color: grey; font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; margin-bottom: 1em; margin-top: 1em;">
-                             <a style="line-height: 15.3599996566772px; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-OXH8F4aFJwI/VDFoLOVqZ5I/AAAAAAAAJpc/4slq2DoCsC4/s1600/locali-reuben-half.JPG"><img src="http://4.bp.blogspot.com/-OXH8F4aFJwI/VDFoLOVqZ5I/AAAAAAAAJpc/4slq2DoCsC4/s1600/locali-reuben-half.JPG" alt="" width="400" height="213" border="0" /></a>
+                             <a style="line-height: 15.3599996566772px; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-OXH8F4aFJwI/VDFoLOVqZ5I/AAAAAAAAJpc/4slq2DoCsC4/s1600/locali-reuben-half.JPG"><img src="https://4.bp.blogspot.com/-OXH8F4aFJwI/VDFoLOVqZ5I/AAAAAAAAJpc/4slq2DoCsC4/s1600/locali-reuben-half.JPG" alt="" width="400" height="213" border="0" /></a>
   
   
   <div style="color: grey; font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; margin-bottom: 1em; margin-top: 1em;">
   
   
   <div style="font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; text-align: center;">
-    <a style="line-height: 15.3599996566772px; margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-yeSWEH_IhA4/VDFoKomYW4I/AAAAAAAAJpU/K6c-y9dih-Y/s1600/corn-dog-11.jpg"><img src="http://2.bp.blogspot.com/-yeSWEH_IhA4/VDFoKomYW4I/AAAAAAAAJpU/K6c-y9dih-Y/s1600/corn-dog-11.jpg" alt="" width="400" height="265" border="0" /></a>
+    <a style="line-height: 15.3599996566772px; margin-left: 1em; margin-right: 1em;" href="https://2.bp.blogspot.com/-yeSWEH_IhA4/VDFoKomYW4I/AAAAAAAAJpU/K6c-y9dih-Y/s1600/corn-dog-11.jpg"><img src="https://2.bp.blogspot.com/-yeSWEH_IhA4/VDFoKomYW4I/AAAAAAAAJpU/K6c-y9dih-Y/s1600/corn-dog-11.jpg" alt="" width="400" height="265" border="0" /></a>
   
   
   <div style="font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; text-align: center;">
@@ -100,7 +100,7 @@ tags:
   
   
   <div style="font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; text-align: center;">
-    <a style="line-height: 15.3599996566772px; margin-left: 1em; margin-right: 1em;" href="http://2.bp.blogspot.com/-v_Mu2MxC-Dw/VDFoKmwpIRI/AAAAAAAAJpQ/RU-HJ01dl4I/s1600/Vegan%2BChocolate%2BSpice%2BCake%2B2.jpg"><img src="http://2.bp.blogspot.com/-v_Mu2MxC-Dw/VDFoKmwpIRI/AAAAAAAAJpQ/RU-HJ01dl4I/s1600/Vegan%2BChocolate%2BSpice%2BCake%2B2.jpg" alt="" width="400" height="300" border="0" /></a>
+    <a style="line-height: 15.3599996566772px; margin-left: 1em; margin-right: 1em;" href="https://2.bp.blogspot.com/-v_Mu2MxC-Dw/VDFoKmwpIRI/AAAAAAAAJpQ/RU-HJ01dl4I/s1600/Vegan%2BChocolate%2BSpice%2BCake%2B2.jpg"><img src="https://2.bp.blogspot.com/-v_Mu2MxC-Dw/VDFoKmwpIRI/AAAAAAAAJpQ/RU-HJ01dl4I/s1600/Vegan%2BChocolate%2BSpice%2BCake%2B2.jpg" alt="" width="400" height="300" border="0" /></a>
   
   
   <div style="font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif;">
@@ -133,7 +133,7 @@ tags:
   
   
   <div style="clear: both; font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 12px; text-align: center;">
-    <a  href="http://4.bp.blogspot.com/-QgE8S9l21vI/VDFoKgCMuII/AAAAAAAAJpY/mn7IkBSXhX0/s1600/441311_I-Love-Vegan-Beer-Sticker__93133.1408178343.496.390.jpg"><img src="http://4.bp.blogspot.com/-QgE8S9l21vI/VDFoKgCMuII/AAAAAAAAJpY/mn7IkBSXhX0/s1600/441311_I-Love-Vegan-Beer-Sticker__93133.1408178343.496.390.jpg" alt="" width="400" height="300" border="0" /></a>
+    <a  href="https://4.bp.blogspot.com/-QgE8S9l21vI/VDFoKgCMuII/AAAAAAAAJpY/mn7IkBSXhX0/s1600/441311_I-Love-Vegan-Beer-Sticker__93133.1408178343.496.390.jpg"><img src="https://4.bp.blogspot.com/-QgE8S9l21vI/VDFoKgCMuII/AAAAAAAAJpY/mn7IkBSXhX0/s1600/441311_I-Love-Vegan-Beer-Sticker__93133.1408178343.496.390.jpg" alt="" width="400" height="300" border="0" /></a>
   
   
   <div style="font-family: Helvetica, Arial, 'lucida grande', tahoma, verdana, arial, sans-serif; font-size: 12px;">

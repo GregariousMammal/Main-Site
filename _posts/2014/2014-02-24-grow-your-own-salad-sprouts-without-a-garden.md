@@ -4,7 +4,7 @@ title: Grow your own salad sprouts without a garden
 date: 2014-02-24T06:11:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/02/grow-your-own-salad-sprouts-without-a-garden.html
+guid: https://atravellingcook.com/2014/02/grow-your-own-salad-sprouts-without-a-garden.html
 permalink: /2014/02/grow-your-own-salad-sprouts-without-a-garden.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -27,7 +27,7 @@ tags:
 
 
 <div style="color: #212121; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 14px; line-height: 21px; margin-bottom: 1.5em; padding: 0px;">
-                   <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-i69mdtfaMQg/Uwpn60qYrsI/AAAAAAAAIEw/ImoUKiAFFuc/s1600/DSC00131-300x199.jpg"><img src="http://1.bp.blogspot.com/-i69mdtfaMQg/Uwpn60qYrsI/AAAAAAAAIEw/ImoUKiAFFuc/s1600/DSC00131-300x199.jpg" alt="" width="400" height="265" border="0" /></a>
+                   <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-i69mdtfaMQg/Uwpn60qYrsI/AAAAAAAAIEw/ImoUKiAFFuc/s1600/DSC00131-300x199.jpg"><img src="https://1.bp.blogspot.com/-i69mdtfaMQg/Uwpn60qYrsI/AAAAAAAAIEw/ImoUKiAFFuc/s1600/DSC00131-300x199.jpg" alt="" width="400" height="265" border="0" /></a>
 
 
 
@@ -72,7 +72,7 @@ tags:
 &nbsp;
 
 
-                       <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-Evfp4jpCY6A/UwrSEvzP_xI/AAAAAAAAIFI/cpVeEbBpx6M/s1600/IMG_20140223_105843.jpg"><img src="http://2.bp.blogspot.com/-Evfp4jpCY6A/UwrSEvzP_xI/AAAAAAAAIFI/cpVeEbBpx6M/s1600/IMG_20140223_105843.jpg" alt="" width="300" height="400" border="0" /></a>
+                       <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-Evfp4jpCY6A/UwrSEvzP_xI/AAAAAAAAIFI/cpVeEbBpx6M/s1600/IMG_20140223_105843.jpg"><img src="https://2.bp.blogspot.com/-Evfp4jpCY6A/UwrSEvzP_xI/AAAAAAAAIFI/cpVeEbBpx6M/s1600/IMG_20140223_105843.jpg" alt="" width="300" height="400" border="0" /></a>
 
 
 
@@ -85,7 +85,7 @@ tags:
 
 
   
-                               <a style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 14px; line-height: 21px; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-ECfSUhR7DMk/Uwpn6vHPJ5I/AAAAAAAAIEs/kK0SWybJi4w/s1600/DSC0011-e1283392092825-199x300.jpg"><img src="http://2.bp.blogspot.com/-ECfSUhR7DMk/Uwpn6vHPJ5I/AAAAAAAAIEs/kK0SWybJi4w/s1600/DSC0011-e1283392092825-199x300.jpg" alt="" width="265" height="400" border="0" /></a>
+                               <a style="font-family: Georgia, 'Times New Roman', Times, serif; font-size: 14px; line-height: 21px; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-ECfSUhR7DMk/Uwpn6vHPJ5I/AAAAAAAAIEs/kK0SWybJi4w/s1600/DSC0011-e1283392092825-199x300.jpg"><img src="https://2.bp.blogspot.com/-ECfSUhR7DMk/Uwpn6vHPJ5I/AAAAAAAAIEs/kK0SWybJi4w/s1600/DSC0011-e1283392092825-199x300.jpg" alt="" width="265" height="400" border="0" /></a>
   
   
   
@@ -108,7 +108,7 @@ tags:
     <span style="color: #212121; font-family: Georgia, Times New Roman, Times, serif;"><span style="font-size: 14px; line-height: 21px;"><br />  
     
     
-      <span style="color: #212121; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 14px; line-height: 21px;"><a  href="http://3.bp.blogspot.com/-ZY07fBnozGo/UwrTyh14KNI/AAAAAAAAIFY/JWEEhyHUSYE/s1600/Pea-Shoots.jpg"><img src="http://3.bp.blogspot.com/-ZY07fBnozGo/UwrTyh14KNI/AAAAAAAAIFY/JWEEhyHUSYE/s1600/Pea-Shoots.jpg" alt="" width="400" height="300" border="0" /></a>
+      <span style="color: #212121; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 14px; line-height: 21px;"><a  href="https://3.bp.blogspot.com/-ZY07fBnozGo/UwrTyh14KNI/AAAAAAAAIFY/JWEEhyHUSYE/s1600/Pea-Shoots.jpg"><img src="https://3.bp.blogspot.com/-ZY07fBnozGo/UwrTyh14KNI/AAAAAAAAIFY/JWEEhyHUSYE/s1600/Pea-Shoots.jpg" alt="" width="400" height="300" border="0" /></a>
     
     
     

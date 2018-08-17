@@ -29,7 +29,7 @@ Geoff O'Conner is one of a multitude of Melbournian musicians with a penchant fo
 
 <strong>That's very prolific!</strong><br />  Yeah, but saying that, who knows what I'll end up doing. I'm not keen on trying to be prolific, if it happens it happens, if it doesn't then it doesn't matter.
 
-<a href=http://www.myspace.com/slyhatsmusic target=_blank>www.myspace.com/slyhatsmusic</a>
+<a href=https://www.myspace.com/slyhatsmusic target=_blank>www.myspace.com/slyhatsmusic</a>
 
 
 Published in Arcady, Indieoma.com

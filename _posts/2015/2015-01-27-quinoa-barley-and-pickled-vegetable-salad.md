@@ -4,7 +4,7 @@ title: Quinoa, barley and pickled vegetable salad
 date: 2015-01-27T13:35:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/01/quinoa-barley-and-pickled-vegetable-salad.html
+guid: https://atravellingcook.com/2015/01/quinoa-barley-and-pickled-vegetable-salad.html
 permalink: /2015/01/quinoa-barley-and-pickled-vegetable-salad.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -26,7 +26,7 @@ tags:
   - vegetarian
 ---
 
-  <a  href="http://3.bp.blogspot.com/-CIZ9ZlpD_uM/VMeG_LUxbUI/AAAAAAAAKjM/F80jLMhd9qs/s1600/_DSC0714.JPG"><img src="http://3.bp.blogspot.com/-CIZ9ZlpD_uM/VMeG_LUxbUI/AAAAAAAAKjM/F80jLMhd9qs/s1600/_DSC0714.JPG" alt="" width="400" height="383" border="0" /></a>
+  <a  href="https://3.bp.blogspot.com/-CIZ9ZlpD_uM/VMeG_LUxbUI/AAAAAAAAKjM/F80jLMhd9qs/s1600/_DSC0714.JPG"><img src="https://3.bp.blogspot.com/-CIZ9ZlpD_uM/VMeG_LUxbUI/AAAAAAAAKjM/F80jLMhd9qs/s1600/_DSC0714.JPG" alt="" width="400" height="383" border="0" /></a>
 
 
 
@@ -36,7 +36,7 @@ Despite appearances to the contrary, I don&#8217;t eat fried food and sweet stuf
 
 
 
-I&#8217;m a keen pickler. I love making kim chi, [picalilli](http://atravellingcook.com/2015/01/picalilli.html),  [pickled beetroot](http://atravellingcook.com/2014/08/pickled-beetroots-and-beetroot-bread.html) and [pickled cucumbers](http://atravellingcook.com/2014/09/spicy-pickled-cucumbers.html) amongst other recipes. They go wonderfully with so many different snacks and meals and can also be enjoyed by the jar, standing in front of the fridge with a fork.
+I&#8217;m a keen pickler. I love making kim chi, [picalilli](https://atravellingcook.com/2015/01/picalilli.html),  [pickled beetroot](https://atravellingcook.com/2014/08/pickled-beetroots-and-beetroot-bread.html) and [pickled cucumbers](https://atravellingcook.com/2014/09/spicy-pickled-cucumbers.html) amongst other recipes. They go wonderfully with so many different snacks and meals and can also be enjoyed by the jar, standing in front of the fridge with a fork.
 
 I can&#8217;t eat a lot of wheat so I&#8217;m always on the look out for tasty grains. I finally found pearl barley at the supermarket here in Leipzig so I decided to knocked up a simple salad. Grains can be cooked in bulk and frozen in zip lock bags for easy meals, just add some veggies and seasoning and the food is on the table before you know it!
 
@@ -84,4 +84,4 @@ _Instructions_
   5. Mix dressing in a jar and shake well.
   6. Add to salad and serve
 
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-w2T4pmO0hRg/VMeDtOSMCVI/AAAAAAAAKjA/iNGhyzWWSg0/s1600/_DSC0723.JPG"><img src="http://3.bp.blogspot.com/-w2T4pmO0hRg/VMeDtOSMCVI/AAAAAAAAKjA/iNGhyzWWSg0/s1600/_DSC0723.JPG" alt="" width="400" height="348" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-w2T4pmO0hRg/VMeDtOSMCVI/AAAAAAAAKjA/iNGhyzWWSg0/s1600/_DSC0723.JPG"><img src="https://3.bp.blogspot.com/-w2T4pmO0hRg/VMeDtOSMCVI/AAAAAAAAKjA/iNGhyzWWSg0/s1600/_DSC0723.JPG" alt="" width="400" height="348" border="0" /></a>

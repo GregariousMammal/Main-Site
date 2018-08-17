@@ -38,7 +38,7 @@ excerpt: How some tools and a little know-how can make your home more interestin
 You might have seen last week's PR disaster by IBM, which launched the
 \#HackAHairDryer campaign to encourage women to get into tech. It was
 overwhelmingly [criticized by women in
-STEM](http://gizmodo.com/remember-massacred-women-engineers-with-a-hairdryer-hac-1746561822)
+STEM](https://gizmodo.com/remember-massacred-women-engineers-with-a-hairdryer-hac-1746561822)
 (science, technology, engineering and math) for perpetuating that notion
 that women aren't interested in science, unless beauty and femininity
 are involved. The campaign was swiftly pulled with an apology. 
@@ -77,7 +77,7 @@ text via the espeak TTS engine. 
 Press a button on the toaster, and—flashing an LED and sending API
 commands to Jezra's stereo—it queues an Iron Maiden song. Learn how to
 make your very own
-[here](http://www.jezra.net/blog/no_it_doesnt_make_toast_anymore). 
+[here](https://www.jezra.net/blog/no_it_doesnt_make_toast_anymore). 
 
 Go Beyond Vacuuming 
 --------------------
@@ -86,19 +86,19 @@ Go Beyond Vacuuming 
 
 iRobot's Roomba is more than just a vacuum cleaner.
 
-[iRobot's Roomba](http://www.irobot.de/) vacuum cleaner is ripe for
+[iRobot's Roomba](https://www.irobot.de/) vacuum cleaner is ripe for
 hacking, thank to its advanced robotics. Since its early days, these
 vacuums have attracted hackers, who have created everything from
 [simulated laser
-scanning](http://www.irobot.com/About-iRobot/STEM/Create-2.aspx) to a
+scanning](https://www.irobot.com/About-iRobot/STEM/Create-2.aspx) to a
 [writing
-robot](http://www.instructables.com/id/PosterBot%3a-Make-a-Marker-Writing-Robot-out-of-an-O/),
+robot](https://www.instructables.com/id/PosterBot%3a-Make-a-Marker-Writing-Robot-out-of-an-O/),
 as well as corresponding[robotic
-apps](http://www.roboticapp.com/index.html) and devices that can use
+apps](https://www.roboticapp.com/index.html) and devices that can use
 webcams and offer telepresence when the owner is away. 
 
 The company even released
-[robots](http://www.irobot.com/About-iRobot/STEM/Create-2.aspx)
+[robots](https://www.irobot.com/About-iRobot/STEM/Create-2.aspx)
 explicitly designed for hobbyist and educational robotics experimenters.
 It's the ultimate excuse to avoid cleaning your house. 
 
@@ -133,7 +133,7 @@ during an outage. 
 
 It is modular, scalable, moveable and connects any inverter, battery,
 charge controller, solar panel, for up to 1500W continuous power. Want
-to make your own? Head over [here](http://solar-trap.com). 
+to make your own? Head over [here](https://solar-trap.com). 
 
 Christmas Twitter Tree Lights
 -----------------------------
@@ -146,10 +146,10 @@ This is a great project, if you're feeling "bah humbug" about Christmas.
 The RGB LED Christmas tree lights could put anyone in a holiday mood. 
 
 The lights, controlled by a Raspberry Pi, reflects [Twitter's feelings
-about Christmas](http://barnoid.org.uk/christmas-twitter-tree-lights).
+about Christmas](https://barnoid.org.uk/christmas-twitter-tree-lights).
 When Barney, its creator, discovered that Stanford University's Natural
 Language Processing Group released the source and data for
-its [sentiment analyser](http://nlp.stanford.edu/sentiment/), he decided
+its [sentiment analyser](https://nlp.stanford.edu/sentiment/), he decided
 to combine this with LED Christmas lights to tweet about Christmas. 
 
 The tweets come in from the Twitter streaming API (filtering for
@@ -188,7 +188,7 @@ This hack is perfect for the greedy cat. 
 
 Going away for the holidays and need to feed your pets? You might like
 an automatic food dispenser, courtesy of [this
-tutorial](http://drstrangelove.net/2013/12/raspberry-pi-power-cat-feeder-updates/#more-16).
+tutorial](https://drstrangelove.net/2013/12/raspberry-pi-power-cat-feeder-updates/#more-16).
 The hack combines a Raspberry Pi, a couple of continuous-rotation servos
 and a commercial cat feeder to make sure Fluffy stays well-fed. 
 
@@ -200,7 +200,7 @@ Voice Activated Coffee Machine
 Get your morning coffee started from your bed. 
 
 Developer [Sascha
-Wolter](http://www.wolter.biz/2012/11/the-voice-controlled-coffee-machine/) modified
+Wolter](https://www.wolter.biz/2012/11/the-voice-controlled-coffee-machine/) modified
 his coffee machine with a Raspberry Pi, running Java to respond to voice
 cues, which trigger the machine to switch off and on. 
 
@@ -212,7 +212,7 @@ Automate Your Home Or Workplace
 -------------------------------
 
 You might have heard the story of "[The Lazy
-Programmer](http://www.businessinsider.de/programmer-automates-his-job-2015-11?r=US&IR=T),"
+Programmer](https://www.businessinsider.de/programmer-automates-his-job-2015-11?r=US&IR=T),"
 whose workplace hacks on Github were discovered after he left for
 another company. He was described as the "type of guy that if
 something—anything—requires more than 90 seconds of his time, he writes
@@ -238,7 +238,7 @@ Although this article focused primarily on hacking with
 [Arduino](https://www.arduino.cc/)and [Raspberry
 Pi](https://www.raspberrypi.org/), I'd be remiss to fail to mention
 other systems and microcomputers,
-like [Beaglebone ](http://beagleboard.org/)and Intel's
+like [Beaglebone ](https://beagleboard.org/)and Intel's
 [Galileo](https://software.intel.com/de-de/iot/hardware/galileo?gclid=CjwKEAiAkb-zBRC2upezwuyguQ4SJADZG08vkzxZ5NvwaM0xmBFIxmONb3Evyha16PuzpJvSFygGsBoCeg7w_wcB&gclsrc=aw.ds), which
 are pretty innovative in their own right. I'd love to hear of any
 household hacks you've produced, especially if you've created a

@@ -14,4 +14,4 @@ I have crazy projects in progress and will speak to anyone who listens.
 
 Below you can find my latest writing and appearances or contact me through a multitude of networks.
 
-**Why do you call yourself Chris Chinchilla?** Yes it does sound silly doesn't it! It's a nickname I've had since 1997 after a passing comment at school, I've carried it through all my fanzine and music years and like it. For those who are interested, a Chinchilla is a small (and cute) [South American rodent](http://en.wikipedia.org/wiki/Chinchilla), a [Small Town in Queensland, Australia and is a real name in South America.](http://en.wikipedia.org/wiki/Chinchilla,_Queensland)
+**Why do you call yourself Chris Chinchilla?** Yes it does sound silly doesn't it! It's a nickname I've had since 1997 after a passing comment at school, I've carried it through all my fanzine and music years and like it. For those who are interested, a Chinchilla is a small (and cute) [South American rodent](https://en.wikipedia.org/wiki/Chinchilla), a [Small Town in Queensland, Australia and is a real name in South America.](https://en.wikipedia.org/wiki/Chinchilla,_Queensland)

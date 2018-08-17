@@ -59,7 +59,7 @@ author:
 Tech giants Microsoft, IBM, Amazon, Google’s DeepMind, Facebook have
 joined forces to create a non-profit alliance called [Partnership on
 Artificial Intelligence to Benefit People and
-Society](http://Partnership%20on%20Artificial%20Intelligence%20to%20Benefit%20People%20and%20Society) that
+Society](https://Partnership%20on%20Artificial%20Intelligence%20to%20Benefit%20People%20and%20Society) that
 will work to advance public understanding of artificial intelligence
 technologies (AI) and formulate best practices on the challenges and
 opportunities within the field.
@@ -74,7 +74,7 @@ practices, and publish research under an open license in
 
 <div id="6XEv01vNzKWnHa" style="width: 210px">
 
-[fr](http://cialisfrance24.com/)
+[fr](https://cialisfrance24.com/)
 
 </div>
 
@@ -111,7 +111,7 @@ Interestingly it does
 
 <div id="GBFRuzve7jWodx" style="width: 217px">
 
-[cialisgeneriquefr24.com](http://www.cialisgeneriquefr24.com/)
+[cialisgeneriquefr24.com](https://www.cialisgeneriquefr24.com/)
 
 </div>
 

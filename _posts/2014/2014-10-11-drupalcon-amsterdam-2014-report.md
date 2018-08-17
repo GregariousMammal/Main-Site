@@ -1,7 +1,7 @@
 ---
 title: DrupalCon Amsterdam Report
 created: 20141011
-publication_url: 'http://www.sitepoint.com/drupalcon-amsterdam-2014-report/'
+publication_url: 'https://www.sitepoint.com/drupalcon-amsterdam-2014-report/'
 categories: Chris writing sitepoint
 ---
 

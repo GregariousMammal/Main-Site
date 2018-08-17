@@ -75,7 +75,7 @@ author:
 ---
 You may have heard the news lately from Guangzhou, China about [the
 firing of robots as
-waitstaff](http://shanghaiist.com/2016/04/06/restaurant_fires_incompetent_robot_staff.php).
+waitstaff](https://shanghaiist.com/2016/04/06/restaurant_fires_incompetent_robot_staff.php).
 Out of three restaurants that used robots to serve customers, two have
 closed and the third fired its robot workers. The reasons? The robots
 couldn't effectively handle soup dishes, often malfunctioned, and had to
@@ -112,10 +112,10 @@ providing directions.
 ![12184001\_618711521603081\_6090011780322471051\_o](rw-import/12184001_618711521603081_6090011780322471051_o.jpg){.size-full
 .wp-image-926 .aligncenter width="720" height="479"}
 
-You may have seen Japan's [Henn na Hotel](http://www.h-n-h.jp/en/) that
+You may have seen Japan's [Henn na Hotel](https://www.h-n-h.jp/en/) that
 is staffed largely by robots in both front desk and customer service
 tasks. But it's not merely a one-off. Robotics company
-[Savioke ](http://www.savioke.com/)have created a robot called Relay for
+[Savioke ](https://www.savioke.com/)have created a robot called Relay for
 hotel delivery service. It can navigate autonomously, ride the elevator
 by itself, and carry items such as toothbrushes, towels, and snacks to
 guest rooms. It's currently employed successfully in several US
@@ -128,7 +128,7 @@ to communicate with guests.
 .wp-image-919 .aligncenter width="710" height="430"}
 
 In Belgium, [The Marriott Hotel
-Ghent](http://www.marriott.com/hotels/travel/gnemc-ghent-marriott-hotel/) employs
+Ghent](https://www.marriott.com/hotels/travel/gnemc-ghent-marriott-hotel/) employs
 "Mario" - designed to provide an extra level of client experience. Mario
 is deployed in the MICE (Meetings, Incentives, Conventions, Exhibitions)
 market for a welcome or farewell speech. Like many corporate mid-level
@@ -152,9 +152,9 @@ Kids loves robots while in hospital
 -----------------------------------
 
 Nao robots also have more serious  functions to serve. In Canada, they
-come in the form of [MEDi](http://www.rxrobots.com/medi-kits.html),
+come in the form of [MEDi](https://www.rxrobots.com/medi-kits.html),
 employed at the [Alberta Children's
-Hospital.](http://www.childrenshospital.ab.ca/site/PageNavigator/news_events/Medirobot.html)
+Hospital.](https://www.childrenshospital.ab.ca/site/PageNavigator/news_events/Medirobot.html)
 The robots are are specifically programmed with sets of behaviors that
 match the steps of a medical procedure, providing pain management
 support during medical procedures.
@@ -185,7 +185,7 @@ thus understaffed, sector, it's not unreasonable to see a future where
 basic work and support tasks will be performed by robots or people
 assisted by robots or exoskeletons.
 
-[RIBA](http://rtc.nagoya.riken.jp/RIBA/index-e.html) in Japan is the
+[RIBA](https://rtc.nagoya.riken.jp/RIBA/index-e.html) in Japan is the
 first robot that can lift up or set down a real human from or to a bed
 or wheelchair. RIBA does this using its very strong human-like arms and
 by novel tactile guidance methods using high-accuracy tactile sensors.
@@ -194,7 +194,7 @@ information processing and TRI's material and structural design
 technologies.
 
 Robots in hospitals also have a part of play in germ prevention.
-[Xenex](http://www.xenex.com/) "germ zapping robots" are currently
+[Xenex](https://www.xenex.com/) "germ zapping robots" are currently
 operational in a series of hospitals and aged care facilities in the
 US. The Xenex robot uses pulsed xenon to create broad spectrum, high
 intensity light covering the entire germicidal spectrum. The light
@@ -215,15 +215,15 @@ micro-expressions, move its lips, and move its body.
 
 The robot is not dissimilar in appearance to Chihira Junco, [a robot
 released last year by
-Toshiba](http://www.toshiba.co.jp/about/press/2015_10/tp1901.htm),
+Toshiba](https://www.toshiba.co.jp/about/press/2015_10/tp1901.htm),
 employed as a greeter at a waterpark and public events. Junko speaks
 Japanese, English and Chinese and incorporates Toshiba’s speech
 synthesis technology.
 
 Perhaps the most interesting robot I've seen of late comes from [Boston
-Dynamics](http://www.bostondynamics.com/index.html), who you may recall
+Dynamics](https://www.bostondynamics.com/index.html), who you may recall
 bought us the [big dog
-robot](http://www.bostondynamics.com/robot_bigdog.html). "Atlas, The
+robot](https://www.bostondynamics.com/robot_bigdog.html). "Atlas, The
 Next Generation" is designed to operate outdoors and inside buildings.
 It is specialized for mobile manipulation, and electrically powered and
 hydraulically actuated. It uses sensors in its body and legs to balance

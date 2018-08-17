@@ -10,7 +10,7 @@ Despite attending the conference, not everyone will fully understand what 'Degro
 
 Judging by audience responses to the question "What is Degrowth?" there isn't a concrete definition yet, but one is needed to make the term more understandable to the wider world. Currently 'Degrowth' is more of an intersection of several concepts, we need to be clearer with our vocabulary to emphasise 'different', not 'less'.
 
-'Degrowth' was first mentioned as a term by [Gorz](http://en.wikipedia.org/wiki/Andr%C3%A9_Gorz) and later by [Roegen](http://en.wikipedia.org/wiki/Nicholas_Georgescu-Roegen) and [Grinevald](http://fr.wikipedia.org/wiki/Jacques_Grinevald) in the 1970s
+'Degrowth' was first mentioned as a term by [Gorz](https://en.wikipedia.org/wiki/Andr%C3%A9_Gorz) and later by [Roegen](https://en.wikipedia.org/wiki/Nicholas_Georgescu-Roegen) and [Grinevald](https://fr.wikipedia.org/wiki/Jacques_Grinevald) in the 1970s
 
 Degrowth lost some interest in 80s and 90s due to the prevailing neo-liberal thoughts of the era. It re-entered the public's interest in the 00s especially around Europe and Latin America in some of the more traditionally activist countries and those worst hit by the Global Financial crisis.
 

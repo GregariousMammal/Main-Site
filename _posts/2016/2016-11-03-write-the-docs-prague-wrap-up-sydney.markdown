@@ -5,7 +5,7 @@ created_at: 2016-11-03 00:00:00 UTC
 author: ""
 categories: Chris media podcast
 tags: 
-orig_url: http://podcast.writethedocs.org/2016/11/03/write-the-docs-prague-meetup/
+orig_url: https://podcast.writethedocs.org/2016/11/03/write-the-docs-prague-meetup/
 layout: podcast
 ---
 

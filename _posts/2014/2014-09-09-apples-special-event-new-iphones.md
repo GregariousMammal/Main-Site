@@ -1,7 +1,7 @@
 ---
 title: "Apple's Special Event - New iPhones"
 created: 20140909
-publication_url: 'http://www.sitepoint.com/apples-special-event-new-iphones/'
+publication_url: 'https://www.sitepoint.com/apples-special-event-new-iphones/'
 categories: Chris writing sitepoint
 ---
 

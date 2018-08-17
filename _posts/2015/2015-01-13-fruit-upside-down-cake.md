@@ -4,7 +4,7 @@ title: Fruit upside down cake
 date: 2015-01-13T12:00:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/01/fruit-upside-down-cake.html
+guid: https://atravellingcook.com/2015/01/fruit-upside-down-cake.html
 permalink: /2015/01/fruit-upside-down-cake.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -24,7 +24,7 @@ tags:
 ---
 <div style="color: #222222; line-height: 18px; margin-bottom: 1.5em; padding: 0px;">
   
-    <a  href="http://2.bp.blogspot.com/-GT_m49uuMfI/VLUJGQPV7DI/AAAAAAAAKcQ/0DzZdw8ckdQ/s1600/8417852649_fe95a9b042_k.jpg"><img class="alignnone" src="http://2.bp.blogspot.com/-GT_m49uuMfI/VLUJGQPV7DI/AAAAAAAAKcQ/0DzZdw8ckdQ/s1600/8417852649_fe95a9b042_k.jpg" alt="" width="400" height="313" border="0" /></a>
+    <a  href="https://2.bp.blogspot.com/-GT_m49uuMfI/VLUJGQPV7DI/AAAAAAAAKcQ/0DzZdw8ckdQ/s1600/8417852649_fe95a9b042_k.jpg"><img class="alignnone" src="https://2.bp.blogspot.com/-GT_m49uuMfI/VLUJGQPV7DI/AAAAAAAAKcQ/0DzZdw8ckdQ/s1600/8417852649_fe95a9b042_k.jpg" alt="" width="400" height="313" border="0" /></a>
   
   
   
@@ -37,7 +37,7 @@ tags:
 
 
 <div style="color: #222222; line-height: 18px; margin-bottom: 1.5em; padding: 0px;">
-                              <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-6bOckbcw7OY/VLUJFq81G0I/AAAAAAAAKcI/YzEbBnnR1CY/s1600/8417875067_8d9f82b8f5_k.jpg"><img src="http://2.bp.blogspot.com/-6bOckbcw7OY/VLUJFq81G0I/AAAAAAAAKcI/YzEbBnnR1CY/s1600/8417875067_8d9f82b8f5_k.jpg" alt="" width="400" height="250" border="0" /></a>
+                              <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-6bOckbcw7OY/VLUJFq81G0I/AAAAAAAAKcI/YzEbBnnR1CY/s1600/8417875067_8d9f82b8f5_k.jpg"><img src="https://2.bp.blogspot.com/-6bOckbcw7OY/VLUJFq81G0I/AAAAAAAAKcI/YzEbBnnR1CY/s1600/8417875067_8d9f82b8f5_k.jpg" alt="" width="400" height="250" border="0" /></a>
 
 
 
@@ -159,4 +159,4 @@ tags:
 </ol>
 
 
-                           <a style="line-height: 18px; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-NmgmNTRLocE/VLUJGdNljwI/AAAAAAAAKcM/rJx-AuMD5G0/s1600/8417859191_19ccd45f3b_k.jpg"><img src="http://1.bp.blogspot.com/-NmgmNTRLocE/VLUJGdNljwI/AAAAAAAAKcM/rJx-AuMD5G0/s1600/8417859191_19ccd45f3b_k.jpg" alt="" width="400" height="265" border="0" /></a>
+                           <a style="line-height: 18px; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-NmgmNTRLocE/VLUJGdNljwI/AAAAAAAAKcM/rJx-AuMD5G0/s1600/8417859191_19ccd45f3b_k.jpg"><img src="https://1.bp.blogspot.com/-NmgmNTRLocE/VLUJGdNljwI/AAAAAAAAKcM/rJx-AuMD5G0/s1600/8417859191_19ccd45f3b_k.jpg" alt="" width="400" height="265" border="0" /></a>

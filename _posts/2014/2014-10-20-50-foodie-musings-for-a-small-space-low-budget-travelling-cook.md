@@ -4,7 +4,7 @@ title: 50 foodie musings for a small space, low budget travelling cook
 date: 2014-10-20T17:52:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/10/50-foodie-musings-for-a-small-space-low-budget-travelling-cook.html
+guid: https://atravellingcook.com/2014/10/50-foodie-musings-for-a-small-space-low-budget-travelling-cook.html
 permalink: /2014/10/50-foodie-musings-for-a-small-space-low-budget-travelling-cook.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -20,19 +20,19 @@ tags:
   - cooking
   - travelling
 ---
-I recently enjoyed reading _Dinner A Love Story_&#8216;s [100 rules of Dinner.](http://www.dinneralovestory.com/100-rules-of-dinner/) I don&#8217;t write lists as a form of writing all that often so I decided to create my own food musings. They&#8217;re in no particular order, but are geared at those of us who like to cook, travel and eat in whatever order:
+I recently enjoyed reading _Dinner A Love Story_&#8216;s [100 rules of Dinner.](https://www.dinneralovestory.com/100-rules-of-dinner/) I don&#8217;t write lists as a form of writing all that often so I decided to create my own food musings. They&#8217;re in no particular order, but are geared at those of us who like to cook, travel and eat in whatever order:
 
 
 
 
-  <a  href="http://4.bp.blogspot.com/-PZFZ82evG14/VEVB8evOdDI/AAAAAAAAJtI/giEcpLJCRpU/s1600/S1057753.jpg"><img src="http://4.bp.blogspot.com/-PZFZ82evG14/VEVB8evOdDI/AAAAAAAAJtI/giEcpLJCRpU/s1600/S1057753.jpg" alt="" width="400" height="300" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-PZFZ82evG14/VEVB8evOdDI/AAAAAAAAJtI/giEcpLJCRpU/s1600/S1057753.jpg"><img src="https://4.bp.blogspot.com/-PZFZ82evG14/VEVB8evOdDI/AAAAAAAAJtI/giEcpLJCRpU/s1600/S1057753.jpg" alt="" width="400" height="300" border="0" /></a>
 
 
   1. Toast is perfectly acceptable for dinner if it is accompanied by cheese, pasta sauce or tinned soup
-  2. Butter (non-dairy or whatever you choose) makes everything better. If you don&#8217;t believe me, try Marcella Hazan&#8217;s [tomato sauce](http://cooking.nytimes.com/recipes/1015178-marcella-hazans-tomato-sauce)
+  2. Butter (non-dairy or whatever you choose) makes everything better. If you don&#8217;t believe me, try Marcella Hazan&#8217;s [tomato sauce](https://cooking.nytimes.com/recipes/1015178-marcella-hazans-tomato-sauce)
   3. Sriracha and a handful of chopped mushrooms make instant noodles practically gourmet
   4. Learn a really simple but tasty dish that you can cook anywhere in the world: dahl, spag bol, tofu and vegetable laksa.
-  5. Don&#8217;t offer your [Vegemite](http://en.wikipedia.org/wiki/Vegemite) to people for a taste. You&#8217;ll regret it when the jar is empty and a tiny one is €5 plus posting.
+  5. Don&#8217;t offer your [Vegemite](https://en.wikipedia.org/wiki/Vegemite) to people for a taste. You&#8217;ll regret it when the jar is empty and a tiny one is €5 plus posting.
   6. Buy good salt and pepper.
   7. A jar of homemade preserves or pickles is always a great thank you gift to a host, paired with some lovely fresh bread or cheese.
   8. Staying in a hotel? Don&#8217;t be that person who boils eggs in the kettle.
@@ -56,7 +56,7 @@ I recently enjoyed reading _Dinner A Love Story_&#8216;s [100 rules of Dinner.](
  26. Tinned soups are always better than instant in a packet.
  27. Add fresh chopped vegetables to tinned beans or soup for a quick, cheap meal.
  28. You can never use too much garlic.
- 29. Visit a local farmers/growers market and try a vegetable you&#8217;ve never eaten before. That&#8217;s how [I fell in love with kohlrabi](http://atravellingcook.com/2014/08/kohlrabi-coleslaw.html).
+ 29. Visit a local farmers/growers market and try a vegetable you&#8217;ve never eaten before. That&#8217;s how [I fell in love with kohlrabi](https://atravellingcook.com/2014/08/kohlrabi-coleslaw.html).
  30. A plate containing a really nice cheese, some cucumber, cherry tomatoes and great bread is always more interesting than a store bought sandwich.
  31. Root vegetables are always better roasted than boiled.
  32. Always carry a ziplock bag for impromptu foraging or taking away leftovers.

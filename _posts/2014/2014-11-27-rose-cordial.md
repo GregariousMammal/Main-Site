@@ -4,7 +4,7 @@ title: Rose cordial
 date: 2014-11-27T19:26:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/11/rose-cordial.html
+guid: https://atravellingcook.com/2014/11/rose-cordial.html
 permalink: /2014/11/rose-cordial.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -23,7 +23,7 @@ tags:
   - vegan
 ---
 
-  <a  href="http://3.bp.blogspot.com/-azc2h814nPE/VHdOzgcjjxI/AAAAAAAAKIY/fkF1emB1wFY/s1600/15704620540_f309a02511_b.jpg"><img src="http://3.bp.blogspot.com/-azc2h814nPE/VHdOzgcjjxI/AAAAAAAAKIY/fkF1emB1wFY/s1600/15704620540_f309a02511_b.jpg" alt="" width="400" height="266" border="0" /></a>
+  <a  href="https://3.bp.blogspot.com/-azc2h814nPE/VHdOzgcjjxI/AAAAAAAAKIY/fkF1emB1wFY/s1600/15704620540_f309a02511_b.jpg"><img src="https://3.bp.blogspot.com/-azc2h814nPE/VHdOzgcjjxI/AAAAAAAAKIY/fkF1emB1wFY/s1600/15704620540_f309a02511_b.jpg" alt="" width="400" height="266" border="0" /></a>
 
 
 
@@ -65,7 +65,7 @@ _Ingredients_
   *Obviously the roses should be from your own or a friend&#8217;s garden and grown without any kind of pesticides. 
   
   
-    <a  href="http://3.bp.blogspot.com/-ItedpYM17sk/VHdsW8p2OLI/AAAAAAAAKJE/uFU2OFsCU-A/s1600/15706907707_4a3bee1e74_b.jpg"><img src="http://3.bp.blogspot.com/-ItedpYM17sk/VHdsW8p2OLI/AAAAAAAAKJE/uFU2OFsCU-A/s1600/15706907707_4a3bee1e74_b.jpg" alt="" width="312" height="400" border="0" /></a>
+    <a  href="https://3.bp.blogspot.com/-ItedpYM17sk/VHdsW8p2OLI/AAAAAAAAKJE/uFU2OFsCU-A/s1600/15706907707_4a3bee1e74_b.jpg"><img src="https://3.bp.blogspot.com/-ItedpYM17sk/VHdsW8p2OLI/AAAAAAAAKJE/uFU2OFsCU-A/s1600/15706907707_4a3bee1e74_b.jpg" alt="" width="312" height="400" border="0" /></a>
   
   
   

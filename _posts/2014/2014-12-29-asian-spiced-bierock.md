@@ -4,7 +4,7 @@ title: Asian spiced bierock
 date: 2014-12-29T12:44:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/12/asian-spiced-bierock.html
+guid: https://atravellingcook.com/2014/12/asian-spiced-bierock.html
 permalink: /2014/12/asian-spiced-bierock.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -25,7 +25,7 @@ tags:
   - vegan
 ---
 
-  <a  href="http://3.bp.blogspot.com/-GthfGMRVSOQ/VGh8WqTKezI/AAAAAAAAJ6o/cLtE6Y5IrT4/s1600/15631047961_012f668012_k.jpg"><img src="http://3.bp.blogspot.com/-GthfGMRVSOQ/VGh8WqTKezI/AAAAAAAAJ6o/cLtE6Y5IrT4/s1600/15631047961_012f668012_k.jpg" alt="" width="400" height="265" border="0" /></a>
+  <a  href="https://3.bp.blogspot.com/-GthfGMRVSOQ/VGh8WqTKezI/AAAAAAAAJ6o/cLtE6Y5IrT4/s1600/15631047961_012f668012_k.jpg"><img src="https://3.bp.blogspot.com/-GthfGMRVSOQ/VGh8WqTKezI/AAAAAAAAJ6o/cLtE6Y5IrT4/s1600/15631047961_012f668012_k.jpg" alt="" width="400" height="265" border="0" /></a>
 
 
 &nbsp;

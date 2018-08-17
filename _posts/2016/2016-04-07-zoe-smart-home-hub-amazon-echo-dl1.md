@@ -65,10 +65,10 @@ for the home market.
 
 [You may remember [Protonet](https://protonetinc.com/) as the company
 that broke the internet back in 2014 by crowdfunding [[\$1 million in 89
-minutes]{.s3}](http://www.ibtimes.co.uk/nsa-proof-server-protonet-smashes-crowdfunding-record-by-raising-1m-89-minutes-1451301)
+minutes]{.s3}](https://www.ibtimes.co.uk/nsa-proof-server-protonet-smashes-crowdfunding-record-by-raising-1m-89-minutes-1451301)
 and completed the delivery too. The previous project resulted in \$4
 million raised and set the path for a successful [[Free Your Data
-Campaign]{.s2}](http://techcrunch.com/2015/03/12/free-your-data/)]{.s1}[.]{.s4} In
+Campaign]{.s2}](https://techcrunch.com/2015/03/12/free-your-data/)]{.s1}[.]{.s4} In
 2014, Protonet was awarded the crowdfunding World Champion by Seedmatch,
 with an investment of USD\$3.4 [million]{.xn-money} and was later
 elected the 2014 startup of the year.

@@ -39,14 +39,14 @@ author:
 excerpt: It's about so much more than giving code away.
 ---
 When Netscape [released its Web browser's source code to the public in
-1998](http://www.cnet.com/news/netscape-sets-source-code-free/), it
+1998](https://www.cnet.com/news/netscape-sets-source-code-free/), it
 seemed like a Hail Mary move for a company embattled by Microsoft.
 
 Now barely a week goes by without a commercial tech company announcing
 the launch of a new platform, app or extension—and its source code.
 Among them is Microsoft, a company whose then-CEO, Steve Ballmer,
 [called the open-source Linux operating system a "cancer" in
-2001](http://www.theregister.co.uk/2001/06/02/ballmer_linux_is_a_cancer/).
+2001](https://www.theregister.co.uk/2001/06/02/ballmer_linux_is_a_cancer/).
 
 In the last year we've seen Apple release the code behind
 the [Swift](https://developer.apple.com/swift/) programming language;
@@ -60,8 +60,8 @@ Native](https://code.facebook.com/projects/450791118411445/react-native/) and
 The emergence of companies like Facebook, Airbnb, and Square, whose
 businesses lie outside the world of commercial software, as players in
 open source is particularly interesting. While they may follow the
-[principles](http://opensource.org/docs/osd) that underpin traditional
-open source software like [Linux](http://www.linuxfoundation.org/), the
+[principles](https://opensource.org/docs/osd) that underpin traditional
+open source software like [Linux](https://www.linuxfoundation.org/), the
 reasons for their openness are not simply altruism and the greater good.
 
 Releasing open source boosts their image as innovators, helping them
@@ -84,7 +84,7 @@ entire patent
 portfolio](https://readwrite.com/2014/06/16/what-apple-should-learn-from-tesla),
 providing those using it promised not to engage in courtroom battles
 over intellectual property. While [General Motors rebuffed Tesla's
-offer](http://gmauthority.com/blog/2015/02/general-motors-not-interested-in-open-tesla-patents/),
+offer](https://gmauthority.com/blog/2015/02/general-motors-not-interested-in-open-tesla-patents/),
 the potential consequences of this are an increase in electric-car
 innovation across the automotive industry, meaning more electric cars,
 more infrastructure for them, and more consumers interested in buying
@@ -104,8 +104,8 @@ is written in C++, but it has a Python front end. 
 By involving open-source enthusiasts, Google believes it will bring
 artificial intelligence closer to reality. Outsiders may expand the tool
 to other languages, including
-[Go](http://www.wired.com/2015/08/googles-house-programming-language-now-runs-phones/),
-[Java](http://www.wired.com/2013/09/the-second-coming-of-java/), and
+[Go](https://www.wired.com/2015/08/googles-house-programming-language-now-runs-phones/),
+[Java](https://www.wired.com/2013/09/the-second-coming-of-java/), and
 perhaps even [JavaScript](https://en.wikipedia.org/wiki/JavaScript), so
 that coders have more ways of building AI-driven apps. 
 
@@ -136,7 +136,7 @@ recruiters and hiring managers—without the trouble of an awkward
 interview.
 
 As Tom Preston-Werner, cofounder of GitHub, [put
-it](http://tom.preston-werner.com/2011/11/22/open-source-everything.html):
+it](https://tom.preston-werner.com/2011/11/22/open-source-everything.html):
 
 > If you're hiring, the best technical interview possible is the one you
 > don't have to do because the candidate is already kicking ass on one
@@ -150,7 +150,7 @@ card. Want to find a collaborator to work on a project? Just chat up
 someone who's building up the same codebase as you. For Alvaro Videla,
 contributing to RabbitMQ, an application messaging broker, [led to
 writing a book and getting invited to speak at
-conferences](http://videlalvaro.github.io/2014/08/on-contributing-to-opensource.html).
+conferences](https://videlalvaro.github.io/2014/08/on-contributing-to-opensource.html).
 
 Open source isn't an unalloyed good. There are downsides for both coders
 and companies who participate in projects, which I'll address in future

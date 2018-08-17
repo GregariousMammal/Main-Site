@@ -41,7 +41,7 @@ in the next few weeks.
 
 The move comes just after Netflix announced it was [launching service in
 130 new
-countries](http://www.cnet.com/au/news/netflix-goes-live-in-130-new-countries/)—a
+countries](https://www.cnet.com/au/news/netflix-goes-live-in-130-new-countries/)—a
 response to the massive international demand for the service fulfilled,
 so far, through the very services Netflix is now seeking to shut down. 
 
@@ -50,9 +50,9 @@ television shows and films outside of their region. Netflix may be an
 international brand, now, but most films and TV shows remain subject to
 regional licensing. That means, for example, that people living in the
 UK will not be able to watch [*The Walking
-Dead*](http://www.imdb.com/title/tt1520211/) and people in Australia
+Dead*](https://www.imdb.com/title/tt1520211/) and people in Australia
 cannot watch *[How To Get Away With
-Murder](http://www.imdb.com/title/tt3205802/). *
+Murder](https://www.imdb.com/title/tt3205802/). *
 
 Netflix’s terms of service haven’t changed. The company has long
 explicitly forbidden the use of mechanisms to bypass its software that

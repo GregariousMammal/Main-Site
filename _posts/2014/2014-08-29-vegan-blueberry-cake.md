@@ -4,7 +4,7 @@ title: Vegan blueberry cake
 date: 2014-08-29T11:21:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/08/vegan-blueberry-cake.html
+guid: https://atravellingcook.com/2014/08/vegan-blueberry-cake.html
 permalink: /2014/08/vegan-blueberry-cake.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -22,7 +22,7 @@ tags:
   - vegan
 ---
 <div style="background-color: white; border: 0px; margin: 0px; padding: 0px; vertical-align: baseline;">
-  <span style="background-color: transparent; font-family: Helvetica Neue, Arial, Helvetica, sans-serif; margin-left: 1em; margin-right: 1em; text-align: center;">          <a style="background-color: transparent; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-WUeq2AXDQ5g/VABTvrkZCwI/AAAAAAAAJUE/L7a2QnofuhY/s1600/15048235566_969988f2a2_z.jpg"><img src="http://4.bp.blogspot.com/-WUeq2AXDQ5g/VABTvrkZCwI/AAAAAAAAJUE/L7a2QnofuhY/s1600/15048235566_969988f2a2_z.jpg" alt="" width="400" height="250" border="0" /></a>
+  <span style="background-color: transparent; font-family: Helvetica Neue, Arial, Helvetica, sans-serif; margin-left: 1em; margin-right: 1em; text-align: center;">          <a style="background-color: transparent; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-WUeq2AXDQ5g/VABTvrkZCwI/AAAAAAAAJUE/L7a2QnofuhY/s1600/15048235566_969988f2a2_z.jpg"><img src="https://4.bp.blogspot.com/-WUeq2AXDQ5g/VABTvrkZCwI/AAAAAAAAJUE/L7a2QnofuhY/s1600/15048235566_969988f2a2_z.jpg" alt="" width="400" height="250" border="0" /></a>
 
 
 <div style="background-color: white; border: 0px; margin: 0px; padding: 0px; vertical-align: baseline;">
@@ -40,7 +40,7 @@ tags:
 
 
 <div style="background-color: white; border: 0px; margin: 0px; padding: 0px; vertical-align: baseline;">
-                      <a style="line-height: 21.0599994659424px; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-_ZxQ0vm9Y-8/VABUCeotwII/AAAAAAAAJUM/Pd41_h6XQ5c/s1600/14843047199_fb1887c449_z.jpg"><img src="http://2.bp.blogspot.com/-_ZxQ0vm9Y-8/VABUCeotwII/AAAAAAAAJUM/Pd41_h6XQ5c/s1600/14843047199_fb1887c449_z.jpg" alt="" width="400" height="300" border="0" /></a>
+                      <a style="line-height: 21.0599994659424px; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-_ZxQ0vm9Y-8/VABUCeotwII/AAAAAAAAJUM/Pd41_h6XQ5c/s1600/14843047199_fb1887c449_z.jpg"><img src="https://2.bp.blogspot.com/-_ZxQ0vm9Y-8/VABUCeotwII/AAAAAAAAJUM/Pd41_h6XQ5c/s1600/14843047199_fb1887c449_z.jpg" alt="" width="400" height="300" border="0" /></a>
 
 
 <div style="background-color: white; border: 0px; margin: 0px; padding: 0px; vertical-align: baseline;">
@@ -113,7 +113,7 @@ tags:
   </ol>
   
   
-    <a  href="http://1.bp.blogspot.com/-Y5H7tMu-iZE/VABSe2bhiDI/AAAAAAAAJTw/QGBExJRylcs/s1600/14884639258_675959f435_k.jpg"><img src="http://1.bp.blogspot.com/-Y5H7tMu-iZE/VABSe2bhiDI/AAAAAAAAJTw/QGBExJRylcs/s1600/14884639258_675959f435_k.jpg" alt="" width="400" height="318" border="0" /></a>
+    <a  href="https://1.bp.blogspot.com/-Y5H7tMu-iZE/VABSe2bhiDI/AAAAAAAAJTw/QGBExJRylcs/s1600/14884639258_675959f435_k.jpg"><img src="https://1.bp.blogspot.com/-Y5H7tMu-iZE/VABSe2bhiDI/AAAAAAAAJTw/QGBExJRylcs/s1600/14884639258_675959f435_k.jpg" alt="" width="400" height="318" border="0" /></a>
   
   
   

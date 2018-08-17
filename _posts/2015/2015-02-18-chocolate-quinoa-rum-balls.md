@@ -4,7 +4,7 @@ title: Chocolate quinoa rum balls
 date: 2015-02-18T15:34:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/02/chocolate-quinoa-rum-balls.html
+guid: https://atravellingcook.com/2015/02/chocolate-quinoa-rum-balls.html
 permalink: /2015/02/chocolate-quinoa-rum-balls.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -27,7 +27,7 @@ tags:
 
 
 
-  <a  href="http://2.bp.blogspot.com/-wzkeTPzC_9s/VOShSPm0mtI/AAAAAAAAKrg/PvintHS-69k/s1600/2015-02-18%2B15.01.00.jpg"><img src="http://2.bp.blogspot.com/-wzkeTPzC_9s/VOShSPm0mtI/AAAAAAAAKrg/PvintHS-69k/s1600/2015-02-18%2B15.01.00.jpg" alt="" width="400" height="355" border="0" /></a>
+  <a  href="https://2.bp.blogspot.com/-wzkeTPzC_9s/VOShSPm0mtI/AAAAAAAAKrg/PvintHS-69k/s1600/2015-02-18%2B15.01.00.jpg"><img src="https://2.bp.blogspot.com/-wzkeTPzC_9s/VOShSPm0mtI/AAAAAAAAKrg/PvintHS-69k/s1600/2015-02-18%2B15.01.00.jpg" alt="" width="400" height="355" border="0" /></a>
 
 
 
@@ -60,11 +60,11 @@ _Instructions_
   8. Take about a tablespoon of the mix and roll into balls.
   9. Roll the balls in coconut flakes and store in a sealed container in the fridge or serve.
 
-I&#8217;m submitting this recipe as part of the [Lavender and Lovage](http://lavenderandlovage.com/) and [The Hedgecombers](http://hedgecombers.com/) link party.
+I&#8217;m submitting this recipe as part of the [Lavender and Lovage](https://lavenderandlovage.com/) and [The Hedgecombers](https://hedgecombers.com/) link party.
 
 
   
-    <a  href="http://2.bp.blogspot.com/-4REaGWyKxYI/VOSeexoE0hI/AAAAAAAAKrQ/TlsscRzQuQg/s1600/2015-02-18%2B15.00.51.jpg"><img src="http://2.bp.blogspot.com/-4REaGWyKxYI/VOSeexoE0hI/AAAAAAAAKrQ/TlsscRzQuQg/s1600/2015-02-18%2B15.00.51.jpg" alt="" width="315" height="400" border="0" /></a>
+    <a  href="https://2.bp.blogspot.com/-4REaGWyKxYI/VOSeexoE0hI/AAAAAAAAKrQ/TlsscRzQuQg/s1600/2015-02-18%2B15.00.51.jpg"><img src="https://2.bp.blogspot.com/-4REaGWyKxYI/VOSeexoE0hI/AAAAAAAAKrQ/TlsscRzQuQg/s1600/2015-02-18%2B15.00.51.jpg" alt="" width="315" height="400" border="0" /></a>
   
   
   

@@ -4,7 +4,7 @@ title: Jumbo vegan crumpets
 date: 2015-02-08T15:23:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/02/jumbo-vegan-crumpets-2.html
+guid: https://atravellingcook.com/2015/02/jumbo-vegan-crumpets-2.html
 permalink: /2015/02/jumbo-vegan-crumpets-2.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -23,7 +23,7 @@ tags:
   - vegan
 format: image
 ---
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-lzQn22Iyyis/VNdsGZIuJ5I/AAAAAAAAKnE/SbnzzIecXXA/s1600/_DSC0744.JPG"><img src="http://4.bp.blogspot.com/-lzQn22Iyyis/VNdsGZIuJ5I/AAAAAAAAKnE/SbnzzIecXXA/s1600/_DSC0744.JPG" alt="" width="400" height="265" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-lzQn22Iyyis/VNdsGZIuJ5I/AAAAAAAAKnE/SbnzzIecXXA/s1600/_DSC0744.JPG"><img src="https://4.bp.blogspot.com/-lzQn22Iyyis/VNdsGZIuJ5I/AAAAAAAAKnE/SbnzzIecXXA/s1600/_DSC0744.JPG" alt="" width="400" height="265" border="0" /></a>
 
 It&#8217;s always interesting the foods and equipment that you can find in foreign countries and those you cannot. English muffins are readily available here (well a German version to be precise) whilst crumpets are no where to be seen. You can buy them at expat shops, but it&#8217;s Sunday when the shops are closed and being me, I decided to have a try at making my own.  The ideal is to make the crumpets using &#8216;egg rings&#8217; which enable the crumpets to hold their shape and I daresay easier to flip also but I&#8217;ve not been able to find any, so I decided to just make two pan sized ones!
 
@@ -48,7 +48,7 @@ _Ingredients_
   * 1/2 tsp baking powder dissolved in 1/4 cup warm water (or you could use self raising flour of course and omit the baking powder)
 
 
-  <a  href="http://4.bp.blogspot.com/-HpNmlevK-QY/VOq4Sah_T_I/AAAAAAAAKsU/NKQPjZf28oE/s1600/_DSC0752.JPG"><img src="http://4.bp.blogspot.com/-HpNmlevK-QY/VOq4Sah_T_I/AAAAAAAAKsU/NKQPjZf28oE/s1600/_DSC0752.JPG" alt="" width="400" height="265" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-HpNmlevK-QY/VOq4Sah_T_I/AAAAAAAAKsU/NKQPjZf28oE/s1600/_DSC0752.JPG"><img src="https://4.bp.blogspot.com/-HpNmlevK-QY/VOq4Sah_T_I/AAAAAAAAKsU/NKQPjZf28oE/s1600/_DSC0752.JPG" alt="" width="400" height="265" border="0" /></a>
 
 
 
@@ -70,7 +70,7 @@ _Ingredients_
  10. Serve toasted with more dairy free spread, jam, Vegemite or golden syrup. Delish!
 
 
-  <a  href="http://3.bp.blogspot.com/-ikXK7sFXylk/VNdsG60lFaI/AAAAAAAAKnI/R1alX1c864s/s1600/_DSC0750.JPG"><img src="http://3.bp.blogspot.com/-ikXK7sFXylk/VNdsG60lFaI/AAAAAAAAKnI/R1alX1c864s/s1600/_DSC0750.JPG" alt="" width="400" height="265" border="0" /></a>
+  <a  href="https://3.bp.blogspot.com/-ikXK7sFXylk/VNdsG60lFaI/AAAAAAAAKnI/R1alX1c864s/s1600/_DSC0750.JPG"><img src="https://3.bp.blogspot.com/-ikXK7sFXylk/VNdsG60lFaI/AAAAAAAAKnI/R1alX1c864s/s1600/_DSC0750.JPG" alt="" width="400" height="265" border="0" /></a>
 
 
 

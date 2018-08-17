@@ -4,7 +4,7 @@ title: Lemon poppyseed cake
 date: 2014-08-05T10:53:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/08/lemon-poppyseed-cake.html
+guid: https://atravellingcook.com/2014/08/lemon-poppyseed-cake.html
 permalink: /2014/08/lemon-poppyseed-cake.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -27,7 +27,7 @@ tags:
 
 
 
-  <a  href="http://3.bp.blogspot.com/-AImSvSA-Hpo/VPiGaq7oonI/AAAAAAAAKwk/KhOVMROKkz8/s1600/lemon_poppy_seed_cake.jpg"><img src="http://3.bp.blogspot.com/-AImSvSA-Hpo/VPiGaq7oonI/AAAAAAAAKwk/KhOVMROKkz8/s1600/lemon_poppy_seed_cake.jpg" alt="" width="400" height="266" border="0" /></a>
+  <a  href="https://3.bp.blogspot.com/-AImSvSA-Hpo/VPiGaq7oonI/AAAAAAAAKwk/KhOVMROKkz8/s1600/lemon_poppy_seed_cake.jpg"><img src="https://3.bp.blogspot.com/-AImSvSA-Hpo/VPiGaq7oonI/AAAAAAAAKwk/KhOVMROKkz8/s1600/lemon_poppy_seed_cake.jpg" alt="" width="400" height="266" border="0" /></a>
 
 
 
@@ -89,7 +89,7 @@ tags:
 
 <div style="color: #212121; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 14px; line-height: 21px; margin-bottom: 1.5em; padding: 0px;">
   
-    <a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="http://4.bp.blogspot.com/-GkjbXvj1bRk/U-CpcLkagYI/AAAAAAAAJGM/dC61Nq6bi4A/s1600/localharvest_lemons.15395618.jpg"><img src="http://4.bp.blogspot.com/-GkjbXvj1bRk/U-CpcLkagYI/AAAAAAAAJGM/dC61Nq6bi4A/s1600/localharvest_lemons.15395618.jpg" alt="" width="400" height="267" border="0" /></a>
+    <a style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;" href="https://4.bp.blogspot.com/-GkjbXvj1bRk/U-CpcLkagYI/AAAAAAAAJGM/dC61Nq6bi4A/s1600/localharvest_lemons.15395618.jpg"><img src="https://4.bp.blogspot.com/-GkjbXvj1bRk/U-CpcLkagYI/AAAAAAAAJGM/dC61Nq6bi4A/s1600/localharvest_lemons.15395618.jpg" alt="" width="400" height="267" border="0" /></a>
   
   
   

@@ -69,7 +69,7 @@ He'd a fabulous love for kids They dwelt within the province by
 utilizing their buddy, my widowed grandfather. It was fascinating to
 view how my mother had taken the trouble to supply subtitles and
 comments to each picture which was included within
-http://www.paunchiness.com/how-to-present-essay-writing/ the record.
+https://www.paunchiness.com/how-to-present-essay-writing/ the record.
 Most of all, make sure you use your words in your writing. While mothers
 usually have a tendency to function as primary parent within the kid's
 lifestyle, dads have a crucial part in the life and identity of the kid
@@ -108,6 +108,6 @@ This informative article was published on september 03, 2004.
 -------------------------------------------------------------
 
 In this composition, I'll explain to you personally how these companies
-will http://ledesd.com/ways-to-producing-an-academic-research-proposal/
+will https://ledesd.com/ways-to-producing-an-academic-research-proposal/
 help you in your documents. Ultimately, never utilize complicated
 phrases inside your composition.

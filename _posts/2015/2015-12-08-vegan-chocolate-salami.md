@@ -4,7 +4,7 @@ title: Vegan chocolate salami
 date: 2015-12-08T09:58:00.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/2014/12/vegan-chocolate-salami.html'
+guid: 'https://atravellingcook.com/2014/12/vegan-chocolate-salami.html'
 permalink: /2015/12/vegan-chocolate-salami.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -51,4 +51,4 @@ _Instructions_
 9.  Put it in the fridge to set.
 10. Decorate by rolling in icing sugar then tying with string to resemble store bought salami.
 
-I'm linking this to the _[No croutons required christmas](http://foodandspice.blogspot.com/2015/12/no-croutons-required-festival-photos.html) post with [Tinned tomatoes](http://www.tinnedtomatoes.com/) and [Food and spice](http://foodandspice.blogspot.com/)_
+I'm linking this to the _[No croutons required christmas](https://foodandspice.blogspot.com/2015/12/no-croutons-required-festival-photos.html) post with [Tinned tomatoes](https://www.tinnedtomatoes.com/) and [Food and spice](https://foodandspice.blogspot.com/)_

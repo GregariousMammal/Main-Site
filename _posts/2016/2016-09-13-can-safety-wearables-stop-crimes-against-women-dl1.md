@@ -59,7 +59,7 @@ author:
 Personal safety wearables [development and
 adoption](https://readwrite.com/2016/07/01/personal-safety-wearables-on-rise-dt4/) is
 on the rise with a range of wearable safety devices on the market
-like [Nimb](http://nimb.com/), [Revolar](https://revolar.com/) and [Siren](http://sirenring.com/).
+like [Nimb](https://nimb.com/), [Revolar](https://revolar.com/) and [Siren](https://sirenring.com/).
 
 Their common thread is that they aim to enable the user to get help in
 situations where their personal safety is at risk but sending an alert
@@ -74,8 +74,8 @@ case of unsafe situations.
 ***See also:** [Emergency personal wearables use on the
 rise](https://readwrite.com/2016/07/01/personal-safety-wearables-on-rise-dt4/)*
 
-[ROAR for Good ](http://www.roarforgood.com/)created its first
-product, [Athena](http://www.roarforgood.com/), to create a simple way
+[ROAR for Good ](https://www.roarforgood.com/)created its first
+product, [Athena](https://www.roarforgood.com/), to create a simple way
 for women to get help. It's a discreet wearable that can be attached to
 a purse or worn as a necklace and has two capabilities: the activation
 of a loud alarm when the user presses a button, along with the
@@ -128,13 +128,13 @@ experience of the founder or their loved ones. For example,
 pre-wearables a slew of safety apps where created in Indian in 2012 in
 response to a case in New Delhi, India in 2012 [where a young woman was
 gang-raped and brutally assaulted by six men on a moving
-bus](http://www.nytimes.com/2013/01/04/world/asia/murder-charges-filed-against-5-men-in-india-gang-rape.html?hp&_r=0).
+bus](https://www.nytimes.com/2013/01/04/world/asia/murder-charges-filed-against-5-men-in-india-gang-rape.html?hp&_r=0).
 
 This is at odds with two realities. Firstly, most women face violence in
 their own home at the hands of someone known to the victim such as a
 partner, family member or friend. Secondly, the victims of public crime
 are overwhelmingly [young adult
-males](http://victimsofcrime.org/docs/default-source/ncvrw2015/2015ncvrw_stats_assault.pdf?sfvrsn=2),
+males](https://victimsofcrime.org/docs/default-source/ncvrw2015/2015ncvrw_stats_assault.pdf?sfvrsn=2),
 although the lack of crime reporting let alone prosecution makes it
 difficult to get accurate statistics. Despite this there are no safety
 devices marketing to young men, although devices such as Athena are
@@ -198,7 +198,7 @@ a response to unlawful "stop and frisk" searches-an incident is recorded
 by pushing a trigger button on the phone.
 
 Then there's the
-award-winning [eyeWitness](http://eyewitnessproject.org/) app, part of
+award-winning [eyeWitness](https://eyewitnessproject.org/) app, part of
 work by international humans rights activists bringing justice to those
 responsible for war crimes, torture or genocide in conflicts such as
 those in Syria, Ukraine and the Democratic Republic of Congo. The app
@@ -212,6 +212,6 @@ commit the worst international crimes.
 Roar for Good is actually an LLC and B-corp certified, involved in work
 to decrease harassment and attacks against women. including a
 partnership with the [One Love
-Foundation](http://www.digitaljournal.com/pr/2712783) to address the
+Foundation](https://www.digitaljournal.com/pr/2712783) to address the
 underlying causes of violence against women. It's a great case of
 technology for good, not just for profit.

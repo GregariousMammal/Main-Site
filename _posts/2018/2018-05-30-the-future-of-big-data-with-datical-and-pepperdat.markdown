@@ -10,6 +10,6 @@ layout: podcast
 ---
 Chris speaks with Sean Suchter of Pepperdata and Robert Reeves of Datical about the future of DevOp and deployment for Big Data applications.
 
-http://gregariousmammal.com/podcast/
-http://gregariousmammal.com/support
-http://facebook.com/gregariousmammal
+https://gregariousmammal.com/podcast/
+https://gregariousmammal.com/support
+https://facebook.com/gregariousmammal

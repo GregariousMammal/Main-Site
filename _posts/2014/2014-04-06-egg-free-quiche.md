@@ -4,7 +4,7 @@ title: Egg free quiche
 date: 2014-04-06T10:49:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/04/egg-free-quiche.html
+guid: https://atravellingcook.com/2014/04/egg-free-quiche.html
 permalink: /2014/04/egg-free-quiche.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -38,7 +38,7 @@ _Tofu mix_
   
 _
   
-_                     <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-SPpaN2er6gA/U0EiPk6a9QI/AAAAAAAAIi8/CAX0fc0HiS4/s1600/13661609475_0e07d686f3_z.jpg"><img src="http://3.bp.blogspot.com/-SPpaN2er6gA/U0EiPk6a9QI/AAAAAAAAIi8/CAX0fc0HiS4/s1600/13661609475_0e07d686f3_z.jpg" alt="" width="400" height="263" border="0" /></a>
+_                     <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-SPpaN2er6gA/U0EiPk6a9QI/AAAAAAAAIi8/CAX0fc0HiS4/s1600/13661609475_0e07d686f3_z.jpg"><img src="https://3.bp.blogspot.com/-SPpaN2er6gA/U0EiPk6a9QI/AAAAAAAAIi8/CAX0fc0HiS4/s1600/13661609475_0e07d686f3_z.jpg" alt="" width="400" height="263" border="0" /></a>
 
   * 2 spring onions
   * 4 garlic cloves
@@ -58,7 +58,7 @@ _                     <a style="margin-left: 1em; margin-right: 1em; 
 
 Instructions
 
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-NDupKBXRmig/U0EgvlXgVcI/AAAAAAAAIiI/XSFBWDypNP8/s1600/IMG_20140406_170631.jpg"><img src="http://1.bp.blogspot.com/-NDupKBXRmig/U0EgvlXgVcI/AAAAAAAAIiI/XSFBWDypNP8/s1600/IMG_20140406_170631.jpg" alt="" width="400" height="300" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-NDupKBXRmig/U0EgvlXgVcI/AAAAAAAAIiI/XSFBWDypNP8/s1600/IMG_20140406_170631.jpg"><img src="https://1.bp.blogspot.com/-NDupKBXRmig/U0EgvlXgVcI/AAAAAAAAIiI/XSFBWDypNP8/s1600/IMG_20140406_170631.jpg" alt="" width="400" height="300" border="0" /></a>
 
 **_To make the pastry:_**
 
@@ -83,9 +83,9 @@ Instructions
   6. Top with tofu mix and stir to combine
   7. Bake in oven for 30 mins
   8. Remove and cool for 10 mins to allow it to thicken
-  9. Serve with salad and condiments such as  [onion jam](http://consumingcate.blogspot.com/2014/02/edible-gifts-onion-jam.html)
+  9. Serve with salad and condiments such as  [onion jam](https://consumingcate.blogspot.com/2014/02/edible-gifts-onion-jam.html)
 
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-8y5MAcjf0Ss/U0EhGObnQhI/AAAAAAAAIio/LDKS-8myStQ/s1600/IMG_20140406_192101.jpg"><img src="http://4.bp.blogspot.com/-8y5MAcjf0Ss/U0EhGObnQhI/AAAAAAAAIio/LDKS-8myStQ/s1600/IMG_20140406_192101.jpg" alt="" width="400" height="300" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-8y5MAcjf0Ss/U0EhGObnQhI/AAAAAAAAIio/LDKS-8myStQ/s1600/IMG_20140406_192101.jpg"><img src="https://4.bp.blogspot.com/-8y5MAcjf0Ss/U0EhGObnQhI/AAAAAAAAIio/LDKS-8myStQ/s1600/IMG_20140406_192101.jpg" alt="" width="400" height="300" border="0" /></a>
 
 
   Variations: different vegetables such as potato, sweet potato, pumpkin, zucchini, mushrooms, olive and sundried tomatoes would also work well.

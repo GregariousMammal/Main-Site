@@ -19,7 +19,7 @@ I could write post after post about my thoughts on Melbourne/Australia and advic
 
 Melbourne/Australia, take your head out of your arse a bit more and everything will be just fine.</blockquote>
 
-The moving itself was fairly painless all things considered but took a very long time and we have learned many, many things that surprised us along the way. I intend to start pouring a lot of these learnings into a new blog, “<a href="http://gregariousmammal.com/lean-traveller" target="_blank">The Lean Traveller</a>” as I feel that people would benefit from a lot of the work we put into the process and I want to continue living my new stripped back lifestyle to make moving around in the future far easier.
+The moving itself was fairly painless all things considered but took a very long time and we have learned many, many things that surprised us along the way. I intend to start pouring a lot of these learnings into a new blog, “<a href="https://gregariousmammal.com/lean-traveller" target="_blank">The Lean Traveller</a>” as I feel that people would benefit from a lot of the work we put into the process and I want to continue living my new stripped back lifestyle to make moving around in the future far easier.
 
 We had quite a strange final few days in Melbourne as the house slowly emptied of items and utilities were disconnected. As we had both lived in the property for many years it was peculiar to watch this happen and it certainly confused our cat who was constantly finding spaces he could never access before. In some ways the house was a little bit of a representation of our lives in Melbourne. Affordable, full of happy memories, but in need of some love and time to move on.
 

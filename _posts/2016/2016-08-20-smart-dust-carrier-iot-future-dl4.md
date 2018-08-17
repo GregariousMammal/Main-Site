@@ -51,7 +51,7 @@ author:
 ---
 The notion of smart dust sounds like a work of science fiction but
 scientists at [University of California
-Berkeley](http://news.berkeley.edu/2016/08/03/sprinkling-of-neural-dust-opens-door-to-electroceuticals/) have
+Berkeley](https://news.berkeley.edu/2016/08/03/sprinkling-of-neural-dust-opens-door-to-electroceuticals/) have
 developed a "neural dust" that can be implanted into the body,
 to monitor internal nerves, muscles or organs in real time.
 
@@ -86,18 +86,18 @@ prevention of infection.\
 Is smart dust the pinnacle of IoT creativity?
 ---------------------------------------------
 
-Research by [Gartner](http://www.gartner.com/newsroom/id/3114217) into
+Research by [Gartner](https://www.gartner.com/newsroom/id/3114217) into
 'hype cycles' within emerging technology predicts that Smart Dust will
 become trend within 5 to 10 years. It's a field that has been developing
 within research laboratories [since the late
-1990's](http://robotics.eecs.berkeley.edu/~pister/SmartDust/), with
+1990's](https://robotics.eecs.berkeley.edu/~pister/SmartDust/), with
 funding by the Defence Advanced Research Projects Agency
-[(DARPA)](http://www.darpa.mil/) to create applications of military
+[(DARPA)](https://www.darpa.mil/) to create applications of military
 relevance, their work involving "evolutionary and revolutionary advances
 in miniaturization, integration, and energy management."
 
 [As early as
-2003](http://www.computerworld.com/article/2581821/mobile-wireless/smart-dust.html),
+2003](https://www.computerworld.com/article/2581821/mobile-wireless/smart-dust.html),
 researchers were working on applications for smart dust, which they
 characterised "tiny wireless microelectromechanical sensors (MEMS) that
 can detect everything from light to vibrations". Commercial applications

@@ -4,7 +4,7 @@ title: A trip to Borough market, London
 date: 2015-01-12T12:20:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/01/a-trip-to-borough-market-london.html
+guid: https://atravellingcook.com/2015/01/a-trip-to-borough-market-london.html
 permalink: /2015/01/a-trip-to-borough-market-london.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -33,12 +33,12 @@ tags:
 
 
 
-  After Christmas Chris and I went to the UK for a week to visit friends and relatives. We took a trip to my favourite market, <a href="http://boroughmarket.org.uk/">Borough Market </a>in Southwark, London. As you can see it was a cold, drizzly day and going anywhere with a cover overtop was welcome! Borough market has lots of stalls selling a variety of food products such as <span style="background-color: white; color: #545454; line-height: 18.2000007629395px;"> bread, fruit and vegetables, delicatessan, <span style="background-color: white; line-height: 18.2000007629395px;">vegetables, ciders, cheeses and tea. We have a lovely morning sampling the wares (so much good cheese after Germany&#8217;s bland offerings). 
+  After Christmas Chris and I went to the UK for a week to visit friends and relatives. We took a trip to my favourite market, <a href="https://boroughmarket.org.uk/">Borough Market </a>in Southwark, London. As you can see it was a cold, drizzly day and going anywhere with a cover overtop was welcome! Borough market has lots of stalls selling a variety of food products such as <span style="background-color: white; color: #545454; line-height: 18.2000007629395px;"> bread, fruit and vegetables, delicatessan, <span style="background-color: white; line-height: 18.2000007629395px;">vegetables, ciders, cheeses and tea. We have a lovely morning sampling the wares (so much good cheese after Germany&#8217;s bland offerings). 
 
 
                           
 
-<img class="aligncenter size-full wp-image-808" src="/images/atc-migrate/2015/01/borough-market.jpg" alt="borough-market" width="1024" height="768" /><a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-wkGaH2aYGSU/VLOhxJOnQLI/AAAAAAAAKZ0/lDhtVpmoKy0/s1600/borough-market.jpg"><br /> </a>
+<img class="aligncenter size-full wp-image-808" src="/images/atc-migrate/2015/01/borough-market.jpg" alt="borough-market" width="1024" height="768" /><a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-wkGaH2aYGSU/VLOhxJOnQLI/AAAAAAAAKZ0/lDhtVpmoKy0/s1600/borough-market.jpg"><br /> </a>
 
 
   <img class="aligncenter size-full wp-image-807" src="/images/atc-migrate/2015/01/16195300186_8448825363_k1.jpg" alt="16195300186_8448825363_k" width="1200" height="1600" />
@@ -121,4 +121,4 @@ And yes, we sampled wine and cider.
 
 
 
-  We stayed at <a href="http://www.lsevacations.co.uk/Home.aspx#sthash.4ey8JCpu.dpbs">London School of Economics student accomodation</a> (Rosebery Hall) for two nights which they make available to the public over the semester breaks. It was a good location for where we wanted to go and places we were visiting. We had a perfectly fine room, warm and quiet with a shared bathroom and kitchen down the hall. It was less than staying in a room in someone&#8217;s apartment through AirBnb and definitely cheaper than a hotel.
+  We stayed at <a href="https://www.lsevacations.co.uk/Home.aspx#sthash.4ey8JCpu.dpbs">London School of Economics student accomodation</a> (Rosebery Hall) for two nights which they make available to the public over the semester breaks. It was a good location for where we wanted to go and places we were visiting. We had a perfectly fine room, warm and quiet with a shared bathroom and kitchen down the hall. It was less than staying in a room in someone&#8217;s apartment through AirBnb and definitely cheaper than a hotel.

@@ -17,8 +17,8 @@ Robots are being increasingly introduced in a range of policing scenarios — bu
 
 {::options parse_block_html="true" /}
 <div class="author">
-   <img src="http://www.rss-specifications.com/rss-spec-rss.gif" style="width: 96px; height: 96;">
+   <img src="https://www.rss-specifications.com/rss-spec-rss.gif" style="width: 96px; height: 96;">
    <span style="position: absolute; padding: 32px 15px;">{% comment %}Remark that post_url refers to the *original* post url, not Jekyll's post_url variable. Moreover, planet.rb preprocesses the substitutions with Mustache.{% endcomment %}
-      <i>{% if "https://dzone.com/articles/robocops-are-here-but-not-as-you-think" != "" %}<a href="https://dzone.com/articles/robocops-are-here-but-not-as-you-think">Original post</a>{% else %}Original post{% endif %} by {% if "http://twitter.com/poteland" != "" %}<a href="http://twitter.com/poteland">Cate Lawrence</a>{% else %}Cate Lawrence{% endif %} &mdash; check out <a href="https://dzone.com">Dzone</a>.</i>
+      <i>{% if "https://dzone.com/articles/robocops-are-here-but-not-as-you-think" != "" %}<a href="https://dzone.com/articles/robocops-are-here-but-not-as-you-think">Original post</a>{% else %}Original post{% endif %} by {% if "https://twitter.com/poteland" != "" %}<a href="https://twitter.com/poteland">Cate Lawrence</a>{% else %}Cate Lawrence{% endif %} &mdash; check out <a href="https://dzone.com">Dzone</a>.</i>
   </span>
 </div>

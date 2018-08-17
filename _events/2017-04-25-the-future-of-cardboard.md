@@ -8,7 +8,7 @@ event: Quo Vadis
 date: 2017-04-25T11:00:00.000Z
 venue: Station Berlin
 pres_source: null
-pres_url: http://qvconf.com/
+pres_url: https://qvconf.com/
 ---
 
 Games have been with us for centuries, from those that emulate battles like Chess and Risk, to the intricate mysteries of Go.

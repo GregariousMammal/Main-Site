@@ -25,7 +25,7 @@ How-to Produce an Essay
 
 Composing an autobiography is not simple, but it needs to be satisfying.
 In case you might be normally funny, infuse some laughter in
-http://info.inviteright.com/blog/popular-problems-encountered-written-down-an-2/
+https://info.inviteright.com/blog/popular-problems-encountered-written-down-an-2/
 your essay. The essay remains about you. For a novice, this kind of
 composition might be difficult. As previously mentioned every writer
 desires an editor. You will find just two chief methods for writing
@@ -45,7 +45,7 @@ Another kind of biography is a brief biography. The 1st kind of
 biography you must have is really a mini resource. In summary, without a
 lot of work it's possible to make an appealing biography article. You
 hold a fantastic chance to discuss
-http://cachgiammoantoan.org/scholarships-with-march-2015-deadlines-12/
+https://cachgiammoantoan.org/scholarships-with-march-2015-deadlines-12/
 every among the above-mentioned factors inside your biography article.
 This can be your autobiography. A biography is really a tale about
 somebody's everyday dwelling. It really is only the narrative of a life.

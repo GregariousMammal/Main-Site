@@ -68,8 +68,8 @@ players.
 In April this year, the third workshop of the Electronic Performance
 Tracking Systems (EPTS) expert group took place. The participants
 represent top leagues, professional clubs and national teams, as well as
-the [IFAB](http://www.theifab.com/#!/home) (International Football
-Association Board) and [FIFA](http://www.fifa.com/index.html)
+the [IFAB](https://www.theifab.com/#!/home) (International Football
+Association Board) and [FIFA](https://www.fifa.com/index.html)
 (Fédération Internationale de Football Association).
 
 The aim of the expert group is to develop a global standard for EPTS
@@ -79,7 +79,7 @@ Technology Innovation Department the mandate to develop a global
 standard for such devices.
 
 Then in July 2015, FIFA [issued a
-memorandum](http://resources.fifa.com/mm/document/affederation/administration/02/66/27/59/circularno.1494-approvalofelectronicperformanceandtrackingsystem(epts)devices_neutral.pdf) approving
+memorandum](https://resources.fifa.com/mm/document/affederation/administration/02/66/27/59/circularno.1494-approvalofelectronicperformanceandtrackingsystem(epts)devices_neutral.pdf) approving
 the use of  wearable electronic performance and tracking systems in
 matches.
 
@@ -92,7 +92,7 @@ Intelligent shin pads
 ![shinguard-3-350px](rw-import/shinguard-3-350px.jpg){.size-full
 .wp-image-3997 .aligncenter width="350" height="356"}
 
-Spanish carbon fiber company[Carbures](http://en.carbures.com/)has
+Spanish carbon fiber company[Carbures](https://en.carbures.com/)has
 created "intelligent" shin-pads made up of a sensor system and carbon
 fibre parts for the uniform of the Spanish national football team. An
 built-in sensor system registers personalized information for each
@@ -127,7 +127,7 @@ Viper Pod
 
 ![13522737\_1037838406284360\_4707765944905903751\_o](rw-import/13522737_1037838406284360_4707765944905903751_o-1024x683.jpg){.wp-image-4089
 .aligncenter width="630" height="420"}\
-STATSports’ [Viper Pod](http://statsports.com/technology/viper-pod/) is
+STATSports’ [Viper Pod](https://statsports.com/technology/viper-pod/) is
 one of the world’s leading performance monitoring tools for football. It
 includes building sensors into clothes that players can wear on the
 training ground or even in matches. It's packed with a GPS module, a
@@ -145,9 +145,9 @@ Smart Footballs
 ![G83963\_44\_detail](rw-import/G83963_44_detail-1024x1024.jpg){.wp-image-4033
 .aligncenter width="640" height="640"}
 
-As part of the [Adidas](http://www.adidas.com/)' miCoach collection,
+As part of the [Adidas](https://www.adidas.com/)' miCoach collection,
 they also retail a[smart
-football](http://www.adidas.de/micoach-smart-ball/G83963.html?cm_mmc=AdieSEM_Google-_-miCoach-Accessories-SB-Exact-_-Accessories-miCoach_Smart_Ball-X-General-_-micoach+smart+ball&cm_mmca1=DE&cm_mmca2=e&ds_kid=43700006851569569&gclid=Cj0KEQjwte27BRCM6vjIidHvnKQBEiQAC4MzrRajWwQ63DYxZ5Fe3WtT4HsE97eOTIr4amtpIoXyLJ8aAilk8P8HAQ&gclsrc=aw.ds)
+football](https://www.adidas.de/micoach-smart-ball/G83963.html?cm_mmc=AdieSEM_Google-_-miCoach-Accessories-SB-Exact-_-Accessories-miCoach_Smart_Ball-X-General-_-micoach+smart+ball&cm_mmca1=DE&cm_mmca2=e&ds_kid=43700006851569569&gclid=Cj0KEQjwte27BRCM6vjIidHvnKQBEiQAC4MzrRajWwQ63DYxZ5Fe3WtT4HsE97eOTIr4amtpIoXyLJ8aAilk8P8HAQ&gclsrc=aw.ds)
 with motion sensors that collects data on speed, twist, strength and
 trajectory and are the shot data instantly, via Bluetooth 4.0, on to the
 miCoach Smart Ball app. The accompanying app interprets and outputs the
@@ -161,7 +161,7 @@ available to fans and players.
 
 ![Inside-Coach-Smart-Soccer-Ball-Price](rw-import/Inside-Coach-Smart-Soccer-Ball-Price.png){.wp-image-4093
 .aligncenter width="541"
-height="465"}[InsideCoach](http://www.insidecoach.com/#!product-page/gba22)
+height="465"}[InsideCoach](https://www.insidecoach.com/#!product-page/gba22)
 also offers a smart football[ which contains motion detection technology
 that records force of impact, spin, position, trajectory, number of ball
 passes, number of ball touches, play time, and reports directly to your
@@ -195,7 +195,7 @@ And...smart football boots?
 
 Are smart football boots the one form of wearables that are noticeably
 absent? In 2011, Adidas released [speed
-cell](http://www.adidas.de/micoach-speed_cell-bluetooth-smart-kompatibel/G75090.html),
+cell](https://www.adidas.de/micoach-speed_cell-bluetooth-smart-kompatibel/G75090.html),
 a device that clipped into the sole or lacing of football boots. It was
 designed to store up to 50 unique workouts with a corresponding apps.
 
@@ -209,7 +209,7 @@ battery problems as late as 2015.
 No one company has come up with smart football boots that have been
 played in football matches. However at Tech World 2016 this year in
 China, Lenovo unveiled[a smart sports shoe
-prototype](http://news.lenovo.com/news-releases/lenovo-unveils-smartphones-that-reshape-whats-possible-vision-for-connected-devices-at-tech-world-2016.htm)that
+prototype](https://news.lenovo.com/news-releases/lenovo-unveils-smartphones-that-reshape-whats-possible-vision-for-connected-devices-at-tech-world-2016.htm)that
 contains an Intel Curie wearable chip. It contained the ability to count
 steps and tracks calories burned, lights up along the bottom, and
 contains a customizable 3D-printed insole. It can also charge wirelessly

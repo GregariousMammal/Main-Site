@@ -13,9 +13,9 @@ In this episode Chris and Cate attend Mobile World Congress in Barcelona and dis
 
 ## Companies and articles mentioned
 
--   [Travis translator](http://travistranslator.com)
+-   [Travis translator](https://travistranslator.com)
 -   [Pepper and Nao robots](https://www.ald.softbankrobotics.com/en)
 -   [Dojo by Bullguard](https://www.bullguard.com/)
--   [KopaGas](http://kopagas.com)
--   [At MWC2017 a cutting edge, crazy world of IoT solutions](http://readwrite.com/2017/03/05/gsma-innovation-city-showcases-range-iot-solutions-mwc-2017-dl4/)
--   [World’s largest IoT networks launched at MWC](http://readwrite.com/2017/03/05/worlds-largest-new-iot-networks-launched-at-mwc-dl1/)
+-   [KopaGas](https://kopagas.com)
+-   [At MWC2017 a cutting edge, crazy world of IoT solutions](https://readwrite.com/2017/03/05/gsma-innovation-city-showcases-range-iot-solutions-mwc-2017-dl4/)
+-   [World’s largest IoT networks launched at MWC](https://readwrite.com/2017/03/05/worlds-largest-new-iot-networks-launched-at-mwc-dl1/)

@@ -23,7 +23,7 @@ author:
 ---
 Critical Analysis Document Topics
 
-http://www.dnaproje.com.tr/what-s-japanese-acupuncture/ The debate essay
+https://www.dnaproje.com.tr/what-s-japanese-acupuncture/ The debate essay
 varies from the regular essays that you've been writing in addition to
 from the issue composition inquired in an identical part of the check. S
 O you may be astonished to discover the essays that nearly all students
@@ -85,7 +85,7 @@ Bullies, while they could be ferocious, are also not typically brave.
 
 The other article normally may be of a far more personal character, and
 may likely be a bit
-http://benevolentdictator.tateauthor.com/2016/09/23/just-how-to-make-an-application-for-scholarships/
+https://benevolentdictator.tateauthor.com/2016/09/23/just-how-to-make-an-application-for-scholarships/
 easier as it is going to be about something in your entire lifestyle.
 
 Pursue organizations directly with issue words requesting approval to submit material that is new.

@@ -4,7 +4,7 @@ title: 'Everyday Australian products you&#8217;ll miss in Deutschland.'
 date: 2014-12-15T21:37:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/12/everyday-australian-products-youll-miss-in-deutschland.html
+guid: https://atravellingcook.com/2014/12/everyday-australian-products-youll-miss-in-deutschland.html
 permalink: /2014/12/everyday-australian-products-youll-miss-in-deutschland.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -25,7 +25,7 @@ tags:
   - travelling
     - writing
 ---
-Don&#8217;t get me wrong, I love living in Deutschland. It&#8217;s been six months now, 6 wonderful months but also six months of strangeness and challenges that extend beyond the obvious language barrier. Inspired by <i><a href="http://ohgodmywifeisgerman.com/2014/12/15/tips-from-an-american-expat-everyday-products-youll-miss-after-moving-to-germany/">Oh God my wife is German</a></i>, I&#8217;ve been thinking about things in Australia I really miss.
+Don&#8217;t get me wrong, I love living in Deutschland. It&#8217;s been six months now, 6 wonderful months but also six months of strangeness and challenges that extend beyond the obvious language barrier. Inspired by <i><a href="https://ohgodmywifeisgerman.com/2014/12/15/tips-from-an-american-expat-everyday-products-youll-miss-after-moving-to-germany/">Oh God my wife is German</a></i>, I&#8217;ve been thinking about things in Australia I really miss.
   
 <br /> I miss: 
   
@@ -34,7 +34,7 @@ Don&#8217;t get me wrong, I love living in Deutschland. It&#8217;s been six mont
 <br /> **Top sheets.**
 
 
-  <a  href="http://2.bp.blogspot.com/-bAIyW_QymHY/VI8ebZxWDLI/AAAAAAAAKR0/g_0Hnw0zkGU/s1600/000249311.jpeg"><img src="http://2.bp.blogspot.com/-bAIyW_QymHY/VI8ebZxWDLI/AAAAAAAAKR0/g_0Hnw0zkGU/s1600/000249311.jpeg" alt="" width="320" height="320" border="0" /></a>
+  <a  href="https://2.bp.blogspot.com/-bAIyW_QymHY/VI8ebZxWDLI/AAAAAAAAKR0/g_0Hnw0zkGU/s1600/000249311.jpeg"><img src="https://2.bp.blogspot.com/-bAIyW_QymHY/VI8ebZxWDLI/AAAAAAAAKR0/g_0Hnw0zkGU/s1600/000249311.jpeg" alt="" width="320" height="320" border="0" /></a>
 
 
 
@@ -42,7 +42,7 @@ Don&#8217;t get me wrong, I love living in Deutschland. It&#8217;s been six mont
 
 
 
-  <a href="http://www.johnlewis.com/john-lewis-luxury-egyptian-cotton-200-thread-count-flat-sheets/p292226">Top sheet picture </a>
+  <a href="https://www.johnlewis.com/john-lewis-luxury-egyptian-cotton-200-thread-count-flat-sheets/p292226">Top sheet picture </a>
 
 
 
@@ -66,7 +66,7 @@ Don&#8217;t get me wrong, I love living in Deutschland. It&#8217;s been six mont
 
 
 
-  <a  href="http://4.bp.blogspot.com/-R8M8Ye643hk/VI8hRMPRwfI/AAAAAAAAKSI/iXJ1d0oZdyw/s1600/german-bed.jpg"><img src="http://4.bp.blogspot.com/-R8M8Ye643hk/VI8hRMPRwfI/AAAAAAAAKSI/iXJ1d0oZdyw/s1600/german-bed.jpg" alt="" width="400" height="206" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-R8M8Ye643hk/VI8hRMPRwfI/AAAAAAAAKSI/iXJ1d0oZdyw/s1600/german-bed.jpg"><img src="https://4.bp.blogspot.com/-R8M8Ye643hk/VI8hRMPRwfI/AAAAAAAAKSI/iXJ1d0oZdyw/s1600/german-bed.jpg" alt="" width="400" height="206" border="0" /></a>
 
 
 
@@ -74,7 +74,7 @@ Don&#8217;t get me wrong, I love living in Deutschland. It&#8217;s been six mont
 
 
 
-  <a href="http://www.tnooz.com/wp-content/uploads/2010/09/german-bed.jpg">German bed picture </a>
+  <a href="https://www.tnooz.com/wp-content/uploads/2010/09/german-bed.jpg">German bed picture </a>
 
 
 
@@ -82,7 +82,7 @@ Don&#8217;t get me wrong, I love living in Deutschland. It&#8217;s been six mont
 
 
 
-  Here, we sleep together in a double bed. Most people who own queen size beds have two single beds pushed together with two single doonas on top. Nope. Not the same as a real queen size bed. To get even close to the size of a queen size bed that I am used to, I would need to buy a king size bed. You can see the <a href="http://en.wikipedia.org/wiki/Bed_size">bed size comparisions on this chart</a>. I can see the merits of the single doonas though. No one hogs the doona then. 
+  Here, we sleep together in a double bed. Most people who own queen size beds have two single beds pushed together with two single doonas on top. Nope. Not the same as a real queen size bed. To get even close to the size of a queen size bed that I am used to, I would need to buy a king size bed. You can see the <a href="https://en.wikipedia.org/wiki/Bed_size">bed size comparisions on this chart</a>. I can see the merits of the single doonas though. No one hogs the doona then. 
 
 
 
@@ -94,7 +94,7 @@ Don&#8217;t get me wrong, I love living in Deutschland. It&#8217;s been six mont
 
 
 
-  <a  href="http://4.bp.blogspot.com/-paNKtpmgSJI/VI9C4ddwyTI/AAAAAAAAKS4/x1y6Yn8na4M/s1600/20110406-chinese-appetizers-dumplings-16.jpg"><img src="http://4.bp.blogspot.com/-paNKtpmgSJI/VI9C4ddwyTI/AAAAAAAAKS4/x1y6Yn8na4M/s1600/20110406-chinese-appetizers-dumplings-16.jpg" alt="" width="400" height="300" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-paNKtpmgSJI/VI9C4ddwyTI/AAAAAAAAKS4/x1y6Yn8na4M/s1600/20110406-chinese-appetizers-dumplings-16.jpg"><img src="https://4.bp.blogspot.com/-paNKtpmgSJI/VI9C4ddwyTI/AAAAAAAAKS4/x1y6Yn8na4M/s1600/20110406-chinese-appetizers-dumplings-16.jpg" alt="" width="400" height="300" border="0" /></a>
 
 
 
@@ -106,7 +106,7 @@ Don&#8217;t get me wrong, I love living in Deutschland. It&#8217;s been six mont
 
 
 
-  Dumplings pictures from <a href="http://www.seriouseats.com/2011/04/homemade-fried-dumplings-pork-chinese-appetizers-slideshow.html">here</a>
+  Dumplings pictures from <a href="https://www.seriouseats.com/2011/04/homemade-fried-dumplings-pork-chinese-appetizers-slideshow.html">here</a>
 
 
 
@@ -114,7 +114,7 @@ Don&#8217;t get me wrong, I love living in Deutschland. It&#8217;s been six mont
 
 
 
-  <span style="background-color: white; line-height: 20.7900009155273px;">I&#8217;ve been seriously craving Asian dumplings since I left Melbourne. I really miss <a style="background-color: white; line-height: 20.7900009155273px; text-decoration: none;" href="http://www.broadsheet.com.au/melbourne/food-and-drink/directory/restaurant/shandong-mama">ShanDon Mama </a><span style="background-color: white; line-height: 20.7900009155273px;">and  of course <a style="background-color: white; line-height: 20.7900009155273px; text-decoration: none;" href="http://www.urbanspoon.com/r/71/760392/restaurant/CBD/Camy-Shanghai-Dumpling-Melbourne">Camy Shanghai Dumpling House</a><span style="background-color: white; line-height: 20.7900009155273px;">! There&#8217;s a couple of places where I can buy frozen ones here in Leipzig and of course I make my own dumplings and <a style="background-color: white; line-height: 20.7900009155273px; text-decoration: none;" href="http://atravellingcook.com/2014/07/pierogies.html">pierogies </a><span style="background-color: white; line-height: 20.7900009155273px;">but it&#8217;s not the same as a huge bamboo basket of steaming dumplings served with chilli oil, soy sauce and vinegar and a plate of garlic Chinese broccoli! (Eat them fast while the rest are coming and drink your weight in Jasmine tea).  South east asian food here generally is sold from a restaurant which sells a mishmash of Chinese,Vietnamese, Thai, Indian and pizza, most of which contains pork. There&#8217;s one Vietnamese place we really like but it doesn&#8217;t do dumplings, probably a good thing. 
+  <span style="background-color: white; line-height: 20.7900009155273px;">I&#8217;ve been seriously craving Asian dumplings since I left Melbourne. I really miss <a style="background-color: white; line-height: 20.7900009155273px; text-decoration: none;" href="https://www.broadsheet.com.au/melbourne/food-and-drink/directory/restaurant/shandong-mama">ShanDon Mama </a><span style="background-color: white; line-height: 20.7900009155273px;">and  of course <a style="background-color: white; line-height: 20.7900009155273px; text-decoration: none;" href="https://www.urbanspoon.com/r/71/760392/restaurant/CBD/Camy-Shanghai-Dumpling-Melbourne">Camy Shanghai Dumpling House</a><span style="background-color: white; line-height: 20.7900009155273px;">! There&#8217;s a couple of places where I can buy frozen ones here in Leipzig and of course I make my own dumplings and <a style="background-color: white; line-height: 20.7900009155273px; text-decoration: none;" href="https://atravellingcook.com/2014/07/pierogies.html">pierogies </a><span style="background-color: white; line-height: 20.7900009155273px;">but it&#8217;s not the same as a huge bamboo basket of steaming dumplings served with chilli oil, soy sauce and vinegar and a plate of garlic Chinese broccoli! (Eat them fast while the rest are coming and drink your weight in Jasmine tea).  South east asian food here generally is sold from a restaurant which sells a mishmash of Chinese,Vietnamese, Thai, Indian and pizza, most of which contains pork. There&#8217;s one Vietnamese place we really like but it doesn&#8217;t do dumplings, probably a good thing. 
 
 
 
@@ -157,4 +157,4 @@ Don&#8217;t get me wrong, I love living in Deutschland. It&#8217;s been six mont
 
 
 
-  See also <a href="http://atravellingcook.com/2014/12/everyday-german-conveniences-youll-miss-in-australia.html">everyday German products you&#8217;ll miss in Australia&#8230;</a>
+  See also <a href="https://atravellingcook.com/2014/12/everyday-german-conveniences-youll-miss-in-australia.html">everyday German products you&#8217;ll miss in Australia&#8230;</a>

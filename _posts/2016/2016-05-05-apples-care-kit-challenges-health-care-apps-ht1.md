@@ -49,7 +49,7 @@ author:
 ---
 Apple has been instrumental in pairing medicine and mobile technology
 through its series of kits. In March 2015, they launched
-[ResearchKit](http://www.apple.com/pr/library/2015/03/09Apple-Introduces-ResearchKit-Giving-Medical-Researchers-the-Tools-to-Revolutionize-Medical-Studies.html),
+[ResearchKit](https://www.apple.com/pr/library/2015/03/09Apple-Introduces-ResearchKit-Giving-Medical-Researchers-the-Tools-to-Revolutionize-Medical-Studies.html),
 an open source software framework to help scientists and doctors not
 only create medical apps but also recruit patients for clinical trials
 and research products.
@@ -63,7 +63,7 @@ and GPS sensors in iPhone to gain insight into a patient’s gait, motor
 impairment, fitness, speech and memory.
 
 In March this year, they [announced
-CareKit](http://www.apple.com/pr/library/2016/03/21Apple-Advances-Health-Apps-with-CareKit.html),
+CareKit](https://www.apple.com/pr/library/2016/03/21Apple-Advances-Health-Apps-with-CareKit.html),
 a new development framework for clinical care apps. The software is
 designed help developers enable people to actively manage their own
 medical conditions through app-based care plans, and symptom and
@@ -108,14 +108,14 @@ regulation. At present they do not need to be designed by or in
 collaboration with health professionals or endorse tools or treatments
 that are subject to peer reviewed papers and research based trials.  For
 example, a [study
-released](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4376135/#ref68)in
+released](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4376135/#ref68)in
 2015 analyzing 243 depression apps available during 2013 revealed that
 many fail to incorporate evidence-based practices, health behavior
 theory, or clinical expertise into their design. The study excluded
 almost this many again for the lack of reporting of organizational
 affiliation and content sources.
 
-Likewise,[a study](http://www.ncbi.nlm.nih.gov/pubmed/26787311) was
+Likewise,[a study](https://www.ncbi.nlm.nih.gov/pubmed/26787311) was
 released this year of apps that explicitly included or advertised
 pregnancy prevention or decision-making support. Intensive analysis was
 undertaken of 18 apps. Of these,  41% of apps did not mention any modern
@@ -131,7 +131,7 @@ for unintended pregnancy prevention. The researcher further contend that
 > promoted."
 
 [Other research
-highlights](http://www.psychology.org.au/Content.aspx?ID=5850) the
+highlights](https://www.psychology.org.au/Content.aspx?ID=5850) the
 problem of clinical assessment of apps due to search terms/procedures
 used, the retail stores/research databases searched and the criteria
 that is used to determine app quality.
@@ -140,7 +140,7 @@ What is and isn't a health app?
 -------------------------------
 
 According to
-[guidelines](http://www.fda.gov/downloads/MedicalDevices/.../UCM263366.pdf)
+[guidelines](https://www.fda.gov/downloads/MedicalDevices/.../UCM263366.pdf)
 by the U.S. Food and Drug Administration (FDA)  in February 2015, apps
 that are considered a medical device category, require FDA review before
 they can go to market legally. A medical device can include software

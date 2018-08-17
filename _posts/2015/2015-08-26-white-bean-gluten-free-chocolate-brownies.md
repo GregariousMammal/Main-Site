@@ -4,7 +4,7 @@ title: White bean gluten free chocolate brownies
 date: 2015-08-26T17:47:23.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/?p=1256'
+guid: 'https://atravellingcook.com/?p=1256'
 permalink: /2015/08/white-bean-gluten-free-chocolate-brownies.html
 tags:
   - baking
@@ -16,7 +16,7 @@ format: image
 image: atc-migrate/2015/08/IMG_20150826_155628.jpg
 ---
 
-I've read quite a lot of recipes which use black beans as an alternative to flour in making brownies. I find the taste of black beans (and kidney beans) is too overpowering in baking from past experience so I used white (aka navy) beans instead. When you drain the beans, save the brine, you can use it to make vegan [meringues](http://atravellingcook.com/2015/05/egg-free-meringues.html) or [lemon butter](http://atravellingcook.com/2015/05/egg-free-lemon-butter.html) or even vegan [dumplings](http://atravellingcook.com/2015/08/egg-free-potato-dumplings.html)!
+I've read quite a lot of recipes which use black beans as an alternative to flour in making brownies. I find the taste of black beans (and kidney beans) is too overpowering in baking from past experience so I used white (aka navy) beans instead. When you drain the beans, save the brine, you can use it to make vegan [meringues](https://atravellingcook.com/2015/05/egg-free-meringues.html) or [lemon butter](https://atravellingcook.com/2015/05/egg-free-lemon-butter.html) or even vegan [dumplings](https://atravellingcook.com/2015/08/egg-free-potato-dumplings.html)!
 
 This recipe makes quite a squigy type of brownie that is fudgy and chocolately and good! They bake quite dark so they aren't the easiest to photograph but they are delicious.
 

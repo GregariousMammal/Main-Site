@@ -34,4 +34,4 @@ Also on a hardware note, Hermstedt announced the latest version of their popular
 
 There were obviously many more exhibitors at the show, including, with new product releases, HP, Minolta, Canon, Arbiter, Dantz, Iomega, Macally, Corel, FileMaker and many, many more. MacExpo has always been one of the best (UK) Mac shows, and this year was no exception. With so many high-profile exhibitors attending, it was an encouraging and exciting show, reflecting well the current shape of the Mac market.
 
-Published in <a href="http://www.atpm.com" target="_blank">www.atpm.com</a>
+Published in <a href="https://www.atpm.com" target="_blank">www.atpm.com</a>

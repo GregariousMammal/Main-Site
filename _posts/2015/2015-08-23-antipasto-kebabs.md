@@ -4,7 +4,7 @@ title: Antipasto kebabs
 date: 2015-08-23T09:25:53.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/?p=1243'
+guid: 'https://atravellingcook.com/?p=1243'
 permalink: /2015/08/antipasto-kebabs.html
 tags:
   - Uncategorized
@@ -27,7 +27,7 @@ _Ingredients_
 -   cherry tomatoes
 -   pitted olives
 -   fresh basil leaves
--   [cashew yoghurt mozzarella](http://atravellingcook.com/2015/08/cashew-yoghurt-mozzarella.html)
+-   [cashew yoghurt mozzarella](https://atravellingcook.com/2015/08/cashew-yoghurt-mozzarella.html)
 -   Wooden skewers
 
 _Instructions:_

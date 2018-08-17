@@ -4,7 +4,7 @@ title: Cheesy potatoes in spiced herb oil
 date: 2015-08-18T19:00:56.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/?p=1223'
+guid: 'https://atravellingcook.com/?p=1223'
 permalink: /2015/08/potatoes-in-spiced-herb-oil.html
 tags:
   - cooking
@@ -39,7 +39,7 @@ Instructions:
 
 _Potatoes in spiced herb oil:_
 
-Here the use of [nutritional yeast](http://atravellingcook.com/2015/01/vegan-ingredients-resource-list.html) and rice flour makes a lovely cheesy flavoured crust on the potatoes, making them very moreish, this dish never has leftovers!
+Here the use of [nutritional yeast](https://atravellingcook.com/2015/01/vegan-ingredients-resource-list.html) and rice flour makes a lovely cheesy flavoured crust on the potatoes, making them very moreish, this dish never has leftovers!
 
 -   4-5 large potatoes, cut into pieces and precooked ( I pop them in the microwave on high for 5 minutes )
 -   2 tablespoons nutritional yeast
@@ -56,7 +56,7 @@ _Instructions:_
 
 _Other uses for Spiced herbed oil:_
 
--   Lightly saute onions, garlic and mushroom in the oil. Stir through cooked pasta or [potato dumplings](http://atravellingcook.com/2015/08/egg-free-potato-dumplings.html).
+-   Lightly saute onions, garlic and mushroom in the oil. Stir through cooked pasta or [potato dumplings](https://atravellingcook.com/2015/08/egg-free-potato-dumplings.html).
 -   Use as a flavour component for a quick curry, soup or sauce
 -   Roast carrots and pumpkin in it in the oven
 -   Dip bread in it (especially good if you use homemade bread) and have a little balsamic vinegar along side the oil.

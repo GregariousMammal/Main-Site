@@ -4,7 +4,7 @@ title: Mini mushroom pies
 date: 2015-09-10T15:49:47.000Z
 categories: Cate writing atravellingcook
 layout: post
-guid: 'http://atravellingcook.com/?p=1293'
+guid: 'https://atravellingcook.com/?p=1293'
 permalink: /2015/09/mini-mushroom-pies.html
 tags:
   - baking

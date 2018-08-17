@@ -4,7 +4,7 @@ title: Nettle Pesto
 date: 2015-05-24T16:45:26+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=937
+guid: https://atravellingcook.com/?p=937
 permalink: /2015/05/nettle-pesto.html
 tags:
   - berlin
@@ -24,7 +24,7 @@ format: image
 
 I&#8217;d never tried nettles until I made this pesto! They came from my 
 
-[first foraging trip in Berlin](http://atravellingcook.com/2015/05/allotment-gardens-and-foraging-in-berlin.html). They aren&#8217;t all that common in Australia (perhaps it&#8217;s too dry for them?), so when I started seeing nettles everywhere I decided I&#8217;d have to cook something with them. There&#8217;s a couple of types of nettles, these softer, non-prickly ones are most common:
+[first foraging trip in Berlin](https://atravellingcook.com/2015/05/allotment-gardens-and-foraging-in-berlin.html). They aren&#8217;t all that common in Australia (perhaps it&#8217;s too dry for them?), so when I started seeing nettles everywhere I decided I&#8217;d have to cook something with them. There&#8217;s a couple of types of nettles, these softer, non-prickly ones are most common:
 
 [<img class="aligncenter size-large wp-image-920" src="/images/atc-migrate/2015/05/2015-05-16-13.39.07-768x1024.jpg" alt="2015-05-16 13.39.07" width="768" height="1024" />](/images/atc-migrate/2015/05/2015-05-16-13.39.07.jpg)
 

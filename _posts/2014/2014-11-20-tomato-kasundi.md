@@ -4,7 +4,7 @@ title: Tomato kasundi
 date: 2014-11-20T18:50:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/11/tomato-kasundi.html
+guid: https://atravellingcook.com/2014/11/tomato-kasundi.html
 permalink: /2014/11/tomato-kasundi.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -22,7 +22,7 @@ tags:
   - vegan
 ---
 
-                              <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-oidkttZSc7E/VG4obEsAuhI/AAAAAAAAKC4/vJTFhKQ5z10/s1600/tomatokasund2.jpg"><img src="http://3.bp.blogspot.com/-oidkttZSc7E/VG4obEsAuhI/AAAAAAAAKC4/vJTFhKQ5z10/s1600/tomatokasund2.jpg" alt="" width="400" height="332" border="0" /></a><br /> <br />  
+                              <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-oidkttZSc7E/VG4obEsAuhI/AAAAAAAAKC4/vJTFhKQ5z10/s1600/tomatokasund2.jpg"><img src="https://3.bp.blogspot.com/-oidkttZSc7E/VG4obEsAuhI/AAAAAAAAKC4/vJTFhKQ5z10/s1600/tomatokasund2.jpg" alt="" width="400" height="332" border="0" /></a><br /> <br />  
 
   
     Tomato Kasundi is one of my favourite condiments to make. It enlivens a sandwich, works wonderfully as a dip, can be used to make a curry or makes any kind of &#8216;meat ball&#8217; taste sublime. It&#8217;s one of the most popular recipes I have taught and I make it in batches each year.  Right now in Australia I would be watering my tomato plants which I&#8217;d have planted at the start of November. In Germany it is growing colder and tomatoes are hydroponic or imported for warmer climates but I wanted to share this recipe for my Australian readers, as this is a wonderful recipe to make it bulk for Christmas gifts.

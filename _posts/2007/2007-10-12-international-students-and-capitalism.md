@@ -22,7 +22,7 @@ Considering the large amounts of money parted with (an average of $20,000 for a 
 
 These are all issues reiterated and reinforced by several SRCís specialising in International Students (and who once were International Students) in the Victorian University system. Everyone hopes that Victorian Universities remain able to cope with all who are willing to study and embrace the Australian Studentís way of life.
 
-And here's what they published : ![UTimes article](http://www.chinchilla-music.co.uk/images/other/Utimes.jpg)
+And here's what they published : ![UTimes article](https://www.chinchilla-music.co.uk/images/other/Utimes.jpg)
 
 A little different!
 

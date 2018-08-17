@@ -2,7 +2,7 @@
 layout: post
 title: Why your image of the world could be wrong
 event: 'Laneway learning, Melbourne'
-pres_url: 'http://www.slideshare.net/chrischinchilla/why-your-image-of-the-world-could-be-wrong'
+pres_url: 'https://www.slideshare.net/chrischinchilla/why-your-image-of-the-world-could-be-wrong'
 date: 2013-03-12T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/s6aiwxpc4pr5y5f/Mapping%20Presentation.pptx?dl=0'
 ---

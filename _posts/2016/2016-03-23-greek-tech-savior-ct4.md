@@ -66,7 +66,7 @@ sector is helping to lift the country's economic spirits.
 
 Plagued by one of the worst economic environments since the Great
 Depression, political uncertainty and [capital
-controls](http://www.economist.com/news/europe/21664223-modern-society-can-function-without-known-comforts-and-conveniences-life-under-capital-controls) that
+controls](https://www.economist.com/news/europe/21664223-modern-society-can-function-without-known-comforts-and-conveniences-life-under-capital-controls) that
 have stopped nearly all international payments in and out of the
 country, Greece’s mobile and tech companies have experienced it all.
 Some of these companies have not only survived but grown their
@@ -91,19 +91,19 @@ encompass both recent graduates and those laid off elsewhere due to the
 economic crisis.
 
 With them comes a massive startup community of hubs and co-working
-spaces, including [Coho](http://www.coho.gr/home/en/) in Thessaloniki
-and Colab, [The Cube](http://thecube.gr/), [Impact Hub
-Athens](http://athens.impacthub.net/en/) in Athens. Business incubators
+spaces, including [Coho](https://www.coho.gr/home/en/) in Thessaloniki
+and Colab, [The Cube](https://thecube.gr/), [Impact Hub
+Athens](https://athens.impacthub.net/en/) in Athens. Business incubators
 and shared work spaces have sprung up across Greece, and conferences and
 forums on entrepreneurship and innovation abound alongside innovation
-hubs like [Corallia](http://www.corallia.org/en/), [Start
-up Greece](http://www.startupgreece.gov.gr/) and [Endeavour
-Greece](http://endeavor.org.gr/) and organisations like the [Hellenic
+hubs like [Corallia](https://www.corallia.org/en/), [Start
+up Greece](https://www.startupgreece.gov.gr/) and [Endeavour
+Greece](https://endeavor.org.gr/) and organisations like the [Hellenic
 Association of Mobile Application Companies
-(HAMAC)](http://www.sekee.gr/default.aspx?lang=el-GR&page=1).
+(HAMAC)](https://www.sekee.gr/default.aspx?lang=el-GR&page=1).
 
 Many involve international support - like [Orange
-Grove](http://orangegrove.biz/), a workspace for young entrepreneurs
+Grove](https://orangegrove.biz/), a workspace for young entrepreneurs
 started by the Dutch embassy in Athens, together with a number of Dutch
 and  Greek tech sector corporate sponsors, charity foundations and
 universities. Its aim is to address the “brain drain” and youth
@@ -126,9 +126,9 @@ at Mobile World Congress in Barcelona. From smartphone makers to
 marketing & payments, the participating companies represented the whole
 ecosystem of innovation and technology in the country.
 
-Spyros Karababas from [Soft Web](http://www.softweb.gr/en/), a company
+Spyros Karababas from [Soft Web](https://www.softweb.gr/en/), a company
 that specialises  in developing [web - mobile
-applications](https://play.google.com/store/apps/developer?id=SOFTWeb%20-%20Adaptive%20I.T.%20Solutions&hl=elhttp://pocketwarp.com/) and
+applications](https://play.google.com/store/apps/developer?id=SOFTWeb%20-%20Adaptive%20I.T.%20Solutions&hl=elhttps://pocketwarp.com/) and
 the delivery of i[ntegrated technology
 services](https://play.google.com/store/apps/developer?id=SOFTWeb%20-%20Adaptive%20I.T.%20Solutions&hl=el), explains
 the appeal of international networking to Greek startups. "The economic
@@ -170,10 +170,10 @@ solutions."
 One area of success is with startups focusing on the industries that are
 popular in Greece already, like tourism and hospitality. Tourism
 accounts for [a
-quarter](http://www.wsj.com/articles/can-greek-businesses-even-survive-1423615283) of
+quarter](https://www.wsj.com/articles/can-greek-businesses-even-survive-1423615283) of
 the economy in Greece, and the country ranks as the [seventh most
 popular
-destination](http://techcrunch.com/2015/07/13/securing-startups-will-be-yet-another-gauntlet-for-greece/) in
+destination](https://techcrunch.com/2015/07/13/securing-startups-will-be-yet-another-gauntlet-for-greece/) in
 the world. Soft Web has created many web-to-mobile apps in the tourism
 and hospitality sectors and also has clients in the US, London and The
 Netherlands.
@@ -186,8 +186,8 @@ width="538" height="538"} A Greek tech startup roundtable in
 Athens\[/caption\]
 
 I also spoke to Michalis Petrou, founder and creative director
-of [Saintiago](http://nutrinsider.wix.com/saintiago), and creator
-of [nutrINsider](http://www.nutrinsider.gr/), an all-in-one supermarket
+of [Saintiago](https://nutrinsider.wix.com/saintiago), and creator
+of [nutrINsider](https://www.nutrinsider.gr/), an all-in-one supermarket
 app, which organizes supermarket shopping through lists of products and
 provides nutritional advice. It also helps manufacturers to reach
 consumers with branded shopping offers, relevant recipes** **and other
@@ -204,9 +204,9 @@ anyway," Petrou says.
 
 With an educated and innovative workforce, and great traction with angel
 investors through structures like [EVEA Business Angels
-Network](http://www.businessangelsgreece.gr/) and [Angels Group by
+Network](https://www.businessangelsgreece.gr/) and [Angels Group by
 StartTech Ventures Incubation
-Fund](http://blog.starttechventures.com/?p=934), it's clear that
+Fund](https://blog.starttechventures.com/?p=934), it's clear that
 Greece's startup sector is healthy. With their reputation growing, we
 soon might see people emigrating *to* Greece to join the burgeoning tech
 scene.

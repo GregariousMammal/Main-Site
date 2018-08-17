@@ -16,6 +16,6 @@ So what of the music? It's hard to describe, as songs vary in style, another man
 
 The Noisettes debut album, What's the time Mr Wolf? will be out late September / early October on the small Side Salad label, a label with a penchant for food related puns, intriguingly the band have been signed by Motown in the US, so perhaps we can predict bigger success over the other side of the Atlantic than here, I can imagine the band working better in the US, but it will be a shame to lose them. The album has been produced by Cliff Norell who has a wide variety of previous credits under his belt from REM to Henry Rollins, Mansun and, ahem, All Saints. Before Shingai disappears into a wave of static she manages to explain to me what the album title is about, It's symbolic of the fact that you never know when your time is up, the Wolf can be anything, the bullet that kills you, the accident you have, so you have to make the most of life. There the interview ended, The Noisettes are a puzzle, but one well worth unravling.
 
-<a href="http://www.thenoisettes.com" target="_blank">www.thenoisettes.com</a>
+<a href="https://www.thenoisettes.com" target="_blank">www.thenoisettes.com</a>
 
 Published in Feature for Disorder magazine

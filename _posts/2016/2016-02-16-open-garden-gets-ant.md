@@ -52,7 +52,7 @@ using Bluetooth and Wi-Fi radio signals as long as they are no more than
 the company says, then messages can travel through the mesh of
 off-the-grid phones to cross the entire city within a few minutes. 
 
-[ANT](http://www.thisisant.com) is an ultra low power (ULP) wireless
+[ANT](https://www.thisisant.com) is an ultra low power (ULP) wireless
 networking protocol that enables direct connections between devices and
 can be found in everything from fitness sensors to apps and consumer
 devices, including over 200 million mobile devices.

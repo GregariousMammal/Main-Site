@@ -4,7 +4,7 @@ title: Making bread, renters style
 date: 2014-03-04T06:37:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/03/making-bread-renters-style.html
+guid: https://atravellingcook.com/2014/03/making-bread-renters-style.html
 permalink: /2014/03/making-bread-renters-style.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -23,7 +23,7 @@ tags:
   - vegan
 ---
 <div style="color: #212121; font-size: 14px; line-height: 21px; margin-bottom: 1.5em; padding: 0px;">
-                                                     <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-6i9tGDu4oC8/UxVlv2ByHcI/AAAAAAAAIME/z8mkr2sPJPw/s1600/Image+4.jpg"><img src="http://2.bp.blogspot.com/-6i9tGDu4oC8/UxVlv2ByHcI/AAAAAAAAIME/z8mkr2sPJPw/s1600/Image+4.jpg" alt="" width="298" height="400" border="0" /></a>
+                                                     <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-6i9tGDu4oC8/UxVlv2ByHcI/AAAAAAAAIME/z8mkr2sPJPw/s1600/Image+4.jpg"><img src="https://2.bp.blogspot.com/-6i9tGDu4oC8/UxVlv2ByHcI/AAAAAAAAIME/z8mkr2sPJPw/s1600/Image+4.jpg" alt="" width="298" height="400" border="0" /></a>
 
 
 <div style="color: #212121; font-size: 14px; line-height: 21px; margin-bottom: 1.5em; padding: 0px;">
@@ -32,7 +32,7 @@ tags:
 
 
 
-But I was intrigued to hear about the no knead bread method over at <a style="color: #156734; line-height: 1.5; margin: 0px; padding: 0px; text-decoration: none;" href="http://gourmetgirl-friend.blogspot.com.au/2013/03/baking-bread-real-deal.html">Gourmet Girlfriend&#8217;s blog </a>and instagram account. The recipe originates from Mark Bittman and was reproduced in the <a style="color: #156734; line-height: 1.5; margin: 0px; padding: 0px; text-decoration: none;" href="http://www.nytimes.com/2006/11/08/dining/081mrex.html">New York Times </a>and has been tried by zillions of people. I like that we&#8217;ve all made it a bit different and tried different variations. I like that by buying some bulk flour and yeast, I don&#8217;t need to go out and buy fancy bread. I can store it in a calico bag in the fridge instead of plastic wrapping. I can bake other things in the oven whilst baking the bread like pasta bakes and casseroles (negating the cost travel)<span style="line-height: 1.5; text-align: center;"> and the house smells amazing. I know what&#8217;s in the bread and it&#8217;s preservative free. 
+But I was intrigued to hear about the no knead bread method over at <a style="color: #156734; line-height: 1.5; margin: 0px; padding: 0px; text-decoration: none;" href="https://gourmetgirl-friend.blogspot.com.au/2013/03/baking-bread-real-deal.html">Gourmet Girlfriend&#8217;s blog </a>and instagram account. The recipe originates from Mark Bittman and was reproduced in the <a style="color: #156734; line-height: 1.5; margin: 0px; padding: 0px; text-decoration: none;" href="https://www.nytimes.com/2006/11/08/dining/081mrex.html">New York Times </a>and has been tried by zillions of people. I like that we&#8217;ve all made it a bit different and tried different variations. I like that by buying some bulk flour and yeast, I don&#8217;t need to go out and buy fancy bread. I can store it in a calico bag in the fridge instead of plastic wrapping. I can bake other things in the oven whilst baking the bread like pasta bakes and casseroles (negating the cost travel)<span style="line-height: 1.5; text-align: center;"> and the house smells amazing. I know what&#8217;s in the bread and it&#8217;s preservative free. 
 
 <div style="color: #212121; font-size: 14px; line-height: 21px; margin-bottom: 1.5em; padding: 0px;">
   <span style="font-family: Arial, Helvetica, sans-serif; font-weight: bold;">Ingredients
@@ -70,7 +70,7 @@ But I was intrigued to hear about the no knead bread method over at <a style="c
 </ol>
 
 
-  <a style="font-size: 14px; line-height: 21px; margin-left: 1em; margin-right: 1em;" href="http://1.bp.blogspot.com/-p3DwD3qtvlo/UxVlr5VhWMI/AAAAAAAAIL4/FRrt2hqBTRE/s1600/Image+2.jpg"><img src="http://1.bp.blogspot.com/-p3DwD3qtvlo/UxVlr5VhWMI/AAAAAAAAIL4/FRrt2hqBTRE/s1600/Image+2.jpg" alt="" width="298" height="400" border="0" /></a>
+  <a style="font-size: 14px; line-height: 21px; margin-left: 1em; margin-right: 1em;" href="https://1.bp.blogspot.com/-p3DwD3qtvlo/UxVlr5VhWMI/AAAAAAAAIL4/FRrt2hqBTRE/s1600/Image+2.jpg"><img src="https://1.bp.blogspot.com/-p3DwD3qtvlo/UxVlr5VhWMI/AAAAAAAAIL4/FRrt2hqBTRE/s1600/Image+2.jpg" alt="" width="298" height="400" border="0" /></a>
 
 
 
@@ -125,7 +125,7 @@ But I was intrigued to hear about the no knead bread method over at <a style="c
 
 
 <div style="color: #212121; font-size: 14px; line-height: 21px; margin-bottom: 1.5em; padding: 0px;">
-  <em style="margin: 0px; padding: 0px;">                                                         <a style="font-style: normal; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-UzYihR1POdM/UxVlrQWp3NI/AAAAAAAAILo/pyuJ4wTHEus/s1600/Image+1.jpg"><img src="http://2.bp.blogspot.com/-UzYihR1POdM/UxVlrQWp3NI/AAAAAAAAILo/pyuJ4wTHEus/s1600/Image+1.jpg" alt="" width="298" height="400" border="0" /></a></em>
+  <em style="margin: 0px; padding: 0px;">                                                         <a style="font-style: normal; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-UzYihR1POdM/UxVlrQWp3NI/AAAAAAAAILo/pyuJ4wTHEus/s1600/Image+1.jpg"><img src="https://2.bp.blogspot.com/-UzYihR1POdM/UxVlrQWp3NI/AAAAAAAAILo/pyuJ4wTHEus/s1600/Image+1.jpg" alt="" width="298" height="400" border="0" /></a></em>
 
 
 <div style="color: #212121; font-size: 14px; line-height: 21px; margin-bottom: 1.5em; padding: 0px;">
@@ -137,7 +137,7 @@ But I was intrigued to hear about the no knead bread method over at <a style="c
     I tried using self raising flour rather than plain flour out of curiousity more than anything and it produces a more spongey, cakey bread a bit more like home made muffins. I think it would work well in making French toast.
   </li>
   <li style="margin: 0px; padding: 0px;">
-                                                 <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-pNuBf4Z6XXs/UxVlsbEK8OI/AAAAAAAAIL0/qYR-JM9c0fg/s1600/Image+3.jpg"><img src="http://2.bp.blogspot.com/-pNuBf4Z6XXs/UxVlsbEK8OI/AAAAAAAAIL0/qYR-JM9c0fg/s1600/Image+3.jpg" alt="" width="298" height="400" border="0" /></a> 
+                                                 <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-pNuBf4Z6XXs/UxVlsbEK8OI/AAAAAAAAIL0/qYR-JM9c0fg/s1600/Image+3.jpg"><img src="https://2.bp.blogspot.com/-pNuBf4Z6XXs/UxVlsbEK8OI/AAAAAAAAIL0/qYR-JM9c0fg/s1600/Image+3.jpg" alt="" width="298" height="400" border="0" /></a> 
        
     
     
@@ -160,6 +160,6 @@ But I was intrigued to hear about the no knead bread method over at <a style="c
     <span style="font-family: Arial, Helvetica, sans-serif; line-height: 1.5;">Fancy a sweeter bread: add 1/4 cup sugar, 1 cup dried fruit of choice, 1 tablespoon cinnamon to the original mix
   </li>
   <li style="font-family: Georgia, 'Times New Roman', Times, serif; margin: 0px; padding: 0px;">
-                                                <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-EVG5zfUlXi0/UxVlw4-N-uI/AAAAAAAAIMM/z7eleize49g/s1600/Imagebread.jpg"><img src="http://4.bp.blogspot.com/-EVG5zfUlXi0/UxVlw4-N-uI/AAAAAAAAIMM/z7eleize49g/s1600/Imagebread.jpg" alt="" width="298" height="400" border="0" /></a>
+                                                <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-EVG5zfUlXi0/UxVlw4-N-uI/AAAAAAAAIMM/z7eleize49g/s1600/Imagebread.jpg"><img src="https://4.bp.blogspot.com/-EVG5zfUlXi0/UxVlw4-N-uI/AAAAAAAAIMM/z7eleize49g/s1600/Imagebread.jpg" alt="" width="298" height="400" border="0" /></a>
   </li>
 </ul>

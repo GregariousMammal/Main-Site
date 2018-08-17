@@ -4,7 +4,7 @@ title: New year, new blog
 date: 2014-01-01T05:47:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/01/new-year-new-blog.html
+guid: https://atravellingcook.com/2014/01/new-year-new-blog.html
 permalink: /2014/01/new-year-new-blog.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -20,7 +20,7 @@ tags:
   - Uncategorized
 ---
 
-  <a  href="http://1.bp.blogspot.com/-ghSfaRzjoDY/UsOdikFD5mI/AAAAAAAAH30/-Y-_mgZk96o/s1600/blog-update.gif"><img src="http://1.bp.blogspot.com/-ghSfaRzjoDY/UsOdikFD5mI/AAAAAAAAH30/-Y-_mgZk96o/s320/blog-update.gif" alt="" width="320" height="192" border="0" /></a>
+  <a  href="https://1.bp.blogspot.com/-ghSfaRzjoDY/UsOdikFD5mI/AAAAAAAAH30/-Y-_mgZk96o/s1600/blog-update.gif"><img src="https://1.bp.blogspot.com/-ghSfaRzjoDY/UsOdikFD5mI/AAAAAAAAH30/-Y-_mgZk96o/s320/blog-update.gif" alt="" width="320" height="192" border="0" /></a>
 
 
 

@@ -51,7 +51,7 @@ frameworks and toolkits unveiled in 2014.
 
 Douglas described Twitter's experiences using its own tools to build two
 showcase apps: magnetic poetry
-app [Cannonball](http://cannonballapp.io/) and [Furni](http://furni.xyz/),
+app [Cannonball](https://cannonballapp.io/) and [Furni](https://furni.xyz/),
 a sample furniture-store app. (These aren't new lines of business for
 Twitter—more like coding examples, as they're both available as open
 source on GitHub.) 

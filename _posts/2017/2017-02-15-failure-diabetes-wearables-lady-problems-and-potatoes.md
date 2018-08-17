@@ -15,11 +15,11 @@ In this episode Chris and Cate discuss failure, diabetes wearables, lady problem
 
 ## Articles mentioned
 
-- [Is diabetes the world’s most connected health condition?](http://readwrite.com/2017/01/12/is-diabetes-the-worlds-most-connected-health-condition-hl1/).
-- [Lady problems hackathon](http://ladyproblemshackathon.com/).
+- [Is diabetes the world’s most connected health condition?](https://readwrite.com/2017/01/12/is-diabetes-the-worlds-most-connected-health-condition-hl1/).
+- [Lady problems hackathon](https://ladyproblemshackathon.com/).
 - [A lawyer rewrote Instagram’s terms of use ‘in plain English’ so kids would know their privacy rights](https://www.washingtonpost.com/news/parenting/wp/2017/01/08/a-lawyer-rewrote-instagrams-terms-of-use-in-plain-english-so-kids-would-know-their-privacy-rights/?utm_term=.440cce74529d).
 - [How we got Linux on Windows](https://www.oreilly.com/ideas/how-we-got-linux-on-windows).
-- [RethinkDB: why we failed](http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html).
+- [RethinkDB: why we failed](https://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html).
 - [Why Our Super Bowl Ad Failed](https://medium.com/@CardsAgainstHumanity/why-our-super-bowl-ad-failed-2af66e6a976c#.ws8llgt88).
 - [Rocket AI](https://medium.com/the-mission/rocket-ai-2016s-most-notorious-ai-launch-and-the-problem-with-ai-hype-d7908013f8c9#.sp77q2pa7).
 - [The Data That Turned the World Upside Down](https://motherboard.vice.com/en_us/article/how-our-likes-helped-trump-win).

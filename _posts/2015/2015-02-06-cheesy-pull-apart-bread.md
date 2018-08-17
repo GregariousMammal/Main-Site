@@ -4,7 +4,7 @@ title: Cheesy pull apart bread
 date: 2015-02-06T12:48:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/02/cheesy-pull-apart-bread.html
+guid: https://atravellingcook.com/2015/02/cheesy-pull-apart-bread.html
 permalink: /2015/02/cheesy-pull-apart-bread.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -46,7 +46,7 @@ tags:
 
 
   
-    I&#8217;ll be adding this as a free recipe for my next ebook. (The <a href="http://atravellingcook.com/2015/01/my-new-recipe-ebook-australian-classics-veganised.html">first is</a> <a href="https://sellfy.com/p/2sEt/">still available</a> for only $3 with 50c going to the Asylum Seeker Resource Centre in Melbourne Australia). <br /> <br />                                    <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-nrYwjIdqp20/VNSpSTc7v2I/AAAAAAAAKmc/xTPpHhdR-Kk/s1600/2015-02-02%2B22.56.31.jpg"><img src="http://2.bp.blogspot.com/-nrYwjIdqp20/VNSpSTc7v2I/AAAAAAAAKmc/xTPpHhdR-Kk/s1600/2015-02-02%2B22.56.31.jpg" alt="" width="400" height="270" border="0" /></a>
+    I&#8217;ll be adding this as a free recipe for my next ebook. (The <a href="https://atravellingcook.com/2015/01/my-new-recipe-ebook-australian-classics-veganised.html">first is</a> <a href="https://sellfy.com/p/2sEt/">still available</a> for only $3 with 50c going to the Asylum Seeker Resource Centre in Melbourne Australia). <br /> <br />                                    <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-nrYwjIdqp20/VNSpSTc7v2I/AAAAAAAAKmc/xTPpHhdR-Kk/s1600/2015-02-02%2B22.56.31.jpg"><img src="https://2.bp.blogspot.com/-nrYwjIdqp20/VNSpSTc7v2I/AAAAAAAAKmc/xTPpHhdR-Kk/s1600/2015-02-02%2B22.56.31.jpg" alt="" width="400" height="270" border="0" /></a>
 
 
 
@@ -63,7 +63,7 @@ _Ingredients_
       Vegan butter or olive oil
     </li>
     <li>
-      Choice of fillings e.g: dairy free cheese, spring onions or <a href="http://atravellingcook.com/2014/02/edible-gifts-onion-jam.html">onion jam</a>, finely diced garlic, diced animal free chorizo or bacon, diced olives
+      Choice of fillings e.g: dairy free cheese, spring onions or <a href="https://atravellingcook.com/2014/02/edible-gifts-onion-jam.html">onion jam</a>, finely diced garlic, diced animal free chorizo or bacon, diced olives
     </li>
     <li>
       Dried herbs

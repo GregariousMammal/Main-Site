@@ -5,7 +5,7 @@ created_at: 2016-05-18 00:00:00 UTC
 author: ""
 categories: Chris media podcast
 tags: 
-orig_url: http://podcast.writethedocs.org/2016/05/18/bridging-gap-between-docs-support-neal-kaplan/
+orig_url: https://podcast.writethedocs.org/2016/05/18/bridging-gap-between-docs-support-neal-kaplan/
 layout: podcast
 ---
 

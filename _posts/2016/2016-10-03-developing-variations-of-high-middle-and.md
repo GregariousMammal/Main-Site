@@ -76,7 +76,7 @@ There are several distinct kinds of English documents and posts which
 might be provided you may utilize as a method of boosting your
 English-language skills. Actions and services which you supply are based
 on ways to creatively maximize your own abilities. Some educators
-recommend [level best for sale](http://topessaysforsale.com/) producing
+recommend [level best for sale](https://topessaysforsale.com/) producing
 just a little novel from your child's drawings. There's absolutely no
 method inside this hub to anticipate each one of the possible foci which
 might be requested in article requests, but it might notice the finest

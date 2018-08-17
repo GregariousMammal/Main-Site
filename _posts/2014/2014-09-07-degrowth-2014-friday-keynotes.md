@@ -8,7 +8,7 @@ tags: politics degrowth activism
 
 ## The Transition to a Sustainable Commons Society in Ecuador and beyond
 
-**Michelle Bauens, the [P2P Foundation](http://p2pfoundation.net/)** The [Nutrient dense project](http://nutrientdenseproject.com/) is a global community of farmers and civic scientists who believe that putting nutrients into the soil it will improve food growth rates. These projects will often receive no funding, so they have mutualised their research and practices. This knowledge and information is shareable and escapes the commodity model. This is the production of commons, not capital.
+**Michelle Bauens, the [P2P Foundation](https://p2pfoundation.net/)** The [Nutrient dense project](https://nutrientdenseproject.com/) is a global community of farmers and civic scientists who believe that putting nutrients into the soil it will improve food growth rates. These projects will often receive no funding, so they have mutualised their research and practices. This knowledge and information is shareable and escapes the commodity model. This is the production of commons, not capital.
 
 How do these people make a living? Some are funded by academia, some by the marketing economy. In the capitalist economy a vast percentage of the cost of an item is 'dead money', that factors in the cost of transport, IP and redundancy. If you can cut out these factors, costs can reduce. He suggests dividing between light and heavy products with items sourced globally and locally respectively.
 

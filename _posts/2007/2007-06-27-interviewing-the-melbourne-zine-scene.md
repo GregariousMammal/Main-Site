@@ -8,4 +8,4 @@ categories: Chris writing chrischinchilla
 
 Second interview with local zine dignitaries...
 
-<a href="http://www.indieoma.com/public_journal.php?d=cfecdb276f634854f3ef915e2e980c31" target="_blank">here it is</a>
+<a href="https://www.indieoma.com/public_journal.php?d=cfecdb276f634854f3ef915e2e980c31" target="_blank">here it is</a>

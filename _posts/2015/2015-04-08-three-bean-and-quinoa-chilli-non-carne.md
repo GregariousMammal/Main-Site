@@ -4,7 +4,7 @@ title: Three bean and quinoa Chilli non carne
 date: 2015-04-08T11:47:17+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=718
+guid: https://atravellingcook.com/?p=718
 permalink: /2015/04/three-bean-and-quinoa-chilli-non-carne.html
 tags:
   - cooking
@@ -23,7 +23,7 @@ format: image
 
 
 <div class="cntr">
-   I wanted to ramp my original <a title="chilli and tortillas" href="http://atravellingcook.com/2014/09/quick-and-easy-tortillas-and-quesadillas.html">chilli </a>up a noch so i came up with this recipe. It&#8217;s not particularly hot, I&#8217;m out of my beloved adobo chilli flakes. Luckily Chris is going the the States next month and can get me some more!
+   I wanted to ramp my original <a title="chilli and tortillas" href="https://atravellingcook.com/2014/09/quick-and-easy-tortillas-and-quesadillas.html">chilli </a>up a noch so i came up with this recipe. It&#8217;s not particularly hot, I&#8217;m out of my beloved adobo chilli flakes. Luckily Chris is going the the States next month and can get me some more!
 </section> 
 
 <section id="individual\_bottom" class="hide\_from_screen"> 
@@ -111,4 +111,4 @@ _ Instructions_
   2. Add the spices and dried herbs, then fry for 2 minutes
   3. Stir in the rest of beans, chickpeas, vegetables, quinoa, liquid smoke then add the stock.
   4.  Bring it to the boil, then reduce to a low heat and let it simmer for at least 1 hour, or until thickened and reduced, stirring regularly to avoid burning on the bottom.
-  5. Top with soy sour cream, avocado or guacamole and serve with rice, [tortillas](http://atravellingcook.com/2014/09/quick-and-easy-tortillas-and-quesadillas.html "Tortillas") or tacos.
+  5. Top with soy sour cream, avocado or guacamole and serve with rice, [tortillas](https://atravellingcook.com/2014/09/quick-and-easy-tortillas-and-quesadillas.html "Tortillas") or tacos.

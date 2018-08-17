@@ -13,4 +13,4 @@ So we dutifully bookmark them and close them all, resolute in the knowledge that
 
 This is one of the reasons I like OneTab so much, the browser tabs stay as a visual reminder without cluttering your screen or memory real estate. I can even compartment my life into work tabs, personal tabs, to-do tabs etc.
 
-Download from <a target="_blank" href="http://www.one-tab.com/">www.one-tab.com</a>
+Download from <a target="_blank" href="https://www.one-tab.com/">www.one-tab.com</a>

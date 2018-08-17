@@ -10,6 +10,6 @@ layout: podcast
 ---
 Chris speaks with the leads of two open source software foundations, Kris Borchers of the JavaScript Foundation, and Brian Behlendorf of the Hyperledge foundation at Collision conf. In the episode we speak about the progress of the foundations and open source software more broadly.
 
-http://gregariousmammal.com/podcast/
-http://gregariousmammal.com/support
-http://facebook.com/gregariousmammal/
+https://gregariousmammal.com/podcast/
+https://gregariousmammal.com/support
+https://facebook.com/gregariousmammal/

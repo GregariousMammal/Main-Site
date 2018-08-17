@@ -71,9 +71,9 @@ Commit To Showing Up
 
 Are you one of those people who RSVP "yes" to every tech meetup and
 Facebook invite but fail to attend? Being a no-show just to ease your
-[FOMO](http://www.slate.com/blogs/quora/2015/09/30/fomo_what_s_the_psychology_behind_the_fear_of_missing_out.html) isn't
+[FOMO](https://www.slate.com/blogs/quora/2015/09/30/fomo_what_s_the_psychology_behind_the_fear_of_missing_out.html) isn't
 just rude. It can [impact the ability for
-others](http://blog.thefetch.com/2013/08/03/the-golden-rules-of-meetup-etiquette/)
+others](https://blog.thefetch.com/2013/08/03/the-golden-rules-of-meetup-etiquette/)
 to attend and for organizers to cater appropriately. Use a calendar app
 to plan your time and don't overcommit.
 
@@ -88,7 +88,7 @@ Contribute To The Community 
 ![](rw-import/MTM1NTMwNjQ2MzUyMjA1MDc0-2.jpg)\
 
 [Techfugees
-hackathon](http://www.tentlandia.com/stories/using-tech-good-techfugees-australia)
+hackathon](https://www.tentlandia.com/stories/using-tech-good-techfugees-australia)
 in Sydney, Australia
 
 Tech folks are generally a benevolent bunch. Whether helping paint a new
@@ -97,7 +97,7 @@ the startup scene is generous with their time and money. If you would
 like to get on board, think about how you can help and commit to
 concrete actions like [helping
 refugees](https://readwrite.com/2015/12/11/tech-refugees-aid-organizations),
-employing [traditionally disadvantaged folk](http://www.code2040.org/)
+employing [traditionally disadvantaged folk](https://www.code2040.org/)
 in your workplace, or instituting a workplace scheme where staff can
 receive time off to work on volunteer projects. 
 
@@ -119,7 +119,7 @@ Change Your Workplace 
 
 A change of location can be a great way to revitalize your working week,
 especially if you don't have a traditional office. Try a [coworking
-space](http://coworkingmap.org/), library, or coffee shop. To stay in
+space](https://coworkingmap.org/), library, or coffee shop. To stay in
 touch with your colleagues, look at reducing time reading and writing
 emails and explore options like [Slack](https://slack.com/), [Google
 Hangouts](https://hangouts.google.com/), and
@@ -163,9 +163,9 @@ you really want your mother who calls the Internet "The Google" to
 figure out what to do with your email and social media accounts? It's no
 joking matter—one famous online writer, Leslie Harpold, [had her sites
 disappear after her family decided to let them
-expire](http://workbench.cadenhead.org/news/3579/why-leslie-harpolds-sites-disappeared).
+expire](https://workbench.cadenhead.org/news/3579/why-leslie-harpolds-sites-disappeared).
 Facebook has a [legacy
-option](http://newsroom.fb.com/news/2015/02/adding-a-legacy-contact/)
+option](https://newsroom.fb.com/news/2015/02/adding-a-legacy-contact/)
 where you can nominate a friend to manage your account upon your death,
 while [Twitter](https://support.twitter.com/forms/privacy) requires a
 person authorized to access them on behalf of your estate or an

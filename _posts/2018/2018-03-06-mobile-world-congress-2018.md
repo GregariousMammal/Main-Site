@@ -13,12 +13,12 @@ Chris and Cate attend [Mobile World Congress 2018](https://www.mobileworldcongre
 
 ## Links Mentioned
 
--   [Showstoppers](http://apps.showstoppers.com/shows/mwc2018/brochure_showstoppers_mwc_2018.pdf)
+-   [Showstoppers](https://apps.showstoppers.com/shows/mwc2018/brochure_showstoppers_mwc_2018.pdf)
 -   [4YFN](https://www.4yfn.com/event/4yfn-barcelona-2018/)
--   [Edgewater](http://www.edgewaterwireless.com/wifi3-explained/)
+-   [Edgewater](https://www.edgewaterwireless.com/wifi3-explained/)
 -   [BCom](https://b-com.com/en)
 -   [Greenwave](https://greenwavesystems.com)
--   [Italtel](http://www.italtel.com)
+-   [Italtel](https://www.italtel.com)
 -   [SailFish OS](https://www.engadget.com/2018/03/01/jolla-sailfish-os-team-interview-mwc/)
 -   [Waverly Labs](https://waverlylabs.com)
 - [PoLTE](https://polte.com)

@@ -4,7 +4,7 @@ title: Vegan oven baked donuts
 date: 2014-07-22T21:15:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/07/vegan-oven-baked-donuts.html
+guid: https://atravellingcook.com/2014/07/vegan-oven-baked-donuts.html
 permalink: /2014/07/vegan-oven-baked-donuts.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -24,7 +24,7 @@ tags:
   - vegetarian
 ---
 <div style="clear: both; margin: 0px; text-align: center;">
-  <a  href="http://4.bp.blogspot.com/-S89dom1T5PA/U87E35oNGTI/AAAAAAAAI98/bsEZS3Gdl6U/s1600/14533203347_cdbe44253a_z.jpg"><img class=" aligncenter" src="http://4.bp.blogspot.com/-S89dom1T5PA/U87E35oNGTI/AAAAAAAAI98/bsEZS3Gdl6U/s1600/14533203347_cdbe44253a_z.jpg" alt="" width="400" height="256" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-S89dom1T5PA/U87E35oNGTI/AAAAAAAAI98/bsEZS3Gdl6U/s1600/14533203347_cdbe44253a_z.jpg"><img class=" aligncenter" src="https://4.bp.blogspot.com/-S89dom1T5PA/U87E35oNGTI/AAAAAAAAI98/bsEZS3Gdl6U/s1600/14533203347_cdbe44253a_z.jpg" alt="" width="400" height="256" border="0" /></a>
 
 
 <div style="clear: both; margin: 0px; text-align: center;">
@@ -47,7 +47,7 @@ I&#8217;m not a huge fan of donuts but I really like these little ones. They are
   
 1 1-2 teaspoon dried yeast
   
-3/4 cup [lemon sugar ](http://atravellingcook.com/2014/07/lemon-sugar.html)
+3/4 cup [lemon sugar ](https://atravellingcook.com/2014/07/lemon-sugar.html)
   
 2 teaspoons cinnamon
 
@@ -61,7 +61,7 @@ _Instructions_
 
 
   <div style="clear: both; display: inline !important; text-align: center;">
-    <i><a  href="http://1.bp.blogspot.com/-O58bNI6edbQ/U87E3B0paPI/AAAAAAAAI-M/pkg2f7AyoW8/s1600/14532921238_38e78edafe_z.jpg"><img class=" aligncenter" src="http://1.bp.blogspot.com/-O58bNI6edbQ/U87E3B0paPI/AAAAAAAAI-M/pkg2f7AyoW8/s1600/14532921238_38e78edafe_z.jpg" alt="" width="320" height="212" border="0" /></a></i>
+    <i><a  href="https://1.bp.blogspot.com/-O58bNI6edbQ/U87E3B0paPI/AAAAAAAAI-M/pkg2f7AyoW8/s1600/14532921238_38e78edafe_z.jpg"><img class=" aligncenter" src="https://1.bp.blogspot.com/-O58bNI6edbQ/U87E3B0paPI/AAAAAAAAI-M/pkg2f7AyoW8/s1600/14532921238_38e78edafe_z.jpg" alt="" width="320" height="212" border="0" /></a></i>
   
 
 
@@ -85,7 +85,7 @@ _Instructions_
     <i></i> 
     
     <div style="clear: both; display: inline !important; text-align: center;">
-      <i><a  href="http://3.bp.blogspot.com/-BPsmNY9HaA4/U87E3KQ67aI/AAAAAAAAI9s/kU1hY1xoBv8/s1600/14532898590_856d6f2883_z.jpg"><img class=" aligncenter" src="http://3.bp.blogspot.com/-BPsmNY9HaA4/U87E3KQ67aI/AAAAAAAAI9s/kU1hY1xoBv8/s1600/14532898590_856d6f2883_z.jpg" alt="" width="265" height="400" border="0" /></a></i>
+      <i><a  href="https://3.bp.blogspot.com/-BPsmNY9HaA4/U87E3KQ67aI/AAAAAAAAI9s/kU1hY1xoBv8/s1600/14532898590_856d6f2883_z.jpg"><img class=" aligncenter" src="https://3.bp.blogspot.com/-BPsmNY9HaA4/U87E3KQ67aI/AAAAAAAAI9s/kU1hY1xoBv8/s1600/14532898590_856d6f2883_z.jpg" alt="" width="265" height="400" border="0" /></a></i>
     
   
   
@@ -99,7 +99,7 @@ _Instructions_
     
     
     <div style="clear: both; display: inline !important; text-align: center;">
-      <i><a  href="http://2.bp.blogspot.com/-qyzgo8YO4gk/U87E4KjIo4I/AAAAAAAAI94/H3edGMEaZeg/s1600/14719264062_a63a6dc05e_z.jpg"><img class=" aligncenter" src="http://2.bp.blogspot.com/-qyzgo8YO4gk/U87E4KjIo4I/AAAAAAAAI94/H3edGMEaZeg/s1600/14719264062_a63a6dc05e_z.jpg" alt="" width="400" height="265" border="0" /></a></i>
+      <i><a  href="https://2.bp.blogspot.com/-qyzgo8YO4gk/U87E4KjIo4I/AAAAAAAAI94/H3edGMEaZeg/s1600/14719264062_a63a6dc05e_z.jpg"><img class=" aligncenter" src="https://2.bp.blogspot.com/-qyzgo8YO4gk/U87E4KjIo4I/AAAAAAAAI94/H3edGMEaZeg/s1600/14719264062_a63a6dc05e_z.jpg" alt="" width="400" height="265" border="0" /></a></i>
     
   
   
@@ -115,7 +115,7 @@ _Instructions_
   
   
     <div style="clear: both; display: inline !important; text-align: center;">
-      <i><a  href="http://1.bp.blogspot.com/-_MqY4LGISus/U87E4mhyZsI/AAAAAAAAI-A/mTDQiT42Ftc/s1600/14739506943_963422ccf2_z.jpg"><img class=" aligncenter" src="http://1.bp.blogspot.com/-_MqY4LGISus/U87E4mhyZsI/AAAAAAAAI-A/mTDQiT42Ftc/s1600/14739506943_963422ccf2_z.jpg" alt="" width="320" height="176" border="0" /></a></i>
+      <i><a  href="https://1.bp.blogspot.com/-_MqY4LGISus/U87E4mhyZsI/AAAAAAAAI-A/mTDQiT42Ftc/s1600/14739506943_963422ccf2_z.jpg"><img class=" aligncenter" src="https://1.bp.blogspot.com/-_MqY4LGISus/U87E4mhyZsI/AAAAAAAAI-A/mTDQiT42Ftc/s1600/14739506943_963422ccf2_z.jpg" alt="" width="320" height="176" border="0" /></a></i>
     
     
     
@@ -129,7 +129,7 @@ _Instructions_
     
     
     <div style="clear: both; display: inline !important; text-align: center;">
-      <i><a  href="http://4.bp.blogspot.com/-rqtNqHflO8Y/U87E3Obp9rI/AAAAAAAAI9w/theAWSt-Gvk/s1600/14532991809_72355866ea_z.jpg"><img class=" aligncenter" src="http://4.bp.blogspot.com/-rqtNqHflO8Y/U87E3Obp9rI/AAAAAAAAI9w/theAWSt-Gvk/s1600/14532991809_72355866ea_z.jpg" alt="" width="292" height="320" border="0" /></a></i>
+      <i><a  href="https://4.bp.blogspot.com/-rqtNqHflO8Y/U87E3Obp9rI/AAAAAAAAI9w/theAWSt-Gvk/s1600/14532991809_72355866ea_z.jpg"><img class=" aligncenter" src="https://4.bp.blogspot.com/-rqtNqHflO8Y/U87E3Obp9rI/AAAAAAAAI9w/theAWSt-Gvk/s1600/14532991809_72355866ea_z.jpg" alt="" width="292" height="320" border="0" /></a></i>
     
     
     

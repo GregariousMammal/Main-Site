@@ -7,4 +7,4 @@ tags: music politics folk
 ---
 Politics in Folk music, part 1...
 
-Quite proud of this one, read it <a href="http://www.indieoma.com/public_journal.php?d=539fd53b59e3bb12d203f45a912eeaf2" target="_blank">here</a>.
+Quite proud of this one, read it <a href="https://www.indieoma.com/public_journal.php?d=539fd53b59e3bb12d203f45a912eeaf2" target="_blank">here</a>.

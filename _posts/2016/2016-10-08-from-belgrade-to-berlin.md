@@ -38,11 +38,11 @@ Many years ago I was a contributor to an Open Source CRM tool, and as an open so
 
 ### Nazi drug abuse
 
-This continuing theme is pure coincidence, but I find articles of possible historic conjecture fascinating. You're never sure how true it is, or what affect it had on anything. I don't even know what [this article](http://www.theguardian.com/books/2016/sep/25/blitzed-norman-ohler-adolf-hitler-nazi-drug-abuse-interview) says about drugs, but still it was a fascinating read and is an extract from a new book.
+This continuing theme is pure coincidence, but I find articles of possible historic conjecture fascinating. You're never sure how true it is, or what affect it had on anything. I don't even know what [this article](https://www.theguardian.com/books/2016/sep/25/blitzed-norman-ohler-adolf-hitler-nazi-drug-abuse-interview) says about drugs, but still it was a fascinating read and is an extract from a new book.
 
 ### Am I Introverted, or just rude
 
-I found [this article by Laura Berger](http://www.nytimes.com/2016/09/25/opinion/sunday/am-i-introverted-or-just-rude.html) an interesting criticism of our growing self-introspection. It does sometimes feel (especially in certain cultures) that we can excuse a lot of bad behaviour with a simple, "Oh that's OK, they're xxx" (Or, "I am xxx"). We have become afraid of questioning forms of bad behaviour in fear of offending a 'special snowflake'. Granted there are people with conditions that help or hinder their behaviour, but as this article discusses, a lot of the time, maybe we're empowering plainly rude people.
+I found [this article by Laura Berger](https://www.nytimes.com/2016/09/25/opinion/sunday/am-i-introverted-or-just-rude.html) an interesting criticism of our growing self-introspection. It does sometimes feel (especially in certain cultures) that we can excuse a lot of bad behaviour with a simple, "Oh that's OK, they're xxx" (Or, "I am xxx"). We have become afraid of questioning forms of bad behaviour in fear of offending a 'special snowflake'. Granted there are people with conditions that help or hinder their behaviour, but as this article discusses, a lot of the time, maybe we're empowering plainly rude people.
 
 ### The Decline of Stack Overflow
 
@@ -50,11 +50,11 @@ Stack Overflow is a member of a growing number of sites that we recognise as 'br
 
 ### The Man who brought you Brexit
 
-You have likely never heard of Sam Knight, and this [Guardian article](http://www.theguardian.com/politics/2016/sep/29/daniel-hannan-the-man-who-brought-you-brexit) will give you a lengthy insight into the man who has been one of the key players and visionaries behind the Brexit concept for decades. It didn't make me feel any better about the current situation, but I received satisfaction from the fact that here was one person on the whole movement who at least had some dedication to the cause.
+You have likely never heard of Sam Knight, and this [Guardian article](https://www.theguardian.com/politics/2016/sep/29/daniel-hannan-the-man-who-brought-you-brexit) will give you a lengthy insight into the man who has been one of the key players and visionaries behind the Brexit concept for decades. It didn't make me feel any better about the current situation, but I received satisfaction from the fact that here was one person on the whole movement who at least had some dedication to the cause.
 
 ### Does Cycling contribute to Gentrification
 
-The Guardian has had a lot of articles recently on 'Gentrification', and [this is another in a series](http://www.theguardian.com/cities/2016/oct/05/blame-bike-cycling-contribute-city-gentrification) of good analysis on the topic. Personally, I find the term 'Gentrification' a annoying general term to imply a dislike of change, without being specific about it's meaning. This article sparked a lot of comments on my Facebook post, so make up your own minds.
+The Guardian has had a lot of articles recently on 'Gentrification', and [this is another in a series](https://www.theguardian.com/cities/2016/oct/05/blame-bike-cycling-contribute-city-gentrification) of good analysis on the topic. Personally, I find the term 'Gentrification' a annoying general term to imply a dislike of change, without being specific about it's meaning. This article sparked a lot of comments on my Facebook post, so make up your own minds.
 
 
 Chinch out xx

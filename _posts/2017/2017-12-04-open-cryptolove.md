@@ -18,4 +18,4 @@ In this episode Cate and Chris tackle the rise of cryptocurrencies, love (past a
 -   [The Digital Ruins of a Forgotten Future](https://www.theatlantic.com/magazine/archive/2017/12/second-life-leslie-jamison/544149/).
 -   [FCC Plans to Gut Net Neutrality, Allow Internet 'Fast Lanes'](https://www.wired.com/story/fcc-prepares-to-unveil-plan-to-gut-net-neutrality/).
 -   [SoftBank makes offer for Uber shares at 30% discount](https://techcrunch.com/2017/11/27/softbank-makes-offer-for-uber-shares-at-30-discount/).
--   [Exclusive: Nearly 4 Million Bitcoins Lost Forever, New Study Says](http://fortune.com/2017/11/25/lost-bitcoins/).
+-   [Exclusive: Nearly 4 Million Bitcoins Lost Forever, New Study Says](https://fortune.com/2017/11/25/lost-bitcoins/).

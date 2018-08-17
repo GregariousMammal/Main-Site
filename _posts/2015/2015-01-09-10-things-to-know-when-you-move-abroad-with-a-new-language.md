@@ -4,7 +4,7 @@ title: '10 things to know when you move abroad  to  a new language*'
 date: 2015-01-09T21:20:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/01/10-things-to-know-when-you-move-abroad-with-a-new-language.html
+guid: https://atravellingcook.com/2015/01/10-things-to-know-when-you-move-abroad-with-a-new-language.html
 permalink: /2015/01/10-things-to-know-when-you-move-abroad-with-a-new-language.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -22,7 +22,7 @@ tags:
   - travelling
 ---
 
-  <a  href="http://2.bp.blogspot.com/-6auwzE8M9q8/U8vZtGr4URI/AAAAAAAAI8o/wXLJwJaQ2Mw/s1600/14455657807_9a67b097b6_z.jpg"><img class=" aligncenter" src="http://2.bp.blogspot.com/-6auwzE8M9q8/U8vZtGr4URI/AAAAAAAAI8o/wXLJwJaQ2Mw/s1600/14455657807_9a67b097b6_z.jpg" alt="" width="400" height="300" border="0" /></a>
+  <a  href="https://2.bp.blogspot.com/-6auwzE8M9q8/U8vZtGr4URI/AAAAAAAAI8o/wXLJwJaQ2Mw/s1600/14455657807_9a67b097b6_z.jpg"><img class=" aligncenter" src="https://2.bp.blogspot.com/-6auwzE8M9q8/U8vZtGr4URI/AAAAAAAAI8o/wXLJwJaQ2Mw/s1600/14455657807_9a67b097b6_z.jpg" alt="" width="400" height="300" border="0" /></a>
 
 
 
@@ -59,7 +59,7 @@ tags:
 
 
 
-                            <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-MLNoK9Eoyy0/VB7ZoMuyM8I/AAAAAAAAJhE/oo2Z8LBe7Co/s1600/Der%2BDie%2BDas.%2BThe%2BThe%2BThe_e7fdb4_4697433.jpg"><img src="http://4.bp.blogspot.com/-MLNoK9Eoyy0/VB7ZoMuyM8I/AAAAAAAAJhE/oo2Z8LBe7Co/s1600/Der%2BDie%2BDas.%2BThe%2BThe%2BThe_e7fdb4_4697433.jpg" alt="" width="400" height="302" border="0" /></a>
+                            <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-MLNoK9Eoyy0/VB7ZoMuyM8I/AAAAAAAAJhE/oo2Z8LBe7Co/s1600/Der%2BDie%2BDas.%2BThe%2BThe%2BThe_e7fdb4_4697433.jpg"><img src="https://4.bp.blogspot.com/-MLNoK9Eoyy0/VB7ZoMuyM8I/AAAAAAAAJhE/oo2Z8LBe7Co/s1600/Der%2BDie%2BDas.%2BThe%2BThe%2BThe_e7fdb4_4697433.jpg" alt="" width="400" height="302" border="0" /></a>
 
 
 <p style="text-align: left;">
@@ -71,7 +71,7 @@ tags:
 
 
 <div style="margin-bottom: 13.5pt; text-align: left;">
-                             <a style="font-family: Arial, Helvetica, sans-serif; margin-left: 1em; margin-right: 1em; text-align: center;" href="http://1.bp.blogspot.com/-C4yIcuUoEZw/UsN3wvnqGhI/AAAAAAAAH04/ssZqDHC96CI/s1600/11675292126_2ec5e1c721_z.jpg"><img src="http://1.bp.blogspot.com/-C4yIcuUoEZw/UsN3wvnqGhI/AAAAAAAAH04/ssZqDHC96CI/s1600/11675292126_2ec5e1c721_z.jpg" alt="" width="400" height="400" border="0" /></a>
+                             <a style="font-family: Arial, Helvetica, sans-serif; margin-left: 1em; margin-right: 1em; text-align: center;" href="https://1.bp.blogspot.com/-C4yIcuUoEZw/UsN3wvnqGhI/AAAAAAAAH04/ssZqDHC96CI/s1600/11675292126_2ec5e1c721_z.jpg"><img src="https://1.bp.blogspot.com/-C4yIcuUoEZw/UsN3wvnqGhI/AAAAAAAAH04/ssZqDHC96CI/s1600/11675292126_2ec5e1c721_z.jpg" alt="" width="400" height="400" border="0" /></a>
 
 
 <div style="margin-bottom: 13.5pt; text-align: left;">
@@ -87,7 +87,7 @@ tags:
 
 
 <div style="margin-bottom: 13.5pt; text-align: left;">
-  7. You will be completely floored and humbled by the kindness of fellow human beings. I&#8217;ve written before about the <a href="http://atravellingcook.com/2014/07/moving-to-germany-greetings-from-leipzig.html">problems with Mr Pablo&#8217;s trip to Deutschland</a> and the kindness of a Turkish taxi driver. People who live in Deutschland are by nature an extremely kind lot, even when communication is difficult I always find people try their best to help and appreciate your efforts when you are trying but failing. 
+  7. You will be completely floored and humbled by the kindness of fellow human beings. I&#8217;ve written before about the <a href="https://atravellingcook.com/2014/07/moving-to-germany-greetings-from-leipzig.html">problems with Mr Pablo&#8217;s trip to Deutschland</a> and the kindness of a Turkish taxi driver. People who live in Deutschland are by nature an extremely kind lot, even when communication is difficult I always find people try their best to help and appreciate your efforts when you are trying but failing. 
 
 
 <p style="text-align: left;">

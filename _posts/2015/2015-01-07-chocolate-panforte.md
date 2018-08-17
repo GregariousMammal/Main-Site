@@ -4,7 +4,7 @@ title: Chocolate panforte
 date: 2015-01-07T17:57:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/01/chocolate-panforte.html
+guid: https://atravellingcook.com/2015/01/chocolate-panforte.html
 permalink: /2015/01/chocolate-panforte.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -25,7 +25,7 @@ tags:
 ---
 
   
-    <a  href="http://2.bp.blogspot.com/-P-KaLqIPlKc/VK1lXxMDLMI/AAAAAAAAKXY/vhBsK5Fi2zM/s1600/5278481598_5e85afc167_o.jpg"><img src="http://2.bp.blogspot.com/-P-KaLqIPlKc/VK1lXxMDLMI/AAAAAAAAKXY/vhBsK5Fi2zM/s1600/5278481598_5e85afc167_o.jpg" alt="" width="400" height="265" border="0" /></a>
+    <a  href="https://2.bp.blogspot.com/-P-KaLqIPlKc/VK1lXxMDLMI/AAAAAAAAKXY/vhBsK5Fi2zM/s1600/5278481598_5e85afc167_o.jpg"><img src="https://2.bp.blogspot.com/-P-KaLqIPlKc/VK1lXxMDLMI/AAAAAAAAKXY/vhBsK5Fi2zM/s1600/5278481598_5e85afc167_o.jpg" alt="" width="400" height="265" border="0" /></a>
   
   
   
@@ -95,7 +95,7 @@ _
 _ 
 
 
-  <a  href="http://4.bp.blogspot.com/-epXwzb1cb8s/VK1lL-GQuZI/AAAAAAAAKXQ/25UtCGusS_Q/s1600/Panforte_everywhere.jpg"><img src="http://4.bp.blogspot.com/-epXwzb1cb8s/VK1lL-GQuZI/AAAAAAAAKXQ/25UtCGusS_Q/s1600/Panforte_everywhere.jpg" alt="" width="400" height="300" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-epXwzb1cb8s/VK1lL-GQuZI/AAAAAAAAKXQ/25UtCGusS_Q/s1600/Panforte_everywhere.jpg"><img src="https://4.bp.blogspot.com/-epXwzb1cb8s/VK1lL-GQuZI/AAAAAAAAKXQ/25UtCGusS_Q/s1600/Panforte_everywhere.jpg" alt="" width="400" height="300" border="0" /></a>
 
 
 

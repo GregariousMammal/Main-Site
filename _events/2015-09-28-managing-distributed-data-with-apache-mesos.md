@@ -5,7 +5,7 @@ categories: Chris
 
 title: Managing Distributed Databases with Apache Mesos
 event: Apache Big Data Europe
-pres_url: 'http://events.linuxfoundation.org/events/apache-big-data-europe/program/schedule'
+pres_url: 'https://events.linuxfoundation.org/events/apache-big-data-europe/program/schedule'
 date: 2015-09-28T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/js2j29krgrjf43s/Mesos%20Preso.key?dl=0'
 ---

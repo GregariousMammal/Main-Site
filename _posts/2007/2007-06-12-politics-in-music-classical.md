@@ -6,4 +6,4 @@ tags: music politics
 categories: Chris writing chrischinchilla
 ---
 
-My latest Indieoma post is the second installment of my series of articles on Politics in Music, this time it's the turn of Classical music, read it <a href="http://www.indieoma.com/public_journal.php?d=2a79ea27c279e471f4d180b08d62b00a" target="_blank">here</a>.
+My latest Indieoma post is the second installment of my series of articles on Politics in Music, this time it's the turn of Classical music, read it <a href="https://www.indieoma.com/public_journal.php?d=2a79ea27c279e471f4d180b08d62b00a" target="_blank">here</a>.

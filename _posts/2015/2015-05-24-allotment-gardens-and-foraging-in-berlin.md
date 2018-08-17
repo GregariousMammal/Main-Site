@@ -4,7 +4,7 @@ title: Allotment gardens and foraging in Berlin
 date: 2015-05-24T16:59:21+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/?p=907
+guid: https://atravellingcook.com/?p=907
 permalink: /2015/05/allotment-gardens-and-foraging-in-berlin.html
 tags:
   - cooking
@@ -18,7 +18,7 @@ tags:
 format: image
 ---
 
-  Recently, I was delighted to be invited foraging at a lovely park in Prenzlauer berg. The park borders on a little village of <a href="http://www.stadtentwicklung.berlin.de/umwelt/stadtgruen/geschichte/en/kleingaerten/index.shtml">allotment gardens</a>-there was even a tennis court and a little cafe! They are very popular, especially in East Germany, and highly sought after. (If you go to Leipzig I recommend the <a href="http://www.kleingarten-museum.de/english_guide">Deutsches Kleingärtnermuseum</a>).
+  Recently, I was delighted to be invited foraging at a lovely park in Prenzlauer berg. The park borders on a little village of <a href="https://www.stadtentwicklung.berlin.de/umwelt/stadtgruen/geschichte/en/kleingaerten/index.shtml">allotment gardens</a>-there was even a tennis court and a little cafe! They are very popular, especially in East Germany, and highly sought after. (If you go to Leipzig I recommend the <a href="https://www.kleingarten-museum.de/english_guide">Deutsches Kleingärtnermuseum</a>).
 
 
 
@@ -54,7 +54,7 @@ format: image
   
   
   
-    <a href="/images/atc-migrate/2015/05/2015-05-16-13.24.14.jpg"><img class="aligncenter size-large wp-image-909" src="/images/atc-migrate/2015/05/2015-05-16-13.24.14-768x1024.jpg" alt="2015-05-16 13.24.14" width="768" height="1024" /></a>Wild cherry tree<a href="/images/atc-migrate/2015/05/2015-05-16-13.32.10.jpg"><br /> </a> <a href="/images/atc-migrate/2015/05/2015-05-16-13.39.13.jpg"><br /> </a> <a href="/images/atc-migrate/2015/05/2015-05-16-13.26.20.jpg"><img class="aligncenter size-large wp-image-916" src="/images/atc-migrate/2015/05/2015-05-16-13.26.20-768x1024.jpg" alt="2015-05-16 13.26.20" width="768" height="1024" /></a> <a href="/images/atc-migrate/2015/05/2015-05-16-13.39.04.jpg"><img class="aligncenter size-large wp-image-917" src="/images/atc-migrate/2015/05/2015-05-16-13.39.04-768x1024.jpg" alt="2015-05-16 13.39.04" width="768" height="1024" /></a>Nettles and forget me nots. I made<a href="http://atravellingcook.com/2015/05/nettle-pesto.html"> Nettle pesto</a> and <a href="http://atravellingcook.com/2015/05/dandelion-syrup.html">dandelion syrup</a><a href="/images/atc-migrate/2015/05/2015-05-16-13.30.55.jpg"><br /> </a>
+    <a href="/images/atc-migrate/2015/05/2015-05-16-13.24.14.jpg"><img class="aligncenter size-large wp-image-909" src="/images/atc-migrate/2015/05/2015-05-16-13.24.14-768x1024.jpg" alt="2015-05-16 13.24.14" width="768" height="1024" /></a>Wild cherry tree<a href="/images/atc-migrate/2015/05/2015-05-16-13.32.10.jpg"><br /> </a> <a href="/images/atc-migrate/2015/05/2015-05-16-13.39.13.jpg"><br /> </a> <a href="/images/atc-migrate/2015/05/2015-05-16-13.26.20.jpg"><img class="aligncenter size-large wp-image-916" src="/images/atc-migrate/2015/05/2015-05-16-13.26.20-768x1024.jpg" alt="2015-05-16 13.26.20" width="768" height="1024" /></a> <a href="/images/atc-migrate/2015/05/2015-05-16-13.39.04.jpg"><img class="aligncenter size-large wp-image-917" src="/images/atc-migrate/2015/05/2015-05-16-13.39.04-768x1024.jpg" alt="2015-05-16 13.39.04" width="768" height="1024" /></a>Nettles and forget me nots. I made<a href="https://atravellingcook.com/2015/05/nettle-pesto.html"> Nettle pesto</a> and <a href="https://atravellingcook.com/2015/05/dandelion-syrup.html">dandelion syrup</a><a href="/images/atc-migrate/2015/05/2015-05-16-13.30.55.jpg"><br /> </a>
   
   
   
@@ -70,5 +70,5 @@ format: image
   
   
   
-    <a href="/images/atc-migrate/2015/05/Gartenzwerge_21881690.original.large-4-3-800-135-0-3136-2250.jpg"><img class="aligncenter size-large wp-image-934" src="/images/atc-migrate/2015/05/Gartenzwerge_21881690.original.large-4-3-800-135-0-3136-2250.jpg" alt="Gartenzwerge_21881690.original.large-4-3-800-135-0-3136-2250" width="666" height="499" /></a>The above two images are part of a series on allotment gardens in Berlin from<a href="http://www.berlin.de/special/immobilien-und-wohnen/balkon-und-garten/927039-739650-kleingartenwiemaneinenbekommtundwasdortp.html"> here</a>. I think they are lovely, so I wanted to include them! <a href="/images/atc-migrate/2015/05/2015-05-16-13.38.59.jpg"><br /> </a>
+    <a href="/images/atc-migrate/2015/05/Gartenzwerge_21881690.original.large-4-3-800-135-0-3136-2250.jpg"><img class="aligncenter size-large wp-image-934" src="/images/atc-migrate/2015/05/Gartenzwerge_21881690.original.large-4-3-800-135-0-3136-2250.jpg" alt="Gartenzwerge_21881690.original.large-4-3-800-135-0-3136-2250" width="666" height="499" /></a>The above two images are part of a series on allotment gardens in Berlin from<a href="https://www.berlin.de/special/immobilien-und-wohnen/balkon-und-garten/927039-739650-kleingartenwiemaneinenbekommtundwasdortp.html"> here</a>. I think they are lovely, so I wanted to include them! <a href="/images/atc-migrate/2015/05/2015-05-16-13.38.59.jpg"><br /> </a>
   

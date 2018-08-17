@@ -4,7 +4,7 @@ title: 'I&#8217;m still here&#8230;.'
 date: 2014-09-05T15:27:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/09/im-still-here.html
+guid: https://atravellingcook.com/2014/09/im-still-here.html
 permalink: /2014/09/im-still-here.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -24,7 +24,7 @@ tags:
     - writing
 ---
 
-  <a  href="http://2.bp.blogspot.com/-XM-QbITwM9I/VAnIHyQ4ztI/AAAAAAAAJZg/CyFK4Fr_X9U/s1600/1386356-bigthumbnail.jpg"><img src="http://2.bp.blogspot.com/-XM-QbITwM9I/VAnIHyQ4ztI/AAAAAAAAJZg/CyFK4Fr_X9U/s1600/1386356-bigthumbnail.jpg" alt="" width="400" height="365" border="0" /></a>
+  <a  href="https://2.bp.blogspot.com/-XM-QbITwM9I/VAnIHyQ4ztI/AAAAAAAAJZg/CyFK4Fr_X9U/s1600/1386356-bigthumbnail.jpg"><img src="https://2.bp.blogspot.com/-XM-QbITwM9I/VAnIHyQ4ztI/AAAAAAAAJZg/CyFK4Fr_X9U/s1600/1386356-bigthumbnail.jpg" alt="" width="400" height="365" border="0" /></a>
 
 
 Hello,

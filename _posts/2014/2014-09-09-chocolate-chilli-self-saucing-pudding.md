@@ -4,7 +4,7 @@ title: Chocolate chilli self saucing pudding
 date: 2014-09-09T12:27:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/09/chocolate-chilli-self-saucing-pudding.html
+guid: https://atravellingcook.com/2014/09/chocolate-chilli-self-saucing-pudding.html
 permalink: /2014/09/chocolate-chilli-self-saucing-pudding.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -22,7 +22,7 @@ tags:
   - vegan
 ---
 
-  <a  href="http://4.bp.blogspot.com/-hAUhB4Uxiws/VA7ju7KYuEI/AAAAAAAAJc0/FcFJe3mOM0Q/s1600/15187906095_49328dd709_z.jpg"><img src="http://4.bp.blogspot.com/-hAUhB4Uxiws/VA7ju7KYuEI/AAAAAAAAJc0/FcFJe3mOM0Q/s1600/15187906095_49328dd709_z.jpg" alt="" width="400" height="265" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-hAUhB4Uxiws/VA7ju7KYuEI/AAAAAAAAJc0/FcFJe3mOM0Q/s1600/15187906095_49328dd709_z.jpg"><img src="https://4.bp.blogspot.com/-hAUhB4Uxiws/VA7ju7KYuEI/AAAAAAAAJc0/FcFJe3mOM0Q/s1600/15187906095_49328dd709_z.jpg" alt="" width="400" height="265" border="0" /></a>
 
 
 I love chocolate puddings so I decided to make up a vegan one. It&#8217;s funny when I think that I used to buy these as a packet mix when I was younger, they are so easy to make from scratch! 
@@ -74,4 +74,4 @@ Sauce:
 
 *Add chilli flakes to taste based on what you&#8217;d normally put in your favourite savoury dish. Or you can leave them out of course!
 
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-m93aRlh9v5w/VA7ju0kSaII/AAAAAAAAJcw/0HGCA4te214/s1600/15184879261_6f31ed1c1a_z.jpg"><img src="http://3.bp.blogspot.com/-m93aRlh9v5w/VA7ju0kSaII/AAAAAAAAJcw/0HGCA4te214/s1600/15184879261_6f31ed1c1a_z.jpg" alt="" width="400" height="363" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-m93aRlh9v5w/VA7ju0kSaII/AAAAAAAAJcw/0HGCA4te214/s1600/15184879261_6f31ed1c1a_z.jpg"><img src="https://3.bp.blogspot.com/-m93aRlh9v5w/VA7ju0kSaII/AAAAAAAAJcw/0HGCA4te214/s1600/15184879261_6f31ed1c1a_z.jpg" alt="" width="400" height="363" border="0" /></a>

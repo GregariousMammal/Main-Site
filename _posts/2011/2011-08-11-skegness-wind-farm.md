@@ -7,4 +7,4 @@ categories: chrischinchilla writing
 tags: travel uk greatidea
 ---
 
-The <a href="http://www.skegnesspier.co.uk/windfarm.html" target="_blank">Skegness Wind farm</a> as you can see from the photos, they've located a wind farm in the sea, a great way to reduce NIMBYism.
+The <a href="https://www.skegnesspier.co.uk/windfarm.html" target="_blank">Skegness Wind farm</a> as you can see from the photos, they've located a wind farm in the sea, a great way to reduce NIMBYism.

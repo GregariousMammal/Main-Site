@@ -85,7 +85,7 @@ Know they have been hurt which you recognize so how upsetting it had been.
 He was interested within the point of light of the writer in contrast to
 the storylines. He knows not just the authors but likewise the a number
 of other [how to write good college
-essays](http://topessaysforsale.com/) writers who have any kind of bias.
+essays](https://topessaysforsale.com/) writers who have any kind of bias.
 Human interest stories are just a little of the identifying instance. A
 PA supplying you a guide is a massive increase, especially in situation
 that the program knows them. Because of this particular article, I Will

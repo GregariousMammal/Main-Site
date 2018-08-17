@@ -65,7 +65,7 @@ unimaginably big and adding way more packages as well. And right now,
 UPS and FedEx still leave you a ratty Post-It Note to let you know they
 missed you.
 
-Enter Finland's [Magic Add](http://www.magicadd.com/)  - they enable
+Enter Finland's [Magic Add](https://www.magicadd.com/)  - they enable
 packages to communicate with people. Readwrite spoke with CEO Samuli
 Manninen about the company.
 
@@ -78,16 +78,16 @@ Add utilitizes coding and sensor technology to enable everyday packaging
 to communicate.
 
 An example is their collaboration with packaging
-giant [Huhtamaki](http://www.huhtamaki.com/) to include a label on their
+giant [Huhtamaki](https://www.huhtamaki.com/) to include a label on their
 hot beverage cups, printed with a unique technology to connect the
 packaging with digital content. The coffee cups were distributed amongst
 Finland's ABC service stations. Once the customer purchased a beverage
 then connected the code to the Internet via their mobile, they were
 rewarded with two months of free usage of Nelonen Media’s
-[Ruutu+](http://www.ruutu.fi/plus) on-demand video service.
+[Ruutu+](https://www.ruutu.fi/plus) on-demand video service.
 
 This enabled customers can see episodes from the highly popular [Vain
-Elämää ](http://www.nelonen.fi/ohjelmat/vain-elamaa) (Just Life) series
+Elämää ](https://www.nelonen.fi/ohjelmat/vain-elamaa) (Just Life) series
 in advance before it aired on TV.  The result: a new means for Nelonen
 Media to reach out to more customers and make their Ruutu+ -service more
 known and used in Finland. At the same time the concept will make ABC’s

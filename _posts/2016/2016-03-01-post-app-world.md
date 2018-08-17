@@ -38,6 +38,6 @@ excerpt: Introducing Cyanogen's MOD integrated mobile platform
 [Cyanogen
 Inc](https://readwrite.com/2015/03/24/cyanogen-microsoft-team-up-google).
 is a company with an interesting history. It grew from a [community of
-open source mobile developers](http://www.cyanogenmod.org/) interested
+open source mobile developers](https://www.cyanogenmod.org/) interested
 in modifying their mobile phones into a successful business of
 third-party firmware. 

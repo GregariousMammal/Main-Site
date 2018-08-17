@@ -4,7 +4,7 @@ title: 6 Food trends I am completely over and 6 I am eagerly awaiting
 date: 2015-02-14T20:20:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2015/02/6-food-trends-i-am-completely-over-and-6-i-am-eagerly-awaiting.html
+guid: https://atravellingcook.com/2015/02/6-food-trends-i-am-completely-over-and-6-i-am-eagerly-awaiting.html
 permalink: /2015/02/6-food-trends-i-am-completely-over-and-6-i-am-eagerly-awaiting.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -26,7 +26,7 @@ tags:
   - vegetarian
 ---
 
-  Every so often food trends come and go from sun-dried tomatoes to focaccias to cupcakes and cronuts. Heck I&#8217;ve even been guilty of falling prey to the donut trend, making my own rather tasty <a href="http://atravellingcook.com/2014/07/vegan-oven-baked-donuts.html">vegan baked donuts</a>. As I write recipes and read food blogs, sometimes I see the same recipes again and again. They are usually exclaimed over as though no one else has over made them quite so good, but only the next day you&#8217;ll see another recipe pop up for raspberry and chia jam or mango and chia seed pudding.
+  Every so often food trends come and go from sun-dried tomatoes to focaccias to cupcakes and cronuts. Heck I&#8217;ve even been guilty of falling prey to the donut trend, making my own rather tasty <a href="https://atravellingcook.com/2014/07/vegan-oven-baked-donuts.html">vegan baked donuts</a>. As I write recipes and read food blogs, sometimes I see the same recipes again and again. They are usually exclaimed over as though no one else has over made them quite so good, but only the next day you&#8217;ll see another recipe pop up for raspberry and chia jam or mango and chia seed pudding.
 
 
 
@@ -38,7 +38,7 @@ tags:
 
 
 
-  I know that food trends, especially in vegan cooking, come from a desire to abstain from particular ingredients or an inability to eat certain food due to severe allergies. It&#8217;s great that people take the time to be inventive and create new food combinations. I don&#8217;t have to like all of them. Heck, I love quinoa and I&#8217;m not ashamed to admit it. I even made a <a href="http://atravellingcook.com/2015/01/gluten-free-cauliflower-pizza-base.html">cauliflower pizza base</a>! But it&#8217;s when I see them so many times that I start thinking that I wish they&#8217;d disappear&#8230;.
+  I know that food trends, especially in vegan cooking, come from a desire to abstain from particular ingredients or an inability to eat certain food due to severe allergies. It&#8217;s great that people take the time to be inventive and create new food combinations. I don&#8217;t have to like all of them. Heck, I love quinoa and I&#8217;m not ashamed to admit it. I even made a <a href="https://atravellingcook.com/2015/01/gluten-free-cauliflower-pizza-base.html">cauliflower pizza base</a>! But it&#8217;s when I see them so many times that I start thinking that I wish they&#8217;d disappear&#8230;.
 
 
 **Massaged kale**
@@ -47,7 +47,7 @@ tags:
 
 
 <div style="margin-left: 1em; margin-right: 1em; text-align: left;">
-  <a  href="http://1.bp.blogspot.com/-6xswxakQSKo/VN-W9wMxjyI/AAAAAAAAKqk/b8iY66zHS1o/s1600/5048814321_ee9f5f2dbd_b.jpg">                         <img src="http://1.bp.blogspot.com/-6xswxakQSKo/VN-W9wMxjyI/AAAAAAAAKqk/b8iY66zHS1o/s1600/5048814321_ee9f5f2dbd_b.jpg" alt="" width="400" height="266" border="0" /></a>
+  <a  href="https://1.bp.blogspot.com/-6xswxakQSKo/VN-W9wMxjyI/AAAAAAAAKqk/b8iY66zHS1o/s1600/5048814321_ee9f5f2dbd_b.jpg">                         <img src="https://1.bp.blogspot.com/-6xswxakQSKo/VN-W9wMxjyI/AAAAAAAAKqk/b8iY66zHS1o/s1600/5048814321_ee9f5f2dbd_b.jpg" alt="" width="400" height="266" border="0" /></a>
 
 
 <div style="margin-left: 1em; margin-right: 1em; text-align: left;">
@@ -62,7 +62,7 @@ Rubbing a bit of brassica (part of the cabbage family) in coconut oil until it u
 
 **Kale chips**
   
-<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-fRcg_RHtv_I/VN-WpqhtLDI/AAAAAAAAKqc/Z95aRJ_B3iw/s1600/8562907329_2c4b55321a_o.jpg"><img src="http://2.bp.blogspot.com/-fRcg_RHtv_I/VN-WpqhtLDI/AAAAAAAAKqc/Z95aRJ_B3iw/s1600/8562907329_2c4b55321a_o.jpg" alt="" width="400" height="400" border="0" /></a>
+<a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-fRcg_RHtv_I/VN-WpqhtLDI/AAAAAAAAKqc/Z95aRJ_B3iw/s1600/8562907329_2c4b55321a_o.jpg"><img src="https://2.bp.blogspot.com/-fRcg_RHtv_I/VN-WpqhtLDI/AAAAAAAAKqc/Z95aRJ_B3iw/s1600/8562907329_2c4b55321a_o.jpg" alt="" width="400" height="400" border="0" /></a>
   
 <span style="font-size: x-small;">                                             Image from <a style="font-size: small;" href="https://www.flickr.com/photos/ijokhio/8562907329/">here</a><span style="font-size: x-small;"> via Creative Commons
   
@@ -72,13 +72,13 @@ Rubbing a bit of brassica (part of the cabbage family) in coconut oil until it u
   
 **
   
-**                             <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://3.bp.blogspot.com/-wA-iA6LcpGA/VN-WSIfBmZI/AAAAAAAAKqU/7y4yr9P7K48/s1600/14064577967_ade8dba9bf_k.jpg"><img src="http://3.bp.blogspot.com/-wA-iA6LcpGA/VN-WSIfBmZI/AAAAAAAAKqU/7y4yr9P7K48/s1600/14064577967_ade8dba9bf_k.jpg" alt="" width="400" height="263" border="0" /></a>
+**                             <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://3.bp.blogspot.com/-wA-iA6LcpGA/VN-WSIfBmZI/AAAAAAAAKqU/7y4yr9P7K48/s1600/14064577967_ade8dba9bf_k.jpg"><img src="https://3.bp.blogspot.com/-wA-iA6LcpGA/VN-WSIfBmZI/AAAAAAAAKqU/7y4yr9P7K48/s1600/14064577967_ade8dba9bf_k.jpg" alt="" width="400" height="263" border="0" /></a>
   
 <span style="font-size: x-small;">                                       Image from <a style="font-size: small;" href="https://www.flickr.com/photos/tehchix0r/14064577967/in/photolist-82HvjL-82Ein4-82Hugj-qY1uQ8-qYaqg4-qFAUty-qFAUxS-qFGXMK-q2nGCB-q2nGGe-qVSfLj-q2abcS-qY5FXb-qYaqqT-qFGXHg-q2abfh-qFAUCS-niDj5g-5y7wuL-5y37ZT-5y34gK-5y34nH-5y7sJC-nqQD2z-bovrXM-nXZ4TG-ek6asQ-7KGL3Y-e7aeTp-g2xbhw-aK6LJi-f8GMMX-cc4yPE-oLs3h1-qQA9JC-f2XjGP-k2wikC-jXvsSR-k7Q4H2-o23F99-neDEyv-i8he7X-i8hqHy-i8hqWE-i8heTX-i8hf72-aywCZ1-eYiHmT-f6hNf1-ed1vYU">here </a><span style="font-size: x-small;">via Creative Commons
   
 <span style="font-size: x-small;"><br /> Yes, it&#8217;s healthy and an alternative to creamy, high fat desserts. But after they&#8217;ve been soaking a while, chia seeds resemble frogs eggs turning into tadpoles, all slimy. Did you ever study those at school? I did. It was a little bit creepy.
 
-And don&#8217;t get me started on chia jam, whilst it has it&#8217;s place, in my humble opinion it&#8217;s not as good as my [pear and vanilla](http://atravellingcook.com/2014/12/pear-and-vanilla-bean-jam.html) or [strawberry and rosewater jam](http://atravellingcook.com/2014/07/strawberry-fields-forever-strawberry-and-rosewater-jam-strawberry-cordial.html). Just saying.
+And don&#8217;t get me started on chia jam, whilst it has it&#8217;s place, in my humble opinion it&#8217;s not as good as my [pear and vanilla](https://atravellingcook.com/2014/12/pear-and-vanilla-bean-jam.html) or [strawberry and rosewater jam](https://atravellingcook.com/2014/07/strawberry-fields-forever-strawberry-and-rosewater-jam-strawberry-cordial.html). Just saying.
 
 
 
@@ -87,9 +87,9 @@ And don&#8217;t get me started on chia jam, whilst it has it&#8217;s place, in m
   
 **
   
-**                        <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-OZVfRUy2Y28/VN-VAaoE02I/AAAAAAAAKp4/8Lt1FlViTyU/s1600/Golden-Crusted-Brussels-Sprouts-Recipe.jpg"><img src="http://4.bp.blogspot.com/-OZVfRUy2Y28/VN-VAaoE02I/AAAAAAAAKp4/8Lt1FlViTyU/s1600/Golden-Crusted-Brussels-Sprouts-Recipe.jpg" alt="" width="400" height="266" border="0" /></a>
+**                        <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-OZVfRUy2Y28/VN-VAaoE02I/AAAAAAAAKp4/8Lt1FlViTyU/s1600/Golden-Crusted-Brussels-Sprouts-Recipe.jpg"><img src="https://4.bp.blogspot.com/-OZVfRUy2Y28/VN-VAaoE02I/AAAAAAAAKp4/8Lt1FlViTyU/s1600/Golden-Crusted-Brussels-Sprouts-Recipe.jpg" alt="" width="400" height="266" border="0" /></a>
   
-<span style="font-size: x-small;">                                  Image from <a href="http://glamradar.com/a-vegetarian-traditional-christmas-dinner-menu/">here</a> via Creative Commons
+<span style="font-size: x-small;">                                  Image from <a href="https://glamradar.com/a-vegetarian-traditional-christmas-dinner-menu/">here</a> via Creative Commons
 
 
   <span style="font-size: x-small;"> 
@@ -101,9 +101,9 @@ Brussel sprouts are very popular in Germany and as cheap as carrots and cabbages
   
 **
   
-**                           <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://4.bp.blogspot.com/-Hg8JlxM-Gi8/VN-VTpRLl5I/AAAAAAAAKqA/RjurYuF0U_c/s1600/green-456839_640.jpg"><img src="http://4.bp.blogspot.com/-Hg8JlxM-Gi8/VN-VTpRLl5I/AAAAAAAAKqA/RjurYuF0U_c/s1600/green-456839_640.jpg" alt="" width="400" height="266" border="0" /></a>
+**                           <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://4.bp.blogspot.com/-Hg8JlxM-Gi8/VN-VTpRLl5I/AAAAAAAAKqA/RjurYuF0U_c/s1600/green-456839_640.jpg"><img src="https://4.bp.blogspot.com/-Hg8JlxM-Gi8/VN-VTpRLl5I/AAAAAAAAKqA/RjurYuF0U_c/s1600/green-456839_640.jpg" alt="" width="400" height="266" border="0" /></a>
   
-<span style="font-size: x-small;">                                     Image from <a href="http://pixabay.com/en/green-smoothie-spinach-lifestyle-456839/">here </a>via Creative Commons
+<span style="font-size: x-small;">                                     Image from <a href="https://pixabay.com/en/green-smoothie-spinach-lifestyle-456839/">here </a>via Creative Commons
 
 
   <span style="font-size: x-small;"> 
@@ -115,7 +115,7 @@ Yes, I know, you have an amazing blender (the maker of which sponsors your blog 
   
 **
   
-**                                       <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-7HaJ1Df9M14/VN-V_fzfVWI/AAAAAAAAKqM/VzQJALmMxbA/s1600/11281688526_7c362487ba_k.jpg"><img src="http://2.bp.blogspot.com/-7HaJ1Df9M14/VN-V_fzfVWI/AAAAAAAAKqM/VzQJALmMxbA/s1600/11281688526_7c362487ba_k.jpg" alt="" width="285" height="400" border="0" /></a>
+**                                       <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-7HaJ1Df9M14/VN-V_fzfVWI/AAAAAAAAKqM/VzQJALmMxbA/s1600/11281688526_7c362487ba_k.jpg"><img src="https://2.bp.blogspot.com/-7HaJ1Df9M14/VN-V_fzfVWI/AAAAAAAAKqM/VzQJALmMxbA/s1600/11281688526_7c362487ba_k.jpg" alt="" width="285" height="400" border="0" /></a>
   
 <span style="font-size: x-small;">                                                   Image from <a href="https://www.flickr.com/photos/djwtwo/11281688526/in/photolist-ibVAX9-9B8Nth-fm38o3-4t4yyU-fTqWjG-2tr5R6-4Bk4kx-gUYUb-e7Csj3-9z2RTb-arQ19i-5uKfCL-dXnNH-7JbYZ5-5YyxKC-c9cSRf-GczkT-9K4b7T-9Ycj5J-2PK8r">here </a>via Creative Commons
   
@@ -126,7 +126,7 @@ Yes, I know, you have an amazing blender (the maker of which sponsors your blog 
 **Poutine**
 
 
-  <a  href="http://2.bp.blogspot.com/-kriej0yVsJ8/VN-d0ESd8YI/AAAAAAAAKq0/IiO97j-bUMw/s1600/702px-Poutine.JPG"><img src="http://2.bp.blogspot.com/-kriej0yVsJ8/VN-d0ESd8YI/AAAAAAAAKq0/IiO97j-bUMw/s1600/702px-Poutine.JPG" alt="" width="320" height="273" border="0" /></a>
+  <a  href="https://2.bp.blogspot.com/-kriej0yVsJ8/VN-d0ESd8YI/AAAAAAAAKq0/IiO97j-bUMw/s1600/702px-Poutine.JPG"><img src="https://2.bp.blogspot.com/-kriej0yVsJ8/VN-d0ESd8YI/AAAAAAAAKq0/IiO97j-bUMw/s1600/702px-Poutine.JPG" alt="" width="320" height="273" border="0" /></a>
 
 
 
@@ -135,7 +135,7 @@ Yes, I know, you have an amazing blender (the maker of which sponsors your blog 
 
 **
   
-** Hot chips with cheese curds and gravy. How could it be wrong? I tried it first in Montreal at the Jazz Festival, then was a regular at Melbourne&#8217;s [Lord of the Fries.](http://www.lordofthefries.com.au/) So good.
+** Hot chips with cheese curds and gravy. How could it be wrong? I tried it first in Montreal at the Jazz Festival, then was a regular at Melbourne&#8217;s [Lord of the Fries.](https://www.lordofthefries.com.au/) So good.
 
 **Linner**
   
@@ -151,7 +151,7 @@ Single unit dwellings are a thing. Many of us are couple or not but happily chil
 
 **More local fruits and vegetables**
   
-Since moved to Germany I&#8217;ve fallen in love with [kohlrabi](http://atravellingcook.com/2014/08/kohlrabi-coleslaw.html) and Schwarzwurzel (salsify). Back in Australia I loved bok choy, choy sum and chinese broccoli, (not so accessible except in asian grocers here) not to mention Lychees and Dragonfruit from Queensland. It&#8217;s fun to try things you haven&#8217;t had the opportunity to eat much of, or in turn cook your favourites in a new ways using local ingredients.
+Since moved to Germany I&#8217;ve fallen in love with [kohlrabi](https://atravellingcook.com/2014/08/kohlrabi-coleslaw.html) and Schwarzwurzel (salsify). Back in Australia I loved bok choy, choy sum and chinese broccoli, (not so accessible except in asian grocers here) not to mention Lychees and Dragonfruit from Queensland. It&#8217;s fun to try things you haven&#8217;t had the opportunity to eat much of, or in turn cook your favourites in a new ways using local ingredients.
 
 **More supperclubs and potlucks. **
   

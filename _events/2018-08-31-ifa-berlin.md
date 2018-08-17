@@ -8,5 +8,5 @@ date: 2018-08-31
 venue: Messe, Berlin
 image:
 pres_source: null
-pres_url: http://b2b.ifa-berlin.com/
+pres_url: https://b2b.ifa-berlin.com/
 ---

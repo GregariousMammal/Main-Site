@@ -4,7 +4,7 @@ title: Lemon barley cordial
 date: 2014-12-10T12:40:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/12/lemon-barley-cordial.html
+guid: https://atravellingcook.com/2014/12/lemon-barley-cordial.html
 permalink: /2014/12/lemon-barley-cordial.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -21,7 +21,7 @@ tags:
 ---
 
   
-    <a  href="http://3.bp.blogspot.com/-9ZLNoBxeitc/VIgxIehccMI/AAAAAAAAKN0/EVlMEm-snDE/s1600/1406817843.jpg"><img src="http://3.bp.blogspot.com/-9ZLNoBxeitc/VIgxIehccMI/AAAAAAAAKN0/EVlMEm-snDE/s1600/1406817843.jpg" alt="" width="400" height="228" border="0" /></a>
+    <a  href="https://3.bp.blogspot.com/-9ZLNoBxeitc/VIgxIehccMI/AAAAAAAAKN0/EVlMEm-snDE/s1600/1406817843.jpg"><img src="https://3.bp.blogspot.com/-9ZLNoBxeitc/VIgxIehccMI/AAAAAAAAKN0/EVlMEm-snDE/s1600/1406817843.jpg" alt="" width="400" height="228" border="0" /></a>
   
   
   

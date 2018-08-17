@@ -4,7 +4,7 @@ title: Jackfruit bournignon
 date: 2014-10-08T13:46:00+00:00
 categories: Cate writing atravellingcook
 layout: post
-guid: http://atravellingcook.com/2014/10/jackfruit-bournignon.html
+guid: https://atravellingcook.com/2014/10/jackfruit-bournignon.html
 permalink: /2014/10/jackfruit-bournignon.html
 blogger_blog:
   - atravellingcook.blogspot.com
@@ -24,7 +24,7 @@ tags:
 ---
 <blockquote style="text-align: left;">
   
-    <a  href="http://2.bp.blogspot.com/-jQIWUzyeAc8/VOXc68eIsMI/AAAAAAAAKr4/RV3bkeVxoT8/s1600/_DSC0039.JPG"><img src="http://2.bp.blogspot.com/-jQIWUzyeAc8/VOXc68eIsMI/AAAAAAAAKr4/RV3bkeVxoT8/s1600/_DSC0039.JPG" alt="" width="400" height="328" border="0" /></a>
+    <a  href="https://2.bp.blogspot.com/-jQIWUzyeAc8/VOXc68eIsMI/AAAAAAAAKr4/RV3bkeVxoT8/s1600/_DSC0039.JPG"><img src="https://2.bp.blogspot.com/-jQIWUzyeAc8/VOXc68eIsMI/AAAAAAAAKr4/RV3bkeVxoT8/s1600/_DSC0039.JPG" alt="" width="400" height="328" border="0" /></a>
   
   
   
@@ -33,18 +33,18 @@ tags:
 
  
 
-<span style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;">Have you ever tried jackfruit? I was looking for something different as an alternative to tofu or beans to make pies (aka puff pastry parcels) for the last Supper Club dinner party. Savoury pies don&#8217;t seem to be all that big here in Germany. I&#8217;ve been hearing about jackfruit for ages and when I found some at the Asian supermarket in Leipzig I decided to give it a go. According to <a style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;" href="http://en.wikipedia.org/wiki/Jackfruit">wikipedia</a><span style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;">:
+<span style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;">Have you ever tried jackfruit? I was looking for something different as an alternative to tofu or beans to make pies (aka puff pastry parcels) for the last Supper Club dinner party. Savoury pies don&#8217;t seem to be all that big here in Germany. I&#8217;ve been hearing about jackfruit for ages and when I found some at the Asian supermarket in Leipzig I decided to give it a go. According to <a style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;" href="https://en.wikipedia.org/wiki/Jackfruit">wikipedia</a><span style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;">:
   
 <span style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;"><br /> <span style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;">The  jackfruit tree is a widely cultivated and popular food in tropical regions of India, Bangladesh, Nepal, SriLanka, Cambodia, Vietnam, Thailand, Malaysia, Indonesia and the Phillipines. Jackfruit is also found across Africa and throughout Brazil. Jackfruit is the national fruit of Bangladesh. 
   
 <span style="font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;"><br /> 
 
 
-  <a  href="http://4.bp.blogspot.com/-TiaKgEjZYTc/VDUtc91Y6eI/AAAAAAAAJqE/1fCCswG-F2Y/s1600/jackfruit%2B(2).jpg"><img src="http://4.bp.blogspot.com/-TiaKgEjZYTc/VDUtc91Y6eI/AAAAAAAAJqE/1fCCswG-F2Y/s1600/jackfruit%2B(2).jpg" alt="" width="400" height="376" border="0" /></a>
+  <a  href="https://4.bp.blogspot.com/-TiaKgEjZYTc/VDUtc91Y6eI/AAAAAAAAJqE/1fCCswG-F2Y/s1600/jackfruit%2B(2).jpg"><img src="https://4.bp.blogspot.com/-TiaKgEjZYTc/VDUtc91Y6eI/AAAAAAAAJqE/1fCCswG-F2Y/s1600/jackfruit%2B(2).jpg" alt="" width="400" height="376" border="0" /></a>
 
 
 
-  Image from <a href="http://jackfruit-basics.blogspot.de/">here</a>
+  Image from <a href="https://jackfruit-basics.blogspot.de/">here</a>
 
 
 
@@ -55,7 +55,7 @@ tags:
 
 
 
-  <a  href="http://1.bp.blogspot.com/-zEcqZNSysxo/VCzBbWXVjEI/AAAAAAAAJms/tENvy4ny040/s1600/2014-09-24%2B23.08.24.jpg"><img src="http://1.bp.blogspot.com/-zEcqZNSysxo/VCzBbWXVjEI/AAAAAAAAJms/tENvy4ny040/s1600/2014-09-24%2B23.08.24.jpg" alt="" width="400" height="265" border="0" /></a>
+  <a  href="https://1.bp.blogspot.com/-zEcqZNSysxo/VCzBbWXVjEI/AAAAAAAAJms/tENvy4ny040/s1600/2014-09-24%2B23.08.24.jpg"><img src="https://1.bp.blogspot.com/-zEcqZNSysxo/VCzBbWXVjEI/AAAAAAAAJms/tENvy4ny040/s1600/2014-09-24%2B23.08.24.jpg" alt="" width="400" height="265" border="0" /></a>
 
 
 
@@ -147,4 +147,4 @@ tags:
 </ol>
 
 
-  <span style="font-family: Helvetica Neue, Arial, Helvetica, sans-serif; margin-left: 1em; margin-right: 1em; text-align: center;">                  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="http://2.bp.blogspot.com/-kLHa-Xp5SGQ/VCzBwmn6FxI/AAAAAAAAJoQ/mbqwCJLvCNc/s1600/2014-09-29%2B05.23.57.jpg"><img src="http://2.bp.blogspot.com/-kLHa-Xp5SGQ/VCzBwmn6FxI/AAAAAAAAJoQ/mbqwCJLvCNc/s1600/2014-09-29%2B05.23.57.jpg" alt="" width="400" height="265" border="0" /></a>
+  <span style="font-family: Helvetica Neue, Arial, Helvetica, sans-serif; margin-left: 1em; margin-right: 1em; text-align: center;">                  <a style="margin-left: 1em; margin-right: 1em; text-align: center;" href="https://2.bp.blogspot.com/-kLHa-Xp5SGQ/VCzBwmn6FxI/AAAAAAAAJoQ/mbqwCJLvCNc/s1600/2014-09-29%2B05.23.57.jpg"><img src="https://2.bp.blogspot.com/-kLHa-Xp5SGQ/VCzBwmn6FxI/AAAAAAAAJoQ/mbqwCJLvCNc/s1600/2014-09-29%2B05.23.57.jpg" alt="" width="400" height="265" border="0" /></a>

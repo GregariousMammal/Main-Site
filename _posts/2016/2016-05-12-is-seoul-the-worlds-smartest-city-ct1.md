@@ -62,13 +62,13 @@ In many ways, the city of Seoul is both a blueprint "how-to" guide for
 smart city development and a petri-dish for technological experiments.
 Almost every aspect of public life in Seoul is guided by technology,
 from its [integrated public transport
-system](http://city.lgcns.com/Contents/EN/Main/Main.aspx) to the
+system](https://city.lgcns.com/Contents/EN/Main/Main.aspx) to the
 government's emergency warning system.
 
 Companies like
 [Microsoft](https://citynetmembers.wordpress.com/2013/10/08/announcing-microsoft-citynext-joins-the-2013-citynet-seoul-congress/),
-[Cisco](http://www.cisco.com/web/KR/innovationcenter/songdo/index-en.html) and
-[LG](http://city.lgcns.com/Contents/EN/Main/Main.aspx) are just a few of
+[Cisco](https://www.cisco.com/web/KR/innovationcenter/songdo/index-en.html) and
+[LG](https://city.lgcns.com/Contents/EN/Main/Main.aspx) are just a few of
 those making technology omnipresent in the South Korean capital. It's a
 constantly evolving process and when you think of a new "smart city"
 technology, it's most likely that Seoul did it first - and probably some
@@ -84,7 +84,7 @@ world's smartest city.
 **Smart devices everywhere **
 
 According to a 2013
-[report](http://www.itu.int/dms_pub/itu-t/oth/23/01/T23010000190001PDFE.pdf),
+[report](https://www.itu.int/dms_pub/itu-t/oth/23/01/T23010000190001PDFE.pdf),
 Seoul has a history empowering residents to be connected to technology.
 In 2012, Seoul began distributing second-hand smart devices to
 low-income families and others in need. Citizens are encouraged to
@@ -137,7 +137,7 @@ police, fire departments and CCTV Control Centers.
 **Open Governance and Public Data**
 
 [Seoul’s open governance
-strategy](http://citynet-ap.org/wp-content/uploads/2014/06/Seoul-e-Government-English.pdf)
+strategy](https://citynet-ap.org/wp-content/uploads/2014/06/Seoul-e-Government-English.pdf)
 encourages transparent city governance and open communication between
 the city’s government and its citizens. Citizens and the private sector
 are consequently encouraged to make use of the city’s administrative
@@ -149,7 +149,7 @@ disabled-friendly facilities, unmanned certification-issuing equipment,
 restrooms, and construction sites.
 
 There is also the [Dasan Call
-Center,](http://120dasan.seoul.go.kr/foreign/english.html) a 24/7
+Center,](https://120dasan.seoul.go.kr/foreign/english.html) a 24/7
 government agency that fields all questions regarding city services.
 Residents can also book public services and utilities through the
 internet 24/7.
@@ -157,7 +157,7 @@ internet 24/7.
 **Eunpyeong u-City**
 
 [Eunpyeong
-u-City](http://city.lgcns.com/Contents/EN/CaseStudy/CaseView.aspx?pageNo=1&iclsNo=&caseNo=21&searchStr=%22)
+u-City](https://city.lgcns.com/Contents/EN/CaseStudy/CaseView.aspx?pageNo=1&iclsNo=&caseNo=21&searchStr=%22)
 is perhaps the most "Big Brother" example of a smart city. It's the
 result of a 7-year project completed in 2011 and now houses 45,000
 people on land covering 862 acres. Eunpyeong’s residents do not require
@@ -180,7 +180,7 @@ devices in citizen’s living rooms.
 .aligncenter width="604" height="411"}
 
 International grocery chain,
-[Tescos](http://www.telegraph.co.uk/technology/mobile-phones/8601147/Tesco-builds-virtual-shops-for-Korean-commuters.html)
+[Tescos](https://www.telegraph.co.uk/technology/mobile-phones/8601147/Tesco-builds-virtual-shops-for-Korean-commuters.html)
 has had virtual stores in Seoul in public spaces since 2011. Products
 are laid out just as they’d be in a traditional shop. The "shelves"
 feature QR codes which can be scanned by the traveller’s mobile phone,

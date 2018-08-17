@@ -2,7 +2,7 @@
 type: blogging
 layout: work
 title: Cult of Mac
-company_url: 'http://www.cultofmac.com/'
+company_url: 'https://www.cultofmac.com/'
 image: cultofmac.jpg
 category: Chris writing
 start_date: 2017

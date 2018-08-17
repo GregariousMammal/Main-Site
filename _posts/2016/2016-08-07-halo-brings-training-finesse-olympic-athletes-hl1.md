@@ -119,7 +119,7 @@ Even athletes need to learn to focus and relax
 ----------------------------------------------
 
 [Robby
-Smith](http://www.teamusa.org/USA-Wrestling/Athlete-Bios/SM/Robby-Smith),
+Smith](https://www.teamusa.org/USA-Wrestling/Athlete-Bios/SM/Robby-Smith),
 the U.S. Olympic wrestling team captain, is a Brain.Fm client. He
 explained how it's been helpful in relaxation and sleep inducement:
 

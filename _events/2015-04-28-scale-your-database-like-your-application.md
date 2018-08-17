@@ -5,7 +5,7 @@ categories: Chris
 
 title: Crate and Docker - Scale Your Database like Your Application
 event: Docker meetup Hamburg
-pres_url: 'http://www.meetup.com/Docker-Hamburg/events/221545081/'
+pres_url: 'https://www.meetup.com/Docker-Hamburg/events/221545081/'
 date: 2015-04-28T00:00:00.000Z
 pres_source: null
 ---

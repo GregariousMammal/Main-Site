@@ -57,7 +57,7 @@ finding staff to find, pack and deliver orders.
 
 The top three challenges facing supply chain executives, as identified
 by a [Deloitte and MHI
-survey](http://www2.deloitte.com/us/en/pages/about-deloitte/articles/press-releases/deloitte-mhi-annual-report.html),
+survey](https://www2.deloitte.com/us/en/pages/about-deloitte/articles/press-releases/deloitte-mhi-annual-report.html),
 are hiring and retaining a skilled workforce (58 percent), meeting
 customer demand for fast response times (56 percent) and lowering
 delivery costs (56 percent).
@@ -67,7 +67,7 @@ those challenges by working alongside human workers to pick and ship
 more products faster for less cost per pick.
 
 One company that's changing this is [inVia
-Robotics](http://www.inviarobotics.com/). They've developed the world’s
+Robotics](https://www.inviarobotics.com/). They've developed the world’s
 first “goods-to-box” robotics system, which was created to transform the
 fulfillment and material handling operations of e-commerce providers and
 warehouses. I spoke to CEO of inVia Robotics CEO Lior Elazary to learn
@@ -154,7 +154,7 @@ I queried whether in this instance, robots were taking jobs from under
 or unemployed people. Elazary explained that in his discussions with a
 diverse number of warehouses, they actually experience significant labor
 shortages  both in peak and long term periods. For example, their
-customer [LD Products](http://www.ldproducts.com/), one of the largest
+customer [LD Products](https://www.ldproducts.com/), one of the largest
 printer and office supplies companies, has automated what used to be
 manual processes and helped it overcome labor shortages and seasonality
 while scaling as its business grows.
@@ -164,7 +164,7 @@ warehouses are often in remote locations where no one wants to live much
 less travel to. The converse is that robotics can actually make the
 lives of warehouse employees better. I'm sure I'm not the only person
 who read ["The Life and Death of an Amazon Warehouse
-Temp"](http://highline.huffingtonpost.com/articles/en/life-and-death-amazon-temp/) a
+Temp"](https://highline.huffingtonpost.com/articles/en/life-and-death-amazon-temp/) a
 few years ago with a sense of horror and sadness.
 
 Elazary explained that where their robotics had been deployed  "workers

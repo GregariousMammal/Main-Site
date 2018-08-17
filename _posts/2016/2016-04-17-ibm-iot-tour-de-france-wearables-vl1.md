@@ -69,9 +69,9 @@ author:
   last_name: Lawrence
 ---
 In 2015, [Dimension
-Data](http://www.dimensiondata.com/en-US/Pages/NewHomePage1.aspx) became
+Data](https://www.dimensiondata.com/en-US/Pages/NewHomePage1.aspx) became
 the official technology partner for the** **[Tour de
-France](http://www.letour.fr/le-tour/2014/us/), the world’s largest and
+France](https://www.letour.fr/le-tour/2014/us/), the world’s largest and
 most prestigious cycling race. In support of their goal to revolutionize
 the viewing experience of billions of cycling fans across the globe,
 Dimension Data needed to analyze thousands of data points per second,
@@ -94,7 +94,7 @@ insights can be drawn from it. In the future, thanks to a new but
 related IBM technology, Quarks, cycling fans, broadcasters and team
 strategists could gain much deeper insights during the Tour.
 
-[Quarks](http://quarks-edge.github.io/) is an open source project that
+[Quarks](https://quarks-edge.github.io/) is an open source project that
 makes it makes it easier for developers to create IoT applications to
 analyze data on the edge of their networks.
 
@@ -241,7 +241,7 @@ gain more excitement.
 
 *Nagui*: We've been approached by different industries, including horse
 racing and also the [Indianapolis Motor
-Speedway](http://www.indianapolismotorspeedway.com/). Conversely, we
+Speedway](https://www.indianapolismotorspeedway.com/). Conversely, we
 offer similar depths of data in monitoring patients with the treatment
 of their diabetes. Quark is applicable in so many different spaces.
 
