@@ -90,43 +90,8 @@ picture:
   output: generated
   markup: picture
   presets:
-    default:
-      # ppi: [1, 1.5]
-      attr:
-        class: default-image
-        itemprop: image
-      source_lrg:
-        media: "(min-width: 40em)"
-        width: 700
-      source_med:
-        media: "(min-width: 30em)"
-        width: 450
-      source_default:
-        width: 350
-        height: 200
-    categories:
-      ppi: [1, 1.5, 2]
-      attr:
-        class: medium-screen
-        itemprop: image
-      source_medium:
-        media: "(min-width: 40em)"
-        width: 450
-      source_default:
-        width: 200
-    article:
-      ppi: [1, 1.5, 2]
-      attr:
-        class: medium-screen
-        itemprop: image
-      source_medium:
-        media: "(min-width: 40em)"
-        width: 350
-        # height: 200
-      source_default:
-        width: 350
     icon:
-      ppi: [1, 1.5, 2]
+      ppi: [1, 2]
       attr:
         class: small-screen
         itemprop: image
@@ -137,7 +102,7 @@ picture:
       source_default:
         width: 45
     merch:
-      ppi: [1, 1.5, 2]
+      ppi: [1, 2]
       attr:
         class: small-screen
         itemprop: image
@@ -147,40 +112,8 @@ picture:
         # height: 200
       source_default:
         width: 120
-    service:
-      ppi: [1, 1.5, 2]
-      attr:
-        class: service
-        itemprop: image
-      source_medium:
-        media: "(min-width: 40em)"
-        width: 200
-        # height: 200
-      source_default:
-        width: 200
-    mediumscreen:
-      ppi: [1, 1.5, 2]
-      attr:
-        class: medium-screen
-        itemprop: image
-      source_medium:
-        media: "(min-width: 40em)"
-        width: 400
-      source_default:
-        width: 400
-    smallscreen:
-      ppi: [1, 1.5, 2]
-      attr:
-        class: small-screen
-        itemprop: image
-      source_medium:
-        media: "(min-width: 40em)"
-        width: 100
-        # height: 200
-      source_default:
-        width: 100
     listings:
-      ppi: [1, 1.5, 2]
+      ppi: [1, 2]
       attr:
         class: listings
         itemprop: image
