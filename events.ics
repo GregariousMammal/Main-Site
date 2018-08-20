@@ -1,0 +1,28 @@
+---
+layout: none
+---
+{%- assign future_events = "" | split: "" -%}
+{%- assign currentDate = site.time -%}
+{%- for post in site.events -%}
+{%- if post.date > currentDate -%}
+{%- assign future_events = future_events | push: post -%}
+{%- endif -%}
+{%- endfor -%}
+
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:http://www.example.com/
+METHOD:PUBLISH
+{% for event in future_events %}
+BEGIN:VEVENT
+UID:{{ event.date | date: "%Y%m%d" }}@example.com
+ORGANIZER;CN="Organizer Name":MAILTO:organizer@example.org
+LOCATION:{{event.address}}
+SUMMARY:{{ event.event }}
+CLASS:PUBLIC
+DTSTART:{{ event.date | date: "%Y%m%d" }}T170000Z
+DTEND:{{ event.date | date: "%Y%m%d" }}T190000Z
+DTSTAMP:{{ event.date | date: "%Y%m%d" }}T170000Z
+END:VEVENT
+{% endfor %}
+END:VCALENDAR
