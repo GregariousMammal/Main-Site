@@ -49,9 +49,10 @@ collections:
       - {label: "Action", name: "action", widget: "select", options: ["to hear about", "to speak about"]}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Event", name: "event", widget: "string"}
+      - {label: "Event", name: "layout", widget: "hidden", default: "event"} 
       - {label: "Venue", name: "venue", widget: "string"}
       - {label: "Categories", name: "categories", widget: "select", options: ["Chris", "Cate", "Both"]}
       - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Presentation URL", name: "pre_url", widget: "string", required: false}
+      - {label: "Event URL", name: "pre_url", widget: "string"}
       - {label: "Presentation source", name: "pre_source", widget: "string", required: false}
-      - {label: "Date", name: "date", widget: "date",  format: "DD MM YY"}
+      - {label: "Date", name: "date", widget: "date",  format: "DD-MM-YY"}
