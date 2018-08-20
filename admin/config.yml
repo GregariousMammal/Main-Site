@@ -44,7 +44,7 @@ collections:
     label: "Events" # Used in the UI
     folder: "_events" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
+    slug: "{{year}}-{{month}}-{{day}}-{{event}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter
       - {label: "Action", name: "action", widget: "select", options: ["to hear about", "to speak about"]}
       - {label: "Title", name: "title", widget: "string"}
@@ -54,4 +54,4 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Presentation URL", name: "pre_url", widget: "string", required: false}
       - {label: "Presentation source", name: "pre_source", widget: "string", required: false}
-      - {label: "Date", name: "date", widget: "date",  format: "DD MM YY"}
+      - {label: "Date", name: "date", widget: "date",  format: "DD-MM-YY"}
