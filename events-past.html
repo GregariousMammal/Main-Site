@@ -16,14 +16,15 @@ pagination:
       </p>
     </div>
     <section>
+      {% assign past_events = "" | split: "" %}
+      {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+      {% for post in site.events %}
+      {% capture posttime %}{{post.start_date | date: '%s'}}{% endcapture %}
+      {% if posttime < nowunix %}
 
-        {% assign past_events = "" | split: "" %}
-        {% assign currentDate = site.time %}
-        {% for post in paginator.posts %}
-        {% if post.date < currentDate %}
-        {% assign past_events = past_events | push: post %}
-        {% endif %}
-        {% endfor %}
+      {% assign past_events = past_events | push: post %}
+      {% endif %}
+      {% endfor %}
 
         {% include event_list.html filtered_events = past_events %}
       </section>

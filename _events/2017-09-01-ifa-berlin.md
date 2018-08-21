@@ -4,7 +4,7 @@ layout: event
 categories: Both
 title: the latest tech news
 event: IFA
-date: 2017-09-01
+start_date: 2017-09-01
 venue: Messe, Berlin
 image:
 pres_source: null

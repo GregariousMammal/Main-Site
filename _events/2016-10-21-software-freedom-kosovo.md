@@ -5,7 +5,7 @@ categories: Chris
 
 title: What Ikea and Game Manuals Taught Me About Technical Writing
 event: Software Freedom Kosovo
-date: 2016-10-21T10:00:00.000Z
+start_date: 2016-10-21T10:00:00.000Z
 venue: 'RIT Kosovo, Shpetim Robaj Str, 10000 Prishtina, Kosovo'
 pres_source: null
 pres_url: 'https://sfk.flossk.org/sfk16/'

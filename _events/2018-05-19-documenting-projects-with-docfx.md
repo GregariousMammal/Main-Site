@@ -4,7 +4,7 @@ layout: event
 categories: Chris
 title: Documenting projects with DocFX
 event: Mauritian Developer Conference
-date: 2018-05-19T00:00:00.000Z
+start_date: 2018-05-19T00:00:00.000Z
 venue: Voila Hotel & Flying Dodo, Bagatelle
 pres_source:
 pres_url: https://conference.mscc.mu

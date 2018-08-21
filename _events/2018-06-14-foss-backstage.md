@@ -7,7 +7,7 @@ event: FOSS Backstage
 venue: Kulturbrauerei, Berlin
 pres_url: https://www.foss-backstage.de
 pres_source:
-date: 2018-06-14
+start_date: 2018-06-14
 ---
 
 The conference on everything related to governance, collaboration, legal and economics within the scope of FOSS.

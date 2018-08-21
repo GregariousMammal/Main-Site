@@ -5,7 +5,7 @@ categories: Chris
 
 title: Android Programming Without Java
 event: DroidCon Greece
-date: 2016-07-08T10:00:00.000Z
+start_date: 2016-07-08T10:00:00.000Z
 venue: 'Noesis Thessaloniki Science Center & Technology Museum, 6ο χλμ. Οδού ς Τ.Θ. 60330 Θέρμη, Thermi 570 01, Greece'
 pres_source: 'https://www.slideshare.net/chrischinchilla/android-programming-without-java'
 pres_url: 'https://2016.droidcon.gr/speakers/chris-ward/'

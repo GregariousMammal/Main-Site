@@ -4,7 +4,7 @@ layout: event
 categories: Chris
 title:
 event: API Days Paris
-date: 2018-01-30T10:00:00.000Z
+start_date: 2018-01-30T10:00:00.000Z
 venue: CIte Internationale, 17 Boulevard Jourdan, 75014 Paris, France
 pres_url: https://www.apidays.io/events/paris-2017
 pres_source:

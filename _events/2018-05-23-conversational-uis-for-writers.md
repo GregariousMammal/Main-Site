@@ -4,7 +4,7 @@ layout: event
 categories: Chris
 title: Conversational UIs for Writers
 event: Soap! Conf
-date: 2018-05-23T00:00:00.000Z
+start_date: 2018-05-23T00:00:00.000Z
 venue: Manggha Museum of Japanese Art and Technology, Krakow
 pres_source: https://soapconf.com/schedule_2018/
 pres_url: https://soapconf.com/schedule_2018/

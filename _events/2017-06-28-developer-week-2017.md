@@ -4,7 +4,7 @@ layout: event
 categories: Chris
 title: A documentation crash course for developers
 event: Developer Week 2017, Nürnberg
-date: 2017-06-28T11:45:00.000Z
+start_date: 2017-06-28T11:45:00.000Z
 venue: Messe Nünberg, Nürnberg, Germany
 pres_source:
 pres_url: https://www.developer-week.de/Programm/Veranstaltung/(event)/21576

@@ -4,7 +4,7 @@ layout: event
 categories: Chris
 title: Your Favourite New Language - The Future of Swift
 event: Voxxed Days Belgrade
-date: 2016-09-29T00:00:00.000Z
+start_date: 2016-09-29T00:00:00.000Z
 venue: Bel Expo Centar
 pres_source: 'https://www.slideshare.net/chrischinchilla/the-past-present-and-future-of-swift-voxxed-belgrade-2016'
 pres_url: 'https://www.youtube.com/watch?v=AEYdDOHVxK0'

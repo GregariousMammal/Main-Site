@@ -4,7 +4,7 @@ layout: event
 categories: Chris
 title: Building a career as a freelance writer
 event: Freelance Friday Berlin
-date: 2018-07-27T10:00:00.000Z
+start_date: 2018-07-27T10:00:00.000Z
 venue: Unicorn Berlin
 pres_source:
 pres_url: https://www.meetup.com/Freelance-Friday-Berlin/events/250840825/

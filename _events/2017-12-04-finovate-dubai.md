@@ -4,7 +4,7 @@ layout: event
 categories: Chris
 title: Tell me what you're working on
 event: Finovate Dubai
-date: 2017-12-04T00:00:00.000Z
+start_date: 2017-12-04T00:00:00.000Z
 venue: Intercontinental Festival City Hotel, Dubai
 pres_source:
 pres_url: https://finance.knect365.com/finovate-middle-east/

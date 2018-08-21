@@ -2,9 +2,11 @@
 layout: none
 ---
 {%- assign future_events = "" | split: "" -%}
-{%- assign currentDate = site.time -%}
+{%- capture nowunix -%}{{'now' | date: '%s'}}{%- endcapture -%}
 {%- for post in site.events -%}
-{%- if post.date > currentDate -%}
+{%- capture posttime -%}{{post.start_date | date: '%s'}}{%- endcapture -%}
+{%- if posttime > nowunix -%}
+
 {%- assign future_events = future_events | push: post -%}
 {%- endif -%}
 {%- endfor -%}
@@ -15,14 +17,14 @@ PRODID:http://www.example.com/
 METHOD:PUBLISH
 {% for event in future_events %}
 BEGIN:VEVENT
-UID:{{ event.date | date: "%Y%m%d" }}@example.com
-ORGANIZER;CN="Organizer Name":MAILTO:organizer@example.org
+UID:{{ event.start_date | date: "%Y%m%d" }}@gregariousmammal.com
+ORGANIZER;CN="Organizer Name":MAILTO:chris@gregariousmammal.com
 LOCATION:{{event.address}}
 SUMMARY:{{ event.event }}
 CLASS:PUBLIC
-DTSTART:{{ event.date | date: "%Y%m%d" }}T170000Z
-DTEND:{{ event.date | date: "%Y%m%d" }}T190000Z
-DTSTAMP:{{ event.date | date: "%Y%m%d" }}T170000Z
+DTSTART:{{ event.start_date | date: "%Y%m%d" }}
+DTEND:{{ event.end_date | date: "%Y%m%d" }}
+DTSTAMP:{{ event.start_date | date: "%Y%m%d" }}
 END:VEVENT
 {% endfor %}
 END:VCALENDAR

@@ -6,7 +6,7 @@ venue: 'Station, Berlin'
 categories: Cate
 pre_url: 'https://bcw.bosch-si.com/berlin/'
 pre_source: 'https://bcw.bosch-si.com/berlin/'
-date: 2018-02-21T00:00:00+01:00
+start_date: 2018-02-21T00:00:00+01:00
 ---
 
 Bosch ConnectedWorld's purpose is to provide the inspiration, education, and connections you need to thrive in IoT. This February, we will host more than 140 speakers on four stages presenting IoT trends and implementations in front of more than 3,500 conference and hackathon participants.

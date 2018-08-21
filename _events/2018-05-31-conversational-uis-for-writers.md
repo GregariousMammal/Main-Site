@@ -4,7 +4,7 @@ layout: event
 categories: Chris
 title: Conversational UIs for Writers
 event: Evolution of TC
-date: 2018-05-31T00:00:00.000Z
+start_date: 2018-05-31T00:00:00.000Z
 venue: Novotel Sofia
 pres_source: https://evolution-of-tc.com
 pres_url: https://evolution-of-tc.com

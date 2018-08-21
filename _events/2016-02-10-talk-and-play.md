@@ -5,7 +5,7 @@ categories: Chris
 
 title: The Future of Cardboard
 event: Talk and Play no. 17
-date: 2016-02-10T19:00:00.000Z
+start_date: 2016-02-10T19:00:00.000Z
 venue: 'Game Science Center, Besselstrasse 14 Berlin, 10969'
 pres_url: 'https://www.meetup.com/BerlinGameScene/events/227497230/'
 pres_source: 'https://chrischinchilla.github.io/Presentations/chip_shop/talk_play_17.html#/'

@@ -4,7 +4,7 @@ layout: event
 categories: Chris
 title: Documentation beyond words
 event: Write the Docs EU
-date: 2017-09-10T00:00:00.000Z
+start_date: 2017-09-10T00:00:00.000Z
 venue: Autoclub of the Czech Republic, Opletalova 1337/29, 110 00 Praha 1-Nové Město, Czechia
 pres_source:
 pres_url: 'https://www.writethedocs.org/conf/eu/2017/speakers/'

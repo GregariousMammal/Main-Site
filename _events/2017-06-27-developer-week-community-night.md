@@ -4,7 +4,7 @@ layout: event
 categories: Chris
 title: Explaining Complex Topics
 event: Developer Week Community Night 2017, Nürnberg
-date: 2017-06-27T19:30:00.000Z
+start_date: 2017-06-27T19:30:00.000Z
 venue: Messe Nünberg, Nürnberg, Germany
 pres_source:
 pres_url:

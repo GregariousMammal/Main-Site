@@ -6,7 +6,7 @@ categories: Chris
 title: 'Cosmic Horror & HP Lovecraft'
 event: Laneway Learning
 pres_url: 'https://melbourne.lanewaylearning.com/classes/cosmic-horror-and-hp-lovecraft/'
-date: 2014-03-05T00:00:00.000Z
+start_date: 2014-03-05T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/q9ttt0ljseb1ck2/HP%20Lovecraft%2C%20Laneway%20Learning%20v2.pptx?dl=0'
 ---
 

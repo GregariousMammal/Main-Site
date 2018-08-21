@@ -3,7 +3,7 @@ layout: post
 title: 'Cosmic Horror & HP Lovecraft'
 event: Laneway Learning
 pres_url: 'https://melbourne.lanewaylearning.com/classes/cosmic-horror-and-hp-lovecraft-2/'
-date: 2012-09-04T00:00:00.000Z
+start_date: 2012-09-04T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/xhvsk3m3jabvwdi/HP%20Lovecraft%2C%20Laneway%20Learning.pptx?dl=0'
 ---
 

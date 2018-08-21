@@ -12,10 +12,11 @@ permalink: /events/
   </div>
   <section>
     {% assign future_events = "" | split: "" %}
-    {% assign currentDate = site.time %}
-
+    {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
     {% for post in site.events %}
-    {% if post.date > currentDate %}
+    {% capture posttime %}{{post.start_date | date: '%s'}}{% endcapture %}
+    {% if posttime > nowunix %}
+
     {% assign future_events = future_events | push: post %}
     {% endif %}
     {% endfor %}

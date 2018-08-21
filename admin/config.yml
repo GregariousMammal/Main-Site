@@ -55,4 +55,5 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Event URL", name: "pre_url", widget: "string"}
       - {label: "Presentation source", name: "pre_source", widget: "string", required: false}
-      - {label: "Date", name: "date", widget: "date",  format: "DD-MM-YY"}
+      - {label: "Start Date", name: "start_date", widget: "date",  format: "DD-MM-YY"}
+      - {label: "End Date", name: "end_date", widget: "date",  format: "DD-MM-YY"}

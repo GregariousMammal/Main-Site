@@ -4,7 +4,7 @@ layout: event
 categories: Chris
 title: Are we all doomed and what can we do about it?
 event: ChangeCon
-date: 2017-10-21T00:00:00.000Z
+start_date: 2017-10-21T00:00:00.000Z
 venue: Zagreb
 pres_source: 
 pres_url: https://changecon.com/speakers/chris-ward/

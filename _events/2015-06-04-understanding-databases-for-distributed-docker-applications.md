@@ -6,7 +6,7 @@ categories: Chris
 title: Understanding databases for distributed Docker applications
 event: NoSQL Matters Dublin
 pres_url: 'https://2015.distributed-matters.org/dub/speakers/#1961451827466'
-date: 2015-06-01T00:00:00.000Z
+start_date: 2015-06-01T00:00:00.000Z
 pres_source: 'https://de.slideshare.net/NoSQLmatters/chris-ward-understanding-databases-for-distributed-docker-applications-nosql-matters-dublin-2015'
 ---
 

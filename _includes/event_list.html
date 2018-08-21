@@ -1,9 +1,13 @@
-{% if include.filtered_events %} {% assign events = include.filtered_events %} {% else %} {% assign events = site.events %} {% endif %}
+{% if include.filtered_events %}
+{% assign events = include.filtered_events %}
+{% else %}
+{% assign events = site.events %} 
+{% endif %}
 
 <ul class="post-list">
   {% for post in events %}
   <li>
-    <span class="date">On {{ post.date | date: '%B %d %Y' }}</span> {% if post.image %} {% picture listings {{post.image}} alt="{{post.title}}" %} {% endif %} {% if post.categories[0] == 'Chris' or post.categories[0] == 'Cate'%}
+    <span class="date">{{ post.start_date | date: '%B %d %Y' }} to {{ post.end_date | date: '%B %d %Y' }}</span> {% if post.image %} {% picture listings {{post.image}} alt="{{post.title}}" %} {% endif %} {% if post.categories[0] == 'Chris' or post.categories[0] == 'Cate'%}
     <p>{{post.categories[0]}} is attending…</p>
     {% else %}
     <p>Chris & Cate are attending…</p>

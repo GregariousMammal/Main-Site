@@ -5,7 +5,7 @@ categories: Chris
 title: Introducing Distributed Databases
 event: Voxxed Days Belgrade
 pres_url: 'https://www.youtube.com/watch?v=mLuRDv7Ad0Y'
-date: 2015-10-01T00:00:00.000Z
+start_date: 2015-10-01T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/vvrme35s872d1ez/Intro%20to%20DD.key?dl=0'
 ---
 

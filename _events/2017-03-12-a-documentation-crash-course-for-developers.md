@@ -5,7 +5,7 @@ categories: Chris
 
 title: A Documentation crash course for Developers
 event: PyCon Slovakia
-date: 2017-03-12T12:20:00.000Z
+start_date: 2017-03-12T12:20:00.000Z
 venue: Slovak University of Technology in Bratislava, Faculty of Informatics and Information Technologies, Ilkovičova 2, 842 16 Bratislava 4
 pres_source: tbc
 pres_url: https://www.pycon.sk/2017/speakers/

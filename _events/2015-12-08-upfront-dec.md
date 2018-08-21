@@ -5,7 +5,7 @@ categories: Chris
 
 title: Why I decided to code a Boardgame
 event: up.front Berlin
-date: 2015-12-08T00:00:00.000Z
+start_date: 2015-12-08T00:00:00.000Z
 pres_url: 'https://up.front.ug/2015/12/08/meetup/'
 pres_source: 'https://chrischinchilla.github.io/Presentations/chip_shop/upfront_dec.html'
 ---

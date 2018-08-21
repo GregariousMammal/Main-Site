@@ -4,7 +4,7 @@ layout: event
 categories: Chris
 title: Preventing the Techpocalypse
 event: Katapult Future fest
-date: 2018-05-14T00:00:00.000Z
+start_date: 2018-05-14T00:00:00.000Z
 venue: SALT, Oslo
 pres_source: https://www.katapult.tech
 pres_url: https://www.katapult.tech

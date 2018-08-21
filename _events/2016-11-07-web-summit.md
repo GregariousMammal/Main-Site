@@ -5,7 +5,7 @@ categories: Both
 
 title: null
 event: Web Summit
-date: 2016-11-07T10:00:00.000Z
+start_date: 2016-11-07T10:00:00.000Z
 venue: 'MEO Arena, Lisbon'
 pres_source: null
 pres_url: null

@@ -4,7 +4,7 @@ layout: event
 categories: Chris
 title: a panel discussing trends and highlights from IFA
 event: IXDS IFA Pre-Work talk, Munich
-date: 2017-09-21
+start_date: 2017-09-21
 venue: IXDS Munich, Ganghoferstraße 68b, 80339 München
 image:
 pres_source: null

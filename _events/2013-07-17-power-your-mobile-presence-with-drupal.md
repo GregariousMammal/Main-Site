@@ -3,7 +3,7 @@ layout: post
 title: Power your mobile presence with Drupal
 event: Melbourne Mobile
 pres_url: 'https://www.slideshare.net/chrischinchilla/power-your-mobile-app-with-drupal'
-date: 2013-07-17T00:00:00.000Z
+start_date: 2013-07-17T00:00:00.000Z
 pres_source: 'https://www.dropbox.com/s/7uvunyzavwdufk2/Melbourne%20Mobile.pptx?dl=0'
 ---
 

@@ -5,7 +5,7 @@ categories: Chris
 
 title: A Documentation crash course for Developers
 event: I T.A.K.E. Unconference
-date: 2017-05-11T12:20:00.000Z
+start_date: 2017-05-11T12:20:00.000Z
 venue: Radisson Blue, Bucharest, Romania
 pres_source: tbc
 pres_url: tbc

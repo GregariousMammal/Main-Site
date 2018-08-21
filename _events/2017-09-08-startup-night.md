@@ -4,7 +4,7 @@ layout: event
 categories: Both
 title: your ideas and projects
 event: Startup Night
-date: 2017-09-08T17:00:00.000Z
+start_date: 2017-09-08T17:00:00.000Z
 venue: Various venues, Berlin
 image:
 pres_source: null

@@ -6,7 +6,7 @@ categories: Chris
 title: Understanding databases for distributed Docker applications
 event: Berlin Buzzwords
 pres_url: 'https://www.youtube.com/watch?v=gILCPu6lGZo'
-date: 2015-06-01T00:00:00.000Z
+start_date: 2015-06-01T00:00:00.000Z
 pres_source: null
 ---
 
