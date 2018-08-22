@@ -14,14 +14,15 @@ permalink: /events/
   </div>
   <section>
     {% assign future_events = "" | split: "" %}
-    {% assign currentDate = site.time %}
-
+    {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
     {% for post in site.events %}
-    {% if post.start_date | date: '%F-%T.%L%z' > currentDate
-    %}
-      {% assign future_events = future_events | push: post %}
-      {% endif %}
-      {% endfor %}
+    {% capture posttime %}{{post.start_date | date: '%s'}}{% endcapture %}
+    {% if posttime > nowunix %}
+
+    {% assign future_events = future_events | push: post %}
+    {% endif %}
+    {% endfor %}
+
       {% include event_list.html filtered_events = future_events %}
-  </section>
+    </section>
 </div>
