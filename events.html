@@ -13,9 +13,15 @@ permalink: /events/
     </p>
   </div>
   <section>
-    {% assign future_events = "" | split: "" %} {% assign currentDate = site.time %} {% for post in site.events %} {{post.start_date
-    | date: '%F-%T.%L%z'}} {{currentDate | date: '%F-%T.%L%z'}} {% if post.start_date | date: '%F-%T.%L%z' > currentDate
-    %} {% assign future_events = future_events | push: post %} {% endif %} {% endfor %} {% include event_list.html filtered_events
-    = future_events %}
+    {% assign future_events = "" | split: "" %}
+    {% assign currentDate = site.time %}
+
+    {% for post in site.events %}
+    {% if post.start_date | date: '%F-%T.%L%z' > currentDate
+    %}
+      {% assign future_events = future_events | push: post %}
+      {% endif %}
+      {% endfor %}
+      {% include event_list.html filtered_events = future_events %}
   </section>
 </div>
