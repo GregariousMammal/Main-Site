@@ -11,3 +11,5 @@ image:
 pres_source: null
 pres_url: https://b2b.ifa-berlin.com/
 ---
+
+Chris and cate are back at IFA, the world largest consumer electronics show to see what crazy ideas the world is working on.
