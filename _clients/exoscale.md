@@ -1,11 +1,12 @@
 ---
 type: Blogging
 title: Exoscale
-image: /images/exoscale-card.png
+image: exoscale-card.png
 category: Chris
-tags: blogs
+tags: cloud kubernetes
 company_url: 'https://www.exoscale.com/'
-start_date: 18-09-13
-end_date: 18-09-13
+start_date: 18-06-13
+end_date: ongoing
 ---
-Working on blogs.
+
+Chris helps this Swiss hosting company with technical blog content.

@@ -1,11 +1,12 @@
 ---
 type: Technical writing
 title: Ethereum Foundation
-image: /images/ethereum-logo-1c9a722bb1-seeklogo.com.png
+image: ethereum-logo-1c9a722bb1-seeklogo.com.png
 category: Chris
-tags: documentation
+tags: documentation blockchain ethereum
 company_url: 'https://www.ethereum.org/'
-start_date: 18-09-13
-end_date: 18-09-13
+start_date: 18-07-01
+end_date: ongoing
 ---
-Worked on Solidity documentation.
+
+Chris is working on documentation for the Solidity project, the programming language developers use to create application on the Ethereum Blockchain.

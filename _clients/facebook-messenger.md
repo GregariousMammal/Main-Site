@@ -1,11 +1,12 @@
 ---
 type: Technical writing
 title: Facebook Messenger
-image: /images/2000px-facebook_messenger_logo.svg.png
-category: Chris writing
-tags: bots
+image: 2000px-facebook_messenger_logo.svg.png
+category: Chris
+tags: bots writing
 company_url: 'https://www.messenger.com/'
-start_date: 2018-09-12T12:42:41.639Z
-end_date: 2018-09-12T12:42:41.640Z
+start_date: 2018-01-04T00:00:00.000Z
+end_date: 2018-09-01T00:00:00.000Z
 ---
-Chris worked on tutorials for building bots.
+
+Chris helped create tutorials and blueprints to help developers build bots for Facebook Messenger.
