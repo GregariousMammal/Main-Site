@@ -6,8 +6,6 @@ categories: Chris writing codeship
 tags: 
   - DevOps
 publication_url: "https://blog.codeship.com/what-is-designops/"
-image: do-figma.png
+image: 
 layout: post
 ---
-As a writer/tech writer/sometimes developer who dabbles in the odd bit of illustration and design, I have often wondered how teams of artists collaborate.
-

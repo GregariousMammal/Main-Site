@@ -6,8 +6,6 @@ categories: Chris writing codeship
 tags: 
   - Development
 publication_url: "https://blog.codeship.com/automating-screenshots-in-documentation/"
-image: screenshot.png
+image: 
 layout: post
 ---
-Drawing my short series to a close (we’ve talked about testing code examples in documentation and automating spelling and grammar checks in documentation), let’s cover one of the hardest elements of documentation to create and keep up to date: screenshots.
-
