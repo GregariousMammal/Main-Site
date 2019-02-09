@@ -1,0 +1,4 @@
+baseURL = "https://gregariousmammal.com"
+languageCode = "en-au"
+title = "Gregarious Mammal"
+theme = "ananke"
