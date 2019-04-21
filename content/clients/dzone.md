@@ -3,7 +3,7 @@ type: blogging
 
 title: DZone
 company_url: 'https://dzone.com'
-image: dzone.png
+featured_image: /images/clients/dzone.png
 category: Both writing
 start_date: 2017
 end_date: ongoing

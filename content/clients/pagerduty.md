@@ -3,7 +3,7 @@ type: writing
 
 title: Pager Duty
 company_url: 'https://www.pagerduty.com/'
-image: pagerduty.png
+featured_image: /images/clients/pagerduty.png
 category: Chris writing
 start_date: 2017
 end_date: ongoing

@@ -1,7 +1,7 @@
 ---
 type: Blogging
 title: Exoscale
-image: exoscale-card.png
+featured_image: /images/clients/exoscale-card.png
 category: Chris
 tags:
 - cloud

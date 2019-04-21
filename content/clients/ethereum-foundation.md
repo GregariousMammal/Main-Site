@@ -1,7 +1,7 @@
 ---
 type: Technical writing
 title: Ethereum Foundation
-image: ethereum-logo-1c9a722bb1-seeklogo.com.png
+featured_image: /images/clients/ethereum-logo-1c9a722bb1-seeklogo.com.png
 category: Chris
 tags:
 - documentation

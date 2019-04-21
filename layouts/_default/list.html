@@ -12,6 +12,11 @@
         <!-- Ranges through content/posts/*.md -->
         {{ range .Pages }}
         <li>
+            {{- with .Params.images -}}
+            {{- range first 1 . -}}
+            <img src="{{.}}" />
+            {{- end -}}
+            {{- end -}}
             <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
         </li>
         {{ end }}
