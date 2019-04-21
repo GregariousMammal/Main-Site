@@ -3,7 +3,11 @@ type: Blogging
 title: Weave
 image: weave.png
 category: Chris
-tags: cloud devops docker kubernetes
+tags:
+- cloud
+- devops
+- docker
+- kubernetes
 company_url: 'https://www.weave.works/'
 start_date: 18-05-14
 end_date: ongoing

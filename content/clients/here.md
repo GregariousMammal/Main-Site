@@ -7,7 +7,9 @@ image: here.png
 category: Chris writing
 start_date: 2017
 end_date: 2018
-tags: iot visualization
+tags:
+- iot
+- visualization
 ---
 
 HERE provides mapping data and related services to individuals and companies. Chris helped their innovation team with documentation, examples and developer experience.

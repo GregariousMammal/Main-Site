@@ -3,7 +3,10 @@ type: Technical writing
 title: Ethereum Foundation
 image: ethereum-logo-1c9a722bb1-seeklogo.com.png
 category: Chris
-tags: documentation blockchain ethereum
+tags:
+- documentation
+- blockchain
+- ethereum
 company_url: 'https://www.ethereum.org/'
 start_date: 18-07-01
 end_date: ongoing
