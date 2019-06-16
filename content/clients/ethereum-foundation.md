@@ -12,4 +12,4 @@ start_date: 18-07-01
 end_date: ongoing
 ---
 
-Chris is working on documentation for the Solidity project, the programming language developers use to create application on the Ethereum Blockchain.
+We work on documentation for the Solidity project, the programming language developers use to create application on the Ethereum Blockchain.

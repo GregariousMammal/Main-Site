@@ -14,4 +14,4 @@ tags:
 - containers
 ---
 
-OverOps tells you when and why code breaks in production. Takipi is their blog covering Java, Containers and other technologies. Chris contributes articles to the blog on a regular basis.
+OverOps tells you when and why code breaks in production. Takipi is their blog covering Java, Containers and other technologies. We contribute articles to the blog on a regular basis.

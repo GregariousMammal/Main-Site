@@ -14,4 +14,4 @@ tags:
 - devops
 ---
 
-DZone is one of the world's largest online communities and leading publisher of knowledge resources for software developers. Cate and Chris are zone leaders covering IoT, Mobile, DevOps, culture and more.
+DZone is one of the world's largest online communities and leading publisher of knowledge resources for software developers. Chris is a zone leader covering IoT, Mobile, DevOps, culture and more.

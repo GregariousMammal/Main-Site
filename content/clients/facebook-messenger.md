@@ -11,4 +11,4 @@ start_date: 2018-01-04T00:00:00.000Z
 end_date: 2018-09-01T00:00:00.000Z
 ---
 
-Chris helped create tutorials and blueprints to help developers build bots for Facebook Messenger.
+We helped create tutorials and blueprints to help developers build bots for Facebook Messenger.

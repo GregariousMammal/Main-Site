@@ -12,4 +12,4 @@ tags:
 - visualization
 ---
 
-HERE provides mapping data and related services to individuals and companies. Chris helped their innovation team with documentation, examples and developer experience.
+HERE provides mapping data and related services to individuals and companies. We helped their innovation team with documentation, examples and developer experience.

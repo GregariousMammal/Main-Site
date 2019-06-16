@@ -12,4 +12,4 @@ tags:
   - Event Sourcing
 ---
 
-Event Store is an open-source, functional database with Complex Event Processing in C# JavaScript. Chris is helping with overhauling their documentation.
+Event Store is an open-source, functional database with Complex Event Processing in C# JavaScript. We maintain their documentation and technical blog posts.

@@ -12,4 +12,4 @@ tags:
 - programming
 ---
 
-Sqreen is a protection platform for web applications. Sqreen instantly detects and blocks malicious requests and identifies which user accounts are performing the attacks. Chris writes tutorials and articles on security topics for the users of the platform.
+Sqreen is a protection platform for web applications. Sqreen instantly detects and blocks malicious requests and identifies which user accounts are performing the attacks. We wrote tutorials and articles on security topics for the users of the platform, and overhauled their documentation.

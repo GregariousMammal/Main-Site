@@ -11,4 +11,4 @@ start_date: 18-06-13
 end_date: ongoing
 ---
 
-Chris helps this Swiss hosting company with technical blog content.
+We helped this Swiss hosting company with technical blog content.

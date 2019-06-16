@@ -13,4 +13,4 @@ tags:
 - communication
 ---
 
-PagerDuty is the enterprise incident resolution service that integrates with ITOps and DevOps monitoring stacks to improve operational reliability and agility. Chris is helping write articles for their new FAQ section.
+PagerDuty is the enterprise incident resolution service that integrates with ITOps and DevOps monitoring stacks to improve operational reliability and agility. We created articles for their new FAQ section.
