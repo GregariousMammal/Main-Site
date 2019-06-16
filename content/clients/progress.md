@@ -4,7 +4,6 @@ title: Progress
 featured_image: /images/clients/progress.png
 category: Chris
 tags:
-- C#
 - .NET
 - SDK
 - Tooling
