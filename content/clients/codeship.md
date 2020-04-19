@@ -4,7 +4,7 @@ title: CodeShip
 company_url: 'https://blog.codeship.com/'
 featured_image: /images/clients/codeship.png
 start_date: 2016
-end_date: ongoing
+end_date: 2018
 tags:
 - technology
 - development

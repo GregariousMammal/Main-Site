@@ -1,6 +1,5 @@
 ---
 type: blogging
-
 title: Tech Beacon
 company_url: 'https://techbeacon.com'
 featured_image: /images/clients/techbeacon.png

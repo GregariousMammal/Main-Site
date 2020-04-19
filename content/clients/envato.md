@@ -6,7 +6,7 @@ company_url: 'https://envato.com'
 featured_image: /images/clients/envato.png
 category: Chris writing
 start_date: 2017
-end_date: ongoing
+end_date: 2017
 tags:
 - writing
 ---
