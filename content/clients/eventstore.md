@@ -5,7 +5,7 @@ company_url: 'https://eventstore.org'
 featured_image: /images/clients/event-store.png
 category: Chris writing
 start_date: 2017
-end_date: ongoing
+end_date: 2020
 tags:
   - Databases
   - Developer Tools
